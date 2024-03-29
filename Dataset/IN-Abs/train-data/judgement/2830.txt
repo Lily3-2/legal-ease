@@ -1,0 +1,83 @@
+Appeals Nos. 2380 and 2381 of 1966.
+Appeals from the judgment and order dated January 7, 1966 of the Calcutta, High Court in Income tax References Nos. 7 and 176 of 1961.
+section Mitra, section K. Aiyar, R, N. Sachthey and B. D. Sharma, for the appellant (in both the appeals).
+A. K. Sen, O. P. Khaitan and B. P. Maheshwari, for the respondent (in both the appeals).
+The Judgment of the Court was delivered by Grover, J.
+These appeals by certificate arise out of a common judgment of the Calcutta High Court in two Income tax References.
+The assessee is a private limited company.
+It carried on the business of banking and financing as also of managing agency.
+Starch Products Ltd. was one of the various companies which was being managed by the assessee.
+Starch Products had appointed the U.P. Sales Corporation Ltd. as its selling agent.
+The assessee claimed to have stood guarantee for a loan of Rs. 6 lakhs which was advanced to the U.P. Sales Corporation Ltd. by the Gwalior Industrial Bank Ltd. The borrower failed to pay the loan which on August 2, 1948 stood at Rs. 5,60,199.
+This amount was paid by the assessee pursuant to the guarantee.
+Thereafter the assessee treated the U.P. Sales Corporation Ltd. as its debtor for the aforesaid amount.
+That company went into liquidation and as the assessee could not recover anything from it a sum of Rs. 5,60,199 was written off in the books of the assessee company.
+The claim was not entertained either by the Income tax Officer or the Appellate Assistant Commissioner.
+Before the Income tax Officer the 359 said amount Was claimed as bad debt vide assessee 's letter dated September 12, 1957.
+The Income tax Officer rejected the explanation furnished by the assessee for advancing such a large amount to a company whose financial position was far from satisfactory.
+According to him the advance was not a bona fide money lending investment.
+Subsequently it was sought to be established before the Income tax Officer, that an indemnity had been given to the Gwalior Industrial Bank Ltd. in the matter of the loan account of the U.P. Sales Corporation Ltd. and the payment had been made on its failure to clear the debt of the Bank.
+According to the In come tax Officer the assessee was asked to produce evidence about the guarantee having been furnished but he was not satisfied that there was any directors ' resolution authorising the furnishing of a guarantee or that the document purporting to be a guarantee had been properly stamped or that there was other sufficient evidence to establish the transaction.
+Before the Appellate Assistant Commissioner the only substantial ground taken was that the Income tax Officer had wrongly disallowed the claim &or bad debt amounting to Rs. 5,60,199.
+The Appellate Assistant Commissioner considered the question of the aforesaid amount being an admissible deduction or allowance under section 10(2) (xi) of the Income tax Act 1922.
+In his opinion the guaranteeing of a loan though made in the interest of the assessee 's business and is a matter of commercial expediency did not represent an advance made in the normal course of the assessee 's business.
+Such an advance could have been made only if it had been made to the company managed by the assessee under a contractual obligation to guarantee the finances of the managed company.
+According to him the claim for irrecoverable loan would have been also admissible if the assessee could establish that the loan represented an interest bearing advance made in the course of the assessee 's money lending business but that was not the case of the assessee.
+And since the loan had been advanced to assist a concern having trade relations with one of the managed companies it could not be allowed as a permissible deduction.
+The appellate tribunal did not agree with the finding of the Appellate Assistant Commissioner that the loss was not directly incidental to the assessee 's business.
+This is what the tribunal stated in its order : "The Appellate Assistant Commissioner, in our opinion, failed to appreciate the special nature of the business carried on by the assessee.
+This is not a case where any money was advanced by the assessee for the purpose of earning interest.
+All that the assesses did was to stand surety for the money advanced by a Bank to the selling agent of one of its managed companies,.
+If such a 3 60 guarantee was not given Messrs. Starch Products Ltd., one of the managed companies, would have had to give extended credit to the selling agent and this could be possible if the managed company in its turn was financed either by the managing agents or a third party.
+It was to obviate the necessity of such borrowing by the managed company that the assessee company stood guarantee for the loan given by Gwalior Industrial Bank Ltd. to U.P. Sales Corporation Ltd. It was only on the failure on the part of the borrower, i.e. U.P. Sales Corporation Ltd., to fulfill its committment that the assessee as a guarantor came into the picture. ' There was, therefore, no question of earning of any interest on any money advanced.
+It was in the larger interest of the assessee 's business that the guarantee was given.
+The standing of surety for the sales Organisation of the managed company and the consequent loss arising therefrom was in our opinion germane to the assessee 's 'business.
+It is now well established that a sum of money extended not of necessity and with a view to give a direct and immediate benefit to the trade but voluntarily and on the ground of commercial expediency and in order to indirectly facilitate the carrying on of the business, may yet be an allowable deduction in computing the profits and gains of the business.
+" The Tribunal held that the assessee 's claim for the loss of Rs. 5,60,199 was an admissible deduction.
+At the instance of the Commissioner of Income tax, the Tribunal referred the following question of law to the High Court: "Whether on the facts and in the circumstances of the case, the sum of Rs. 5,60,199 was an admissible deduction in computing the business profits of the assessee ?" Three other questions were referred to the High Court on an application made under section 66(2) of the Act.
+It is unnecessary to refer to them as the real controversy has centred on the above question alone.
+The High Court addressed itself to the question whether the amount in dispute fell within section 10(2) (xi) of the Act.
+The finding of the Appellate Assistant Commissioner that the guarantee had in fact been furnished to the Bank was not disputed.
+This is what the High Court said after referring to certain decided cases and the relevant portion of the Tribunal 's judgment : "We agree that it was in the larger interest of the assessee 's business that the guarantee was given and we 3 6 1 are of the opinion that the debt was incidental to the business of the assessee within the meaning of section 10(2)(xi) of the Act and such a debt was found to be irrecoverable in the relevant accounting year commencing on the 31st October 1951 and ending on the 18th October 1.952." While computing profits or gains of business under section 10 certain allowances have to be made under sub section
+The allowance covered by clause (xi) thereof has to be made when the assessee 's accounts in respect of any part of his business, profession or vocation are not kept on the cash basis, of such sum, in respect of bad and doubtful debts, due to the assessee in respect of that part of his business, profession or vocation, ,and in the case of an assessee carrying on a banking or money lending business of such sum in respect of loans made in the ordinary course of such business as the Income tax Officer may estimate to be irrecoverable but not exceeding the amount actually written off as irrecoverable in the books of the assessee.
+Now a bad debt means a debt which would have gone into the balance sheet as a trading debt in the business or trade.
+It must arise in the course of and as a result of the assessee 's 'business.
+The deduction claimed should not be too remote from the business carried on by the assessee.
+In Madan Gopal Bagla vs Commissioner of Income tax West Bengal(1) the principle which was accepted was that the debt in order to fall within section 10(2) (xi) must be one which can properly be called a trading debt i.e. debt of the trade the profits of which are being computed.
+It was observed that the assessee in that ease was not a person carrying on business of standing surety for other persons nor was he a money lender.
+He was simply a timber merchant.
+There was some evidence that he had from time to time obtained finances for his business by procuring loans on the joint security of himself and some other person.
+But it was not established that he was in the habit of standing surety for other persons along with them for the purpose of securing loans for their use and benefit.
+Even if such had been the case any loss suffered by reason of having to pay a debt borrowed for the benefit of another would have been a capital loss to him and not a business loss at all.
+A businessman may have to stand surety for some one in order to get monies for his own business.
+There may be a custom of the business by which that may be the only method whereby he could get money for the purpose of his own business.
+If he is to discharge a surety debt and if any such custom is established it would be a business debt.
+If the assessee has made a payment not voluntarily but to discharge a legal obligation which arises from his business.
+he would be entitled to have the amount deducted as a bad debt under section 10(2)(xi); see Commissioner of Income tax Bombay vs (1) 362 Abdullabhai Abdulkadar(1).
+In Essen Private Ltd. vs Commis sioner of Income tax(2) Madras, the appellant carried on business as a managing agent of several concerns.
+Pursuant to the agreement with one of the companies managed by it, it advanced large sums of money to the managed company and also guaranteed a loan of Rs. 2 lakhs obtained by that company from a Bank.
+The managed company failed in its business and upon the Bank pressing for payment the appellant in accordance with its guarantee made certain payments to that Bank.
+The assessee had ultimately to write off certain sum in its books as bad debts and it claimed that allowance under section 10(1) (xi).
+The Tribunal found that the advances to the managed company and the agreement guaranteeing the loan to the managed company were in pursuance its objects and were made in the course of its business and the claim was allowed.
+That decision was finally affirmed by this Court.
+In this case there was a cause in the memorandum of association by which the assessee was entitled to land monies and to guarantee the performance of contracts.
+Similarly the managing agency agreement contained a clause about lending and advancing of money to the managed company.
+It was found by the appellate tribunal that it was a part of the managing agency to provide funds to the managed company.
+In the present case none of those facts have been found.
+Neither the memorandum of association nor the managing agency agreement contained any such provision by which it could be said that the guaranteeing of the loan made by the Bank to the selling agents was done in the course of the managing agency business.
+In our judgment the facts relied upon by the appellate tribunal and the High Court are barely sufficient for bringing the allowance claimed under section 10(2) (xi).
+It may be mentioned that the case of the assessee was confined to that provision and no reliance was placed on any other provision under which such an allowance could be claimed.
+There was no privity of contract or any legal relationship between the assessee and the selling agent.
+Neither under customer nor under any statutory provision or any contractual obligation was the assessee bound to guarantee the loan advanced by the Bank to the selling agent.
+It is difficult how it was in the interest of the assessee 's business that the guarantee was given.
+There was even no material to establish that the managed company was under any legal obligation to, finance the selling agent or to guarantee any loans advanced to the selling agent by a third party.
+It is incomprehensible in what manner the guaranteeing of the loan advanced to the selling agent indirectly facilitated the carrying on of the assessee 's business.
+It is equally difficult to appreciate the observations of the High Court that it was in the larger interest of (1) (2) 363 the assessee 's business that the guarantee was given.
+In our opinion the view of the appellate tribunal was based on a complete misapprehension of the true legal position.
+The High Court also fell into the same error.
+The allowance which was claimed did not fall within section 10(2) (xi).
+No attempt was made nor indeed it could be usefully made to claim any allowance under section 10(2:) (xv)of the Act.
+For the reasons given above the correct answer to the question referred should be in the negative and against the, assessee.
+The appeals are thus allowed with costs and the judgment of the High Court is set aside.
+One hearing fee.
+G.C. Appeals allowed.

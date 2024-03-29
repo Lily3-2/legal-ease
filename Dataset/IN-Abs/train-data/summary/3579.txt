@@ -1,0 +1,62 @@
+In the scheme of the Penal Code, 'culpable homicide ' is genus and 'murder ' its specie.
+All 'murder ' is 'culpable homicide ' but not vice versa.
+Speaking generally, 'culpable homicide ' sans 'special characteristics of murder ', is 'culpable homicide not amounting to murder '.
+For the purpose of fixing punishment, proportionate to the gravity of this generic offence, the Code practically recognises three degrees of culpable homicide.
+The first is, what may be called, culpable homicide of the first degree.
+This is the gravest form of culpable homicide, which is defined in section 300 as 'murder '.
+The second may be termed as 'culpable homicide of the second degree '.
+This is punishable under the 1st part of section 304.
+Then there is 'culpable homicide of the third degree '.
+This is the lowest type of culpable homicide and the punishment provided for it is, also, the lowest among the punishments provided for the three grades.
+Culpable homicide of this degree is punishable under the second Part of section 304.
+[606B D] Clause (b) of section 299 corresponds with cll.
+(2) and (3) of section 300.
+The distinguishing feature of the mens rea requisite under clause (2) is the knowledge possessed by the offender regarding the particular victim being in such a peculiar condition or state of health that the intentional harm caused to him is likely to be fatal, notwithstanding the fact that such harm would not in the ordinary way of nature be sufficient to cause death of a person in normal health or condition.
+The 'intention to cause death ' is not an essential requirement of clause (2).
+Only the intention of causing the bodily injury coupled with the offender 's knowledge of the likelihood of such injury causing the death of the particular victim, is sufficient to bring the killing within the ambit of this clause This aspect of clause (2) is borne out by illustration (b) appended to section 300.
+[607C D] Instances of cases failing under clause (2) of section 300 can be where the assailant causes death by a first blow intentionally given knowing that the victim is suffering from an enlarged liver, or enlarged spleen or diseased heart and such blow is likely to cause death of that particular person as a result of the rupture of the liver, or spleen or the failure of the heart, as the case may be.
+If the as sailant had no such knowledge about the disease or special frailty of the victim, nor an intention to cause death or bodily injury sufficient in the ordinary course of nature to cause death, the offence will not be murder, even if the injury which caused the death, was intentionally given.
+Clause (b) of section 299 does not postulate any such knowledge on the part of the offender.
+[607E F] In Clause (3) of section 300, instead of the words 'likely to cause death ' occurring in the corresponding clause (b) of section 299, the words "sufficient in the ordinary course of nature" have been used.
+The distinc tion between a bodily injury likely to cause death and a bodily injury sufficient in the ordinary course of nature to cause death, is fine but real, and, if overlooked, may result in miscarriage of justice.
+The difference is one of the degree of probability of death resulting from the intended bodily injury.
+The word "likely" in section 299(b) conveys the sense of of 'probable ' as distinguished from a mere possibility.
+The words bodily injury . sufficient in the ordinary course of nature to cause death ' mean that death will be the 'most proba ble ' result of the injury, having regard to the ordinary course of nature.
+[607G H] 602 For cases to fail within clause (3), it is not necessary that the offender intended to cause death, so long as death ensues from the intentional bodily injury or injuries suffi cient to cause death in the ordinary course of nature.
+[608B] Clause (c) of section 299 and clause (4) of section 300 both require knowledge of the probability of the act causing death.
+Clause (4) of section 300 would be applicable where the knowledge of the offender as to the probability of death of a person or persons in general as distinguished from a particular person or persons being caused from his immi nently dangerous act, approximates to a practical certainty.
+Such knowledge on the part of the offender must be of the highest degree of probability, the act having been committed by the offender without any excuse for incurring the risk of causing death or such injury as aforesaid.
+[608F G] Whenever a court is confronted with the question whether the offence is 'murder ' or 'culpable homicide not amounting to murder ', on the facts of a case, it will be convenient for it to approach the problem in three stages.
+The question to be considered at the first stage would be, whether the accused has done an act by doing which he has caused the death of another.
+Proof of such casual connection between the act of the accused and the death, leads to the, second stage for, considering whether that act of the accused amounts to culpable homicide as defined in section 299.
+If the answer to this.
+question is prima facie found in the affirm ative, the stage for considering the operation of section 300, Penal Code, is reached.
+This is the stage at which the Court should determine whether the facts proved by the prosecution bring the case within the ambit of any of the four clauses of the definition of 'murder ' containd in section 300.
+If the answer to this question is in the negative the offence would be 'culpable homicide not amounting to mur der ', punishable under the first or the second part of section 304, depending, respectively, on whether the second or the third clause of section 299 is applicable.
+If this question is found in the positive, but the case comes within any of the Exceptions enumerated in section 300, the offence would still be 'culpable homicide not mounting to murder ', punishable under the First Part of section 304, Penal Code.
+[608H; 609A C] Rajwant and anr.
+vs State of Kerala AIR 1966 SC 1874, Virsa Singh vs The State of Punjab ; and Andhra vs State of Rajasthan AIR 1966 S.C. 148 followed.
+In the instant case the prosecution alleged that in furtherance of political feuds of the village the accused followed the deceased in the bus when he went to a neigh bouring place, chased him when he got off the bus, and indiscriminately pounded the legs and arms of the deceased, who was 55 years old, with heavy sticks.
+The deceased succumbed to his injuries on the following morning.
+The trial court held that the case was covered by clause 'thirdly ' of section 300 and convicted them under section 302 and section 302 read with section 34.
+Indian Penal Code.
+In appeal, the High Court altered the conviction to one under section 304 Part II; on ' the grounds that (i) there was no premeditation in the attack; (ii) injuries were not on any vital part of the body; (iii) there was no compound fracture resulting in heavy haemorrhage; (iv) death occurred due to shock and not due to haemorrhage and (v) though the accused had knowledge while inflicting injuries that they were likely to cause death, they might no( have had the knowledge that they were so imminently dangerous that in ' all probability their acts would ' result in such injuries as are likely to came the death.
+In appeal to this Court the appellant State contended that the case fell under section 300(3) I.P.C., while the accused sought to support the judgment ' of the High Court.
+603 Allowing the appeal.
+HELD: (1) It is not correct to say that the attack was not premeditated or preplanned.
+The High Court itself found that the injuries were caused in furtherance of the common intention of the respondents, and that therefore section 34 was applicable.
+[611B] (2) The High Court may be right in its finding that since the injuries were not on vital parts, the accused had no intention to cause death but that finding assuming it to be correct does not necessarily take the case out of the definition of 'murder '.
+The crux of the matter is whether the facts established bring the case within clause 'thirdly ' of section 300.
+This question further narrows down into a con sideration of the two fold issue; (i) whether the bodily injuries found on the deceased were intentionally inflicted by the accused ? and (ii) If so, were they sufficient to cause death in the ordinary course of nature ? If both these elements are satisfactorily established, the offence will be 'murder ', irrespective of the fact whether an reten tion on the part of the accused to cause death, had or had not been proved.
+[612 C E] In the instant case, the formidable weapons used by the accused in the beating the savage manner of its execution, the helpless state of the unarmed victim, the intensity of the violence caused, the callous conduct of the accused in persisting in the assault even against the protest of feeling by standersall, viewed against the background of previous animosity between the parties, irresistibly lead to the conclusion that the injuries caused by the accused to the deceased were intentionally inflicted, and were not accidental.
+Thus the presence of the first element of clause 'thirdly ' of section 300 had been cogently and convincing ly established.
+[613 B C] (3) The medical evidence shows that there were compound fractures and that there was heavy haemorrhage requiring blood transfusion.
+Such injuries are ordinarily dangerous.
+[613D] (4) The medical evidence clearly establishes that the cause of death was shock and haemorrhage due to multiple injuries which were cumulatively sufficient to cause death in the ordinary course of nature.
+[612B C] (5) The mere fact that the beating was designedly con fined by the assailants to the legs and arms or that none of the multiple injuries inflicted was individually sufficient in the ordinary course of nature to cause death, will not exclude the application of clause 'thirdly ' of section 300.
+The expression 'bodily injury ' in clause 'thirdly ' includes also its plural, so that the clause would cover a case where all the injuries intentionally caused by the accused are cumula tively sufficient to cause the death in the ordinary course of nature.
+even if none of those injuries individually measures upto such sufficiency.
+The sufficiency spoken of in this clause, is the high probability of death in the ordinary course of nature, and if such sufficiency exists and death is caused and the injury causing it is intention al, the case would fail under clause 'thirdly ' of section 300.
+All the conditions which are a pre requisite for the ap plicability of this clause have been established and the offence committed by accused in the instant case was 'mur der '.
+[614G H] There is no escape from the conclusion that the offence committed by the accused was murder notwithstanding the fact that the intention of the accused to cause death has not been shown beyond doubt.
+[613F]

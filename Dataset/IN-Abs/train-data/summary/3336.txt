@@ -1,0 +1,31 @@
+The appellant assessee is a firm, having three Partners and one minor admitted to the benefits of the partnership.
+One of the partners has 31% share and the remaining two partners and the minor have 23% share each in the profit of the firm but the partnership deed is silent about their shares in the losses.
+Clauses 9 of the partnership deed provides that the partners are bound to act according to the provisions of the Indian Partnership Act.
+The firm applied for registration under section 26A of the Income Tax Act, 1922 which was refused by the Income Tax officer.
+The High Court in a reference under section 66(1) held that unless the instrument r of partnership specified the shares of the partners not only in the profits but also in the losses, the firm would not be entitled to registration under section 26A.
+The High Court negatived the contention of the assessee that clause 9 of the instrument indicated how losses were to be apportioned between the partners.
+On appeal by special leave it was contended by the appellant: (1) section 26A does not require that the instrument of partnership must specify the respective shares of the partners in the losses and it is sufficient if the proportion in which the losses are to be shared is otherwise ascertainable.
+(2) Assuming that section 26A does require mentioning the proportion of losses in the instrument of partnership, clause 9 of the instrument read with s 13(b) of the Partnership Act satisfies that requirement.
+Dismissing the appeal, ^ HELD: (1) A firm whether registered or unregistered is an assessee under the Act and can do business as such.
+However, registration under section 6A confers on the partners a benefit to which they would not have been entitled but for section 26A and such a right being a creature of a statute can be claimed only in accordance with the statute which confers it and the person who seeks relief under section 26A must bring himself strictly within its terms before he can claim the benefit of it.
+[133D E] Rao Bahadur Revulu Subba Rao and others vs Commissioner of Income Tax, Madras, , relied on.
+(2) In the case of a registered firm the share of each partner in the profit or loss is added to or set off against, as the case may be, to the other income of the partner.
+Thus, the loss, if any, affects the assessment proceedings and.
+therefore, Income Tax officer has to know what are the respective shares of the partners in the loss before allowing the firm to be registered.
+[134 C D] (3) There is a conflict of opinion amongst the High Courts whether it is essential for registration under section 26A that the shares of the partners must be specified in the partnership deed.
+It is not necessary to decide for the purpose of this appeal which of the conflicting views is correct because in the present case the appeal is bound to fail on any view.
+It is not disputed and cannot be disputed that the Income Tax Officer before allowing the application for 132 registration must be in a position to ascertain the shares of the partners in the losses.
+even if section 26A did not require this to be specified in the instrument of partnership.
+[135E F] (4) The contention that clause 9 brings in by implication section 13 (b) of the Partnership Act and thus specifies the shares of the partners in the losses is untenable.
+section 13(b) makes the partners liable to contribute equally to the losses only when they are entitled to share equally in the profits.
+ID this case the shares of the partners are not equal.
+The case of K. Pitchiah Chettiar.
+vs G. Subramaniam Chettiar I.L.R. and In re Albion Life Assurance Society, 16 Ch.
+83, 87, applied.
+[135 G H] The law stated in these cases in the context of section 253(2) of the contract Act applies equally to section 13(b) of the Partnership Act which is in identical terms.
+In the absence of any indication to the Contrary, where the partners have agreed to share the profits in certain proportions, the presumption is that the losses are also to be shared in like proportions.
+The other rule that where the shares in the profits are unequal the losses must be shared in the same proportions as profits in the absence of an agreement as to how the losses are to be apportioned, also does not apply to this case since there is a minor admitted to the benefits of the partnership.
+Even if the adult partner bear the losses in proportion to their respective shares in the profits, the amount of loss in the minor 's share would still remain undistributed.
+Whether the partners between themselves will bear this loss equally or to the extent of their own individual shares, is not even suggested in the instrument of Partnership.
+TD There is, therefore, no means of ascertaining in this ease how the losses are to be apportioned.
+[136 H, 137A C]

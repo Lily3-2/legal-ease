@@ -1,0 +1,22 @@
+The respondent entrusted a consignment of goods to the appellant on May 1, 1969 under a Way Bill for being transported from Guntur to Vijawada.
+As the appellant failed to deliver the goods at Vijayawada, the respondent gave a notice of claim on June 20,1969 and thereafter instituted suits for recovery of damages from the appellant.
+The trial court held that the suit were barred by Condition.
+15 of the Way Bill which stipulate that no suit shall lie against the firm in respect of any consignment without a claim made in writing in that behalf and preferred within 30 days from the date of booking or from the date of arrival at the destination by the party concerned.
+The lower appellate court confirmed the dismissal of the suits but the second appeal preferred by the respondent was allowed by the High Court which held that if Condition 14 of the Way Bill was given effect to, it would defeat the provisions of section 10 of the Carriers Act.
+Dismissing the appeals, ^ HELD: (a) Section 10 of the Carriers Act, 1865 provides that unless notice in writing of the loss or injury has been given to him before the institution of the suit and within 6 months of time when the loss or injury first came to the knowledge of plaintiff, no suit shall be instituted against a common carrier.
+In the instant case, in order to sustain the suit, Condition 15 of the Way Bill makes it imperative on the party concerned to give notice either within 30 days from the date of the booking or from the date of the arrival of the goods at the destination.
+The date of arrival of the goods at the destination may not be known to the party concerned for a long time.
+No claim can be made without the loss of the goods and therefore 30 days from the date of booking would become irrelevant unless loss or damage occurs.
+Even in a case where the plaintiff was unaware of the arrival of the goods at the destination or was unaware of the loss or damage, the plaintiff would not have any right to institute a suit if no claim was made and could not have been made within 30 days.
+Condition 15 of the Way Bill, therefore, was designed to avoid the liability contemplated under section 10 of the Carriers Act and that too in a situation where the parties had not by express contract limited their 1028 liability as contemplated under section 6 thereof.
+Condition 15 must therefore, be held to be void in view of section 23 of the Indian Contract Act because its object was to defeat the provisions of section 10 of the Carriers Act.
+[1032 H,1033 A H] Home Insurance Company of New York vs Victoria Montreal Fire Insurance Co.,[1907] Law Reports A.C. 59, referred to.
+(b) The liability of a common carrier can be limited by agreement as provided under section 6 of the Carriers Act but that must be limitation of the liability.
+The nature of the contract entered into must either have the limitation of the liability under the Carriers Act made expressly and in writing or the facts must be such that for the contract in question the contractor was departing from his usual business and engaging in a different type of business from that of common carrier.
+In the instant case it is clear from Condition 15 of the Way Bill that there was no limitation of liability expressed or intended but what was provided was that no suit shall lie against the firm unless a particular claim was made in a particular manner within a particular time.
+Their was neither any extinguishment of liability, nor contracting out of liability but what was provided was only, a special period of limitation, other than the one in section 10 of the Carriers Act, for issue of notice.
+[1032 D G] The India General Navigation and Railway Co. Ltd. vs The Dekhari Tea Company ltd. and Ors., AIR 1924 P.C., 40 referred to.
+(c) The Contention that the Carriers Act was essentially enacted for the benefit of the common carriers and therefore s.10 should not be construed as precluding notice of a period shorter than 6 months from the date of loss cannot be accepted.
+From the preamble to the Act it is clear that the Act was passed not only to limit the liability of the but also to declare their liability.
+Therefore, any contract or bargain which seeks to defeat the liability of the carriers as enacted by law would defeat the provisions of the Act.
+[1034 A C]

@@ -1,0 +1,109 @@
+not competent to refer the second question, and the reference to that extent must be considered void.
+Section 256(1) of 945 the Income Tax Act, 1961 entitles the assessee or the Commissioner, as the case may be, to apply to the Appellate Tribunal to refer to the High Court any question of law arising out of the order made by the Appellate Tribunal under section 254.
+It is clear that the statute expressly contemplates an application in that behalf by a party desiring a preference to the High Court.
+The application has to be filed within a prescribed period of limitation.
+If the application is rejected by the Appellate Tribunal, it is the applicant thus refused who is entitled to apply to the High Court.
+The form of reference application prescribed by rule 48 of the Income Tax Rules, 1962 specifically requires the applicant to state the questions of law which he desires to be referred to the High Court.
+In every case, it is only the party applying for a reference who is entitled to specify the questions of law which should be referred.
+Nowhere does the statute confer a right in the non applicant (a phrase used here for convenience) to ask for a reference of questions of law on the applicant.
+[950 A, C D E, F G and 952 E] The party who is aggrieved and who desire a reference to the High Court must file a reference application for that purpose.
+It is not open to him to make a reference application filed by the other party the basis of his claim that a question of law sought by him should be referred.
+But on a reference application filed by the aggrieved party it is open to the non applicant who is not aggrieved by the result of the appeal, to ask for a reference of those questions of law which arise on its submissions negatived in appeal by the Appellate Tribunal.
+[951 A B, C] & CIVIL APPELLATE JURISDICTION: Civil Appeal No. 2099 of 1972.
+From the Judgment and Order dated 18 1 1972 of the Kerala High Court in I.T.R. No. 88/1969.
+B. B. Ahuja and Miss A. Subhashini for the Appellant.
+Nemo for the Respondent.
+The Judgment of the Court was delivered by PATHAK, J.
+This is an appeal by certificate under section 261 of the Income Tax Act, 1961 against the judgment of the High Court of Kerala interpreting the words "accumulated profits" in section 2(6A)(e) of the Indian Income Tax Act, 1922.
+The assessee is the Managing Director of a private limited company called R. K. V. Motors & Timber (P) Limited.
+The company maintains an accounts pertaining to him in its books.
+The accounts showed that as on March 31, 1958 a sum of Rs. 36,546.17 np. was due to him by the company.
+In January, 1959 for the first time he became indebted to the company in the sum of Rs. 3,757.04 np.
+His drawings increased, and as on March 31, 1959 the total amount due by him stood at Rs. 25,107.22np.
+It is also relevant to state that the Balance Sheet of the company as on March 31, 1958 showed a net profit of Rs. 18,950.98 np.
+946 The assessee was originally assessed for the assessment year 1959 60 (the relevant previous year being the year ended March 31, 1959) on a total income of Rs. 43,407.
+Thereafter, the Income Tax Officer came to know that the assessee had been withdrawing moneys from the company, and in the belief that those amounts were liable to be treated as "dividend" under section 2(6A) (e) of the Indian Income Tax Act, 1922, he reopened the assessment by virtue of section 147 of the Income Tax Act, 1961.
+In the assessment proceedings which followed, the assessee claimed that the accumulated profits of the company amounted to Rs. 1,050 only, and that amount alone could be considered as "dividend" under section 2(6A)(e).
+The figure was worked out on the basis that a sum of Rs. 11,000 as a provision for tax and of Rs. 6,900 as a provision for dividend had to be adjusted against the balance of Rs. 18,950 in the Profit & Loss Account.
+The Income Tax Officer rejected the contention of the assessee and determined a sum of Rs. 25,107 as dividend under section 2(6A) (e).
+He arrived at this figure by including the current profits of the company for the account year ending March 31, 1959.
+The Appellate Assistant Commissioner dismissed an appeal filed by the assessee.
+The Income Tax Appellate Tribunal, in second appeal, upheld the claim of the assessee that the words "accumulated profits" in section 2(6A)(e) could not be construed as including current profits, but it rejected the contention that the two sums of Rs. 11,000 and Rs. 6,900 had to be taken into account in determining the figure of the accumulated profits.
+Accordingly, it determined the accumulated profits at Rs. 18,950.
+The Revenue applied for a reference to the High Court of Kerala, and at its instance the Tribunal referred the following question to the High Court: "Whether, on the facts and in the circumstances of this case, the Appellate Tribunal was legally correct in holding that the accumulated profit will not include current profits for the purpose of section 2(6A) of the Indian Income Tax Act, 1922 ?" The assessee also requested the inclusion of a question, and therefore the second question referred to the High Court was: "Whether, on the facts and in the circumstances of the case, the Tribunal was right in holding that Rs. 18,950 constituted accumulated profits for the purpose of section 2(6A) of the Indian Income Tax Act, 1922 ?" 947 The High Court, by its judgment dated January 18, 1972 has answered the first question in the affirmative and the second question in the negative, both questions being answered in favour of the assessee.
+And now, the present appeal by the Revenue.
+We have heard Shri B. B. Ahuja, for the Revenue.
+No one appears for the assessee.
+The Indian Income Tax Act, 1922 did not originally contain any definition of "dividend", and the meaning of that word was confined to the connotation it held under the law relating to companies.
+By section 2 of the Indian Income Tax (Amendment) Act, 1939, the Indian Legislature inserted sub section (6A) in section 2 of the Act and set forth an inclusive definition.
+Certain clauses of the sub section were amended thereafter, and in their ultimate form section 2(6A)(c) and section 2(6A)(e) read as follows: "6(A) "Dividend" includes (c) Any distribution made to the shareholders by a company on its liquidation, to the extent to which the distribution is attributable to the accumulated profits of the company immediately before its liquidation, whether capitalised or not.
+(e) Any payment by a company, not being a company in which the public are substantially interested within the meaning of section 23A, of any sum (whether as representing a part of the assets of the company or otherwise) by way of advance or loan to a shareholder or any payment by any such company on behalf or for the individual benefit of a shareholder, to the extent to which the company in either case possesses accumulated profits.
+" The question is whether the profits earned by the company during the year in which the loans were advanced to the assessee, that is to say the current profits, can be regarded as included within the accumulated profits of the company.
+It will be noticed that the expression "accumulated profits" occurs in section 2(6A) (c) of the Act.
+Construing that clause in Girdhardas & Co. Ltd., vs Commissioner of Income Tax, Ahmedabad, the Bombay High Court said : "The limitation imposed by the Legislature is that the profits must in the first place be accumulated in contradistinc 948 tion to the profits being current. ".
+The Madras High Court in Commissioner of Income Tax, Madras vs M. V. Murugappan and Others and Commissioner of Income tax, Madras vs A. M. M. V. Valliammai Achi & Others took the same view.
+It analysed the concept of "accumulated profits" and in that connection particularly referred to the observations of Isaacs and Rich JJ.
+in Hooper & Harrison Limited (In Liquidation) vs Federal Commissioner of Taxation who relied on Hollins vs Allen and Sproule vs Bouch and Commissioner of Inland Revenue vs Blott where the distinction between current profits and accumulated profits was graphically brought out.
+The decision of the Madras High Court was affirmed in appeal by this Court in Commissioner of Income tax, Madras vs M. V. Murugappan & Ors.
+and it was observed that "The profits of the year in the course of which the company was ordered to be wound up not being accumulated profits were not part of the dividend.
+" Thereafter, the Bombay High Court in Commissioner of Income Tax (Central) Bombay vs P. K. Badiani, while interpreting section 2(6A) (e) of the Act, applied the same construction and held that the expression "accumulated profits" in that clause must mean profits which had accumulated prior to the accounting year of which the income profits and gains were being assessed, while current profit would mean the profits of the accounting year In a recent case, Commissioner of Income Tax, Madras II vs G. Sankaran, the Madras High Court has reaffirmed that the expression "accumulated profits" in section 2(6A) (e) cannot take in current profits.
+The position appears to be well settled.
+Except for T. Sundaram Chettiar vs Commissioner of Income Tax, Madras and T. Manickavasagam Chettiar vs Commissioner of Income tax, Madras, in which the ratio is far from clear, a long line of judicial decisions has taken the view that the words "accumulated profits" in section 6(2A) of the Indian Income Tax Act, 1922 cannot be construed 949 to include current profits.
+We are in agreement with that view, being persuaded in that behalf by the reasoning which has prevailed in the aforementioned cases.
+The distinction between "accumulated profits" and "current profits" has long held the field, and as the learned judges of the High Court of Australia observed in Hooper & Harrison Ltd. (In Liquidation) (supra), it has been well known in judicial decision and in the mercantile world for well over a century.
+Moreover, this Court in M. V. Murugappan (supra) has also taken the view that current profits cannot be included in accumulated profits.
+It appears to be now the established law of the land.
+An attractive submission was raised on behalf of the Revenue that in the Twelfth Report of the Law Commission of India, the authors of the Report consider that the intention of the Legislature was to include current profits in the expression "accumulated profits" in section 2(6A) and that the present definition of "accumulated profits" by Explanation 2 to section 2(22) of the Income Tax Act.
+1961 only clarifies what the true intent was all along.
+In the view which has found favour with us, we are not persuaded by that submission.
+Accordingly, we hold that the High Court was right in answering the first question in favour of the assessee and against the Revenue.
+The second question is whether the provision for payment of tax and dividend can be taken into account when computing the accumulated profits as on March 31, 1958.
+The Revenue contends that this question should not have been referred by the Appellate Tribunal to the High Court at the instance of the assessee because no reference application was made by the assessee.
+The only reference application, it is pointed out, before the Appellate Tribunal was the reference application filed by the Commissioner of Income Tax.
+We are of opinion that the Revenue is right.
+The objection was taken by the Revenue before the Appellate Tribunal when the statement of case was being prepared, but the Appellate Tribunal overruled the objection, relying on Girdhardas & Co. Ltd. vs Commissioner of Income Tax, Ahmedabad.
+It does not appear that the Revenue contended before the High Court that the reference made to it by the Appellate Tribunal was incompetent insofar as the second question was concerned.
+Since, however, the objection pertains to the competence of the reference to the extent that it covers the second question and, therefore, relates to the jurisdiction of the High Court to 950 consider and decide that question, we are of opinion that the Revenue is entitled to raise that question before us.
+Section 256(1) of the Income Tax Act, 1961 entitles the assessee or the Commissioner, as the case may be, to apply to the Appellate.
+Tribunal to refer to the High Court any question of law arising out of the order made by the Appellate Tribunal under section 254.
+A period of limitation for making such application is prescribed.
+If the application is rejected by the Appellate Tribunal the applicant is entitled to apply to the High Court, again within a prescribed period of limitation, and the High Court may, if it is not satisfied of the correctness of the decision of the Appellate Tribunal, require the Appellate Tribunal to state the case and refer it.
+It is clear that the statute expressly contemplates an application in that behalf by a party desiring a reference to the High Court.
+The application has to be filed within a prescribed period of limitation.
+If the Application is rejected by the Appellate Tribunal, it is the applicant thus refused who is entitled to apply to the High Court.
+If the Appellate Tribunal allows the application made to it, section 256(1) requires it to draw up the statement of the case and refer it to the High Court.
+The statement of the case is drawn up on the basis of the application made by the applicant, who in that application must specify the questions of law which, he claims, arise out of the order of the Appellate Tribunal made under section 254.
+The form of reference application prescribed by rule 48 of the Income Tax Rules, 1962 specifically requires the applicant to state the questions of law which he desires to be referred to the High Court.
+He may, in appropriate cases, be permitted by the Appellate Tribunal, to raise further questions of law at the hearing of the reference application.
+But in every case, it is only the party applying for a reference who is entitled to specify the questions of law which should be referred.
+Nowhere in the statute do we find a right in the non applicant (a phrase used here for convenience) to ask for a reference of questions of law on the application made by the applicant.
+In this connection, two categories of cases can be envisaged.
+One consists of cases where the order of the Tribunal under section 254 has decided the appeal partly against one party and partly against the other.
+This may be so whether the appeal consists of a single subject matter or there are more than one independent claims in the appeal.
+In the former, one party may be aggrieved by the grant of relief, even though partial, while the other may be aggrieved by the refusal to grant total relief.
+In the latter, relief may be granted or 951 refused with reference to individual items in dispute, and accordingly one party or the other will be aggrieved.
+In either case, the party who is aggrieved and who desires a reference to the High Court must file a reference application for that purpose.
+It is not open to him to make a reference application filed by the other party the basis of his claim that a question of law sought by him should be referred.
+The second category consists of cases where the order made by the Appellate Tribunal under section 254 operates entirely in favour of one party, although in the course of making the order the Appellate Tribunal may have negatived some points of law raised by that party.
+Not being a party aggrieved by the result of the appeal, it is not open to that party to file a reference application.
+But on a reference application being filed by the aggrieved party it is open to the non applicant, in the event of the Appellate Tribunal agreeing to refer the case to the High Court, to ask for a reference of those questions of law also which arise on its submissions negatived in appeal by the Appellate Tribunal.
+It is, as it were, recognising a right in the winning party to support the order of the Appellate Tribunal also on grounds raised before the Appellate Tribunal but negatived by it.
+There are, therefore, those two categories, one in which a non applicant can ask for the reference of questions of law suggested by it and the other in which it cannot.
+To the extent to which the Courts have omitted to consider the distinction between these two categories, they have erred.
+There are cases where it has been held that there is an absolute bar against a non applicant seeking a reference of questions of law on a reference application made by the other party.
+They include : Commissioner of Income Tax, Madras vs section K. Srinivasan and Commissioner of Income Tax, Madras vs Ramdas Pharmacy.
+cases taking the opposite extreme view are : Commissioner of Income Tax vs Bantiah Bank Ltd., followed in Girdhar Das & Co. Ltd. (supra) and Educational & Civil List Reserve Fund No. 1 through H. H. Maharana Bhagwat Singhji of Udaipur & Ors.
+vs Commissioner of Income Tax, Delhi and Rajasthan Smt.
+Dhirajben R. Amin vs Commissioner of Income Tax, Gujarat II, Ahmedabad and Commissioner of Wealth Tax, Gujarat II vs Mrs. Arundhati Balkrishna.
+The judgment in the last case was affirmed by this Court in Commissioner of Wealth Tax, Gujarat vs Arundhati 952 Balkrishna but the point raised before us does not appeal to have been taken there.
+The observations in Bantiah Bank Limited (supra) seem to show that the High Court was alive to the possibility of a winning party being deprived of the right to raise questions of law which could properly arise as further questions because they would be intimately involved in a decision on the questions referred at the instance of the applicant, but it failed to classify such a case separately from the case where a non applicant seeks to raise independent and unassociated questions of law.
+Cases in which a distinction was noticed between the two categories but no opinion was expressed on the right of a winning party to raise questions of law without applying for a reference are Commissioner of Income Tax vs Jiwaji Rao Sugar Co. Ltd., followed in Commissioner of Income Tax, M.P. vs Dr. Fida Hussain G. Abbasi and Commissioner of Income Tax, Madras vs K. Rathnam Nadar.
+Some attention has been given to the distinction between the two categories in Commissioner of Income Tax, West Bengal vs A. K. Das.
+In the present case, the question whether the provision of Rs. 11,000 for tax and Rs. 6,900 for dividend can be taken into account when determining the accumulated profits as on March 31, 1958 is not relate to the question whether accumulated profits can take in current profits.
+The two questions involve the grant of separate and distinct reliefs and the decision on one question does not affect the decision on the other.
+Accordingly, we hold that the Appellate Tribunal was not competent to refer the second question, and the reference to that extent must be considered void.
+In the circumstances, it is not necessary to examine the second question on its merits.
+The judgment of the High Court must be set aside so far as it incorporates its opinion on the second question.
+Accordingly, the appeal is allowed to the extent that the judgment of the High Court on the second question is set aside while the appeal is dismissed in respect of the judgment on the first question.
+There will be no order as to costs.
+N.K.A. Appeal allowed in part.

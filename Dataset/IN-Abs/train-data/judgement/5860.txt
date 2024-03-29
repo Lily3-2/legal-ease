@@ -1,0 +1,303 @@
+Civil Appeal No. 173 of 1983.
+PG NO 336 From the Judgment and Order dated 30.9.1982 of the Calcutta High Court in Suit No. 568 of 1979.
+Ajay Nath Ray, Surendra Dube and Mrs. Indira Sawhney for the Appellant.
+S.K. Kapur, Ranjan Deb, Gangadeb and B.P. Singh for the Respondent.
+The Judgment of the Court was delivered by RANGANATHAN, J.
+A somewhat important question as to the nature and scope of the rights available to a defendant whose "defence has been struck out" calls for determination in this appeal in the particular context of the West Bengal Premises Tenancy Act, 1956.
+The appeal arises from the judgment of a Full Bench of the Calcutta High Court constituted to resolve a conflict in the earlier decisions of the same court on this issue.
+The Full Bench, by a majority of two (P.K. Banerjee and Chittatosh Mookerjee, JJ) to one (Ramendra Mohan Datta, Acting C.J.) decided that in a matter where the defence against delivery of possession has been struck out under sub section 3 of section 17 of the West Bengal Premises Tenancy Act, 1956, (hereinafter referred to as the 'Act ') the defendant tenant cannot cross examine the witnesses called by the plaintiff, excepting on the point of notice under section 13(6) of the said Act.
+The correctness of the view taken by the majority is contested in this appeal.
+Though the learned Judges were of opinion that the issue decided on the reference raised substantial questions of law of general importance, they considered themselves unable to grant a certificate of fitness for appeal to this Court since the reference had arisen only on an interim order and the view expressed did not result in a judgment, order or decree against which leave to appeal could be granted.
+Thereupon the aggrieved party filed a petition for special leave to appeal before this Court, which was granted.
+It is in this manner that the issue has been brought up before this Court.
+A detailed factual background is not necessary since the question raised is purely one of law.
+It may, however, be mentioned that the respondent in this appeal filed a suit in 1979 on the original side of the Calcutta High Court praying for a decree directing the defendant (present appellant) to deliver up vacant and peaceful possession of certain premises in Calcutta and also for a decree for mesne profits or damages from February 1, 1978 till the date of PG NO 337 delivery of possession.
+The appellant, a company carrying on business at the premises in question, filed its written statement denying the averments in the plaint and the claims made therein.
+During the pendency of the suit several interlocutory applications were made from time to time in which orders were passed directing the present appellant (hereinafter referred to as the tenant) to deposit certain sums in court.
+At one stage it appears that the tenant made an application praying that he may be permitted to deposit the arrears of rent in monthly instalments along with the current rents.
+No orders were passed on this application on the ground that the application was out of time.
+However, it appears that subsequent to disposal of this application, the defence of the tenant had been struck off under the provisions of section 17(3) of the Act.
+The correctness of this order striking out the defence of the tenant has become final and is no longer in issue.
+It, however, appears that the tenant contended before the trial court (though the details are not available on record) that the order under section 17(3) could, at worst, preclude the tenant only from adducing evidence, oral or documentary, in support of the averments made in its written statement.
+It was claimed that it was open to the tenant to exercise his rights (a) of cross examining the plaintiff 's witnesses; (b) of pointing out to the court the factual and legal infirmities in the plaintiff 's case; and (c) of addressing arguments on the basis of evidence as adduced by the plaintiff and tested by the cross examination on behalf of the defendant.
+Learned counsel for the appellant also urged before us that though the defendant had conceded before the High Court that it will not be entitled to lead any evidence, the reference being of a general question regarding the consequences of a strike off, we should consider the question in all its aspects and lay down the principles governing such cases.
+We may start by referring to the provisions of section 17 of the Act.
+When a suit for eviction is filed under the Act agianst any tenant on any of the grounds specified in Section 13 of the Act, Section 17(1) imposes an obligation on the tenant to deposit into the Court or with the controller or pay to the landlord all arrears of rent due from him with interest within a specified period and also to PG NO 338 continue to deposit or pay the current rent thereafter regularly month after month.
+Sub section (2) provides a machinery for the determination of the amounts to be so paid or deposited, in case of dispute.
+Sub section (2A) and (2B) contain provisions enabling the Court, subject to certain restrictions, to extend the time for such deposit or payment or allow the deposit or payment to be made in instalments.
+If the tenant deposits or pays the amounts as above, he is protected from being evicted from the premises on the ground of non payment of rent: sub section (4).
+If, on the other hand, he fails to deposit any amount referred to above within the time permitted, the consequence set out in sub section (3) will follow.
+That sub section reads: "(3) If a tenant fails to deposit, or pay any amount referred to in sub section (1) or sub section (2) within the time specified therein or within such extended time as may be allowed under clause (a) of sub section (2A), or fails to deposit or pay any instalment permitted under clause (b) of sub section (2A) within the time fixed therefor, the Court shall order the defence against delivery of possession to be struck out and shall proceed with the hearing of the suit." (underlining ours) Before discussing the interpretation of the crucial words of the sub section, it may be useful to set out certain analogous provisions which have been the subject of judicial consideration: (a) The West Bengal Act XVII of 1950, which preceded the one under consideration, was somewhat different in its language.
+section 14(1) of that Act dealt with a case where the suit was based on the ground of non payment of rent.
+The Court could make an order calling upon the tenant to pay up the arrears of rent on or before a specified date.
+The sequitir was set out in sub sections (3) and (4) as follows: "(3) If within the time fixed in the order under sub section (1), the tenant deposits in the court the sum specified in the said order, the suit, so far as it is a suit for recovery of possession of the premises, shall be dismissed by the court.
+In default of such payment the court shall proceed with the hearing of the suit: Provided that the tenant shall not be entitled to the benefit of protection against eviction under this section if PG NO 339 he makes default in payment of the rent referred to in clause (i) of the proviso to sub section 1 of section 12 on three occasions within a period of eighteen months." "(4) If the tenant contests the suit, as regards claim for ejectment, the plaintiff landlord may make an application at any stage of the suit for order on the tenant defendant to deposit month by month rent at a rate at which it was last paid and also the arrears of rent, if any, and the court after giving an opportunity to the parties to be heard may make an order for deposit of rent at such rate month by month and the arrears of rent, if any, and on failure of the tenant to deposit the arrears of rent within fifteen days of the date of the order or the rent at such rate for any month by the fifteenth day of the next following month, the court shall order the defence against ejectment to be struck out and the tenant to be placed in the same position as if he had not defended the claim to ejectment.
+The landlord may also apply for permission to withdraw the deposited rent without prejudice to his right to claim decree for ejectment and the court may permit him to do so." (b) Our attention has been drawn to two provisions of the Rules framed by the Calcutta High Court governing proceedings on its Original Side.
+These rules read as follows: Chapter IX Rule 4: Suit heard ex parte against defendants in default Where one or more of several defendants has or have filed a written statement or written statements, but another or others has or have not, the suit shall, unless otherwise ordered, upon production of a certificate showing such default, be heard ex parte as against the defaulting defendant or defendants.
+Chapter XIV Rule 3: Where heard ex parte defendant may, in person, cross examine and address the Court Where a suit is heard ex parte against any defendant, such defendant may be allowed to cross examine, in person, the plaintiff 's witnesses, and to address the Court; but unless the Court otherwise specially orders, evidence will not be received on his behalf, nor will he be allowed the assistance of an Advocate or Attorney.
+PG NO 340 (c) Another provision that may be referred to in this context is the one in Order 11 rule 21 of the Code of Civil Procedure (C.P.C.) This rule reads thus: 21(1) Non compliance with order for discovery Where any party fails to comply with any order to answer interrogatories, or for discovery or inspection of documents, he shall, if a plaintiff, be liable to have his suit dismissed for want of prosecution, and, if a defendant, to have his defence, if any, struck out, and to be placed in the same position as if he had not defended, and the party interrogating or seeking discovery or inspection may apply to the Court for an order to that effect, and an order may be made on such application accordingly, after notice to the parties after giving them a reasonable opportunity of being heard.
+(2) Where an order is made under sub rule (1) dismissing any suit, the plaintiff, shall be precluded from bringing a fresh suit on the same cause of action.
+On behalf of the appellant learned counsel submits that a tenant or defendant whose "defence is struck out" is in the same position as if he had filed no written statement in the suit.
+It is pointed out that the Original Side Rules of the Calcutta High Court permit a defendant who is said to be ex parte, either by not filing a written statement or by non appearance, to cross examine the plaintiff 's witnesses and to address the court; not only that, the rules confer a discretion in the court to permit him to have the assistance of an advocate and even to adduce evidence on his behalf.
+This is based on the principle that the effect of an order striking out the defence can only be that the defendant should not, because of his default, be permitted to plead the positive case, which he had or could have put forward in his written statement or substantiate it by leading evidence on his side.
+This cannot preclude him from putting forward the plea that the plaintiff is not entitled to a decree as he has not proved his case.
+This, it is said, he is entitled to do either by cross examining the plaintiff 's witnesses and thus demolishing the plaintiff 's case or addressing arguments either on points of law or even on the facts in the light of the plaintiff 's evidence as tested by his cross examination.
+Even this cannot, it is urged, be an invariable rule and the Court should always have a discretion, as provided for in the Calcutta High Court Rules, to relax its rigidity depending upon the circumstances of each case.
+The position in an eviction Petition, it is said, cannot be much different.
+Learned counsel urges that is a well established principle, PG NO 341 particularly under the Rent Acts, that it is for the plaintiff to satisfy the court that the conditions set out in the statute to enable him to obtain an order of eviction are strictly fulfilled.
+Even where a defendant is said to be ex parte, the plaintiff is not absolved from this responsibility and it is also necessary for the Court, in such cases, to satisfy itself that the plaintiff is entitled, on the terms of the statute, to the relief prayed for: vide K.K. Chari vs R.M. Seshadri, AIR ; and Inder Mohan Lal vs Ramesh Khanna, ; In doing this the Court can and should take the help and assistance of the defendant and counsel.
+It should be open to the defendant/tenant, even if he cannot put up a positive case, to show to the Court that the plaintiff 's suit or petition should fail on its own inherent weaknesses.
+Learned counsel has relied on certain decisions and the observations therein in support of his submissions.
+These may be referred to: An early decision of this Court, Sangram Singh vs Election Tribunal, Kotah, Bhurey Lal Baya, ; , was concerned with the question whether a defendant who had been set ex parte at some of the hearings (after the first hearing) could be permitted to appear and take part in later hearings, without the ex parte order being set aside.
+The Court, after referring the terms of the Order XVII Rule 2 of the Code of Civil Procedure, observed thus: "The learned Judges who constituted a Full Bench of the Lucknow Chief Court (Tulsha Devi vs Sri Krishna, thought that if the original ex parte order did not ensure throughout all future hearings it would be necessary to make a fresh ex parte order at each succeeding hearing.
+But this proceeds on the mistaken assumption that an ex parte order is required.
+The order sheet, or minutes of the proceedings, has to show which of the parties were present and if a party is absent the Court records that fact and then records whether it will proceed ex parte against him, that is to say, proceed in his absence, or whether it will adjourn the hearing; and it must necessarily record this fact at every subsequent hearing because it has to record the presence and absence of the parties at each hearing.
+With all due deference to the learned Judges who hold this view, we do not think this is a grave or a sound objection.
+A much weightier consideration is that the plaintiff may be gravely prejudiced in a given case because, as the PG NO 342 learned Rajasthan Judges point out, and as O 'Sullivan, J. thought, when a case proceeds ex parte the plaintiff does not adduce as much evidence as he would have if it had been contested.
+He contents himself with leading just enough to establish a prima facie case.
+Therefore, if he is suddenly confronted with a contest after he has closed his case and the defendant then comes forward with an army of witnesses he would be taken by surprise and gravely prejudiced.
+That objection is, however, easily met by the wide discretion that is vested in the Court.
+If it has reason to believe that the defendant has by his conduct misled the plaintiff into doing what these learned Judges apprehend, then it might be a sound exercise of discretion to shut out cross examination and the adduction of evidence on the defendant 's part and to allow him only to argue at the stage when arguments are heard.
+On the other hand, cases may occur when the plaintiff is not, and ought not to be, misled.
+If these considerations are to weigh, then surely the sounder rule is to leave the Court with an unfettered discretion so that it can take every circumstances into consideration and do what seems best suited to meet the ends of justice in the case before it." M/s. Paradise Industrial Corpn.
+vs M/s. Kiln Plastics Products, ; was a case which arose under the Bombay Rents, Hotel and Lodging House Rates (Control) Act, 1947.
+The trial Judge passed an order directing the tenant to deposit certain amounts in court, in default, making the notice absolute and directing that the defence would be struck off and the suit fixed for ex parte hearing.
+An ex parte decree followed.
+A single Judge of the Bombay High Court set aside the ex parte decree on the ground that the above order was illegal and without jurisdiction as it did not conform to the provisions contained in section 11(4) of the Act in question which only provided that, in case the directions of the court are not complied with, the defendant "shall not be entitled to appear in or defend the suit except with leave of the Court, which leave may be granted subject to such terms and conditions as the Court may specify.
+"It did not, in the view of the learned Judges, authorise the Court to strike off the defence straightaway.
+Reversing this order of the leared Judge, this Court observed: "We are afraid the learned Judge of the High Court has missed the substance and chased the shadow.
+The words "striking out the defence" are very commonly used by PG NO 343 lawyers.
+Indeed the application made on February 24, 1969 by the plaintiffs was for a direction to order the defences of the defendants to be struck off in default of payment of the amount ordered by the Court.
+The phrase "defence struck off ' or "defence struck out" is not unknown in the sphere of law.
+Indeed it finds a place in Order XI Rule 21 of the Code of Civil Procedure . .
+In effect; both mean the same thing.
+Nobody could have misunderstood what was meant.
+Indeed, one may even say that the phrase "the defence to be struck off" or "struck out" is more advantageous from the point of view of the defendants.
+Even when a defence is struck off the defendant is entitled to appear, cross examine the plaintiff 's witnesses and submit that even on the basis of the evidence on behalf of the plaintiff a decree cannot be passed against him, whereas if it is ordered in accordance with Section 11(4) that he shall not be entitled to appear in or defend the suit except with the leave of the court he is placed at a greater disadvantage.
+The use of the words 'defence struck off ' does not in any way affect the substance of the order and the learned Judge of the High Court was wholly in error in holding that because of the form of the order passed on June 2, 1969 the order was illegal and without jurisdiction.
+The order squarely falls within Section 11(4).
+What the law contemplates is not adoption or use of a formula; it looks at the substance.
+The order is not therefore one without jurisdiction.
+It is one which the Judge was competent to make.
+Somewhat similar in nature are the observations made in M/s. Babbar Sewing Machine Company vs Trilok Nath Mahajan, ; while dealing with the provisions of Order XI Rule 21 of the C.P.C.
+The court was of opinion that, for the nature of the default in the said case it was a travesty of justice that the trial court should have passed an order striking out the defence of the defendant and the High Court should have declined to set it aside.
+In this context, after discussing the scope of Order XI Rule 21 as to the manner in which the discretion of the court should he exercised, the Court made certain general observations towards the end of the judgment of the following effect: "It was further contended that the High Court was in error in observing that 'in view of the clear language of PG NO 344 Order XI, Rule 21 ' the defendant has no right to cross examine the plaintiff 's witnesses.
+A perusal of Order XI, Rule 21 shows that where a defence is to be struck off in the circumstances mentioned therein, the order would be that the defendant "be placed in the same position as if he has not defended".
+This indicates that once the defence is struck off under Order XI, Rule 21, the position would be as if the defendant had not defended and accordingly the suit would proceed ex parte.
+In Sangram Singh vs Election Tribunal, ; , it was held that if the court proceeds ex parte against the defendant under Order IX, Rule 6(a), the defendant is still entitled to cross examine the witnesses examined by the plaintiff.
+If the plaintiff makes out a prima facie case the court may pass a decree for the plaintiff.
+If the plaintiff fails to make out a prima facie case, the court may dismiss the plaintiff 's suit.
+Every Judge in dealing with an ex parte case has to take care that the plaintiff 's case is, at least, prima facie proved.
+But, as we set aside the order under Order XI Rule 21, this contention does not survive for our consideration.
+We, therefore, refrain from expressing any opinion on the question.
+" Our attention has also been invited to the incidental references by this Court to the aspect presently in issue before us while considering the questions, in the context of analogous provisions of the rent statutes, whether the Court has a discretion to extend the time for the deposits to be made by the tenant when there is no specific statutory provision to that effect and whether, where the tenant fails to make the deposit as directed, the Court is bound to strike out his defence or has a discretion to take or not to take this extreme step.
+In Ram Chand vs Delhi Cloth & General Mills Co. Ltd., ; , this Court, on the language of the Delhi Rent Control Act agreeing with the High court ILR 1972 2 Delhi 503 on this point held that the Rent Controller has no power to condone the tenant 's default by extending the time for payment.
+This Court, however, did not agree with the High Court 's view that the default of the tenant vested an indefeasible right in the landlord and entitled him to an order of eviction straightaway.
+The Court observed: "While we agree with the view of the High Court that the controller has no power to condone the failure of the tenant to pay arrears of rent as required under section 15(1), we PG NO 345 are satisfied that the Full Bench fell into an error in holding that the right to obtain an order for recovery of possession accrued to the landlord.
+As we have set out earlier, in the event of the tenant filing to comply with the order under section 15(1), the application will have to be heard giving an opportunity to the tenant if his defence is not struck out under section 15(7) and without hearing the tenant if his defence is struck out." (emphasis added) Shyamcharan Sharma vs Dharamdass, ; was a case under the Madhya Pradesh Accommodation Control Act.
+The tenant had not been able to deposit the rents as per the directions of Court and sought an extension of time.
+The landlord opposed the application for condonation of delay on the ground that the Court had no power to grant it.
+This contention was rejected by the first court and first appellate court but the High Court accepted the plea and decreed the suit for eviction.
+The Supreme Court allowed the tenant 's appeal.
+It observed: "It is true that in order to entitle a tenant to claim the protection of section 12(3), the tenant has to make a payment or deposit as required by section 13, that is to say, the arrears of rent should be paid or deposited within one month of the service of the writ of summons on the tenant or within such further time as may be allowed by the court, and should further deposit or pay every month by the 15th, a sum equivalent to the rent.
+It does not, however, follow that failure to pay or deposit a sum equivalent to the rent by the 15th of every month, subsequent to the filing 'of the suit for eviction, will entitle the landlord straightaway, to a decree for eviction.
+The consequences of the deposit or payment and non payment or non deposit are prescribed by subss.
+(5) and (6) of section 13.
+Since there is a statutory provision expressly prescribing the consequence of non deposit or non payment of the rent, we must look to and be guided by that provision only to determine what shall follow.
+section 13(6) does not clothe the landlord with an automatic right to a decree for eviction, nor does it visit the tenant with the penalty of a decree for eviction being straightaway passed against him.
+section 13(6) vests, in the court, the discretion to order the striking out of the defence against eviction.
+In other words, the Court, having regard to all the cir cumstances of the case, may or may not PG NO 346 strike out the defence.
+If section 13 were to be construed as mandatory and not as vesting a discretion in the Court, it might result in the situation that a tenant who has deposited the arrears of rent within the time stipulated by section 13(1) but who fails to deposit thereafter the monthly rent on a single occasion for a cause beyond his control may have his defence struck out and be liable to summary eviction.
+We think that section 13 quite clearly confers a discretion, on the court, to strike out not to strike out the defence, if default is made in deposit or payment of rent as required by section 13(1).
+If the Court has the discretion not to strike out the defence of a tenant committing default in payment or deposit as required by section 13(1), the court surely has the further discretion to condone the default and extend the time for payment or deposit.
+Such a discretion is a necessary implication of the discretion not to strike out the defence.
+" The apparent conflict between these cases camp up for consideration in Ram Murti vs Bhola Nath, After considering the two earlier decisions, the Court observed: "It would be incongruous to hold that even if the defence of the tenant is not to be struck out under Section 15(7), the tenant must still be visited with the punishment of being deprived of the protection under Section 14(2).
+In Hem Chand 's case the Court went to the extent of laying down that even if the defence of the tenant is struck out under Section l5(7), the Rent Controller could not straightaway make an order for eviction in favour of the landlord under Section 14(1)(a).
+The Court held that the High Court was wrong in its assumption that failure to comply with the requirements of section 15(1) vests in the landlord an 'indefeasible right ' to secure an order for the eviction of the tenant under Section 14(1)(a).
+The Court set aside the judgment of the High Court taking that view and remanded the matters to the Rent Controller observing that there was still an issue to be tried.
+If that be so, the question at once arises, "what is the issue to be tried?" If the landlord has still to make out a case before the Rent Controller that he was entitled to an order for eviction of the tenant under section 14(1)(a), surely the tenant has the right to participate in the proceedings and cross examine the landlord.
+It must logically follow as a necessary PG NO 347 corollary that if the defence is not to be struck out under Section 15(7) it means that the tenant has still the defences open to him under the Act.
+In the premises, the conclusion is irresistible that he has the right to claim protection under Section 14(2).
+What is of essence of Section 14(2) and of Section 15(6) is whether there has been a substantial compliance with the order passed under Section 15(1).
+The words "as required by section 15(1)" in these provisions must be construed in a reasonable manner.
+If the Rent Controller has the discretion under Section 15(7) not to strike out the defence of the tenant, he necessarily has the power to extend the time for payment of future rent under Section 15(1) where the failure of the tenant to make such payment or deposit was due to circumstances beyond his control.
+The previous decision in Hem Chand 's case interpreting Section 15(7) and Section 14(2) in the context of Section 15(7) of the Delhi Rent Control Act, 1958, although not expressly overruled, cannot stand with the subsequent decision in Shyamcharan case interpreting the analogous provisions of the Madhya Pradesh Accommodation Control Act, 1961 as it is of a larger Bench." ( Underlining ours) One more decision of this Court to which counsel for the respondents referred may also be touched upon here, viz. Bela Das and others vs Samarendra Nath Bose, [1975] 2 S.C.R. 1004.
+In that case, the respondent was a tenant of a certain premises in respect of which a suit for eviction had been filed.
+The tenant was directed to pay into court the arrears and future rent but he did not comply with the order and his defence was struck out.
+Thereafter, an ex parte decree of eviction was passed and confirmed by the first appellate court.
+In second appeal, the High Court remitted the case to the trial court on the ground that, since the respondent had not admitted the appellants to be full owners of the premises but contended that other co sharers of the appellant 's family had also shares therein, there was a denial of the relationship of landlord and tenant and that the order striking out the respondent 's defence qua tenant did not prevent him from contesting the suit on the question of title.
+The appeal against the High Court 's order was allowed by this Court.
+The Court observed: "The defendant had admitted that he was the tenant under the plaintiffs but was merely asserting that there were some more landlords of the premises in question.
+It was PG NO 348 not a case of denial of relationship of landlord and tenant between the parties.
+In the case of Mahabir Ram, AIR 1968 Patna 415, the tenant had denied the title of the plaintiffs and set up a title in himself.
+In the instant case the plea of the defendant has been that the plaintiffs being landlords of the suit premises for a moiety of share could not alone claim a decree for eviction against him.
+Such a plea set up by the defendant to resist the suit for eviction was a plea qua tenant and not de hors it.
+The striking out of the defence on 8.7.1964 had the effect of striking out all defence raised by the defendant qua tenant including his defence that the plaintiffs alone being co sharer landlords were not entitled to maintain the suit for eviction.
+It may also be added that the learned Munsif in his order dated 8.7.1964 striking out the defence, which order was confirmed by a Bench of the High Court in Civil Revision No. 824 of 1964 decided on 21.4.1964, had pointed out on the basis of the defendant 's statements in his written statement as also in his rejoinder to the plaintiff 's petition under section 11A of the Act that the defendant had admitted that he was paying rent to the plaintiffs and had recognised them to be their landlords.
+In that view of the matter also the plaintiffs were the landlords of the suit premises occupied by the defendant within the meaning of clause (d) of section 2 of the Act.
+In either view of the matter there is no escape for the defendant in this case that his entire defence in the suit was in his capacity as a tenant and on its striking out it was struck out as a whole.
+The hearing of the suit ex parte was, therefore, legal and valid.
+The contrary view taken by the High Court is erroneous in law.
+" A brief reference may now be made to the conflict of decisions in the Calcutta High Court which occasioned the reference to the Full Bench.
+The first two cases were under the original side rules and concerned the consequences of a defendant failing to enter appearance in a suit.
+In a very early decision in S.N. Banerjee vs H.S. Suhrawardy, AIR 1928 Cal.
+772 Rankin, C.J. had observed, of the rights of a defendant who had not entered appearance, as follows: "If he does not enter appearance within the time limited the case will go into what is called the undefended list and when the case is on the undefended list it is not possible for the defendant without obtaining leave to enter PG NO 349 appearance.
+He has a limited right to cross examine witnesses adduced on behalf of the plaintiff if he appears at the time when the undefended case is down for hearing, out his position is that of a man who for not entering appearance in time is precluded from defending the suit whether he appears at the hearing or does not appear at the hearing.
+" Referring to these observations in Dabendra Nath Dutt vs Smt.
+Satyabala Dassi and others, AIR 1950 Cal. 217, P.B. Mukharji, J. said: "Thus then there are two consequences of not entering appearance under the Rules.
+One is that the suit is liable to be heard ex parte and the other is that no written statement can be filed.
+In that context, I am not inclined to impose more punishment than those two so explicitly stated by the Rules.
+Therefore I am of the opinion that a party subject to these handicaps imposed by the Rules can still appear, under the Civil Procedure Code when the suit is called on for hearing from the undefended list, not only to cross examine the witnesses of the plaintiff and demolish in such manner the plaintiffs case on evidence that the Court will not pass any decree in the plaintiff 's favour but also to make such arguments and submissions on law and on such evidence as the plaintiff may have brought to the Court.
+These are, in my opinion, valuable rights under the Code which are not taken away by any Rules of the original side.
+If that be so I fail to see why in such a case the terms of 0.9 Rr. 8 and 9 of the Code cannot be made applicable to the original side of this Court notwithstanding the technicalities of "entering appearance" as introduced by the Rules of the original side practice.
+It may be that when because of the default in "entering appearance" the suit is liable to be heard ex parte, the defendant may not know or have notice when the suit is going to be heard.
+But that is immaterial and that is a risk to which such a defendant makes himself open by such default.
+But should he by any means whatever know that the suit is being heard from the undefended list he can nevertheless appear at such hearing and exercise the rights I have mentioned.
+Rankin C.J. in the Court of appeal sees the possibility of cross examination in such a case by the defendant of plaintiff 's witnesses.
+PG NO 350 I have not been able to persuade myself to take the view that a suit can only be defended by filing a written statement or by "entering appearance" under the Rules.
+In my opinion filing of written statement is not the only way of defending a suit.
+A defendant in my judgment may ably and successfully defend a suit against him by cross examination and arguments.
+" In S.B. Trading Company Ltd. vs Olympia Trading Corpn.
+Ltd., AIR 1952 Calcutta 685 Sarkar, J. (as His Lordship then was) had to consider the effect of strike off of defence under section 14(4) of the 1950 Act.
+In that case, which was a suit for ejectment, the defence had been struck off as the defendants had not complied with an order made under section 14(4).
+When the plaintiff proceeded to prove its claim for ejectment the defendants claimed to take part in the proceedings to oppose the decree for ejectment.
+In the first place, they claimed that they were entitled to cross examine the plantiff 's witnesses and to address the court not as counsel but as agents of their clients.
+The learned Judge declined the request.
+He referred to the observations of P.B. Mukharji J. quoted earlier, that their rights were only aspects of the rights of defence and observed: "It seems to me that if I allow the defendants in this case to cross examine the plaintiff 's witnesses on their evidence as to the facts establishing the claim to ejectment and to address the Court with regard to that claim, I am really allowing the defendants to defend the claim against ejectment.
+Section 14(4) says that this the defendants cannot do.
+" The next question that arose was whether it was open to the defendants to contest the plaintiff 's claim that the defendant was not entitled to the benefit of the proviso to section 14(3).
+The learned Judge also negatived this right.
+He observed: "It would be a curious result and really would amount to annulling the provisions of sub section 4, if in spite of the defence being struck out, the defendants were in a position to contest the applicability of the proviso.
+In my view, this latter argument of learned counsel for the plaintiff is plainly sound.
+The proviso itself says that on certain things happening "the tenant shall not be entitled to the benefit of protection against eviction under this section.
+"So, the proviso really contemplates a defence to the claim for ejectment, and if that defence is struck out, PG NO 351 it must necessarily mean that it is no longer open to the defendants to contest the existence of the facts giving rise to the applicability of the proviso.
+I, therefore, reach the conclusion that the defendants will not be allowed to take any part in the proceedings for proof of the applicability of the proviso.
+" The effect of a strike off of defence was expressed in even more forcible language by Chakravartti C.J.
+In Gellatly vs Gannon, AIR 1953 Cal 409.
+The learned Judge observed: "The language of section 14(4) is in no way qualified.
+The policy of the section or, indeed, the whole Act seems to be that the Legislature is not minded to protect a tenant who will not even pay the monthly rent regularly.
+If the tenant, on being directed to pay the current rent month by month, does not do so, the Act quite clearly provides that he will such conduct forfeit the special protection which the Act confers on tenants and will be relegated to his position the general law.
+I do not find any justification in the language of section 14(4) to limit the defence against ejectment contemplated by it to defence against ejectment only on the ground mentioned in section 12(1)(i) of the Act.
+" The question next arose before a Full Bench, consisting of section P. Mitra, C.J., M.M. Dutt, J. and A.K. De, J. in Gurudas Biswas vs Char Panna .
+Seal, AIR 1977 Cal. 110 in the context of the 1956 Act.
+One of the questions before the Full Bench was whether, in a suit for ejectment where the defence as to delivery of possession had been struckout under section 17(3) of the Act, the defendant could take thedefence of the non existence or invalidity of a notice under section 13(6) in the court below and in the court of appeal.
+This question was answered in the affirmative, endorsing the conclusion reached in an of earlier decisions of the Court.
+The reasoning was that the strike off only deprived the tenant of the special protection given to him under section 13(1) of the Act but did not preclude the necessity of the landlord having to prove the service of notice under section 13(6) of the Act which was a step to be taken before the filing of the suit.
+The Court, however, observed: "To pass an ex parte decree in a suit for ejectment on or of the grounds in Section 13(1), the Court is required to decide, whether the suit is defended or not, (if the relation ship of landlord and tenant is not disputed as here PG NO 352 (a) whether the tenancy has been validly determined by a notice under Section 106, Transfer of Property Act, (b) whether a valid notice of suit was given before filing the suit (c) whether the ground alleged in the plaint to take away the tenant 's special protection conferred by Section 13(1), has been established on the evidence.
+This is the requirement of Order 20, Rule 4, Civil Procedure Code, whether the suit is contested or not.
+The Court cannot relieve itself of the necessity of complying with Order to, Rule 4 even if it strikes out the tenant s defence against delivery of possession or the written statement.
+That being the position in law, it would be wrong, not to permit the tenant to contend and show, if possible, on plaintiffs evidence and materials as are on record, both at tile trial and also at the appeal stage, that the plaintiff is not entitled to the decree prayed for, though he would not be permitted either to cross examine plaintiffs witnesses, when they give evidence, or to call his own witnesses at the trial, if his defence is struck out. ' ' The above observations came up for consideration in Daya Moyee Sadhukhan vs Dal Singer Singh, AIR 1979 Cal 332.
+In this case, on failure of the defendant to comply with the provisions of section l7(1) of the Act of 1956, his defence had been struck off.
+Thereafter, at the hearing of the suit, the defendant was allowed to cross examine the plaintiff s husband On all issues but the defendant examined himself only on the question whether notice to quit i1ad been served properly in terms of section 106 of the Transfer of Property Act.
+The landlord appellant argued before the High Court that as the defence had been struck out, the trial court was not justified in allowing the defendant to cross examine the plaintiff s witness and, in support of this contention reliance was placed on the observations in Gurudas Biswas vs Charu Panna Seal, AIR 1977 Cal. 110.
+M.M. Dutt, J., delivering the judgment of the Bench, observed that, strictly speaking, the observations relied upon did not relate to the points that had been posed before the Full Bench for consideration and hence had no binding force.
+He proceeded to consider the question on general principles.
+He referred to Order 9, Rr. 6 and 7 of the C.P.C., the decision in Sangram Singh vs Election Tribunal, ; , Order I I Rule 21 of the C.P.C., the decisions in Paradise Industrial Corpn.
+vs M/s. Kiln plastics Products, (supra) and the observations in Babbar Sewing Machine Company vs Trilok Nath Mahajan, (supra) and concluded: PG NO 353 "It is true that the Supreme Court did not express, any opinion on the question, but it is apparent that the Supreme Court was inclined to hold that the defendant was, entitled to cross examine the witnesses of the plaintiff.
+The above decisions of the Supreme Court do not support the observations made in the Full Bench case referred to above, namely, that when the defence of the defendant has been struck out he would not be permitted to cross examine the plaintiff 's witnesses when they give evidence.
+In the circumstances we hold that in a case where the defence of the defendant is struck out under the provision of section 17(3) of the West Bengal Premises Tenancy Act, 1956, the defendant will be entitled to cross examine the plaintiff 's witnesses on all the points.
+There can be no doubt that his defence as to the service of the notice to quit and of suit will remain unaffected by the striking out of his defence against delivery of possession and he will be entitled to adduce evidence in support of that defence.
+In other words, the defendant will be entitled to participate in the proceedings and make his submissions against the plaintiff 's case for delivery of possession.
+The learned Judge was, therefore, justified in allowing the defendant to cross examine the plaintiff 's witness and to adduce evidence by examining himself on the point of notice.
+" This is the background against which the issue has to be considered by us.
+It would be useful for a proper appreciation of the two views if, at this stage, we summarise the pros and cons of the situation.
+The points urged for the plaintiff are (a) In a statute hedged in with all protection to a tenant against eviction, one important safeguard to the landlord is in this provision which seeks to assure him at least of the prompt payment of the rents lawfully due to him.
+The tenant is compelled to pay up the rent on pain of losing his right of defence against ejectment.
+This is a provision which should be strictly enforced and full effect given to this right of the landlord.
+(b) Defence being struk off does not merely mean the exclusion of the written statement or the positive case, if any.
+which the defendant wishes to plead.
+It means also the exclusion of all modes of his participation in the suit qua the plea of ejectment.
+Cross examination of the plaintiff 's witnesses and putting forth arguments demolishing the PG NO 354 plaintiff 's case are as crucial and vital parts of the defence as the putting in of a written statement or examination of his own witnesses.
+(c) In like situations any similar default on the part of the plaintiff will spell the dismissal of his suit.
+(Order 11 Rule 21 C.P.C.) On like analogy, the defendant in default should be made liable for ex parte eviction straightaway.
+Restrictions are already placed on this right of the plaintiff by requiring that he has to establish his case by leading evidence to substantiate the same.
+There is no justification for imposing on him further handicap of the defendant 's participation, even to a limited extent.
+(d) The concession that the defendant can cross examine the plaintiff 's witnesses or put forward arguments to demolish the plaintiff 's case will lead to confusion and practical difficulties.
+The pleas sought to be taken by the defence in section B. Trading Co. vs Olympia Trading Coprn.
+Ltd., AIR 1952 Cal.
+685 and in Bela Das vs Samarendra Nath Bose, ; (e) Apart from the view of Sarkar, J. and the decision of the Full Bench in Gurudas Biswas vs Charu Panna Seal, AIR 1977 Cal. 110, the Patna High Court in Ganesh Ram vs Smt.
+Ram Lakhan Devi, also has taken to similar view and held that such a defendant cannot be allowed to lead evidence in support of his pleas in defence.
+(f) Under Order 8 Rule 5 of the C.P.C., when there is no written statement, the averments in the plaint are to be taken as correct and, if they are sufficient under the terms of the statute, a decree has to follow as a matter of course.
+On the other hand, the aspects stressed by the defendant are: (a) The expression "defence being struck out" obviously relates to the consideration of a document being ruled out.
+PG NO 355 It suggests that the intention is only that the written statement should be excluded from consideration.
+Even treating the expression as equivalent to a direction that the court should proceed as if the defendant had not entered appearance at all, the tenant 's position cannot be worse than that of a similarly placed defendant under the Original Side Rules of the Calcutta High Court or under the C.P.C. (b) It is well established that mere absence of defence cannot make the plaintiff entitled to a decree straightaway.
+Defence or no defence, the plaintiff in a suit has to satisfy the court that he has a case which deserves to be decreed.
+In particular, in an eviction suit, under the rent laws, the court has to be satisfied that the statutory conditions justifying eviction are fulfilled.
+This the plaintiff can establish only by leading evidence and such evidence will not be worth anything unless tested by cross examination.
+The cross examination of the plaintiff 's witnesses is more an integral part of the plaintiff 's case than an aspect of defence.
+(c) The Calcutta High Court has uniformly held that, even in an undefended action, a challenge on ground of non issue or invalidity of the notice under section 13(6) would be available to the defendant.
+Though the notice has to be issued prior to the institution of a suit and, in this sense, is a pre condition to the filing of the suit, the non issue or invalidity is just one of the pleas that can be raised in defence.
+If a tenant whose defence is struck off can raise that plea, there is no reason why he should not be allowed to do other things to show that the plaintiff is not entitled to a decree.
+(d) The observations of this Court in Sangram Singh, Paradise Industrial Corpn.
+and Eabbar Sewing Machine Company, (supra) are categorical and directly on this aspect of procedural law and deserve to be followed in the context of like provisions of tenancy legislations as well.
+We have considered the contentions urged on behalf of both the parties and the respective view points of the two lines of decisions of the High Court.
+We have also perused the decisions of this Court to which reference has been made.
+Though none of them is a direct decision on the issue before us, the observations made, in so far as they enunciate general principles and relate to analogous statutory provisions are most helpful and instructive.
+After PG NO 356 giving careful thought to all the aspects, we have come to the conclusion that the view expressed in the case under appeal by Ramendra Mohan Dutta, Acting Chief Justice, is preferable to the view taken by the other two learned Judges.
+It is a more liberal and equitable view and also one consistent with the requirements of justice in such cases.
+We proceed now to set out the reasons for our conclusion.
+A provision like the one in section 17(4) is a provision in terrorem.
+It penalises the defendant for certain defaults of his.
+As pointed out by the decisions earlier referred to, the court will act with great circumspection before striking out the defence of a tenant under this provision.
+This Court has interpreted provisions like this in rent acts to say that striking off of defence is not obligatory on the court merely because there is a default and that it is a matter for exercise of great judicial restraint.
+But it does not necessarily follow that, once the defence is struck off, the defendant is completely helpless and that his conduct of the case should be so crippled as to render a decree against him inevitable.
+To hold so would be to impose on him a punishment disproportionate to his default.
+The observations made by this Court, while discussing the provisions of the Code of Civil Procedure, and the Original Side rules of the Calcutta High Court which deal with some what analogous situations, cannot be lightly brushed aside.
+I hose decisions have enunciated a general equitable principle.
+We are also of the same view that provisions of this type should be construed strictly and that the disabilities of a person in default should he limited to the minimum extent consistent with the requirements of justice.
+This should be all the more so in the context of a tenancy legislation.
+the main object of which is to confer protection on tenants against eviction by the landlord.
+unless certain statutory conditions are fulfilled.
+I he provisions should not be given any wider operation than could have been strictly intended by the legislature.
+It has already been noticed that, in the Calcutta High Court.
+there has been unanimity on the point that, even where defence is struck out, the validity of the notice under section 13(6) is challengeable.
+This has been the settled view of that court for several years now which it would be inequitable to disturb after such a long time.
+This type of cases, however, has been sought to be distinguished on the ground that such notice is a condition precedent to the institution of the suit and cannot perhaps be described as a defence to the suit.
+This, however, is too tenuous a distinction.
+For, in truth and substance the plea regarding the validity of the notice has invariably to be taken as a plea in defence in such suits.
+The rule, therefore, is PG NO 357 really an exception to the strict application of a rule that a tenant whose defence is struck off cannot be heard at all against the plea of ejectment.
+We agree that full effect should be given to the words that defence against ejectment is struck off.
+But does this really deprive the defendant tenant of further participation in the case in any manner? While it is true that, in a broad sense, the right of defence takes in, within its canvass, all aspects including the demolition of the plaintiff 's case by the cross examination of his witnesses, it would be equally correct to say that the cross examination of the plaintiff 's witnesses really constitutes a finishing touch which completes the plaintiff 's case.
+It is a well established proposition that no oral testimony can be considered satisfactory or valid unless it is tested by cross examination.
+The mere statement of the plaintiff 's witnesses cannot constitute the plaintiff 's evidence in the case unless and until it is tested by cross examination.
+The right of the defence to cross examine the plaintiff 's witnesses can, therefore, be looked upon not as a part of its own strategy of defence but rather as a requirement without which the plaintiff 's evidence cannot be acted upon.
+Looked at from this point of view it should be possible to take the view that, though the defence of the tenant has been struck out, there is nothing in law to preclude him from demonstrating to the court that the plaintiff 's witnesses are not speaking the truth or that the evidence put forward by the plaintiff is not sufficient to fulfill the terms of the statute.
+To us it appears that the basic principle that where a plaintiff comes to the court he must prove his case should not be whittled down even in a case where no defendant appears.
+It will at once be clear that to say that the Court can only do this by looking the plaintiff 's evidence and pleadings supplemented by such questions as the court may consider necessary and to completely eliminate any type of assistance from the defendant in this task will place the court under a great handicap in discovering the truth or otherwise of the plaintiff 's statements.
+For after all, the court on its own motion, can do very little to ascertain the truth or otherwise of the plaintiff 's averments and it is only the opposite party that will be more familiar with the detailed facts of a particular case and that can assist the court in pointing out defects, weaknesses, errors and inconsistencies of the plaintiff 's case.
+We, therefore, think that the defendant should be allowed his right of cross examination and arguments.
+But we are equally clear that this right should be subject to PG NO 358 certain important safeguards.
+The first of these is that the defendant cannot be allowed to lead his own evidence.
+None of the observations or decisions cited have gone to the extent of suggesting that, inspite of the fact that the defence has been struck off, the defendant can adduce evidence of his own or try to substantiate his own case.
+Secondly, there is force in the apprehension that if one permits cross examination of the plaintiff 's witnesses by the defendant whose defence is struck off, procedural chaos may result unless great case is exercised and that it may be very difficult to keep the cross examination within the limits of the principles discussed earlier.
+Under the guise of cross examination and purported demolition of the plaintiff 's case, the defendant may attempt to put forward pleas of his own.
+To perceive quickly the difference between questions put out to elicit a reply from the plaintiff which may derogate from his own case and questions put out to substantiate pleas in defence which the defendant may have in mind and to restrict the cross examination to its limits will be not easy task.
+We think, however, that this is a difficulty of procedure, rather than substance.
+As pointed out by Ramendra Mohan Dutta, J. this is a matter to be sorted out in practical application rather than by laying down a hard and fast rule of exclusion.
+A third safeguard which we would like to impose is based on the observations of this court in Sangram Singh 's case.
+As pointed out therein, the essence of the matter in all such cases is that the latitude that may be extended by the court to the defendant inspite of his not having filed a written statement, should not cause prejudice to the plaintiff.
+Where the defendant does not file a written statement or where he does not appear to contest the case the plaintiff proceeds on the basis that there is no real opposition and contents himself by letting in just enough evidence to establish a prima facie case.
+Therefore, the court should ensure that by permitting the defendant at a later stage either to cross examine the witnesses or to participate in the proceeding the plaintiff is not taken by surprise or gravely prejudiced.
+This difficulty however can be easily overcome in practice, because there is a wide discretion with the court and it is always open to the court, where it believes that the plaintiff has been misled, to exercise its discretion to shut out cross examination or to regulate it in such manner as to avoid any real prejudice to the interests of the plaintiff.
+An objection to our above conclusion has been raised on the basis of the provisions of Order VIII of the Code of Civil Procedure.
+Rules 1, 5 and 10 of this Order have been PG NO 359 recently amended by the Amendment Act of 1976.
+We find nothing in these rules which will support the contention urged on behalf of the respondents.
+Rule 1 merely requires that the defendant should present a written statement of his defence within the time permitted by the court.
+Under rule 5(2), where the defendant has not filed a pleading it shall be lawful for the court to pronounce judgment on the basis of the facts contained in the plaint except against a person under disability but the court may in its discretion require any such fact to be proved.
+Again under rule 10 when any party from whom a written statement is required fails to present the same within the time permitted or fixed by the court, the court "shall pronounce judgment against him or make such order in relation to the suit as it thinks fit.
+" It will be seen that these rules are only permissive in nature.
+They enable the court in an appropriate case to pronounce a decree straightaway on the basis of the plaint and the averments contained therein.
+Though the present language of rule 10 says that the court "shall" pronounce judgment against him, it is obvious from the language of the rule that there is still an option with the court either to pronounce judgment on the basis of the plaint against the defendant or to make such other appropriate order as the court may think fit.
+Therefore, there is nothing in these rules, which makes it mandatory for the court to pass a decree in favour of the plaintiff straightaway because a written statement has not been filed.
+Reference was made before us to sub rule 1 of rule 5.
+This sub rule, however, has application only in a case where a pleading is filed but does not contain a specific or implicit denial of the averments contained in the plaint or other document to which it is a reply.
+Rule 5(1) cannot be made use of to sustain the contention that where there is no written statement the court is bound to accept the statements contained in the plaint and pass a decree straightaway.
+These provisions of the Code of Civil Procedure, far from supporting the contentions of the plaintiff that a decree on the basis of the plaint should follow a failure to file the written statement.
+rather indicate a contrary position, namely, that even in such cases, it is a matter for the court to exercise a discretion as to the manner in which the further proceedings should take place.
+We, therefore, do not think that the terms of Order VIII in any way conflict with the conclusion reached by us.
+For the above reasons, we agree with the view of Ramendra Mohan Dutta, ACJ that, even in a case where the defence against delivery of possession of a tenant is struck off under section 17(4) of the Act, the defendant, subject to the exercise of an appropriate discretion by the court on the facts of a particular case, would generally be entitled: PG NO 360 (A) to cross examine the plaintiff 's witnesses; and (b) to address argument on the basis of the plaintiff 's case.
+We would like to make it clear that the defendant would not be entitled to lead any evidence of his own nor can his cross examination be permitted to travel beyond the very limited objective of pointing out the falsity or weaknesses of the plaintiff 's case.
+In no circumstances should the cross examination be permitted to travel beyond this legitimate scope and to convert itself virtually into a presentation of the defendant 's case either directly or in the form of suggestions put to the plaintiff 's witnesses.
+For reasons mentioned above, we allow the appeal and restore the suit before the trial Judge for being proceeded with in the light of the above conclusions.
+We direct that the costs of this appeal will form part of the costs in the suit and will abide by the result thereof.
+S.L. Appeal allowed.

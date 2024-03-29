@@ -1,0 +1,37 @@
+The assessee company, carrying on the business of crushing sugar cane and gur refining, apprehending loss, entered into a lease with another company.
+Under cl.
+(7) of the indentures the consideration of the lease.
+was royalty payable on the manufacture of sugar and molasses and was, subject to a minimum payment of Rs. 65,000 per annum.
+The lease was.
+for a term of 5 years commencing from 1st June 1945 with an option to continue for a further term of 5 years and thereafter with two further options of 5 years on the same terms and conditions subject to payment of higher rates of royalty.
+Clauses 2 to 5 provided that the existing machinery which was owned by the lessor could not be removed and that the lessee would be entitled to set up additional machinery without interference from the lessor and that on the termination of the lease the lessee would be entitled to remove the same without causing any damage to the property demised.
+The effect of cls.
+11 to 14 was that the lessor would have no concern with the production of the factory which was the principal part of the business previously carried on by the lessor.
+In assessment proceedings for the assessment year 1955 56, the assessee contended that the lease was a lease of a commercial asset and therefore the income arising from it should be assessed under section 10 of the Income tax Act, 1922, and hence, the assessee should be allowed depreciation and development rebate in accordance with cls.
+(vi a) and (vi b) of section 10(2).
+The department and the High Court rejected the assessee 's contention and held that the income was liable to be assessed under section 12 as 'income from other sources ' and that no additional depreciation and development rebate could be allowed.
+In appeal to this Court it was contended that : (1) the income of the assessee was liable to be assessed under section 10 of the Income tax Act and, not under section 12; and (2) Since the benefit under cl.
+(vi) of section 10(2) is allowed to the assessee under section 12(3), the assessee should be held to be entitled to additional depreciation and development rebate under cls.
+(vi a) and (vi b) even if the assessment was under section 12, on the ground that those two clauses are ancillary to cl.
+(vi) and should be taken to have been included in section 12(3) along with cl.
+HELD : (1) The income of the assessee could not be characterised ' as income from the activity of the assessee carrying on any business and ' was therefore, liable to be assessed under section 12 and not under section 10 of the, income tax Act.
+[769 F G] The primary condition for the application of section 10 is that the tax is payable by an assessee under the head 'profits and gains of business ' in respect of business carried on by him.
+When an assessee does not carry on business at all, section 10 cannot be applicable and the income that he receives cannot bear the character of profits of business.
+[769 D E] 762 In the present case, a scrutiny of all the clauses of the indenture of lease, shows that the intention of the assessee was to go out of the business altogether, so far as the factory and machinery were concerned with effect from 1st June 1945, to part with the entire machinery of the factory and the premises with the purpose of earning rental income, and to use the income arising from the royalty in its capacity as owner of the factory.
+It was not the intention of the assessee to treat the factory and machinery as a commercial concern or asset during the subsistence of the lease.
+The provision for payment of minimum royalty indicates that the assessee had no direct interest in the production of the factory.
+The royalty was not paid for the production in the factory.
+There was no direct nexus between the income of the assessee and the production of the factory.
+The production was only a measure of the royalty to be paid and had nothing to do with the character of the payment as a receipt from business or from other sources.
+[769 C D, E F] Commissioner of Excess Profit Tax, Bombay City vs Shri Lakshmi Silk Mills Ltd. and Narain Swadeshi Weaving Mills vs Commissioner of Excess Profits Tax, , distinguished.
+(2)Clause (vi a), which was inserted in the Act in 1949, gives additional depreciation allowance over and above the initial allowance which was previously available under cl.
+(vi) in respect of buildings newly erected and new machinery and plant but not furniture installed after 31st March 1948.
+The additional allowance is confined to not more than 5 successive assessments falling within the period from 1st April 1949 and 31st March 1959.
+It is deductible in determining the written down value, unlike the initial allowance granted under cl.
+Clause (vi b) was inserted by the Finance Act, 1955.
+It grants development rebate in respect of machinery and plant provided that the machinery or plant is new and has been installed after 31st March 1954, and provided further that it is used wholly for the purpose of the assessee 's business and the particulars prescribed for the purpose of cl.
+(vi) have been furnished.
+Clauses (Vi a) and (vi b) thus introduce a new scheme and cannot be treated as an integral part of cl.
+(vi) by implication.
+Further, it is not permissible for the Court to read the clauses by implication into section 12(3) and (4), because, the clauses were not specifically engrafted by Parliament into section 12 while amending section 10(2).
+[771 E H; 772 A B] Kumar Kamalaranjan Roy vs Secretary of State, L.R. 66 I.A. 110, referred to.

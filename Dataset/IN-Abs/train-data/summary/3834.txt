@@ -1,0 +1,51 @@
+Bengal Finance (Sales Tax) Act, 1947 was applied to the Union Territory of Delhi subject to certain modifications by a notification dated 28 4 1951.
+Every dealer whose gross turnover exceeds the taxable quantum is liable to pay tax on sales effected by him after a specified date and while he is liable to pay tax, he cannot carry on business unless he gets himself registered and possesses a registration certificate.
+The tax is leviable on a dealer in respect of his taxable turnover.
+To compute taxable turnover of a dealer, certain deductions are required to be made from his gross turnover and one of the deductions is that set out in section 5(2)(a)(ii).
+What is permitted to be deducted under this provision is turnover of sales to a registered dealer of goods of the class or classes specified in his certificate of registration as being intended for resale by him or for use by him as raw materials in the manufacture of goods for sale.
+The first proviso enacts that the turnover of sales covered by section 5 (2) (a) (ii) would be deductible only if a declaration duly filled in and signed by the Registered dealer to whom the goods are sold and containing the prescribed particulars in prescribed form is furnished by the selling dealer.
+The requirement of such declaration as condition of deduction is clearly intended to prevent fraud and promote administrative efficiency.
+The second proviso provides that where any goods specified in the certificate of registration are purchased by a registered dealer as being intended for resale by him or for use by him as raw materials in the manufacture of goods for sale but are utilised by him for any other purpose the price of the goods purchased shall be allowed to be, deducted from the gross turnover of the selling dealer but shall be included in the taxable turnover of the purchasing dealer.
+There are broadly two groups in which the appeals and the writ petitions can be divided.
+One group consists of appeals where the assessees purchased goods of the class specified in the certificate of registration as being intended for resale by them and furnished to the dealers selling the goods, declarations in the prescribed form stating that the goods were intended for resale kind thereafter resold the goods though not within, the territory of Delhi.
+The second group consists of appeals where the assessees Purchased goods of the class specified in the certificate of registration as being intended for use by there.
+as raw materials in the manufacture of goods for sale and furnished to the prescribed particulars in prescribed form is furnished by the selling dealer, the dealers selling the goods declarations in the prescribed form stating that the goods were purchased by them for use as raw materials in the manufacture of goods for sale and thereafter used the goods purchased as raw materials in the manufacture of goods, in some cases outside Delhi and in some others inside, but in the after.
+sold the goods so manufacturer outside Delhi.
+The High Court of Delhi negatived the contention of the assessees that they were not covered by the second proviso to section 5(2) (a) (ii).
+The High Court took the view that for the purposes of section 5(2)(a)(ii) and the second proviso, resale of the goods purchased was confined to, resale inside Delhi and so also use of the goods purchased is raw materials in the manufacture of goods and 99 sale of manufactured goods were required to be, inside Delhi and, therefore, if the assessees resold the goods outside Delhi or used them as raw materials in the manufacture outside Delhi, or even if the manufacture was inside Delhi sold the goods manufactured outside Delhi, there was utilisation of the goods by the assessees for a purpose other than that for which they were purchased and hence the second proviso to section 5(2)(a)(ii) was attracted and the price of the goods purchased was liable to be included in the taxable turnover of the assessees The question for consideration was whether "resale" under section 5 (2) (a)(ii) and the second proviso means,resale any where without any geographical limitation or it is confined only to resale inside Delhi.
+The Revenue contended (1) the words "inside the Union territory of Delhi" are not to be found in section 5 (2) (a) (ii) and the second proviso but they must be read in these provisions as a matter of construction because (a) if resale outside Delhi were held to be within the terms of section 5(2)(a)(ii) and the second proviso, the Union territory of Delhi would lose tax altogether in cases where the goods were resold outside Delhi.
+The intention of the Legislature was to recover tax at only one point while the goods were in the stream of trade.
+(b) the Legislature had no legislative competence to tax sale outside Delhi.
+Therefore, resale ", 'thin the meaning of section 5(2)(a)(ii) and the second proviso could not possibly include resale outside Delhi.
+(c) the words "by him" following upon the word "resale" in section 5(2)(a)(ii) and the second proviso clearly indicated 'that the resale contemplated under these provisions was resale by the purchasing dealer as a registered dealer and since the concept of registered dealer has relation only to sale inside Delhi, the resale must be within the territory of Delhi.
+Allowing the appeals and Writ Petitions, HELD : 1.
+It is a well settled principle of interpretation that a statutory enactment must or ordinarily be construed according to the plain natural meaning of its language and that no words should be added, altered or modified unless it is plainly necessary to do so in order to prevent a provision from being unintelligible absurd unreasonable unworkable or totally irreconcilable with the rest of the statute.
+[11OA] R. vs Dakees , Federal Steam Navigation Co. Ltd: vs V. Department of Trade & Industry, , Narayanaswani vs Pannersalvam & Ors. ; relied on.
+Addition to or modification of words used in statutory provision is generally not permissible but the court may depart from this rule to avoid a patent absurdity.
+There are no words such as 'inside the Union territory of Delhi" qualifying resale so as to limit it to resale within the territory of Delhi.
+The Legislature could have easily used such words if its intention was to confine resale within the territory of Delhi but it omitted to do so.
+[IIIA, B, E] Attorney General Sillen [1964] 2 H & C at 526 referred to.
+The absence of specific words limiting resale inside the territory of Delhi is not without significance and it cannot be made good bya process of judicial construction, for to do so would be to attribute to the Legislature and intention which it has not chosen to express and to usurp the legislative function.
+It is obvious that resale is subsequent sale after the first and it must, therefore, have the some meaning as 'sale ' defined in section 2(g).
+The definition of sale in section 2(g) is a general definition which does not limit it to a sale inside the territory of Delhi.
+Even a sale outside the territory of Delhi is within the coverage of the definition.
+Section 5(2)(a)(ii) does not see to impose any tax on resale.
+What it does is to provide deduction in respect of 100 sale to a registered dealer.
+Even under the second proviso, what is taxed is the ' just sale made by tile, selling dealer and not the resale made by the purchasing dealer.
+Thus there is no tax sought to be imposed on the resale under section 5(2)(a)(ii) or the second proviso and the argument of lack of legislative competence has no substance.
+It would, be straining the language of the enactment too much to say that the words "by him" are intended to mean by him as a registered dealer.
+[112B D, El G. 113D] 3.
+The argument of the Revenue that the Legislature could never have intended that the Union territory of Delhi should be altogether deprived of tax in cases of this kind is erroneous.
+It is not correct that the legislative intent was to exempt the sale.
+to the purchasing dealer only in those cases where the Union territory of Delhi would be able to recover the tax on resale of the goods by the purchasing dealer.
+It is now well settled that when the Court is construing a statutory enactment the intention of the Legislature should be gathered from the language used by it and it is not permissible to the court to speculate about the Legislative intent.
+[114C D] Saloman vs Saloman & Co. Ltd. ; , at 38 and, Back Clawson International Ltd. vs Papierwerke Waldhof Aschaffenburg ; at 814, relied on.
+Section 5(1)(a)(ii) and the second proviso occur in a taxing statute and it is a well settled rule of interpretation that in construing a taxing statute one must have regard to the strict letter of the law and not merely to the spirit of the Statute or the substance of the law.
+[116A] Cape Brandy Syndicate vs Inland Revenue Commissioner referred to.
+It would be flying in the face of well settled rules of construction of a taxing statute to read the words "inside the Union territory of, Delhi" in section 5(2)(a)(ii) and the second proviso, when the Plain and undoubted effect of the addition of such words would be to expose a purchasing dealer to penalty.
+[H116E] 6.
+During the period the department administered the Act in West Bengal and for few years in Delhi, they administered it on the basis that resale was not confined to resale inside the State of West Bengal or Union territory of Delhi.
+It is true that the view of the department as to the meaning of a Statute which is administered by them is not admissible as an aid to construction, because wrong practice does not make the law, but long acquiescence of the Legislature in the interpretation put upon an enactment may be regarded as some sanction and approval of it.
+The circumstance that for long years the Legislature did not intervene to amend the law by adding words "inside the Union territory of Delhi" even though the Revenue was continually administering the law on the basis that resale means resale anywhere does throw some light on the intention of the Legislature.
+The subsequent amendment also throws light on the intention of the Legislature.
+[117A E, 118A]

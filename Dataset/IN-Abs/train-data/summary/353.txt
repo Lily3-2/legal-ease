@@ -1,0 +1,18 @@
+The appellants share broker carrying on business in the City of Bombay and a member of the Native Share and Stock Brokers ' 858 Association was employed by the respondent for effecting sales and purchases of shares on her behalf.
+The appellant effected purchases of 25 shares of Tata Deferred and 350 shares of Swadeshi Mills to square the outstanding sales of the same number of shares standing in her name and sent the relative contract notes therefor to her.
+She repudiated the contracts on the ground that the appellant had not been authorised to close the transactions on the date mentioned by him and asked him to square them at a later date.
+The appellant maintained that the transactions had been closed in accordance with her instructions.
+The appellant referred the dispute for arbitration to the Native Share and Stock Brokers ' Association in pursuance of an arbitration clause in the contract notes.
+The respondent refused to submit to arbitration of the association on the ground that the contract notes were void and therefore no arbitration proceedings could be taken thereunder.
+The arbitrators made an award in favour of the appellant in the absence of the respondent who declined to take part in the proceedings.
+The respondent filed an application for setting aside the award.
+The Bombay High Court held that the contracts in question were not ready delivery contracts as defined in section 3(4) of the Bombay Securities Contracts Control Act VIII of 1925 and that they were accordingly void under section 6 of the Act and therefore the arbitration clause and the proceeding taken thereunder culminating in the award were also void.
+Held that apart from the question whether the contracts in question were for ready delivery or not, they were outside the purview of section 6 of Bombay Act VIII of 1925 because they were not contracts for sale and purchase of securities.
+The dispute between the parties was as to whether the appellant was acting within the scope of his authority when he purchased the shares.
+If he was acting within his authority, the respondent was liable to him.
+If those purchases were unauthorised, the appellant was liable to the respondent for damages.
+In either case the dispute was one which arose out of the contract of employment of the appellant by the respondent as a broker and not out of any contract of sale or purchase of securities.
+The relationship between the respondent and the appellant was that of principal and agent, and not that of seller and purchaser.
+The contract notes sent by brokers to their constituents are not themselves contracts for sale or purchase of securities within section 6 of the Bombay Act VIII of 1925 but only intimations by the broker to the constituent that such contracts had been entered into on his behalf.
+It is settled law that to constitute an arbitration agreement in writing it is not necessary that it should be signed by the parties, and that it is sufficient if the terms are reduced to writing and the agreement of the parties thereto is established.
+The Rules framed by the Native Share and Stock Brokers ' Association, Bombay form a code complete in itself and any question 859 arising with reference to those Rules must be determined on their construction and it would be a mistake to read into them the statutory provisions enacted in the Bombay Act VIII of 1925 and therefore the contract notes cannot be held to be void under Rule 167.

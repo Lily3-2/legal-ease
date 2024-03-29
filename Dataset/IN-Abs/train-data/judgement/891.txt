@@ -1,0 +1,80 @@
+: Civil Appeals Nos. 249 & 250 of 1958.
+Appeals by special leave from the judgment and order dated March 7, 1956, of the Bombay High Court in I.T.R. Nos. 52 and 53 of 1955.
+K. N. Rajagopal Sastri and D. Gupta, for the appellant (in both the appeals).
+N. A. Palkhivala, section N. Andley and J. B. Dadachanji, for the respondent (in both the appeals).
+April 14.
+The Judgment of the Court was delivered by section K. DAS, J.
+These two appeals with special leave have been heard together.
+They arise out of similar facts and the question of law arising therefrom is the same.
+The short facts are these.
+One Balkrishna Purushottam Purani died on November 11, 1947.
+He left behind him three widows and two daughters.
+The three widows were named Indira, Ramluxmi and Prabhuluxmi.
+These widows as legal heirs inherited the estate of the deceased, which consisted of immovable properties situate in Ahmedabad, shares in Joint Stock Companies, money lying in deposit, and share in a registered firm.
+For the two assessment years 1950 51 and 1951 52 (the corresponding account years being the Sambat years 2005 and 2006) the Incometax Officer issued notices to the legal heirs of Balkrishna Purushottam Purani.
+Pursuant to those notices, returns were filed under the heading, " Legal heirs of Balkrishhna Purushottam Purani ", in one case 515 and in the name of the 'estate of Balkrishna in the other; the status was shown as " individual " in one case and " association of persons " in the other.
+They were signed by Indira, one of the three widows.
+For the assessment year 1950 51 the total income was shown as under Rs. Property. 11,011 Share from registered firm.
+4,071 Dividends.
+51,796 Interest. 22,343 Ground rent. 125 Total. . 69,346 For the assessment year 1951 52, the total income was shown as Rs. Property .
+10,879 Share from registered firm.
+460 Dividends.
+80,426 Interest on deposits. . 536 Ground rent. 125 Total. . 92,426 For both years the Income tax Officer took the status of the assessee as an " association of persons " and on that footing made two assessment orders.
+There was an appear to the Appellate Assistant Commissioner, and two of the points taken before him were(a) that the three widows ought to have been assessed separately and not as an " association of persons ", and (b) that in any event, the income from property ought to have been assessed separately in the hands of the three widows by reason of the provisions in section 9(3) of the Income tax Act, 1922.
+The Appellate Assistant Commissioner rejected point (a) but accepted point (b).
+Then, there was a further appeal to the 516 Income tax Appellate Tribunal, Bombay.
+The Tribunal held that the entire estate of deceased Balkrishna Purushottam Purani was inherited and possessed by the three widows as joint tenants and its income was liable to be assessed in their hands in the status of an association of persons.
+The Tribunal further held that the Appellate Assistant Commissioner was wrong in holding that the shares of the three widows were definite and determinable and section 9(3) was applicable.
+The assessee then moved the Tribunal to refer certain questions of law which arose out of its orders to the High Court of Bombay.
+The Tribunal referred four such questions, but we are now concerned with only one of them, viz., question No. 3 which was in the following terms: " (3) Whether on the facts and in the circumstances of the case the Tribunal was right in holding that the assessment made on the three widows of Balkrishna Purushottam Purani in the status of an association of persons is legal and valid in law ? " Two references were made to the High Court in respect of the orders passed for two assessment years and they gave rise to Income tax References Nos. 52 and 53 of 1955.
+The leading judgment was given in T. T. It.
+52 of 1955.
+The High Court held that the Tribunal was in error in coming to the conclusion that the three widows could be assessed in the status of an association of persons with regard to the income which they earned as heirs of their deceased husband.
+Therefore, it answered question No. 3 in the negative.
+The department represented by the Commissioner of Income tax, Bombay, then applied to this Court and obtained special leave to appeal from the judgment and orders of the High Court of Bombay in the two References.
+These two appeals have been filed in pursuance of the special leave granted by this Court.
+The appellant is the Commissioner of Income tax, Bombay, and the assessee is the respondent.
+The argument on behalf of the appellant is that the High Court was in error when it said that " what is required before an association of persons can be liable to tax is not that they should receive income but that 517 they should earn or help to earn income by reason of their association, and if the case of the Department stops short at mere receipt of income, then the Department must fail in bringing home the liability to tax of individuals as an association of persons.
+" It is submitted that the High Court did not, in the statement quoted above, lay down the correct test for determining what is an " association of persons " for the purposes of the Income tax Act.
+Before we go on to discuss the argument presented on behalf of the appellant, it is necessary to clear the ground by stating what is the position of co widows in Mitakshara succession and what are the findings arrived at by the Tribunal.
+The position of co widows is well settled.
+They succeed as co heirs to the estate of their deceased husband and take as joint tenants with rights of survivorship and equal beneficial enjoyment ; they are entitled as between themselves to an equal share of the income.
+Though they take as joint tenants, no one of them has a right to enforce an absolute partition of the estate against the others so as to destroy their right of survivorship.
+But they are entitled to obtain a partition of separate portions of the property so that each may enjoy her equal share of the income accruing therefrom.
+The Tribunal found that the widows in this case did not exercise their right to separate possession and enjoyment and " they chose to manage the property jointly, each acting for herself and the others and receiving the income of the property which they were entitled to enjoy in equal shares.
+" Learned counsel for the appellant has emphasised before us the aforesaid finding of the Tribunal and has contended that on the finding of joint management, the widows fulfilled even the test laid down by the High Court and constituted an an "association of persons" for taxing purposes.
+The High Court, however, rightly pointed out that the only property which the widows could have managed jointly was the immovable property which fetched an income of about Rs. 11,000, and as to that property, the Appellate Assistant Commissioner had held that section 9 (3) applied.
+There was no appeal by the Department against that finding and it was not 68 518 open to the Tribunal to go behind it.
+Even on merits the Tribunal was wrong in thinking that the respective shares of the widows were not definite and ascertainable.
+They had an equal share in the income, viz., one third each, and the provisions of section 9 (3) clearly applied in respect of the immovable property.
+With regard to the shares, dividends and interest on deposits there was no finding of any act of joint management.
+Indeed, the main item consists of the dividends and it is difficult to understand what act of management the widows performed in respect thereof which produced or helped to produce income.
+On the contrary, the statement of the case shows that the assessee filed lists of shares, copies whereof are marked annexure C and form part of the case, which showed that the shares stood separately in the name of each one of the three widows and this was not denied by the Department.
+We now come to the main question in this appeal.
+What constitutes an " association of persons " within the meaning of the Income tax Act ? It has been repeatedly pointed out that the Act does not define what constitutes an association of persons, which under section 3 of the Act is an entity or unit of assessment.
+Previous to the year 1924, the words of section 3 were " individual, company, firm and Hindu undivided family." By the Indian Income tax Amendment Act of 1924 (Act XI of 1924) the words " individual, Hindu undivided family, company, firm and other association of individuals " were substituted for the former words.
+By the Income tax Amendment Act of 1939 (Act VII of 1939) the section was again amended and it then said: " Where any Act of the Central Legislature enacts that income tax shall be charged for any year at any rate or rates, tax at that rate or those rates shall be charged for that year in accordance with, and subject to the provisions of, this Act in respect of the total income of the previous year of every individual, Hindu undivided family, company and local authority, and of every firm and other association of persons or the partners of the firm or members of the association individually.
+" 519 By the same Amending Act (Act VII of 1939) sub section
+(3) of section 9 was also added.
+Now, section 3 imposes a tax " in respect of the total income. . . . of every individual, Hindu un divided family, company and local authority, and of every firm and other association of persons or the partners of the firm or members of the association individually.
+" In the absence of any definition as to what constitutes an association of persons, we must construe the words in their plain ordinary meaning and we must also bear in mind that the words occur in a section which imposes a tax on the total income of each one of the units of assessment mentioned therein including an association of persons.
+The meaning to be assigned to the words must take colour from the context in which they occur.
+A number of decisions have been cited at the bar bearing on the question, and our attention has been drawn to the controversy as to whether the words " association of individuals " which occurred previously in the section should be read ejusdem generis with the word immediately preceding, viz., firm or with all the other groups of persons mentioned in the section.
+Into that controversy it is unnecessary to enter in the present case.
+Nor do we pause to consider the widely differing characteristics of the three other associations mentioned in the section, viz., Hindu undivided family, a company and a firm, and whether in view of the amendments made in 1939 the words in question can be read ejusdem generis with Hindu undivided family or company.
+It is enough for our purpose to refer to three decisions: In re: B. N. Elias and Others (1); Commissioner of Income tax, Bombay vs Laxmidas Devidas and Another("); and In re: Dwarakanath Harishchandra Pitale and Another(3); In In re: B. N. Elias and Others (1) Derbyshire, C. J., rightly pointed out that the word " associate " means, according to the Oxford dictionary, " to join in common purpose, or to join in an action." Therefore, an association of persons must be OD e in which two or more persons join in a common purpose or common action, and as the words occur in (1) (2) (3) 520 a section which imposes a tax on income, the association must be one the object of which is to produce income, profits or gains.
+This was the view expressed by Beaumont, C. J., in Commissioner of Income tax, Bombay vs Laxmidas Devidas and Another (1) at page 589 and also in Re: Dwarakanath Harishchandra Pitale and Another (2).
+In re: B. N. Elias (3 ) Costello, J., put the test in more force full language.
+He said "It may well be that the intention of the legislature was to hit combinations of individuals who were engaged together in some joint enterprise but did not in law constitute partnership When we find that there is a combination of persons formed for the promotion of a joint enterprise then I think no difficulty arises in the way of saying that these persons did constitute an association We think that the aforesaid decisions correctly lay down the crucial test for determining what is an association of persons within the meaning of section 3 of the Income tax Act, and they have been accepted and followed in a number of later decisions of different High Courts to all of which it is unnecessary to call attention.
+It is, however, necessary to add some words of caution here.
+There is no formula of universal application as to what facts, how many of them and of what nature, are necessary to come to a conclusion that there is an association of persons within the meaning of section 3; it must depend on the particular facts and circumstances of each case as to whether the conclusion can be drawn or not.
+Learned counsel for the appellant has suggested that having regard to sections 3 and 4 of the Indian Income tax Act, the real test is the existence of a common source of income in which two or more persons are interested as owner or otherwise and it is immaterial whether their shares are specific and definite or whether there is any scheme of management or not.
+He has submitted that if the persons so interested come to an arrangement, express or tacit, by which they divide the income at a point of time before it emanates from the source, then the association ceases; otherwise it continues to be an association.
+(1) (2) (3) 521 We have indicated above what is the crucial test in determining an association of persons within the meaning of section 3, and we are of the view that the test suggested by learned counsel for the appellant are neither conclusive nor determinative of the question before us.
+Coming back to the facts found by the Tribunal, there is no finding that the three widows have combined in a joint enterprise to produce income.
+The only finding is that they have not exercised their right to separate enjoyment, and except for receiving the dividends and interest jointly, it has been found that they have done no act which has helped to produce income in respect of the shares and deposits.
+On these findings it cannot be held that the three widows had the status of an association of persons within the meaning of section 3 of the Indian Income Tax Act.
+The High Court correctly answered question No. 3 in the negative.
+Accordingly, the appeals fail and are dismissed with costs.
+There will be one set of hearing fee in the two appeals.
+Appeals dismissed.

@@ -1,0 +1,84 @@
+Appeal No. 194 of 1952.
+Appeal from the Judgment and Order, dated the 7th day of September, 1951, of the High Court of Judicature at Bombay in Income tax Reference No. 46 of 1950.
+S.Mitra (R. J. Kolah and 1.
+N. Shroff, with him) for the appellant.
+M.C. Setalvad, Attorney General for India (G. N. Joshi, with him) for the respondent.
+November 1.
+The Judgment of the Court was delivered by DAS J.
+831 DAS J.
+This appeal is directed against the judgment pronounced on the 7th September, 1951, by the High Court of Judicature at Bombay on a reference made at the instance of the appellant under section 66(1) of the Indian Income tax Act, 1922.
+By an, assessment order dated the 31st March, 1948, the appellant was assessed by the Income tax Officer, Bombay, for the assessment year 1947 1948 on a total income of Rs. 19,66,782 including a sum of Rs. 9,38,011 representing capital gains assessed in the hands of the appellant under section 12 B of the Act.
+The said amount of capital gains was earned by the appellant in the following circumstances.
+The assessee had a half share in certain immovable properties situate in Bombay which were sold by the assessee and his coowners during the relevant accounting year which was the calendar year ending on the 31st December, 1946, to a private limited company known as Mafatlal Gagalbhai & Company Ltd. The profits on the sale of the said properties amounted to Rs. 18,76,023 and the appellants half share therein came to the sum of Rs. 9,38,011 which was included in the assessment under section 12 B.
+In April, 1948, the appellant appealed from the said order to the Appellate Assistant Commissioner contending that section 12 B of the Act authorising the levy of tax on capital gains was ultra vires the Central Legislature.
+The Appellate Assistant Commissioner by his order dated the 5th April, 1949, dismissed the appeal.
+A further appeal to the Income tax Appellate Tribunal was dismissed by its order dated the 30th June 1950.
+Being aggrieved by the order of the Appellate Tribunal the appellant applied to it under section 66(1) of the Act for raising certain questions of law.
+The Appellate Tribunal agreeing that certain questions of law did arise out of its order drew up a statement of the case which was agreed to by the parties and referred to the High Court the following questions: (1) Whether the imposition of a tax under the head " capital gains " by the Central Legislature was ultra vires 832 (2) Whether the imposition was in any way invalid on the ground that it was done by amending the Indian Income tax Act ? After hearing the reference the High Court following ,its judgment in Income tax Reference No. 18 of 1950, Sir J. N. Duggan and Lady Jeena J. Duggan vs The Commissioner of Income tax, Bombay City, answered the first question in the negative and expressed the opinion that it was not necessary to answer the second question.
+In that reference the two learned Judges gave the same answer to the first question but on different grounds as elaborated in their respective judgments.
+The principal question that was discussed before the High Court, as before us, was whether section 12 B which authorised the imposition of a tax on capital gains was invalid being ultra vires the Central Legislature.
+Section 12 B was inserted in the Act by the Indian Income tax and Excess Profits Tax (Amendment) Act, 1947 (XXII of 1947) which was a Central Act.
+Under section 100 of the Government of India Act, 1935, the Central Legislature was, empowered to make laws with respect to matters enumerated in List I in the Seventh Schedule to that Act.
+The only entries in List I on which reliance could be placed to uphold the impugned Act were entries 54 and 55 which were as follows: " 54.
+Taxes on income other than agricultural income.
+Taxes on the capital value of the assets,exclusive of agricultural land, of individuals and companies, and taxes on the capital of companies.
+" Chagla C. J. held that the enactment of Act XXII of 1947 which inserted section 12 B was well within the scope of the legislative powers of the Central Legislature as it fell within entry 55 and was valid either as a whole or, in any case, to the extent that it applied to individuals and companies.
+Although it was unnecessary for the learned Chief Justice to decide whether the Act could be supported as a valid piece of legislation falling within the scope of entry 54 yet in deference to the arguments advanced before the Court 833 the learned Chief Justice expressed the view that it could not be so supported.
+Tendolkar J., on the other hand, held that Act XXII of 1947 was wholly intra vires the Central Legislature as it fell within entry 54 and in this view of the matter he did not consider it necessary to discuss whether the legislation was covered by entry 55 in List I of the Seventh Schedule.
+In our opinion the view taken by Tendolkar J. with respect to entry 54 is correct and well founded.
+In the course of a lucid argument advanced with his usual ability and skill Mr. Kolah submitted that entry 54 which deals with "taxes on income" does not embrace within its scope tax on capital gains.
+"Income", according to him, does not signify capital gains either according to its natural import or common usage or according to judicial interpretation of relevant legislation both in England and in India.
+He submitted that the learned Chief Justice was entirely right in the view that there was a clear line of demarcation that had always been observed by English lawyers and English jurists between income and capital, that the English legislative practice had always recognised this difference and that as the word had come to acquire a certain meaning and a certain connotation by reason of such legislative practice in England, the British Parliament which enacted the Government of India Act, 1935, must be regarded as having understood and used that word " income " in entry 54 in that sense.
+Our attention has not, however, been drawn to any enactment other than fiscal statutes like the Finance Act and the Income tax Act where the word "income" has been used and, therefore, it is not possible to say that the critical word had acquired any particular meaning by reason of any legislative practice.
+Reference has been made to several cases where the word "income" has been construed by the Court.
+What is, therefore, described as legislative practice is nothing but judicial interpretations of the word " income " as appearing in the fiscal statutes mentioned above.
+A perusal of the those cases, however, will reveal at once that those decisions were concerned with ascertaining the meaning of that word in the context of the Income tax 834 legislation.
+Thus the observation of their Lordships of the Privy Council in Commissioner of Income tax vs Shaw Wallace & Co.(1), laid down the connotation of the word "income" as used "in this Act.
+" The passage in the judgment of Rowlatt J. in Ryall vs Hoare and Ryall vs Honeywill(2), quoted by the learned Chief Justice in his judgment and strongly relied on by Mr. Kolah, refers to profits or gains "as used in these Acts.
+" In Californian Copper Syndicate (Limited and Reduced) vs Harris(3), Lord Justice Clerk refers to the enhanced price realised on sale of certain things over the cost price thereof as not being profits "in the sense of Schedule D of the Income Tax Act of 1842." These guarded observations quite clearly indicate that they relate to the term "income" or "Profit" as used in the Income tax Act.
+There is no warrant for saying that these observations out down the natural meaning of the ordinary English word "income" in any way.
+The truth of the matter is that while Income tax legislation adopts an inclusive definition of the word "income" the scheme of such legislation is to bring to charge only such income as falls under certain specified heads (e.g., the 5 Schedules of the English Act of 1918 and our section 6 read with the following sections) and as arises or accrues or is received or is deemed to arise or accrue or to be received as mentioned in the statute.
+The Courts have striven to ascertain the meaning of the word "income" in the context of this scheme.
+There is no reason to suppose that the interpretation placed by the Courts on the word in question was intended to be exhaustive of the connotation of the word "income" outside the particular statute.
+If we hold, as we are asked to do, that the meaning of the word "income" has become rigidly crystallized by reason of the judicial interpretation of that word appearing in the Income tax Act then logically no enlargement of the scope of the Income tax Act, by amendment or otherwise, will be permissible in future.
+A conclusion so extravagant and astounding can scarcely be contemplated or (1) (1932) L.R. 59 I.A. 206 at page 212.
+(2) at page 525.
+(3) at page 165. 835 countenanced.
+We are satisfied that the cases relied on by Mr. Kolah and referred to in the judgment of the learned Chief Justice do not, as we read them, establish the broad proposition that the ordinary English word "income" has acquired a particularly restricted.
+meaning.
+The case of Wallace Brothers & Co. Ltd. vs Commissioner of Income tax(1) was not concerned with ascertaining the meaning of the word "income" at all.
+The problem there was whether the foreign income of an English company which was a partner in a firm carrying on business in Bombay and whose Indian income was greater than its foreign income could be treated as a resident within the meaning of section 4 A.
+It was in that context said in that case that in determining the scope and meaning of the legislative power regard was to be had to what was ordinarily treated as embraced within that topic in the legislative practice of the United Kingdom.
+The problem there was not to ascertain the meaning of the word "income" so much as to ascertain the extent of the application of the Act to the foreign income.
+That case, clearly, does not establish that the word "income" had acquired any special or narrow meaning.
+The same remarks apply to the case of Croft vs Dunphy(1), referred to by Lord Uthwatt in delivering the judgment of the Privy Council in Wallace Brothers case (supra).
+In Kamakshya Narain Singh vs Commissioner of Income tax(,), Lord Wright observed : " Income, it is true, is a word difficult and perhaps impossible to define in any precise general formula.
+It is a word of the broadest connotation. " After making the above observation his Lordship referred to the observations of Sir George Lowndes in Commissioner of Income tax, Bengal vs Shaw Wallace & Co. (supra), where an attempt was made to indicate the connotation of the word "income" as used "in this Act.
+" It is, therefore, clear that none of the authorities relied on by Mr. Kolah establish what may be called a legislative practice indicating the connotation of the (1) (1948) L.R. 75 I.A. 86; ; 16 I.T.R. 240.
+(2) (3) (1943) L.R. 70 I.A. 180; 836 term "income", apart from the Income tax statute.
+In our view, it will be wrong to interpret the word "income" in entry 54 in the light of any supposed English legislative practice as contended for by Mr. Kolah.
+It ,is interesting to note that in the English Income Tax Act of 1945 (8 and 9 Geo.
+VI, C. 32, sections 37 and 38) capital gains have been included as taxable income.
+In should be remembered that the question before us relates to the correct interpretation of a word appearing in a Constitution Act which, as has been said, must not be construed in any narrow and pedantic sense.
+Gwyer C.J. in In re The Central Provinces and Berar Act No. XIV of 1938(1), observed at pages 36 37 that the rules which apply to the interpretation of other statutes apply equally to the interpretation of a constitutional enactment subject to this reservation that their application is of necessity conditioned by the subject matter of the enactment itself It should be remembered that the problem before us is to construe a word appearing in entry 54 which is a head of legislative power.
+As pointed out by Gwyer C.J. in The United Provinces vs Atiqa Begum(2) at page 134 none of the items in the Lists is to be read in a narrow or restricted sense and that each general word should be held to extend to all ancillary or subsidiary matters which can fairly and reasonably be said to be comprehended in it.
+Itis,therefore,clear anditisacknowledged by Chief Justice Chagla that in construing an entry in a List conferring legislative powers the widest possible construction according to their ordinary meaning must be put upon the words used therein.
+Reference to legislative practice may be admissible for cutting down the meaning of a word in order to reconcile two conflicting provisions in two legislative Lists as was done in The C. P. and Berar Act case (supra), or to enlarge their ordinary meaning as in The State of Bombay and Another vs F. N. Balsara(3).
+The cardinal rule of interpretation, however, is that words should be read in their ordinary, natural and grammatical meaning subject to this rider that in (I) (2) (3) ; 837 construing words in a constitutional enactment conferring legislative power the most liberal construction should be put upon the words so that the same may have effect in their widest amplitude.
+What, then, is the ordinary.
+natural and grammati : cal meaning of the word "income" ? According to the dictionary it means "a thing that comes in".
+(See Oxford Dictionary, Vol.
+11, page 162; Stroud, Vol. 11, pages 14 16).
+In the United States of America and in Australia both of which also are English speaking countries the word "income" is understood in a wide sense so as to include a capital gain.
+Reference may be made to Eisner vs Macomber(1), Merchants ' Loan & Trust Co. vs Smietanka(2), and United States vs Stewart(3), and Resch vs Federal Commissioner of Taxation( 4).
+In each of these cases very wide meaning was ascribed to the word "income" as its natural meaning.
+The relevant observations of learned Judges deciding those cases which have been quoted in the judgment of Tendolkar J. quite clearly indicate that such wide meaning was put upon the word "income" not because of any particular legislative practice either in the United States or in the Commonwealth of Australia but because such was the normal concept and connotation of the ordinary English word "income." Its natural meaning embraces any profit or gain which is actually received.
+This is in consonance with the observations of Lord Wright to which reference has already been made.
+Mr. Kolah concedes that the word "income" is understood in the United States and Australia in the wide sense contended for by the learned Attorney General but he maintains that the law in England is different and, therefore, entry 54 which occurs in a Parliamentary statute should be construed according to the law of England.
+We are again brought back to the same argument as to the word having acquired a restricted meaning by reason of what has been called the legislative practice (1) ; ; (2) ; ; 1 (3) ; ; (4) ; 107 838 in England an argument which we have already discarded.
+The argument founded on an assumed legislative practice being thus out of the way, there can be no difficulty in applying its natural and grammatical meaning to the ordinary English word "income.
+" As already observed, the word should be given it widest connotation in view of the fact that it occurs in a legislative head conferring legislative power.
+For reasons stated above we are of opinion that Act XXII of 1947 which amended the Indian Income tax Act by enlarging the definition of the term income in section 2(6 C) and introducing a new head of income in section 6 and inserting the new section 12 B is intra vires the powers of the Central Legislature acting under entry 54 in List I of the Seventh Schedule of the Government of India Act, 1935.
+In this view of the matter it is unnecessary for us to consider or express any opinion as to the meaning, scope and ambit of entry 55 in that List.
+The appeal is accordingly dismissed with costs.
+Appeal dismissed.

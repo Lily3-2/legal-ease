@@ -1,0 +1,58 @@
+Appeal No. 328 of 1960.
+Appeal from the order dated March 4, 1958, of the Punjab High Court, Chandigarh, in Civil Reference No. 29 of 1952.
+A. V. Viswanatha Sastri, R. Ganapathy Iyer and G. Gopalakrishnan, for the appellant.
+Hardyal Hardy and D. Gupta, for the respondent.
+December 6.
+The Judgment of the Court was delivered by SHAH, J.
+The Income Tax Appellate Tribunal, Delhi Bench, stated under section 66(1) of the Indian Income Tax Act the following question for decision of the High Court of Judicature at Chandigarh: "Whether the assessee 's receipts from consumers for laying service lines, (that is, not distributing mains) were trading receipts and whether the profit element therein, viz., service connection receipts minus service connection cost was taxable income in the assessee 's hands?" The High Court answered the question as follows: ". the company 's receipts from the consumers for laying the service lines are trading receipts and 958 the profit element therein being the difference bet ween the service connection receipts and the service connection costs is taxable income in the hands of the company." With certificate granted under section 66A(2) of the Income Tax Act, this appeal is preferred by the Hoshiarpur Electric Supply Company hereinafter referred to as the assessee.
+The assessee is a licensee of an electricity undertaking.
+In the year of account, April 1, 1947March 31, 1948, the assessee received Rs. 12,530 for new service connections granted to its customers.
+Out of this amount, Rs. 5,929 were spent for laying the service lines, and Rs. 1,338 were spent for laying certain mains.
+The Income Tax Officer treated the entire amount of Rs. 12,530 as trading receipt.
+In appeal to the Appellate Assistant Commissioner, the cost incurred for laying service lines and mains was excluded and the balance was treated as taxable income.
+In appeal, the Appellate Tribunal agreed with the Appellate Assistant Commissioner and held that the service connection receipts were trading receipts and that the "profit element" therein was taxable income in the hands of the assessee.
+In a reference under section 66(1) of the Income Tax Act, the High Court substantially agreed with the view of the Tribunal.
+The assessee has installed machinery for producing electrical energy and has also laid mains and distributing lines for supplying it to its customers.
+The assessee makes no charge to the consumers for laying service lines not exceeding 100 ft.
+in length from its distributing main to the point of connection on the consumer 's property in accordance with cl.
+6(1)(b) of the Schedule to the .
+But where the length of a service line to be installed exceeds 100 ft., the cost is charged at certain rates by the assessee.
+The charge consists usually of cost of wiring copper as well as galvanised iron, service and other brackets, insulators, meter wiring, poles and appropriate labour and supervision charges.
+In the year of account, the assessee gave 229 new connections 959 and received Rs. 12,530 out of which Rs. 5,929 have been regarded as taxable income.
+In the forms of account prescribed under the Indian Electricity Rules framed under section 37 read with section 11 of the , the assessee credited service connection receipts to the revenue account and debited the Inc, corresponding cost of laying service lines to the capital account.
+But the classification of the receipts in the form of accounts is not of any importance in considering whether the receipt is taxable as revenue.
+The assessee contended that the service lines when installed became the property of the assessee, because they were in the nature of an extension of the assessee 's distributing mains.
+On behalf of the Revenue, it was urged relying upon the judgment of the High Court that the service lines which are paid for by the consumers do not become the property of the assessee.
+We do not think that it is open to us in an appeal from an order under section 66 of the Indian Income Tax Act to enter upon this question.
+The Tribunal did not record a finding on the question whether the assessee was the owner of the service lines.
+Undoubtedly, contributions were made by the consumers towards the cost of the service lines installed by the assessee which exceeded 100 ft. in length.
+Normally, a person who pays for installation of property may be presumed to be the owner thereof; but such a presumption cannot necessarily be made in respect of a service line, which so long as it is used for supplying electrical energy remains an integral part of the distri buting mains of an electrical undertaking.
+The High Court was exercising advisory jurisdiction, and the question as to who was the owner of the service lines after they were installed could be adjudicated upon only by the Tribunal.
+It was for the Tribunal to record its conclusion on that question, but the Tribunal has recorded none.
+In our judgment, the High Court was in error in assuming to itself jurisdiction substantially appellate in character and in proceeding to decide the question as to ownership of the service lines which is a mixed question of law and fact, on which the Tribunal has given no finding.
+960 The assessee contended that the amount paid by the consumers for new connections is capital receipt and not liable to tax, because the amount is paid by the consumers towards expenditure to be incurred by the assessee in laying new service lines an asset of a lasting character.
+This question falls to be determined in the light of the nature of the receipt irrespective of who remained owner of the materials of the service lines installed for granting electrical connections to new customers.
+The assessee only spends a part of the amount received by it from the consumers.
+It is not clear from the statement of the case whether amongst the 229 new connections given, there were any which were of a length less than 100 ft. Payments received by the assessee must of course be for service lines installed of length more than 100 ft., but it is not clear on the, record whether the expenditure of Rs. 5,929 incurred by the assessee is only in respect of service lines which exceeded 100 ft.
+in length or it is expenditure incurred in respect of all service lines.
+It is however not disputed that a part of the amount received from the consumers remains with the assessee after meeting the expenses incidental to the construction of the service lines.
+But an electric service line requires constant inspection and occasional repairs and replacement and expenses in this behalf have to be undertaken by the assessee.
+The amount contributed by the consumer for obtaining a new connection would of necessity cover all those services.
+The amount contributed by the consumer is in direct recoupment of the expenditure for bringing into existence an asset of a lasting character enabling the assessee to conduct its business of supplying electrical energy.
+By the installation of the service lines, a capital asset is brought into existence.
+The contribution made by the consumers is substantially as consideration for a joint adventure; the service line when installed becomes an appanage of the mains of the assessee, and by the provisions of the Electricity Act, the assessee is obliged to maintain it in proper repairs for ensuring efficient supply of energy.
+The assumption made by the 961 Department that the excess remaining in the hands of the assessee, after defraying the immediate cost of installation of a service line must be regarded as a trading profit of the company is not correct.
+The assessee is undoubtedly carrying on the business of distributing electrical energy to the consumers.
+Installation of service lines is not an isolated or casual act; it is an incident of the business of the assessee.
+But if the amount contributed by the consumers for installation of what is essentially reimbursement of capital expenditure, the excess remaining after expending the cost of installation out of the amount contributed is not converted into a trading receipt.
+This excess which is called by the Tribunal "profit element" was not received in the form of profit of the business; it was part of a capital receipt in the hands of the assessee, and it was not converted into a trading profit because the assessee was engaged in the business of distribution of electrical energy, with which the receipt was connected.
+In Commissioner of Income tax vs Poona Electric Supply Co. Ltd. (1), it was held by a Division Bench of the Bombay High Court that the amount received from the Government of Bombay by the Poona Electric Company in reimbursement of expenses incurred for constructing new supply lines for supplying energy to new areas not previously served, was a capital receipt and not a trade receipt.
+The question of the taxability of the "profit element" in the contribution received from the Government was not expressly determined; but the court in that case held that the entire amount received by the Poona Electric Company from the Government as contribution was a capital receipt.
+In Monghyr Electric Supply Co. Ltd. vs Commissioner of Income tax, Bihar and Orissa (2), it was held that the amount paid by consumers of electricity for meeting the cost of service connections was a capital receipt in the hands of the electricity undertaking and not revenue receipt and the difference between the amount received on account of service connection charges and (1) (2) 962 the amount immediately not expended was not taxable as revenue.
+The receipts though related to the business of the assessee as distributors of electricity were not inciden t nor in the course of the carrying on of the assessee 's business; they were receipts for bringing into existence capital of lasting value.
+Contributions were not made merely for services rendered and to be rendered, but for installation of capital equipment under an agreement for a joint venture.
+The total receipts being capital receipts, the fact that in the installation of capital, only a certain amount was immediately expended, the balance remaining in hand, could not be regarded as profit in the nature of a trading receipt.
+On that view of the case, in our judgment, the High Court was in error in holding that the excess of the, receipts over the amount expended for installation of service lines by the assessee was a trading receipt.
+The appeal is allowed and the question submitted to the High Court is answered in the negative.
+The assessee is entitled to its costs in this court as well as in the High Court.
+Appeal allowed.

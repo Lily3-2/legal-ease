@@ -1,0 +1,19 @@
+The second appellant, who had executed promissory notes in favour of the respondents was adjudicated an insolvent on a petition by them.
+The Official Receiver in exercise of the powers under sections 33 and 80 of the Provincial Insolvency Act (5 of 1920) and under directions of the Insolvency Judge, inquired into the claims of the respondents and rejected them.
+On appeal, the Insolvency Judge directed the inclusion of their names in the schedule of creditors.
+The appeal to the District Court against the order of the Insolvency Judge was allowed.
+In second appeal to the High Court, it was held, that the inference drawn by the District Court from its findings was a matter of law and that therefore the High Court had jurisdiction under section 75(1), to interfere with the order of the District Court.
+Relying upon the presumption in favour of creditors in section 118 of the Negotiable Instruments Act (26 of 1881), the High Court set aside the judgment of the District Court.
+The Official Receiver and the insolvent appealed to the Supreme Court.
+HELD : The appeal should be allowed.
+Since all the findings of the District Court were findings of fact and the question whether a statutory presumption was rebutted by the rest of the evidence was also a question of fact, the High Court had no jurisdiction to set aside the judgment of the District Court.
+[259A C].
+Wali Mohammad V. Mohammad Bakhsh, (1930) L.R. 57 I.A. 86.
+approved.
+Section 118 of the Negotiable Instruments Act, enacts a special rule of evidence which operates only between parties to the instrument or persons claiming under them in a suit or proceeding relating to the negotiable instrument.
+The section does not affect section 114 of the Evidence Act, and in cases not falling within section 118 of the Negotiable Instruments Act the Court may or may not presume that a promissory note was founded on good consideration.
+Therefore, in a proceeding relating to proof of debts, the question being not one between the insolvent and the proving creditor alone, and since the rights of other creditors of the insolvent have of necessity to be considered, the Court has jurisdiction to investigate whether there is a real debt.
+Even if for some reason the debtor himself is estopped from denying the debt, there could be no estopped against the Insolvency Court.
+There is thus no statutory presumption of consideration in favour of the creditors under promissory notes in proceedings under section 33 of the Provincial Insolvency Act for settlement of the schedule of creditors, and the Receiver exercising powers under section 80 of that Act is not bound to admit the debts in the schedule merely because the insolvent or the creditors have failed to displace such a presumption.
+[261F 262C; 264E G].
+Case law reviewed.

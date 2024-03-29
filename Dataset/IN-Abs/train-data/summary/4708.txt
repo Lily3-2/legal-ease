@@ -1,0 +1,28 @@
+In assessment proceedings under the Wealth Tax Act for four assessment years the assessee claimed a deduction in the computation of his net wealth on account of income tax, wealth tax and gift tax liabilities.
+The Wealth Tax Officer allowed only part of the deductions claimed The appeal of the assessee was dismissed by the Appellate Assistant Commissioner of Wealth Tax.
+In the second appeal before the Appellate Tribunal, the assessee filed statements showing particulars of the income tax, wealth tax and gift tax liabilities in respect of the different assessment years.
+The Revenue contended that the income tax liability and the gift tax liability for one of the assessment years [1965 66] had been cancelled by the Appellate Assistant Commissioner in appeals against the assessment orders and those appellate orders of the Appellate Assistant Commissioner having become final in view of the dismissal of the Revenue 's appeals by the Appellate Tribunal, there was no outstanding demand on account of income tax and gift tax for that year and that therefore these two items do not constitute 'debts owed ' by the assessee and so would not qualify for deduction under section 2(m) of the Wealth Tax Act.
+The Appellate Tribunal following two judgments of this Court [Commissioner of Income Tax vs Keshoram Industries Pvt.
+Ltd. (1966) 59 I.T.R. 767 and H.H. Setu Parvati Bayi vs Commissioner of Wealth Tax Kerala , held that so long as the liability to pay the tax had arisen before the relevant valuation dates it was immaterial that the assessments were quantified after the valuation of dates, that the question whether a debt was owed by the assessee must be examined with reference to the position obtaining on the valuation date and that nothing happening subsequently could be considered in computing the net wealth.
+491 The High Court having refused te call for a reference from the Appellate Tribunal under section 27(3) of the Act the Revenue appealed to this Court.
+Allowing the appeals in part.
+^ HELD: 1.
+Whether a debt was owed by the assessee on the valuation date would depend on the fact that a liability had already crystallised under the relevant taxing statute on the valuation date.
+[494 D] 2.
+An income tax liability crystallises on the last day of the previous year relevant to the assessment year under the Income Tax Act, a wealth tax liability crystallises on the valuation date for the relevant assessment year under the Wealth Tax Act and a gift tax liability crystallises on the last day of the previous year for the relevant assessment year under the Gift Tax Act.
+[494 E] 3.
+The quantification of the income tax, wealth tax or gift tax liability is determined by a corresponding assessment order, and even if the assessment order is made after the valuation date relevant to the wealth tax assessment in which the claim to deduction is made, there is a debt owed by the assessee on the valuation date.
+It is the quantification of the tax liability by the ultimate judicial authority which will determine the amount of the debt owed by the assessee on the valuation date.
+So long as such ultimate determination indicates the existence of a positive tax liability, it must be held that there is a debt owed by the assessee on the valuation date even though such determination may be subsequent in point of time to the valuation date.
+If, however, it is found on such ultimate determination that there is no tax liability it cannot be said that merely because originally a tax liability could be envisaged there was a debt owed by the assessee.
+[495 B E] 4.
+Section 2(m) (iii) (a) denies deduction of an amount of tax which is outstanding on the valuation date if the assessee contends in appeal, revision or other proceeding that he is not liable to pay the tax.
+It presupposes that there is a subsisting tax demand and the assessee has challenged its validity.
+It refers to the initial stage only where an appeal, revision or other proceeding is pending merely.
+It does not proceed beyond that stage to the point where, in consequence of such appeal, revision or other proceeding, the tax liability has been found to be nil.
+Once it is determined that the tax liability is nil, it cannot be said that any amount of tax is outstanding.
+Such a situation does not bring section 2(m) (iii) (a) into operation at all.
+If upon the ultimate determination it is found that the amount of tax is nil, the assessee is denied the deduction claimed by him not on the ground of section 2(m) (iii) (a) but because the superior authority has found that there is no tax liability whatever.
+[496 A D] In the instant case, the income tax and the gift tax liabilities for the assessment year 1965 66 subsequently set aside on appeal after the valuation dates, cannot be regarded as debts owed by the assessee on the relevant valuation dates.
+[495 G] 492 Commissioner of Income Tax vs Keshoram Industries Pvt Ltd. ; ; H.H. Setu Parvati Bayi vs Commissioner of Wealth Tax, Kerala referred to.
+Late P. Appavoo Pillai vs Commissioner of Wealth Tax Madras reversed.

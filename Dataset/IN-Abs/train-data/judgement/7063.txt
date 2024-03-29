@@ -1,0 +1,83 @@
+Appeal No. 2169(NT).
+of 1993.
+From the Judgment and Order dated 10.12.1979 of the Madras High Court in Tax Case No. 398 of 1976.
+Mrs. Janaki Ramachandran for the Appellant.
+K.N. Shukla, Sudhir Walia and P. Parmeswaran for the Respondent.
+The Judgment of the Court was delivered by B.P. JEEVAN REDDY, J.
+Under Section 256(1) of the Income Tax Act, the Income Tax Appellate Tribunal, Madras stated the following question of law for the opinion of the Madras High Court: "Whether on the facts and in the circumstances of the case, the Tribunal was right in holding that the sum of Rs. 19 being the interest received on the deposits made with the 1000 Electricity company is a business receipt and accordingly deleting the additional surcharge of Rs. 81,920 charged .for the assessment year 1963 64?" The High Court returned the reference unanswered.
+It directed the Tribunal to consider the case 'on all points that require consideration of the question, whether additional surcharge was attracted '.
+In short, it asked the Tribunal to examine whether the additional surcharge was attracted even if the income of Rs. 19 is chargeable under the head 'Profits and gains of business '.
+The learned counsel for the assessee submits that the High Court exceeded its jurisdiction in making the above direction.
+It is submitted that the matter be sent back to the High Court for answering the question of law as stated by the Tribunal.
+The contention of the learned counsel is that by giving the impugned direction the High Court has sought to widen the scope of enquiry which it is not empowered to do in a reference under Section 256.
+The assessee is a cooperative society engaged in the business of banking.
+The previous year relevant to the assessment year 1963 64 was the year ending June 30, 1962.
+Its business income was exempt under the provisions of Section 81(1) as it then stood.
+During the said accounting year, the assessee received a sum of Rs. 19 being the interest on the deposit made by it with the Salem Erode Electricity Distribution Company.
+This deposit was made by the assessee as required by the conditions notified by the said company for supply of energy.
+The deposit carried interest and it is on account of the said interest that the sum of Rs. 19 was received by the assessee.
+The Income Tax Officer treated the said amount of Rs. 19 as 'income from other sources '.
+On that basis, he levied additional surcharge, in a sum of Rs. 81,920, under the provisions of the relevant Finance Act.
+On appeal, the Appellate Assistant Commissioner upheld the contention of the assessee that the said sum of Rs. 19 also constituted its business income and, therefore, exempt.
+Accordingly, he held, the levy of surcharge was unsustainable.
+The Revenue appealed to the Appellate Tribunal.
+Its case was that the said receipt cannot be treated as a business receipt and that it was rightly treated by the I.T.O. as "income from other sources '.
+The Tribunal recorded in its order : "Before us it is made clear by both sides that the levy of additional surcharge and interest would depend upon the classification of the head of income for this interest income of Rs. 19 and that if it fell under income from business, the appeal has to be dismissed 1001 and that if it fell under 'income from other sources ', the appeal has to be allowed and the levy of surcharge and interest restored.
+So we proceed to discuss the vital issue in this case on which hangs the result of this appeal.
+" The Tribunal held it 'income from business ' and accordingly dismissed the appeal filed by the Revenue.
+At the instance of the revenue, the Tribunal stated the aforesaid question.
+Before the High Court it was contended by the Revenue that both the A.A.C. and the Tribunal laboured under an erroneous assumption that the said sum of Rs. 19 represented business income and the liability of surcharge was not attracted.
+It was submitted that whether the said sum was a business income or income from other sources, it attracted the liability of additional surcharge.
+The assessee, however, submitted that it was not open to the revenue to take the said stand, inasmuch as it agreed before the Tribunal that in case the said sum constituted business income, liability of additional surcharge was not attracted.
+The assessee submitted further that the High Court should not allow the revenue to shift its stand and urge a new contention.
+The High Court held, after an examination of the relevant provisions of the Finance Act and of the decisions relating to the nature of jurisdiction of the High Court in such a reference, that the assumption made by the A.A.C. and the Tribunal that the liability of surcharge is not attracted in case 'the said sum of Rs. 19 represented business income may not be warranted and that in such a situation the High Court does possess the power to correct the error so long as the point arose out of the Tribunal 's order.
+The High Court held: "This Court cannot look on helplessly with reference to an error which is manifested in the contention of both sides before the Tribunal.
+This court has jurisdiction to correct an error in the order of the Tribunal, so long as the point arose out of its order, whoever be the author of the mistake or error in taking up an particular contention.
+Having regard to the nature of the issue that was before the Tribunal and having regard to what we have stated above, we think it proper to set aside the order of the Tribunal and direct the Tribunal to consider the case on all the points that require consideration of the question whether additional surcharge was attracted.
+The reference is returned unanswered.
+" 1002 We find it difficult to agree with Smt.
+Janaki Ramachandran, learned counsel for the assessee that the High Court has exceeded its jurisdiction under Section 256 in making the above direction.
+As rightly observed by the High Court, if the Tribunal proceeds upon an assumption which is erroneous in law and refers a question to the High Court, it cannot be said that the High Court is bound by the terms of the question referred and cannot correct the erroneous assumption of law underlying the question.
+If such power is not conceded to the High Court, the result would be that the answer given by the High Court may equally be erroneous in law.
+Such a situation cannot certainly be countenanced.
+It would not be in the interest of law or justice.
+It is not as if the High Court has asked for any fresh investigation of facts in this case not that such power does not exist in the High Court in a appropriate case.
+All that the High Court has asked the Tribunal to do is to consider whether the liability of surcharge is not attracted even if the said sum of Rs. 19 is treated as income from business, The fact that the revenue was also a party to the said erroneous assumption before the Tribunal cannot stand in the way of the Revenue resiling from an erroneous assumption of law.
+In C.I.T., Bombay vs Scindia Steam Navigation Ltd., ; the facts were these: a steam ship belonging to the respondent company was requisitioned by the government.
+The ship was lost by enemy action on March 16, 1944.
+The company received a sum of Rs. 20 lacs by way of compensation on July 17, 1944, a sum of Rs. 23 lacs on December 22.
+1944 and a sum of Rs. 33,333 on August 10, 1946.
+The total compensation so received exceeded the cost price of the steam ship.
+The difference between the cost price and written down value was Rs. 9,26,532.
+In the assessment proceeding for the A.Y. 1946 47, the revenue sought to charge the said amount under the fourth proviso to Section 10(2)(vii) of the Income Tax Act, 1922, inserted by the Income Tax (Amendment) Act, 1946, which came into force on May 4, 1946.
+The assessee contended that the amount should be deemed to have been received on April 16,1944 as was done for the purposes of Excess Profits Tax Act, in which case it could not fall within the accounting period July 1, 1944 to June 30, 1945, relevant to the A.Y. 1946 47.
+The Tribunal was of the opinion that the material date for the purpose of the fourth proviso to Section 10(2)(vii) was the date when the compensation was in fact received and that therefore the amount was assessable in the A.Y. 1946 47.
+At the instance of the assessee, the Tribunal 1003 stated the following question of law for the opinion of the High Court "whether the sum of Rs. 9,26,532 was properly included in the assessee company 's total income computed for the A.Y. 1946 47?" Before the High Court the assessee raised a new contention for the first time that the fourth proviso to section 10(2)(vii) did not apply to the assessment as it was not in force on April 1, 1946 and the liability of the company had to be determined as on April 1, 1946, when the Finance Act, 1946 came into force.
+A preliminary objection was raised by the revenue that the said aspect, or question as it may be called, did not arise out of the order of the Tribunal, that it was not raised before or dealt with by the Tribunal and that it was also not referred for the opining of the High Court.
+The High Court over ruled the objection opining that the form in which the question was framed was sufficiently wide 'to take in the new contention and that the company was entitled to raise it even if that aspect of the question had not been argued before the Tribunal.
+It upheld the new contention raised by the assessee and answered the question in its favour.
+On appeal, this court affirmed.
+It was held that the High Court had jurisdiction to entertain the new contention raised by the assessee for the first time inasmuch as it was within the scope of the question framed by the Tribunal and was implicit therein.
+This court enunciated several principles relating to the nature of the jurisdiction of the High Court under Section 256, of which the following principle is relevant for our purpose: "Section 66(1) speaks of a question of law that arises out of the order of the Tribunal.
+Now a question of law might be a simple one, having its impact at one point, or it may be a complex one, branching over an area with approaches leading to different points therein.
+Such a question might involve more than one aspect, requiring to be tackled from different standpoints.
+All that Section 66(1) requires is that the question of law which is referred to the court for decision and whic h the court is to decide must be the question which was in issue before the Tribunal.
+Where the question itself was under issue, there is no further limitation imposed by the section that the reference should be limited to those aspects of the question which had been argued before the Tribunal.
+It will be an over refinement of the position to hold that each aspect of a question is 1004 itself a distinct question for the purpose of section 66(1) of the Act. ' This decision of the Constitution Bench, in our opinion justifies and warrants the approach adopted by the High Court in the judgment under appeal.
+The question in the present case is whether additional surcharge was leviable for the A.Y. 1963 64 under the relevant Finance Act.
+The assessee 's contention was that it has no income which was liable to be assessed to income tax inasmuch as its entire income was exempt under Section 81(1)(a).
+In tune with this submission, the assessee submitted that the said sum of Rs. 19 was also a business income and, therefore, the liability of additional surcharge did not attach to the assessee.
+The I.T.O. took the view that the said sum of Rs. 19 represented income from other sources and therefore liability of additional surcharge was attracted.
+On Appeal, the AAC and the Tribunal upheld the assessee 's contention that it was business income and therefore the liability of surcharge was not attracted.
+The High Court, however, thought that having regard to the language of the provisions of the relevant Finance Act, the Tribunal ought to examine whether the liability to additional surcharge is attracted even if the said sum of Rs. 19 was treated as income from business.
+The High Court was of the opinion that the legal submission urged by the Revenue before the High Court, no doubt for the first time, did call for serious consideration.
+This was done to arrive at a correct decision in law relating to the liability to additional surcharge.
+If really, additional surcharge was chargeable according to the Finance Act even in case the said sum of Rs. 19 represented business income, the High Court cannot be called upon to act on the assumption that it is not so chargeable and answer the question stated.
+Such a course would neither be in the interest of law or justice.
+That the Revenue was also a party to the erroneous assumption of law makes little difference to the principle.
+Counsel for the parties have cited several decisions touching upon the nature of the jurisdiction of the High Court under Section 256 viz., V.R. Y.K.N. Kallappa Chettiar vs Commissioner of Income Tax, C.I.T vs Ogale Class Works Ltd., and Keshav Mills Co. Ltd. vs Commissioner of Income Tax Bombay North, Ahmedabad, by the learned counsel for the appellant and Commissioner of 'Income Tax, Bihar and Orissa vs kirkend Coal Co., and Kusunben D. 1005 Mahadevia vs Commissioner of Income Tax, Bombay City, by the learned counsel for the Revenue.
+We do not, however, think it necessary to refer to them, since the situation present herein was not present in those cases.
+The principles of these decisions does not in any manner run contrary to the one affirmed by us herein, which is consistent with the one enunciated in Scindia Steam Navigation.
+The appeal accordingly fails and is dismissed.
+No costs.
+N.V.K. Appeal dismissed.

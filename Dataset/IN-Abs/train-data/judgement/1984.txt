@@ -1,0 +1,78 @@
+Appeal No. 94 of 1954.
+Appeal from the judgment and order dated August 17, 1951 of the Calcutta High Court in Appeal from Original Order No. 81 of 1959.
+A.V. Viswanatha Sastri and P.K. Ghosh, for the appellant.
+P.K. Chatterjee and P.K. Bose, for the respondents.
+The Judgment of the Court was delivered by Subba Rao, J.
+This appeal on a certificate granted by the High Court of Calcutta raises the question of the interpretation of section 5(2)(a) (ii) of the Bengal Finance (Sales Tax) Act, 1941 (Bengal Act VI of 1941), hereinafter called the Act.
+The material facts are as follows: The appellant is a public limited ' company registered as a dealer under the Act, having its registered place of business at Calcutta.
+In respect of the accounting year ending with 31st December 1954, in the return for the year the assessee had shown its gross turnover at Rs. 70,99,928 10 0 and claimed exemption under two heads, namely, (i) under section 5(2)(a)(i) of the Act Rs. 1,33,730 6 6; and (ii) under section 5(2)(a)(ii) thereof Rs. 69,65,979 9 6.
+After deducting the said amounts from the gross turnover the assessee showed its taxable turnover at Rs. 218 9 0 and deposited the tax of Rs. 9 12 6 on the said amount in the treasury.
+The Commercial Tax Officer by notice dated April 22, 1955, fixed August 4, 1955, for hearing the assessee in respect of its return.
+Under section 5(2)(a)(ii), the appellant in order to claim exemption thereunder had to furnish declaration forms duly filled in and ' signed by registered dealers to whom the goods were sold by it.
+After taking some adjournments of the enquiry it appears that in the second week 'of January 1957 the assessee found that its file containing 147 declaration forms received ' from its dealers in respect of the goods received from it was missing.
+The assessee, it is said, made various attempts to get duplicate forms of declaration from the dealers, but, on account of circumstances over which it had no 628 control and because of the unhelpful and hostile attitude of the Commercial Tax Officer within whose jurisdiction the said dealers functioned, it was not able to furnish the duplicate forms for all the declarations that were lost.
+On August 8, 1957, the assessee applied to the Commercial Tax Officer under section 21A of the Act for summoning the dealers to produce the necessary documents in order to prove that they had issued the declaration forms to it, but the said ' officer did not issue the requisite summons to the parties concerned.
+The assessee then flied an application to the Commissioner of Commercial Taxes, West Bengal, for directions to issue duplicate declaration forms, but that application was rejected.
+The revision filed to the Revenue Board was also dismissed.
+On November 21, 1957, the Commercial Tax Officer made an order of assessment disallowing the assessee 's claim for exemption in respect of the said sales made to the purchasing registered dealers amounting to Rs. 22,46,006 0 6 and levied on it additional tax of Rs. 1,49,778 4 6.
+The assessee thereafter flied a petition under article 226 of the Constitution in the High Court of Calcutta for issuing an order directing the respondents, i.e., the Commercial Tax Officer and the Commissioner of Commercial Taxes.
+West Bengal, not to implement the said assessment order.
+The said application came up, at the first instance, before Sinha, J., who dismissed the same.
+On appeal, a Division Bench of the said High Court confirmed the order of Sinha, J. Hence the present appeal.
+At the outset we must make it clear that in the view we are taking on the construction of section 5 of the Act we do not propose to go into the question whether the department was responsible for preventing the assessee from furnishing duplicate forms of the declarations alleged to have been lost or on the question whether the department went wrong in not summoning the dealers to produce the relevant documents to establish that the declaration forms alleged to have been lost were in fact issued ' by them.
+The only question, therefore, that arises is whether under section 5(2)(a)(ii) of the Act the furnishing of the declaration forms issued by the purchasing dealers was a condition for claiming the exemption thereunder.
+In substance section 5(2)(a)(ii) exempts from taxable turnover all sales to a registered dealer of goods of the class or classes specified in the certificate of registration of the dealer as being intended for the purposes mentioned, therein.
+But the said exemption is made subject to a proviso.
+Under that proviso, in the case of such sales a declaration form duly filled up and signed by the registered dealer to whom the goods are sold and containing the prescribed particulars on a prescribed form obtainable from the prescribed authority has to be furnished ' in the prescribed manner by the dealer who sells the goods.
+Under r. 27A of the Bengal Sales Tax Rules, 1941, hereinafter called the Rules, a dealer who wishes to claim the said exemption shall on demand produce such a declaration in writing 629 signed by the purchasing dealer.
+Sub r.
+(2) thereof enjoins on a dealer not to accept and on the purchasing dealer not to give a declaration except in the form prescribed.
+The other rules make stringent provisions to prevent the misuse of the said forms.
+The argument of Mr. A.V. Viswanatha Sastri, learned counsel for the appellant, may be briefly stated thus: The substantive part of section 5(2)(a)(ii) of the Act provides for the exemption in respect of certain sales to a dealer if the sales are made to a registered dealer for the purposes mentioned thereunder.
+The proviso to the said subclause prescribes in effect that the declaration form in the manner prescribed is the best evidence to prove that the sales were for the said purposes.
+The proviso cannot be construed as laying down a condition for giving the exemption, but only as a directory provision to subserve the substantive provision in a reasonable way.
+If so construed, a dealer is not precluded in a case where the proviso cannot be strictly complied with from producing other relevant evidence to prove that the sales to the registered dealers were for the purposes mentioned in the said sub clause.
+This conclusion is sought to be supported on the basis of the expression "on demand" in r. 27A which, according to the learned counsel, indicates that the production of the prescribed declaration is not obligatory but only to be made if a demand is made by the authority concerned.
+The learned Solicitor General, on the other hand, contends on behalf of the respondents that a dealer can claim exemption under the said sub clause, but if he seeks exemption he must comply strictly with the conditions under which the exemption can be granted.
+He argues that the clear terms of the clause, read with the proviso, impose a condition on a dealer for claiming exemption.
+Section 5(2)(a)(ii) of the Act in effect exempts a specified turnover of a dealer from sales tax.
+The provision prescribing the exemption shall, therefore, be strictly construed.
+The substantive clause gives the exemption and the proviso qualifies the substantive clause.
+In effect the proviso says that part of the turnover of the selling dealer covered by the terms of sub cl.
+(ii) will be exempted provided a declaration in the form prescribed is furnished.
+To put it in other words, a dealer cannot get the exemption unless he furnishes the declaration in the prescribed form.
+It is well settled that "the effect of an excepting or qualifying proviso, according to the ordinary rules of construction, is to except out of the preceding portion of the enactment, or to qualify something enacted therein, which but for the proviso would be within it": see "Craies on Statute Law", 6th Edn., p. 217.
+If the intention of the Legislature was to give exemption if the terms of the substantive part of sub cl.
+(ii) alone are complied ' with, the proviso becomes redundant and otiose.
+To accept the argument of the learned counsel for the appellant is to ignore the proviso altogether, for if his contention be correct it will lead to the position that if the declaration form is furnished, well and good; but, if not furnished, other evidence can be 630 produced.
+That is to rewrite the clause and to omit the proviso.
+That will defeat the express intention of the Legislature.
+Nor does r. 27A support the contrary construction.
+The expression "on demand" ' only fixes the point of time when the declaration forms are to be produced; otherwise the rule would be inconsistent with the section.
+Section 5(2)(a)(ii) says that the declaration form is to be furnished by the dealer and r. 27A says that it shall be furnished on demand, that is to say it fixes the time when the form is to be furnished.
+This reconciles the provisions of r. 27A with those of section 5 (2)(a)(ii) of the Act, whereas the construction suggested by the learned ' counsel introduces an incongruity which shall be avoided.
+Section 21A on which reliance is placed has no bearing on the question to be decided.
+It only empowers the Commissioner or any person appointed to assist him under sub s (1) of section 3 to take evidence on oath etc.
+It can be invoked only in a case where the authority concerned is empowered to take evidence in respect of any particular matter; but that does not enable him to ignore a statutory condition to claim exemption.
+Sub rules (3) and (4) of r. 27A are not helpful to the appellant.
+They provide only safeguards against abuse of the declaration forms by the purchasing dealers; they do not enable the selling dealer to either directly apply or to compel the purchasing dealers to apply for duplicate forms; nor do they enjoin on the appropriate authority to give the selling dealer a duplicate form to replace lost one.
+We realise that the section and the rules as they stand may conceivably cause unmerited hardship to an honest dealer.
+He may have lost the declaration forms by a pure accident, such as fire, theft etc., and yet he will be penalised for something for which he is not responsible.
+But it is for the Legislature or for the rule making authority to intervene to soften the rigour of the provisions and it is not for this Court to do so where the provisions are clear and unambiguous.
+There is an understandable reason for the stringency of the provisions.
+The object of section 5(2)(a)(ii) of the Act and the rules made thereunder is self evident.
+While they are obviously intended to give exemption to a dealer in respect of sales to registered dealers of specified classes of goods, it seeks also to prevent fraud and ' collusion in an attempt to evade tax.
+In the nature of things, in view of innumerable transactions that may be entered into between dealers.
+it will wellnigh be impossible for the taxing authorities to ascertain in each case whether a dealer has sold the specified goods to another for the purposes mentioned in the section.
+Therefore, presumably to achieve the twofold object, namely, prevention of fraud and ' facilitating administrative efficiency, the exemption given is made subject to a condition that the person claiming the exemption shall furnish a declaration form in the manner prescribed under the section.
+The liberal construction suggested will facilitate the commission of fraud and introduce administrative inconveniences, both of which the provisions of the said clause seek to avoid.
+631 The decision of this Court in The State of Orissa vs M.A. Tulloch and Co. Ltd.(1) does not help the appellant.
+That decision was concerned with section 5(2)(a)(ii) of the Orissa Sales Tax Act, 1947.
+That section was similar in terms to section 5(2)(a)(ii) of the Act in question, but there was no proviso to that section in the Orissa Act similar to the one found in the present section.
+That makes all the difference, for it is the proviso that imposes the condition.
+But under r. 27(2) made under the Orissa Act "a dealer shall produce a true declaration in writing by the purchasing dealer or by such responsible person as may be authorized in writing in this behalf by such dealer that the goods in question are specified in the purchasing dealer 's certificate of registration as being required for resale by him or in the execution of any contract." This Court held that the said mandatory provision was inconsistent with section 5(2) (a)(ii) of the Orissa Sales Tax Act; and to avoid that conflict it reconciled both the provisions by holding that the rule was only directory and, therefore, it would be enough and if it was substantially compiled with.
+The said provisions may afford a guide for amending the relevant provisions of the Act and the rules made thereunder, but do not furnish any help for construing them.
+Before parting with the case we must make it clear that we are not expressing any opinion on the bona fides of the appellant or the appropriate sales tax authorities, for we have not scrutinized the evidence in that regard.
+In the result, the appeal fails and is dismissed with costs.
+Appeal dismissed.
+[1964] 7S.C.R.810.

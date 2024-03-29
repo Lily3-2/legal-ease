@@ -1,0 +1,95 @@
+Appeal No. 328,of 1958.
+Appeals from the judgment and order dated September 12, 1956, of the Calcutta High Court in Appeal from Original Order No. 15 of 1955.
+B. Sen P. K. Chatterjee and P.K. Bose, for the appellants.
+Dipak Datta Choudhri and P. D. Menon., for respondent No. 2. 1961.
+August 16.
+The Judgment of the Court was delivered by SUBBA RAO, J.
+This appeal raises the question of construction of the expression ,,telegraph line" in section 34(2)(b) of the (Act 9 'of 1910), (hereinafter called the ' Act).
+The first respondent, Laxmi Narayan Chopra, carries on business, as motor coach builder;, under the name and style of "Chopra Motors" having, his factory at 139, Regent Park, Tollygunge in the suburbs of Calcutta., In the said factory a number of "Universal Electric Motors" are operated for the purpose of working electric drills.
+Within a distance of 100 feet of the said factory, there is a Post and Telegraph Wireless Station, which, besides functioning as a coast station communicating with ships at sea, handles public messages in large volume from Darjeeling, Shillong, Gauhati, Agartala and New Delhi.
+In or about Aril, 1953 severe electrical interference was observed in the said station and experts attributed the same.
+to local induction from the first respondent 's factory.
+On October 13, 1953, the Senior Electric Inspector issued a notice to the first respondent to show cause writing as to why an order under section 34(2)(b) of the Act, read with notification No. 4193 COM, dated August 1 14, 1929 requiring discontinuation of the operation of the Universal Electric Motors in the 149 said factory premises should ' not be made.
+After some correspondence: on: December 1, 1953, the Senior Electric Inspector made an order under a. 34(2)(b) of the Act requiring the first respondent to remedy the injuries affecting the lines used for wireless telegraphic communications at the Wireless Receiving Centre.
+On January 12, 1954, the first respondent filed a petition in the High Court at Calcutta under article 226 of the Constitution pray for a writ of mandamus or any other appropriate mug writ directing the appellants to withdraw and cancel the said order and to forbear from giving effect to the same.
+The petition came up for hearing, in the first instance, before Sinha J., of that Court.
+It was contended, interalia, that there was no "telegraph line" in the Post and Telegraph Wireless Station within the meaning of s.34(2)(b) of the Act, and, therefore, the notice issued by the Senior Electric Inspector was without jurisdiction.
+Sinha J., rejected the contention and dismissed the petition.
+But on appeal, a division bench of that High Court, consisting of Mookerjee, A. C, J., and H. K. Bose J., accepted the contention of the first respondent and issued a writ as prayed for.
+The present appeal is directed against the said order.
+Learned counsel for the appellants contends that the definition of ", 'telegraph line" in the , (Act 13 of 1885), which is included by reference in the Act, is wide, enough to take in electric lines used for the purpose of wire.
+less telegraph and that the Appellate Bench of the High Court went wrong in invoking the old maxim contemporanea expositio est optima et fortissima in lege in construing the provisions of a modern state.
+The first respondent is ex parte; but in this case hisviewpoint is forcibly expressed in the judgment of the High Court under appeal.
+To appreciate the rival contentions, it is necessary at the outset.
+to read I the relevant provisions of the Act and the Telegraph Act.
+150 The Section 34.
+(2) If at any time it is estab lished to the satisfaction of the appropriate Government (b)that any electric supply lines or other works for the generation, transmission, supply or use of energy are attended with danger to the public safety or to 'human life or injuriously affect any telegraph line, the appropriate Government may, by order in writing, specify the matter complained of and require the owner or user of such electric supply lines or other works to remedy it in such manner as shall be specified in the order, and may also in like manner forbid the use of, and the supply of energy to, any electric supply line or works 'until the order is complied with or for such time as is speci fied in the order.
+Section 2.
+In this Act, expression,.
+; defined in the , or in the , have the meanings assigned to them in either of those Acts. .
+The Section 3.
+(1) "telegraph" means an electric, galvanic or magnetic telegraph, and includes appliances and apparatus for making, transmitting or receiving telegraphic telephonic or other communications means of electricity, galvanism or magnetism.
+(4)"telegraph line" means a wire or wires used for the purpose of a telegraph with any casing, coating, tube or pipe enclosing the same and any appliances and apparatus con nected therewith the purpose of fixing or insulating the same.
+A combined reading of the relevant provisions of 151 the two Acts may be expressed thus: " 'Telegraph line" means a wire or wires used for the purpose of an appliance or apparatus for receiving telegraphic or other communications by means of electricity.
+If it is established to the satisfaction of the appropriate Government that any works for the generation transmission supply, or use of electrical energy injuriously affects such a telegraph line the said Government is authorized to take appropriate action under.s. 34 of the Act.
+It is not disputed that in the said factory a number of Universal Electric Motors are operated for the purpose of working electric drills and it is also established that the interference with the reception of messages at the Telegraph Wireless Station is, attributable to local induction from the said factory.
+But the, dispute between the parties centers round the question whether the said interference with the reception of messages at the said Station injuriously affects any telegraph line within the meaning of section 34 of the Act.
+The Telegraph Wireless Receiving Station clearly comes within the definition of "telegraph" in the Telegraph Act.
+The Telegraph Act was passed in 1885.
+"Telegraph" then meant "an electric, galvanic or magnetic telegraph and appliance, and apparatus for telegraphic, telephonic or other communications by means of electricity, galvanism or magnetism".
+At that time wireless telegraphy or radio had not been developed.
+In the year 1914,s.
+3(1) of the said Act was amended and the following words were inserted after the words "apparatus for" : " 'making transmitting or receiving".
+With the result that, after the amendment, receiving of communications by means of electricity was included in the definition.
+A wireles.
+receiving station certainly receives communications by means of electricity, and therefore, it.
+is "telegraph" within the meaning of said definition.
+Though the., said station may be within the definition of "telegraph", the question still remains 152 whether there is a "telegraph line", for, under the definition, to be a ',,telegraph line" there shall.be a wire or wires used for the purpose of an apparatus receiving communications by means of electricity Under the heading "wireless telegraphy" in.
+the Encyclopedia Britannica, Vol. 28, a brief but adequate description of a wireless telegraphy is given thus "A wireless transmitter is a device for producing rapid oscillatory motion of electri city which is the origin of electric waves.
+Such electric waves are detected at a wireless receiving station b 'the effects of the rapidly varying electric and magnetic forces Which constitute the electric wave motion.
+" Are any wires used for the purpose of the apparatus receiving the said communications ? In the Encyclopedia Britannica some of the receiving stations ate described and 'it shows that wires are invariably used as aerials for receiving the said communications.
+In the present case , the Senior Electric Inspector filed an affidavit wherein he stated "it was established to my satisfaction that the operation and use of the 'Universal drills during the working hours of the factory caused serious interference by induction to the existing lines as well as to the receiving apparatus containing wires which are/were expressly used for telegraphic communication at the said centre.
+" It is there fore manifest that wires are used for the purpose of the apparatus receiving communications that is, wires are used not only for the aerial but &ISO inside the apparatus.
+A 'wireless transmitter transmits sound as electromagnetic waves and the said waves are detected by the.
+aerial and fed into the receiving apparatus by wires.
+To put it shortly the wires of the aerial as well as of the apparatus are used for the purpose of the apparatus receiving communications.
+If so, it follows Chit the receiving 153 appartus employs "telegraph lines" within the meaning of section 3(4) of the Telegraph Act.
+The High Court gave two reasons for rejecting the appellants ' contention.
+The first reason is that the word line ' in the expression 'telegraph line ' connotes the existence of a defined channel of communication which has got a physical existence and that wireless telegraphy is dependent upon transmission through space of electric waves and that is not a defined physical channel.
+We cannot accept this reasoning, for a telegraph line is not defined to mean a defined continuous physical channel from the point of transmission to the point of reception.
+The definition, as we have pointed out, is comprehensive enough to take in any wire used for the purpose of an apparatus for receiving communications by means of electricity.
+The second reason given by the learned Judges is that the expression " 'telegraph line", as used in section 34(2)(b) of the , has, in the absence of any new definition in that Act., to be given the same sense as the Legislature had intended in 1885 by the definition of that expression in the earlier Act.
+This reason is based upon the maxim contemporanea expositio est optima et fortissima in lege (contemporaneous exposition is the best and strongest in law).
+To state it differently, in the year 1885 the Legislature could not have dreamt of the future discovery of wireless telegraphy and, therefore, could not have intended to use the expression "telegraph line" in a comprehensive sense so as to take in electric wires of a receiving station of wireless telegraphy.
+It is necessary to consider the scope of the said maxim in its application to the interpretation of modem statutes.
+In Craies on Statute Law, 5th edn., the said rule is explained in the words of Coke thus at p. 77.
+154 "This and the like were the forms of ancient Acts and graunts, and,, the.
+ancient Acts and graunts must.
+be ' 'construed and taken as the law was holden at that time when they were, made.", The discussion ended with the following words at p. 79 "In Assheton Smith vs Owen(1), Cozens Hardy, L. J. said do not think that the doctrine of contenporanea exposition can be applied in construing Acts which are, comparatively modern and the Court declined to apply the rule 1 to the interpretation of local Acts of 1793 and 1800.
+" In Halsbury 's Laws of England, 2nd edn., Vol., 32, it is stated in the context of telegraph legislation thus at p. 4 The fact that new methods of telegraphy have been invented since the date of passing of the Acts containing the definition does not prevent the application of the Acts to such methods, provided that they answer the requirements and fall within the terms of the definition." In Sutherland 's Statutory Construction, 3rd.
+edn., Vol. 2, dealing with the said maxim, the learned author states at p. 508 as follows "As a general rule it may be stated that legislative intent should be determined as of the time the legislation goes into effect.
+But surrounding circumstances and situations occurring after the enactment of the statute may be of great or even conclusive assistance in determining a meaning which was intended to be conveyed.
+Legislative standards are generally couched ill terms which have, considerable breadth.
+Therefore a. status may be interpreted to include.
+, circumstances or (1) , 213.
+155 situations which were unknown or did not exist at the time of the enactment of the statute.
+" Decided cases accepted the said liberal approach in construing modern statutes.
+In The Attorney General vs The Edison Telephone Company of London (1),a telephone was held to be a "telegraph" within the meaning of the Telegraphs Acts, 1863 and 1869, although the telephone was not invented or contemplated in 1869.
+Stephen, T., observed at p. 254 : "Of course no one supposes that the legislature intended to refer specifically to telephones many years before they were invented, but it is highly probable that they would, and it seems to us clear that they actually did, use language embracing future discoveries as to the use of electricity for the purpose of conveying intelligence." The Privy Council in re Regulation and Control of Radio Communication in Canada ( 2) held that broadcasting fell within the m eaning of the expression in s.92 of British North America Act,1867, though at the time when that Act was made broadcasting was not in vogue.
+In The King V. Brislan ; ex parte Williams(3) the question was whether a law of the Commonwealth Parliament with respect to radio broadcasting was one with respect to "Postal, telegraphic telephonic and other like services" under section 1(5) of the Australian Commonwealth Act, and the Court held that the words were wide enough to take in radio broadcasting.
+In James vs Commonwealth of Australia(4),Lord Wright has state the principle in felicitous language thus (1) (2) (3) ; (4) , 641.
+156 ". the meaning of the words changes, but the changing circumstances illustrate and illuminate the full import of that meaning.
+" This Court in construing the words "sale of goods" in Entry 48, List II of the Seventh Schedule to the Government of India Act, 1935, accepted the aforesaid principle in The State of Madras V. Gannon Dunkerley and Co., (Madras) Ltd. (1),and restated it at p. 416 thus "The principle of these decisions.
+is that when, after the enactment of a legislation, new facts and situations arise which could not have been in its contemplation, the statutory provisions could properly be applied to them if the words thereof are in a broad sense capable of containing them." The legal position may be summarized thus: The maxim contemporanea expositio as laid down by Coke was applied to construing ancient statutes but not to interpreting Acts which are comparatively modern.
+There is a good reason for this change in the mode of interpretation.
+The fundamental rule of construction is the same whether the Court is asked to construe a provision of an ancient statute or that of a modern one, namely, what is the expressed intention of the Legislature.
+It is perhaps difficult to attribute to a legislative body functioning in static society that its intention was couched in terms of considerable breadth so as to take within its sweep the future developments comprehended by the phraseology used.
+It is more reasonable to confine its intention only to the circumstances obtaining at the time the law was made.
+But in a modem progressive society it would be unreasonable to confine the intention of a Legislature to the meaning attributable to the word used at the time the law was made, for a modern Legislature making laws to govern a society which is fast moving must be presumed to be aware (1) ; 157 of an enlarged meaning the same concept might attract with the march of time and with the revolutionary changes brought about in social, economic, political and scientific and other fields of human.
+activity.
+Indeed, unless a contrary intention appears, an interpretation should be given to the words used to take in new facts and situations, if the words are capable of comprehending them.
+We cannot, therefore, agree with the learned Judges of the High Court that the maxim contemporanea expositio could be invoked in construing the word "telegraph line" in the Act.
+For the said reasons, we hold that the expression " 'telegraph line" is sufficiently comprehensive to take in the wires used for the purpose of the apparatus of the Post and Telegraph Wireless Station.
+In the result, we set aside the order of the High Court and dismiss the petition filed by the first respondent.
+The appeal is allowed, but, in the circumstances of the case, without costs.
+Appeal allowed.

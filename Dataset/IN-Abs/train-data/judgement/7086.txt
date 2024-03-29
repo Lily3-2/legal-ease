@@ -1,0 +1,58 @@
+Appeal No. 4851 (NT) of 1990.
+From the Judgment and Order dated 31.1.89 of the Madras High Court in Tax Case No. 900 of 1979, K.N. Shukla, R. Satish for Ms. A. Subhashini for the Appellant.
+T.A. Ramachandran and Mrs. Janaki Ramachandran for the Respondent.
+The Judgment of the Court was delivered by B.P. JEEVAN REDDY.J.
+This appeal is preferred by the assessee against the judgment of the Madras High Court answering the question referred to it under section 256 (1) of the Income tax Act in favour of the Revenue and against the assessee.
+The question stated, at the instance of the High Court reads: "Whether, on the facts and in the circumstances of the case, the Appellate Tribunal was justified in holding that the assessable capital gain would be only Rs. 1,81,671 computed in the manner set out in paragraph 14 of the order of the tribunal? The assessee is a registered firm.
+The assessment year concerned is 1973 74, the relevant previous year being the financial year 1972 73.
+During the said previous year, the assessee sold shares held by him in several companies.
+From the sale of 'shares in three companies, it secured a gross long term capital gain of Rs. 5,61,508.
+However, in the sale of shares in six other companies, it sustained a long term capital loss in a sum of Rs. 96,583.
+The assessee computed the capital gains on the aforesaid transaction of sale of shares in the following manner: Gross long term capital gains Rs. 5,61,508.00 LESS, Deduction under Rs. 5,000.00 Section 80 T (b) Rs. 5,65,508.00 LESS:Deduction under section 80 T (b) (ii) at 50% Rs. 2,78,254.00 449 LESS Loss on sale Rs. 2,76,254.00 of shares Rs. 96,583.00 Profits: Rs. 1,81,671.00 The Income tax Officer did not agree with said mode of computation.
+He set off the long term capital loss against the long term capital gain in the first instance and then applied the deductions provided by section 80 T to the balance figure of Rs. 4,64,925.
+His computation was in the following terms: Gross long term capital gain Rs. 5.61,508 LESS: Long term capital loss of the same year Rs. 96,583 Balance of long term capital gains of the year Rs. 4,64,925 LESS: Deduction under section 80 T(b) (ii) at 50% Rs. 2,29,962 Capital gains included in the total income Rs. 2,29,963 Aggrieved by the order of assessment, the assessee preferred an appeal which was dismissed by the Appellate Assistant Commissioner.
+On further appeal, however, the Tribunal agreed with his mode of computation.
+Thereupon the Revenue asked for and obtained the said reference.
+The High Court answered the said question in the negative i.e., in favour of the Revenue, on the following reasoning: the income from capital gains constitutes a separate head of income under the Act.
+Capital gains are bifurcated into long term capital gains and shurt term capital gains.
+In this case the Court is concerned only with long term capital gains.
+Section 70 (2) (ii) prescribes the manner in which the loss from sale of longterm capital asset is to be set off.
+According to the said provision, the assessee " shall be entitled to have the amount of such loss set off against the income, if any, as arrived at under the similar computation made for the assessment year in respect of any other capital asset not being a short term capital asset".
+Support for the said proposition was derived from the decision in Commissioner of Income Tax vs 450 Sigappi Achi, The correctness of the view taken by the High Court is questioned in this appeal.
+Shri T.A. Ramachandran, learned counsel for the appellant submitted that according to the provisions and scheme of the Act, capital gains have to be computed in respect of each asset separately.
+Section 80 T prescribes different percentages of deduction for different types of capital assets: If the capital asset sold consists of "buildings or land or any rights in buildings or lands", the deduction provided is 35% in addition to the standard deduction of Rs. 5,000 Whereas in the case of any other capital asset, the percentage of deduction provided is 50%, in addition to the standard deduction of Rs. 5,000/ .
+The deductions have to be worked out separately where the capital assets transferred during a previous year fall in both the categories.
+Even the proviso to section 80T shows that the gains arising from the transfer of these two types of capital assets must be treated as separate and distrinct.
+If the capital gains arising from the transfer of both the types of capital assets are clubbed together, it would not be possible to work out the provisions of section 80 T.
+The correct method, therefore, is to compute the capital gains with respect to each asset transferred separately, in accordance with section 80 T, before setting off the losses.
+We are afraid the arguments advanced by Mr. Ramachandran travel far beyond the controversy involved herein.
+This is not a case where the assets transferred by the assessee during the relevant previous year consisted both the types of capital assets.
+They were of only one type namely shares.
+From the sale of certain shares the assessee derived profit and from the sale of certain other shares, he suffered loss.
+The simple question is how to work out and apply the deductions provided by section 80 T in such a case.
+For answering this question, it is necessary to notice the provisions of section 80 T and section 70, as they stood during the relevant previous year. "80 T. Where the gross total income of an assessee not being a company includes any income chargeable under the head "Capital gains" relating to capital assets other than short term capital assets (such income being, hereinafter , referred to as long term capital gains), there shall be allowed, in computing the total income of the assessee, a deduction from such income of an amount equal to, (a)in a case where the gross total income does not exceed ten thousand rupees or where the long term capital gains do not exceed five thousand rupees, the whole of such long term capital gains; 451 (b)in any other case, five thousand rupees as increased by a sum equal to, (i)(thirty five percent) of the amount by which the long term capital gains relating to capital assets, being buildings or lands, or any rights in buildings or lands, exceed five thousand rupees; (ii)(fifty per cent.) of the amount by which the long term capital gains relating to any other capital assets exceed five thousand rupees: Provided that in a case where the long term capital gains relate to buildings or lands, or any rights in buildings or lands, as well as to other assets, the sum referred to in sub clause (ii) of clause (b) shall be taken to be (A)where the amount of the long term capital gains relating to the capital assets mentioned in sub clause (i) is less than five thousend rupees, (fifty percent.) of the amount by which the long term capital gains relating to any other capital assets exceed the difference between five thousand rupees and the amount of the long term capital gains relating to the capital assets mentioned in sub clause (i); and (B)where the amount of the long term capital gains relating to the capital assets mentioned in sub clause (i) is equal to or more than five thousand rupees, (fifty percent.) of the long term capital gains relating to any other capital assets.
+70(1) Save as otherwise provided in this Act, where the net result for any assessment year in respect of any source falling under any head of income other than 'Capital gains ' is a loss, the assessee shall be entitled to have the amount of such loss set off against his income from any other source under the same head.
+(2)(i) Where the result of the computation made for any assessment year under sections 48 to 55 in respect of any short term capital asset is a loss, the assessee shall be entitled to have the amount of such loss set off against the income, if any, as arrived at under a similar computation made for the assessment year in respect of any other capital asset.
+452 (ii)Where the result of the computation made for any assessment year under sections 48 to 55 in respect of any capital asset other than a short term capital asset is a loss, the assessee shall be entitled to have the amount of such loss set off against the income, if any, as arrived at under a similar computation made for the assessment year in respect of any other capital asset not being a short term capital asset.
+" The opening words of section 80 T are relevant.
+If the gross total income of an assessee (not being a company) "includes any income chargeable under the head "capital gains" relating to capital assets (referred to as long term capital gains) there shall be allowed in computing the total income of the assessee a deduction from such income of an amount equal to. . . . .
+In our Judgment delivered on April 13, 1993 in Civil Appeal No. 3044 of 1983 (Commissioner of Income Tax vs V Venkatachalam) we have held that the deductions provided by section 80 T have to be applied to the "capital gains" arising from sale of long term capital assets.
+In other words, the deductions provided by the said section have to be applied to the amount representing the capital gains during the relevant previous year.
+The amount of capital gains during the relevant previous year means the profits derived minus the losses suffered.
+This is precisely the opinion of the High Court, with which view we agree.
+It is not possible to treat the transfer of each asset separately and apply the deductions separately.
+If the argument of the learned counsel for the appellant is logically extended it would mean that even the deduction of Rs. 5,000 should be applied in each case separately.
+Learned counsel, however, did not take that stand.
+He agreed that the standard deduction of Rs. 5,000 must be applied to the totality of the capital gains.
+At the same time, he says, the deductions provided in clause (b) should be applied separately to each asset.
+We have not been able to appreciate the logic behind the contention of the learned counsel.
+This is not a case where the capital assets transferred consist of two types mentioned in sub clauses (i) and (ii) of clause (b) of section 80 T.
+They are only of one type namely those falling under sub clause (ii).
+We need not, therefore, deal with or answer the hypothetical contention raised by the learned counsel.
+Further as pointed out by the High Court the provision contained in clause (ii) of subsection (2) of section 70, as it stood at the relevant time, supports the conclusion arrived at by us.
+The learned counsel for the appellant relied upon the decision of this Court in Commissioner of Income Tar (Central), Madras vs Canara Workshops Private 453 Limited, That was a case arising under section 80 E of the Act, as it stood during the assessment years 1966 67 and 1967 68.
+On the language of section 80 E, it was held that in computing the profits for the purpose of deduction under the said section, each 'priority industry ' must be treated separately.
+We do not see how the principle of the said decision has any application to the facts of this case, which has to be decided on the language of a different provision namely section 80 T read with section 70 (2) (ii).
+For the above reasons, we agree with the opinion expressed by the High Court and dismiss this appeal.
+No order as to costs.
+N.V.K. Appeal dismissed.

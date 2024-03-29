@@ -1,0 +1,33 @@
+The appellant was a sub tenant of the tenant respondent.
+The landlord served a notice of eviction on him in November, 1980 alleging that there was unlawful subletting by the respondent and that he had decided to terminate the tenancy with the expiry of that month.
+The appellant thereupon attorned in favour of the landlord agreeing to pay him the rent.
+After becoming the direct tenant, the appellant stopped paying rent to the respondent.
+The respondent asserting to be the lessor commenced proceedings for eviction of the appellant under section 10(2)(i) and (vi) and section 10(3)(b)(iii) of the Andhra Pradesh Buildings (Lease, Rent and Eviction) Act, 1960 on the ground that the appellant was in wilful default in payment of rent, that there was denial of title on appellant 's part, and that he required the premises bona fide for his use.
+F The Rent Controller disallowed the application on the ground that the respondent not being a lessor had no locus standi to initiate the proceedings for eviction.
+The first appellate court, however, directed eviction of the appellant under section 10(2)(i) and (vi), holding that in view of the denial of respondent 's title as well as non payment of rent, the appellant was estopped from denying the title.
+The High Court having upheld this view, the appellant appealed to this Court by special leave.
+Allowing the appeal, ^ HELD: 1.
+There could be no order of termination in terms of section H 146 10(2)(i) of the Andhra Pradesh Buildings (Lease, Rent and Eviction) Control Act unless it could be said that in the facts and circumstances of the case the dispute as to title was not bona fide.
+In the instant case, there is no such finding by the High Court.
+Furthermore, the appellant could not be treated to be in arrears of rent since he has been paying rent to the head lessor.
+Therefore, the order of eviction passed against the appellant under section 10(2)(i) and (vi) of the Act is not sustainable in law.
+[151G; 152B] 2.1 The rule of estoppel embodied under section 116 of the Evidence Act is that a tenant who has been let into possession cannot deny his landlord 's title at the commencement of the tenancy, however, defective it may be, so long as he has not openly restored possession by surrender to his landlord.
+During the continuance of the tenancy, the tenant cannot acquire by prescription a permanent right of occupancy in derogation of the landlord 's title by mere assertion of such a right to the knowledge of the landlord.
+The words 'during the continuation of the tenancy ' occurring in section 116 of the Evidence Act mean "during the continuance of the possession that was received under the tenancy in question.
+" The rule of estoppel is thus restricted not only in extent but also in time, i.e., restricted to the title of the landlord and during the continuance of the tenancy.
+[149E F; C D] 2.2 The general rule of estoppel under section 116 is, however, subject to certain exceptions, in that, a tenant is not precluded from denying the derivative title of the persons claiming through the landlord.
+Similarly, such estoppel is restricted to the denial of the title at the commencement of the tenancy, it is open to the tenant even without surrendering possession to show that since the date of tenancy the title of the landlord came to an end or that he was evicted by a paramount title holder or that even though there was no actual eviction or dispossession from the property, under a threat of eviction he had attorned to the paramount title holder.
+[149G H; 150A B] 2.3 In order to constitute eviction by title paramount it is not necessary that the tenant should be dispossessed or even that there should be a suit of ejectment against him.
+It will be sufficient if there was threat of eviction and if the tenant as a result of such threat attorns to the real owner, he can set up such eviction by way of defence either to an action for rent or to a suit in ejectment.
+If the tenant, however, gives up possession voluntarily to the title holder, he cannot claim the benefit of this rule.
+When the tenancy has been determined by eviction by title paramount, no question of estoppel arises under section 116 of the Evidence 147 Act.
+The principle must equally apply when the tenant has attorned under a threat of eviction by the title paramount and there comes into existence a new jural relationship of landlord and tenant as between them.
+[150B D] In the instant case, having regard to the fact that the appellant was under threat of eviction by the title paramount, it cannot be said that the rule of estoppel under section 116 of the Evidence Act applied and therefore, he was not entitled to dispute the title of the respondent.
+Furthermore, the appellant having, after being served with the notice of eviction, attorned to the head lessor, there came into existence a direct tenancy.
+[151H; 152A B] Bilas Kunwar vs Desraj Ranjit Singh, ILR (1915) All.
+557 (PC); Atyam Veerraju & ors.
+vs Pechetti Venkanna & Ors., ; ; Kumar Krishna Prosad Lal Singha Deo vs Baraboni Coal Concern Limited & ors., ; Adyanath Ghatak vs Krishna Prasad Singh & Anr., AIR (1949) PC 124; 27Halsbury 's Laws of England, 4th Edn., pars 238; Mangat Ram & Anr.
+vs Sardar Meharban Singh & ors.
+, , Fide Hussain vs Fazal Hussain & ors.
+, AIR (1963) MP 232; K.S.M. Curuswamy Nadar vs N.G. Ranganathan, AIR (1954) Mad, 402; S.A.A. Annamalai Chettiar vs Molaiyan & ors.
+, AIR (1970) Mad. 396 and Chidambara Vinayagar Devasthanam vs Duraiswamy, ILR , referred to,

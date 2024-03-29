@@ -1,0 +1,91 @@
+Appeals Nos. 45 and 46 of 1959.
+Appeal by special leave from the judgment and order dated March 25, 1957, of the former Bombay High Court in Appeal No. 16 of 1957.
+Q. K. Daphtary, Solicitor General of India, H. J. Umrigar and D. Gupta, for the Apellant (In C. A. No. 45 of 59) and Respondent (In C. Appeal No. 46 of 59).
+H. N. Sanyal, Additional Solicitor General of India, section N. Andley and J. B. Dadachanji, for the respondents (in C. A. No. 45 of 59) and Appellants (In C. A. No. 46/59).
+926 1960.
+September 27.
+The Judgment of the Court was delivered by DAS GUPTA J.
+M/s.
+Daulatram Rameshwarlal, a firm registered under the Indian Partnership Act (referred to later in this judgment as "sellers ") are registered dealers under section 11 of the Bombay Sales Tax Act.
+In their return of turnover for the period from April 1, 1954 to March 31, 1955, they claimed exemption from Sales Tax in respect of sales of cotton of the total value of Rs. 68,493 2 6 and sales of castor oil of the total value of Rs. 6,47,509 1 6 on the ground that these sales were oil FOB contracts, under which they continued to be the owners of the goods till the goods had crossed the customs barrier and thus entered the export stream, and so no tax was realisable on these sales in view of the provisions of article 286 (1)(b).
+The Sales Tax Officer rejected this claim for exemption and assessed them to sales tax on a taxable turnover including these sales.
+He also assessed them to purchase tax under section 10(b) of the Bombay Sales Tax Act on their purchase of castor oil which they later sold for the sum of Rs. 6,47,509 1 6 as mentioned above.
+The notice of demand for the total sales tax and the purchase tax assessed was served on the sellers on September 30, 1956.
+The sellers thereupon moved the Bombay High Court under article 226 of the Constitu tion for the issue of appropriate writs for quashing the order of assessment and the notice of demand and for prohibiting the Sales Tax Officer from taking any steps pursuant to the order or the notice.
+The learned Judge who heard the petition rejected the sellers ' contention that the goods remained their property till these crossed the customs frontier and therefore held that the sellers were not entitled to the benefit of article 286(1)(b) of the Constitution.
+As regards the assessment to purchase tax also he rejected the sellers ' contention that the assessment in question was illegal.
+In this view the learned Judge dismissed the application under article 226.
+Against this decision the sellers appealed.
+The 927 learned Judges who heard the appeal held, disagreeing with the Trial Judge, that the goods remained the sellers ' property till the goods had been brought on board the ship and so the sales were exempted from tax under article 286(1)(b) of the Constitution.
+They however agreed with the Trial Judger that the sellers were liable to pay purchase tax under section 10(b) of the Bombay Sales Tax Act.
+Accordingly they directed the Sales Tax Officer not to enforce the demand for payment of sales tax with regard to the sales of cotton for Rs. 68,493 2 6 and sale of castor oil of the total value of Rs. 6,47,509 1 6.
+The Sales Tax Officer has, on the strength of special leave granted by this Court, preferred the appeal which has been numbered as Civil Appeal No. 45 of 1959 against the appellate court 's order directing him not to realise the sales tax in respect of sales of cotton and castor oil.
+Civil Appeal No. 46 of 1959 has been preferred by the sellers against the appellate court 's judgment in so far as it upheld the assessment of purchase tax under section 10(b).
+The only "question for our decision in the appeal by the Sales Tax Officer is whether property in the goods passed on shipment or at some point of time before shipment.
+The law is now well settled that if the property in the goods passes to the buyer after they have for the purpose of export to a foreign country crossed the customs frontier the sale has taken place "in course of the export" out of the territory of India.
+If therefore in the present sales the property in the goods passed to the buyers on shipment, that is, after they had crossed the customs frontier the sales must be held to have taken place "in the course of export" and the exemption under article 286(1)(b) will come into operation.
+The sellers ' case is that these were sales on FOB contracts.
+Though the learned Solicitor General appearing on behalf of the Sales Tax Officer tried to convince us that these were not really FOB contract sales, it appears that the averment in Paras.
+11 and 13 of the writ petition that these sales were made on FOB basis were not denied in the counter affidavit sworn by the Sales Tax Officer.
+It is also 928 worth noticing that in the assessment order itself the Sale Tax Officer referred to these sales as sales on FOB basis.
+The specimen contract produced also used the words " FOB delivered ".
+There can be no doubt therefore that these were sales under FOB contracts. ' The normal rule in FOB contracts is that the property is intended to pass and does pass on the shipment of the goods.
+In certain circumstances, e.g., if the seller takes the bill of , lading to his own order and parts with it to a third person the property in the goods, it has been held, does not pass to the buyer even on shipment.
+We are not concerned here with the question whether the passing of property in the goods was postponed even after shipment.
+The correctness of the proposition that in the absence of special agreement the property in the goods does not pass in the case of a FOB contract until the goods are actually put on board is not disputed before us.
+As has however been rightly stressed by the learned Solicitor General it is always open to the parties to come to a different agreement as to when the Dropert in the goods shall pass.
+The question whether there was such a different agreement has to be decided on a consideration of all the surrounding circumstances.
+He relies on three circumstances to convince us that the sellers and their buyers agreed in these sales that the property will pass to the buyer even before shipment.
+The first circumstance on which he relies is that the bill of lading was taken in the name of the buyer.
+Along with this fact we have to consider however the fact that the bill of lading was retained by the sellers, the contract being that payment will be made on the presentation of the bill of lading.
+It is not disputed that the term in the contract for "payment at Bombay against presentation of documents " means this.
+It was the sellers who received the bills of lading and it was on the presentation of these bills of lading along with the invoices that the buyer paid the price.
+When the bills of lading though made out as if the goods were shipped by the buyer, were actually obtained and retained by the sellers, that fact itself would ordinarily indicate an intention of 929 the parties that the property in the goods would not pass till after payment.
+The second circumstance to which our attention has been drawn is that the export was under the contract to be under the buyer 's export licence.
+This, in our opinion, shows nothing.
+The ordinary rule in FOB contracts is that it is the duty of the buyer to obtain the necessary export licence.
+That was laid down in Brandt 's case (1) and though in a later case in Hardy vs Pound (2) the Court of Appeal in England held that the judgment in Brandt 's case (1) does not cover every FOB contract and that in the special facts of the particular case before them it was for the sellers to obtain the licence and this view was approved by the House of Lords , it is in our opinion correct to state that the presumption in FOB contracts is that it is the duty of the buyers to obtain export licence, though in the circumstances of a particular case this duty may fall on the sellers.
+The third circumstance on which reliance is placed on behalf of the Sales Tax Officer is that the Export Control Order, 1954, which was passed in the exercise of powers conferred by Import & Export Control Act, 1947, contained a provision in its clause 5(2) in these words: " It shall be deemed to be a condition of that licence. . . that the goods for the export of which licence is granted shall be the property of the licensee at the time of the export ".
+It has been strenuously contended by the learned Solicitor General that it will be reasonable to think that the parties to the contract intended to comply with this condition and to agree as between themselves that the goods shall be the property of the licensee, that is, the buyer, at the time of the export.
+It is argued that the time of the export should be interpreted as the time when the customs frontier is crossed and that we must proceed on the basis that the buyer and the sellers intended that the goods shall be the buyer 's property at the point of time when they crossed this frontier.
+We see however no justification for thinking that in this clause "the time of the export " means the time (1) (2) 930 when the goods cross the customs frontier.
+Export has been defined in the Import & Export (Control) Act, 1947, as " taking out of India by sea, land or air ".
+In the Exports (Control) Order, 1954, the word must be taken to have the same meaning as in the Act.
+On that definition the time of the export is the time when the goods go out of the territorial limits of India.
+These territorial limits would include the territorial waters of India.
+Consequently the time of the export is when the ship with the goods goes be yond the territorial limits.
+At any rate, the export of the goods cannot be considered to have commenced before the ship carrying goods leaves the port.
+The intention of the parties that in compliance with the requirements of cl.
+5(2) of the Exports (Control) Order the goods shall be the property of the licensee at the time of the export would therefore mean nothing more than that the property in the goods shall pass immediately before the ship goes beyond the territorial waters of the country, or at the earliest when the ship leaves the port.
+Whichever view is taken there is nothing to indicate that the intention to comply with the requirements of el.
+5(2) of the Exports (Control) Order carries with it an intention that the property should pass to the buyer at the time the goods cross the customs frontier.
+It is true that in the United Motor '8 Case (1) and in other cases it has been held by this Court that the course of export commences to run when the goods cross the customs barrier.
+What the court had to consider in these cases was not however when export commences within the meaning of the Exports (Control) Order but when the course of export commences for the purpose of article 286(1)(b) of the Constitution.
+For the reasons which need not be detailed here it was decided that the course of export commences at the time when the goods cross the customs barrier.
+These decisions as regards the commencement of the course of export are of no assistance in deciding about the point of time when the export proper commences.
+As we have already pointed out when export has been defined in the Import & Export (1) (1953) 4 S.T.C. 133. 931 (Control) Act, 1947, as "taking out of India by land, sea, or air ", export in the Export Control Order, cannot be held to have commenced till at least the ship carrying the goods has left the port, though it may in some contexts be more correct to say that it does not commence till the ship has passed beyond the territorial waters.
+We have therefore come to the conclusion that there is no circumstance which would justify a conclusion that the parties came to a special agreement that though the sales were on FOB contracts property in the goods would pass to the buyer at some point of time before shipment.
+We think that the learned judges who heard the appeal in the Bombay High Court were right in their conclusion that the goods remained the sellers ' property till the goods had been brought and loaded on board the ship and so the sales were exempted from tax under article 286(1)(b) of the Constitution.
+In Civil Appeal No. 46 of 1959 the appellants ' contention is that on a correct interpretation of the provisions of section 10(b) of the Bombay Sales Tax Act no purchase tax was leviable from them.
+Section 10(b) provides for the levy of a purchase tax on the turnover of purchase of goods specified in column I of Schedule B, at the rates, if any, specified against such goods in column 4 of the said schedule, "where a certificate under cl.
+(b) of section 8 has been furnished in respect of such goods and the purchasing dealer does not show to the satisfaction of the Collector that the goods have been despatched by him or by a person to whom he has sold the goods to an address outside the State of Bombay within a period of six months from the date of purchase by the dealer furnishing such certificate ".
+Section 8(b) provides for the deduction from the turnover, of sale of goods to a dealer who holds an authorisation and furnishes to the selling dealer a certificate in the prescribed form declaring inter alia that the goods so sold to him are intended for being despatched by him or by registered dealers to whom he sells the goods to an address outside the State of Bombay.
+Admittedly such a certificate was furnished by 932 M/s. Daulatram Rameshwarlal in respect of the castor oil which they sold to others and that in respect of these sales to them their sellers were allowed deductions.
+It is equally undisputed that the persons to whom M/s. Daulatram Rameshwarlal sold the goods were sent to an address outside the State of Bombay within a period of six months from the date of purchase by M/s. Daulatram Rameshwarlal.
+These persons are however not registered dealers.
+The Sales Tax Officer as also the High Court of Bombay has held that the " person to whom he has sold the goods " in section 10(b) means " a registered dealer to whom he has sold the goods ".
+It is contended before us on behalf of the appellant dealers that the word " a person " is wide enough to include a registered dealer and an unregistered dealer.
+It is urged that the use of the word it a person " instead of the words " a registered dealer " is deliberate and that it was the intention of the Legislature to levy purchase tax on a person who has given such certificate under section 8(b) only if the goods were not 'despatched outside the State of Bombay within the prescribed period by anybody.
+It is therefore contended that " a person " in section 8(b) should be interpreted to include a registered dealer or anybody else.
+We are unable to agree.
+A close examination of sections 8 and 10 justifies the conclusion that the Legislature was anxious to secure that the declaration as regards intention of the goods being despatched outside the State of Bombay should be carried out by despatch by " a registered dealer " to whom he sells the goods.
+If such despatch outside the State of Bombay is by a person to whom the certifying dealer has sold the goods but who is not a registered dealer the certificate has not been complied with.
+It will be in our opinion unreasonable to think that though the Legislature insisted that the certificate should declare the goods purchased were intended 11 for being despatched by him or by a registered dealer to whom he sells the goods outside the State of Bombay ", the Legislature would be content to accept actual despatch outside the State of Bombay by one who is not a registered dealer as sufficient.
+Mr. Sanyal contended that the certificate 933 has to declare only an intention and that if ultimately the actual despatch is made by some person who is not a registered dealer, it cannot strictly be said that the declaration has not been carried out.
+It might very well be that if at the time a declaration of intention is made in the certificate the purchasing dealer had the intention as stated and ultimately he sells to a person who is not a registered dealer for despatch of the goods outside the State of Bombay, the purchasing dealer may not be liable for having made a false declaration ".
+Even though he has not made a false declaration of his intention, the fact remains that the intention declared has not been carried out.
+The scheme of the Legislature clearly is that where the intention as declared has not been carried out purchase tax should be levied.
+To hold otherwise would be to make the declaration of the intention useless.
+Our conclusion therefore is that the courts below have rightly interpreted the words " a person " in section 10(b) of the Bombay Sales Tax Act as a " registered dealer " and that the purchasing dealers have rightly been assessed to purchase tax under section 10(b).
+In the result, both the appeals are dismissed with costs.
+Appeals dismissed.

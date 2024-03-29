@@ -1,0 +1,40 @@
+Civil Appeal No. 842 of 1964.
+Appeal by special leave from the judgment and order dated February 19, 1963 of the Kerala High Court in Income tax Referred Case No. 23 of 1962.
+R. Ganapathy Iyer and B.R.G.K. Achar and R. N. Sachthey, for the appellant.
+675 A. V. Viswanatha Sastri and R. Gopalakrishnan, for the respondent.
+The Judgment of the Court was delivered by Subba Rao, J.
+The respondent, the South India Bank Limited, Trichur, is a banking company.
+This appeal is concerned with the assessment year 1956 57, corresponding previous year being the calendar year 1955.
+During the accounting year the Bank received a sum of Rs. 44,720/ towards interest in respect of taxfree Cochin and Travancore Securities.
+During the course of the assessment of its income to tax, it claimed that rebate should be allowed on the entire sum of Rs. 44,720/ received as interest from the said securities.
+But, the Income tax Officer, while completing the assessment, arrived at the figure of Rs. 33,444/ as the sum representing two items, viz., (i) reasonable sum expended by the assessee in realizing the said interest; and (ii) the interest payable on the money borrowed for the purpose of investment.
+After deducting the said sum from the interest receivable from the said securities, he granted only a sum of Rs. 7,276/ as rebate for income tax.
+On appeal, the Appellate Assistant Commissioner upheld the view of the Income tax Officer.
+On a further appeal, the Income tax Appellate Tribunal, Madras Bench, held that the Bank was entitled to a, rebate on the gross amount of interest amounting to Rs. 44,720/ .
+At the instance of the Department, the Tribunal referred the following question to the High Court of Kerala for its decision : "Whether, on the facts and circumstances of the case, the Tribunal was right in holding that Explanation to section 8 is not applicable in this case and that the entire interest of Rs. 44,720/ earned by the assessee from securities issued by the former Native States, etc. is entitled to rebate of income tax." A Division Bench of the High Court expressed the opinion that the entire interest of Rs. 44,720/ was entitled to rebate for income tax under the notification issued by the Central Government in exercise of its powers under section 60 A of the Indian Income tax Act, 1922.
+Hence the appeal.
+Mr. R. Ganapathy Iyer, learned counsel for the Revenue, argued that under section 8 of the Indian Income tax Act, income tax was computed under the head "interest on securities" in respect of the interest received by an assessee on any government securities minus the expenditure incurred by him to realise the same in 676 terms of the first proviso and the Explanation thereto, that when under the third proviso the assessee was exempted from paying tax on the interest receivable on any securities of State Government issued income tax free, he was only exempted from such tax payable by him if it was not so exempted.
+To put it differently, his argument was that the exemption under the third proviso was only in regard to that part of the interest which was taxable but for the exemption.
+His further contention was that the notification issued by the Central Government under section 60A of the Income tax Act did not enlarge the scope of the exemption but that the said notification must be construed only in terms of section 8 of the Income tax Act.
+Mr. A. V. Viswanatha Sastri, learned counsel for the respondent, argued that the substantive part of section 8, read with the first proviso and the Explanation thereto, had no application to securities issued income tax free and that the interest from the State Government securities was governed by the third proviso which did not provide for any deduction from the interest receivable from such securities for the purpose of income tax.
+Further he sought to sustain the order of the High Court on the ground that the interest in question was solely governed by the notification issued by the Central Government whereunder the entire interest receivable from such securities was exempted from income tax.
+As we agree with the High Court on the construction of the notification issued by the Central Government, we do not propose to express our opinion on the rival contentions of the parties based upon the provisions of section 8 of the Income tax Act.
+Section 8 of the Income tax Act provides for the computation of income and deductions therefrom under the head "interest on securities".
+Section 60 of the Act confers a power on the Central Government to make an exemption, reduction in rate, or other modifications in respect of income tax in favour of any class of income or in regard to the whole or any part of any income of any class of persons.
+This power is conferred on the Government to meet special situations de hors section 8.
+If section 8 of the Income tax Act makes an exemption in respect of a particular income, there is no scope or occasion for invoking the special power conferred on the Central Government under section 60A of the Income tax Act.
+Unless we accept the contention that the notification under section 60A was issued by the Central Government in superabundant caution to cover the same ground occupied by section 8 we need not attribute any such redundancy to the Central Government we do not see any reason why the notification should not be construed on its own 677 terms in its application to the question of rebate raised in this, case.
+The said notification reads : "No income tax shall be payable by an assessee on the interest receivable on the following income tax free loans issued by the former Government of Travancore or by the former Government of Cochin, provided that such interest is received within the territories of the State of Travancore Cochin and is not brought into any other part of the taxable territories to which the said Act applies.
+Such interest shall, however, be included in the total income of the assessee for the purposes of Section 16 of the Indian Income tax Act, 1922 It is common case that this notification applies to the securities in question.
+It will be noticed that this notification does not refer to the provisions of section 8 of the Income tax Act at all.
+It gives a total exemption from income tax to an assessee in respect of the interest receivable on Income tax ' free loans mentioned therein.
+It gives that exemption subject to two conditions, namely, (i) that the interest is received within the territories of the State of Tranvancore Cochin, and (ii) that it is not brought into any other part of the taxable territories.
+It includes the said exempted interest in the total income of the assessee for the purpose of section 16 of the Income tax Act.
+Shortly stated, the notification is a self contained one; it provides an exemption from income tax payable by an assessee on a particular class of income subject to specified conditions.
+Therefore, there is no scope for controlling the provisions of the notification with reference to section 8 of the Income tax Act.
+The expression "interest receivable on income tax free loans" ' is clear and unambiguous.
+Though the point of time from which the exemption works is when it is received within the territories of the State of Travancore Cochin, what is exempted is the interest receivable.
+"Interest receivable" can only mean the amount of interest calculated as per the terms of the securities.
+It cannot Jr obviously mean interest receivable minus the amount spent in receiving the same.
+We, therefore, hold, agreeing with the High Court, that no income tax is payable in respect of the entire interest of Rs. 44,720/ earned by the assessee from securities issued by the former native States.
+In the result, the appeal fails and is dismissed with costs.

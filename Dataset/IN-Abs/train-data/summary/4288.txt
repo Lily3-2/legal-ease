@@ -1,0 +1,47 @@
+Section 195(1)(b) of the Code of Criminal Procedure, 1898 provides that no Court shall take cognizance of any offence punishable under section 205 (among others) I.P.C. when such offence is alleged to have been committed in or in relation to any proceedings in any Court, except on the complaint in writing of such Court.
+Clause (c) of this sub section provides that no Court shall take cognizance of any offence described in, among others, section 471 when such offence is alleged to have been committed by a party to any proceedings in any Court in respect of a document produced except on the complaint in writing of such Court.
+Section 476 Cr.
+P.C. provides that when any Criminal Court is, whether on application made to it or otherwise, of opinion that it is expedient in the interests of justice that an inquiry should be made into any offence referred to in section 195(1)(b) and (c) which appears to have been committed in or in relation to a proceeding in that court such court may make a complaint thereof and forward the same to a Magistrate First Class.
+The prosecution alleged that in an application for release of a person arrested under the Bombay Prohibition Act on bail accused No. 2 identified the surety and that he attested the bail application.
+Accused No. 3 was the scribe of the bail application and the affidavit accompanying it.
+The Magistrate ordered his release on bail.
+The case was transferred to another judicial magistrate who, when the accused failed to appear before him on the date of hearing, issued notice to the surety.
+The person to whom the notice was issued (the purported surety) appeared before the Magistrate and stated that he had never stood surety in the case, nor had he ever made an affidavit nor signed any papers in this regard and being a literate person there was no question of putting his thumb impression on the affidavit and bail bond.
+Accused No. 1 who was later named by accused No. 2 as the real surety admitted before the trial Magistrate that the bail application and the affidavit had been thumb marked by him at the instance of accused No. 2 and that he had no knowledge about the contents either of the application or of the affidavit.
+The Magistrate made a complaint to the judicial Magistrate, First Class for prosecution of the three accused for the offences under sections 205, 419, 465, 467 and 471 IPC.
+On finding that there was a prima facie case against all the accused the Magistrate committed them for trial.
+695 The Additional Sessions Judge acquitted accused No. 3 but found accused No. 1 guilty of offence under sections 205, 419, 465 and 471 I.P.C. and accused No. 2 for offences under section 205 read with sections 109, 419, 465 and 471 read with section 109 I.P.C. and sentenced them variously.
+On appeal by accused nos.
+2 and 3 the High Court held that the proceedings before the transferee Magistrate were not the same proceedings or continuation of the same proceedings which were before the previous court in which or in relation to which the offence was committed within the meaning of section 476 read with section 195, Cr.
+P.C. and that such a complaint could have been made only by the magistrate who released the accused on bail prior to the initiation of the case or his successor in office in that court but since the transferee Magistrate was not the successor in office of the Magistrate granting the bail, the proceedings before the committing Magistrate were without jurisdiction.
+Allowing the appeals, ^ HELD : 1.
+The High Court was not right in holding that the bail proceedings before the 'first ' Magistrate were "distinct and different" from those initiated on police challan before the transferee Court and that, therefore, the latter was not competent to hold a preliminary inquiry under section 476 Cr.
+P.C. and/or to make a complaint for persecution of the respondents in respect of offences under sections 205, 419, 465, 467 and 471 IPC.
+[706A C] 2.
+An offence under section 205 I.P.C. will fall within the ambit of clause (b) and an offence under section 471 IPC, will fall under clause (c) of section 195(1).
+The words "in or in relation to" occurring in clause (b) are not repeated in clause (c).
+But these words occur in section 476 both with reference to clause (b) and clause (c) of section 195(1).
+[701B].
+The settled position on the interpretation of these provisions is that the bar in section 195(1)(b) does not apply if there is no proceeding in any court at all when the offence mentioned in section 195(1) had been committed.
+In other words, the section contemplates only proceedings pending or concluded and not in contemplation.
+[701H].
+In the instant case, the forged bail bond and the false affidavit were presented in bail proceedings before the 'first ' Magistrate.
+That Magistrate had jurisdiction to try the case which was then under investigation.
+While considering a bail application of a person accused of an offence under investigation of the police, the Magistrate acts as a court, the proceedings in the bail application being judicial proceedings.
+[702B].
+Kamalapati Trivedi vs State of West Bengal ; relied on.
+The bail proceedings before the 'first ' Court could not be viewed in isolation but had to be taken as a stage in and part of the entire judicial process, the second stage of which commenced on presentation of the challan by the police in the court of the magistrate for an enquiry or trial of the accused person to whom the bail had been granted.
+[702G].
+The very terms of the bail bond in the instant case show that they were intended to be a preliminary part of the proceedings of inquiry or trial before the magistrate commencing with the presentation of a charge sheet under section 173 Cr.
+P.C. against the accused.
+This being the real position, the bail proceedings before the 'first ' magistrate and the subsequent proceedings before 696 the transferee magistrate commencing with the presentation of the challan by the police for the prosecution of the accused in the prohibition case could not be viewed as distinct and different proceedings but as stages in and parts of the same judicial process.
+Neither the time lag between the order of bail and the challan, nor the fact that on presentation of the challan, the case was not marked to the 'first ' Magistrate but was transferred under section 192 of the Code to the transferee magistrate, would make any difference to the earlier and subsequent proceedings being parts or stages of the same integral whole.
+If the earlier proceedings before the 'first ' court and the subsequent proceedings before the transferee court were stages in or parts of the one and the same process, then it logically follows that the aforesaid offences could be said to have been committed "in or in relation to" the proceedings in the Court of the transferee Magistrate also, for the purpose of taking action under section 476 of the Code.
+[703D H].
+The rationale behind decided cases is that if the two proceedings, one in which the offence was committed and the other, the final proceedings in the same or a transferee court are, in substance, different stages of the same integrated judicial process, the offence can be said to have been committed "in relation to" the proceedings before the Court to which the case was subsequently transferred or which finally tried the case.
+By the same token, the offences under sections 205 and 471 Penal Code in the present case can be viewed as having been committed "in relation to" the proceedings before the court of transferee magistrate to whom the case was transferred for disposal.
+Therefore, the transferee magistrate was competent to make a complaint in respect of the offences, after conducting a preliminary inquiry under section 476, Cr.
+P.C. [704F H].
+In the instant case, it cannot be disputed that the bail proceedings before the 'first ' magistrate were judicial proceedings before a court, although such proceedings took place at a stage when the offence against the accused, who was bailed out, was under police investigation.
+[705G].
+Nirmaljit Singh Hoon vs The State of West Bengal & Ors., ; distinguished.

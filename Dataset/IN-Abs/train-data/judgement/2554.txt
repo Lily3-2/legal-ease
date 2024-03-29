@@ -1,0 +1,48 @@
+Appeal No. 105 of 1966.
+Appeal from the judgment and order dated February 3, 1961 of the Calcutta High Court in Civil Revision No. 2755 of 1957.
+D. Narsaraju, R. M. Mehta and section P. Nayar, for the appellant.
+Ganpat Rai, for respondent No. 1.
+The Judgment of the Court was delivered by SHAH, J.
+G. W. Browne was an employee of the East India Railway and was a subscriber to the State Railway Provident Fund.
+He elected to be governed by the Provident Fund Sterling Accounts Rules, whereunder payment of the provident fund credited in his account in rupees was on retirement to be made in sterling.
+On August 26, 1947, Browne addressed a letter to the Financial Adviser and Chief Accounts Officer, East India Railway, requesting that the provident fund payable to him on retirement may be remitted to him by Bank Draft on the District Bank, Water Street, Liverpool.
+After Browne retired from service, the Deputy General Manager, Eastern Railway, wrote a letter on July 27, 1955, to the Chief Accounts Officer, communicating the sanction of the General Manager for payment of the special contribution to provident fund to Browne in sterling in terms of r. 1410(1) of the Railway Establishment Code.
+Another communication was received from Browne (who had apparently by then migrated to the United Kingdom) on February 22, 1956, by which he requested that the amount standing to his credit in the Provident Fund Account be remitted to the Westminster Bank, Birmingham.
+The Railway Administration then drew two cheques one for Rs. 14,428 8 9 and another for Rs. 23,018 11 10 in favour of the Reserve Bank of India with instructions to the Reserve Bank to convert amounts covered by the cheques into sterling and to transmit the fund in sterling to the bankers of Browne in England.
+The respondent Radha Kissen Agarwalla had obtained a money decree against Browne and he applied to the 3rd Court of the Subordinate Judge at Alipore for execution of that decree, and obtained an order for attachment of the cheques lying with the Reserve Bank.
+The cheques were attached and under orders of the executing court the cheques were encashed and the amount realized was deposited in the executing court.
+30 The Union of India claimed immunity from attachment of the cheques on the ground that they represented provident fund money which by section 3 of the , was immune from attachment.
+The execution application filed by Radha Kissen Agarwalla was struck off on December 7, 1956.
+On the next day Radha Kissen Agarwalla started another execution application and applied for and obtained an order for attachment of the money lying in the executing court in the execution case which had been struck off.
+The Union of India again applied for removal of attachment on the ground that the money represented provident fund money and was immune from attachment under the law and that the attachment was "illegal and without jurisdiction".
+The executing court overruled the objection observing "that the attachment issued by the Court on December 8, 1956, was perfectly in order. the moneys attached by the Court lost their character as Provident Fund moneys long before they were attached and hence they were not immune from attachment, as claimed by the objector".
+The Union of India then applied to the High Court of Calcutta in revision.
+The High Court confirmed.
+the order passed by the executing court.
+Rule 1413 of the Provident Fund Sterling Accounts Rules, insofar as it is relevant, provides : "(1) Where under these Rules any payment is to be made to the subscriber in sterling (a) the subscriber, prior to the date on which payment is to be made, shall send written instructions to the Accounts Officer intimating the place at which payment is to be made, such place being in a country where the rupee is not legal tender; (b) the Accounts Officer, on receipt of the, written instructions referred to in the preceding clause shall remit the amount through a bank for payment at the place at which payment is required." Accounts Officer for payment of the amount standing to his credit in a Provident Fund Account in sterling if the country in which it is to be paid, the rupee is not legal tender.
+Browne had given intimation before he retired of his intention to receive the provident fund amount due to him at the foot of the Provident Fund Account in sterling in the United Kingdom.
+After retirement of Browne, in order to carry out that obligation, the Accounts Officer of the Railway made out two cheques in the name of Browne and sent them to the Reserve Bank for conversion of the amount in sterling.
+The Reserve Bank was the only authority which could permit such conversion in view of the 31 currency restrictions imposed by the Government of India.
+For purpose of conversion and transmission of the amount to Browne, the Reserve Bank of India was the agent of the Railway Administration.
+Until the money was converted into sterling and was transmitted by the Reserve Bank to Browne, the money remained at the disposal of the Railway Administration.
+The Railway Administration was in respect of the provident fund money in the position of a trustee for Browne and it had undertaken to discharge its obligation by arranging to have the amount converted into sterling and to remit it to Browne.
+Under section 60 (1) (k) of the Code of Civil Procedure, 1908, read with section 3 of the , the compulsory deposit in any recognised Provident Fund Account is exempt from attachment in execution of a decree of a civil court.
+Section 3 ( 1 ) of the , provides : "A compulsory deposit in any Government or Railway Provident Fund shall not in any way be capable of being assigned or charged and shall not be liable to attachment under any decree or order of any Civil, Revenue or Criminal Court in respect of any debt or liability incurred by the subscriber or depositor, and neither the Official Assignee nor any receiver appointed under the Provincial insolvency Act, 1920, shall be entitled to, or have any claim on, any such compulsory deposit.
+" The Reserve Bank was, as already stated, the agent of the Railway Administration for conversion of the amount into sterling and was not the agent of Browne to receive the amount on his behalf.
+So long as the money remained under the control of the Railway Administration as provident fund money, it was exempt from attachment.
+Clause (b) of r. 1413 (1), which we have already noted, imposed upon the Accounts Officer an obligation to send the amount through a bank for payment at the place at which Payment was required, and the payment was required either under the first intimation at Liverpool by bank draft or under the later intimation by payment to the bankers of 'Browne at Birmingham.
+The High Court relied upon illustration (d) to section 50 of the Indian Contract Act in support of the view that by sending the two cheques to the Reserve Bank of India in performance of the manner of Payment prescribed by Browne, the debt was discharged, and the money must be deemed to have been paid out to the subscriber Browne.
+Section 50 of the Contract Act provides "The performance of any promise may be made in any manner, or at any time which the promise prescribes or sanction 32 It enacts the elementary rule relating to the performance of a promise under a contract : performance has to be in the manner and at the time which the promisee prescribes or sanctions.
+Browne had not authorised the Reserve Bank to receive payment of the money on his behalf, nor had he sanctioned payment to the Reserve Bank in discharge of the liability of the 'Railway Administration.
+Illustration (d) to section 50 of the Contract Act on which reliance was placed by the High Court reads : A, desire B., who owes him Rs.100, to send him a note for Rs. 100 by post.
+The debt is discharged as soon as B, puts into the post a letter containing the note duly addressed to A." The illustration only covers cases in which a creditor has directed the debtor to send him the amount owed by the, debtor in a certain manner.
+Browne asked the Railway Administration by the first intimation to send the amount by bank draft and later to the Westminster Bank, Birmingham.
+Only after the direction of Browne regarding transmission of the fund was complied with, the obligation of the Railway Administration could be discharged and not till then.
+In our view, the High Court was in error in holding that the money in the hands of the Reserve Bank of India had ceased to be provident fund money and was liable to be attached.
+It was somewhat faintly suggested that the Union of India had no interest in maintaining an application for removal of attachment.
+But the Union of India was a trustee for the subscriber of the money.
+When the amount lying with the Reserve Bank as the agent of the Railway Administration was attached the Union had clearly an interest to maintain the application for removal of attachment.
+The order of attachment of the amount into which the two cheques drawn by the Railway Administration were converted on encashment was contrary to the terms of section 3 of the .
+The appeal is therefore allowed and the order passed by the High Court is set aside.
+There will be no order as to costs.
+R.K.P.S. Appeal allowed.

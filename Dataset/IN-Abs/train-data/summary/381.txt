@@ -1,0 +1,59 @@
+The appellant and his brother were put up for trial on charges under section 302 read with section 34 of the Indian Penal Code.
+The appellant was specifically charged with murder in prosecution of the common intention.
+There was evidence to show that he and not his brother had struck the fatal blow.
+The brother was acquitted and the appellant was convicted under section 302 and sentenced to transportation for life.
+The High Court upheld the conviction and sentence and dismissed the appeal.
+The question was whether the omission to frame an alternative charge under section 302 simpliciter was an illegality that vitiated the trial and invalidated the conviction and whether there was a conflict of decisions of this Court on the matter in controversy.
+Held per curiam, that the omission to frame an alternative charge under section 302 in the facts and circumstances of the case was not an illegality that vitiated the trial but was a curable irregularity as it had not occasioned any prejudice to the appellant and the conviction was not liable to be set aside.
+That section 34 of the Indian Penal Code by itself does not create any offence and where, as in the present case, it is possible to ascertain who struck the fatal blow, the fact that another was also sought to be made liable does not invalidate a conviction for murder unless there was prejudice.
+That the expression 'illegality ' used in Nanak Chand 's case must be read with reference to the facts of that case where the court 1141 found prejudice, and the apparent conflict of view between the judgment in that case and that in Suraj Pal 's case had really no bearing on the present one.
+Nanak Chand vs The State of Punjab ([1955] 1 S.C.R. 1201), and SurajPal vs The State of U.P. ([1955] 1 S.C.R. 1332), explained.
+That the Code does not use the word 'illegality ' nor define 'irregularity ' and 'illegality ' can only mean an incurable irregularity, incurable because of prejudice leading to a failure of justice.
+The question of prejudice is a question of fact to be decided by the court in each particular case.
+That the offence committed by the appellant fell under the second part of section 304 of the Indian Penal Code and not section 302 and the conviction must be altered to one under that section.
+N. A. Subramania Iyer vs King Emperor ([1901] L.R. 28 I. A. 257), explained.
+Babulal Choukhani vs The King Emperor ([1938] L.R. 65 I. A. 158), Pulukuri Kotayya vs King Emperor ([1947] L.R. 74 I.A. 65), Abdul Rahman vs King Emperor ([1926] L.R. 54 I. A. 96), Atta Mohammad vs King Emperor ([1929] L.R. 57 I.A. 71), Karnail Singh vs The State of Punjab ([1954] S.C.R. 904) and Begu vs KingEmperor ([1925] I.L.R. , referred to.
+Per section R. DAS, ACTING C.J. and BOSE J.
+Like all procedural laws the Code of Criminal Procedure is designed to subserve the ends of justice and not to frustrate them by more technicalities.
+It regards some of its provisions as vital but others not, and a breach of the latter is a curable irregularity unless the accused is prejudiced thereby.
+It places errors in the charge, or even a total absence of a charge in the curable class.
+This is made clear by sections 535 and 537 of the Code.
+The object of the charge is to give the accused notice of the matter he is charged with and does not touch jurisdiction.
+If, therefore, the necessary information is conveyed to him in other ways and there is no prejudice, the trial is not invalidated by the mere fact that the charge was not formally reduced to writing.
+The essential part of this part of the law is not any technical formula of words but the reality, whether the matter was explained to the accused and whether he understood what he was being tried for.
+It is not correct to say that section 535 of the Code has no application to a case in which there is no charge at all or that it cannot apply except where sections 237 and 238 apply or that it is governed by section 233.
+Sections 237, 238, 535 and 537 should not be read disjunctively.
+They cover every possible case that relates to the charge and they place all failures to observe the rules about the charge in the category of curable irregularities.
+Sections 535 and 537 apply to every case in which there is a 1142 departure from the rules set out in Chapter XIX ranging from error, omissions and irregularities in charges that are framed, down to charges that might have been framed and were not and include a total omission to frame a charge at all at any stage of the trial.
+In judging a question of prejudice, as of guilt, courts must act with a broad vision and look to the substance and not to technicalities; and their main concern should be to see whether the accused had a fair trial, whether he knew what he was being tried for, whether the main facts sought to be established against him were explained to him fairly and clearly and whether he was given a full and fair chance to defend himself.
+There is no conflict of view between Nanak Chand vs The State of Punjab and Suraj Pal vs The State of U.P. and a close consideration of the reasons given in Nanak Chand 's case show that there was in fact no difference of opinion as regards cases where there is a charge to start with.
+Neither case, however, deals with the position where there is no charge at all.
+The remarks made in Nanak Chand 's case must be read in the perspective indicated and expressions which appear to travel wider do not give a correct exposition of the law.
+The effect of charging two persons with murder committed in pursuance of a common intention under section 34 of the Indian Penal Code is that the accused is unmistakably told that he participated in the crime.
+Where it cannot be ascertained who struck the fatal blow no conviction can follow unless a common intention is proved.
+But the converse does not hold good.
+Per JAGANNADHADAS and CHANDRASEKHARA AIYAR JJ.
+(IMAM J. agreeing).
+Sections 226, 227, 232(1), 237, 535 and 537 indicate that in the generality of cases the omission to frame a charge is not per se fatal.
+It is not, therefore, correct to say that where there is no charge the conviction must be illegal, prejudice or no prejudice.
+Nor is it correct to say that section 535 is sufficiently wide to apply to every case where there is no charge of any kind from the outset.
+The section cannot be construed in such an unlimited sense and must normally be read in the same context as sections 225,226 and 232, that is, with reference to a trial that validly commenced, for there may be cases where a trial without any kind of charge from the outset will be wholly contrary to the provisions of the Code and as such illegal without the necessity of a positive finding of pre judice.
+The provisions of section 535 mainly apply to cases of inadvertence to frame a charge induced by the belief that the matter on record is sufficient to warrant the conviction for a particular offence without express specification and where the facts proved constitute a separate and distinct offence but closely relevant to and springing out of the same set of facts connected with the one charged.
+The Code requires that in a sessions trial there should be a 1143 charge in writing.
+A deliberate breach of this basic requirement cannot be covered by the assertion that every thing was orally explained to the accused, the assessors or jurors and there was no prejudice.
+So also where the conviction is for a totally different offence from the one charged and not covered by sections 236 and 237 of the Code, the omission to frame a separate charge would be an incurable irregularity amounting to illegality.
+In cases coming under sections 34, 114 and 149 of the Indian Penal Code the charge against persons actuated by a common intention is a rolled up one.
+It involves direct liability and constructive liability without distinct specification.
+The absence of a charge under one or other of the various heads of criminal Liability for the offence in such cases is not fatal and a conviction for the substantive offence, without a charge, can be set aside only where there is prejudice.
+In considering whether a defect is illegal or merely irregular, several facts will have to be considered, including its gravity to determine if it falls within one class or the other.
+The answer must depend on the facts and circumstances of each case.
+If the defect is so grave that prejudice would necessarily be implied, it is an illegality.
+If less serious, it will be an irregularity and prejudice by way of failure of justice must be established.
+Howard vs Bodington ([1877] , referred to.
+Per IMAM J. On the facts of the present case the question raised by the reference does not arise.
+There is no substantial conflict of view between the two decisions of this court in Nanak Chand 's case and Suraj Pal 's case.
+Section 233 of the Code is a mandatory provision and the force of its direction is not weakened by the fact that another provision of the Code permits the conviction of the accused for an offence with which he had not been charged.
+The total absence of a charge from the beginning to the end where it is incumbent that a charge must be framed is a contravention of the Code regarding the mode of trial it prescribes and a conviction of the accused in such a case is invalid and no question of prejudice can arise.
+In cases, however, where a charge is framed but there is an omission or irregularity but the mode of trial is not affected the Code provides that the conviction may be set aside if, in fact, a failure of justice as resulted.
+It is difficult to lay down any hard and fast rule as to the applicability of section 535.
+That will depend on the facts of each case.

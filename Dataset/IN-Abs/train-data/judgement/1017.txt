@@ -1,0 +1,108 @@
+No. 528, of 1959.
+Appeal from the judgment and order dated September 20, 1957, of the former Bombay High Court in I.T.R. No. 15 of 1957.
+Hardayal Hardy and D. Gupta, for the appellant.
+R. J. Kolah, section N. Andley, J. B. Dadachanji, Rameshwar Nath and P. L. Vohra, for the respondent.
+635 1960.
+November 24.
+The Judgment of the Court was delivered by HIDAYATULLAH, J.
+The Commissioner of Income tax, Bombay City 11, has filed this appeal with a certificate under section 66A(2) of the Income tax Act, against the judgment and order of the High Court of Bombay dated September 20, 1957, in Income tax Reference No. 15 of 1957.
+The question referred to the High Court for its opinion by the Income tax Appellate Tribunal, Bombay was: "Whether the assessee is entitled to a deduction of Rs. 1,350 and Rs. 18,000 from his total income of the previous year relevant to the assessment years, 1953 54, 1954 55?" The assessee, Sitaldas Tirathdas of Bombay, has many sources of income, chief among them being property, stocks and shares, bank deposits and share in a firm known as Messrs. Sitaldas Tirathdas.
+He follows the financial year as his accounting year.
+For the assessment years 1953 54 and 1954 55, his total income was respectively computed at Rs. 50,375 and Rs. 55,160.
+This computation was not disputed by him, but he sought to deduct therefrom a sum of Rs. 1,350 in the first assessment year and a sum of Rs. 18,000 in the second assessment year on the ground that under a decree he was required to pay these sums as maintenance to his wife, Bai Deviben and his children.
+The suit was filed in the Bombay High Court (Suit No. 102 of 1951) for maintenance allowance, separate residence and marriage expenses for the daughters and for arrears of maintenance, etc.
+A decree by consent was passed on March 11, 1953, and maintenance allowance of Rs. 1,500 per month was decreed against him.
+For the account year ending March 31, 1953 only one payment was made, and deducting Rs. 150 per month as the rent for the flat occupied by his wife and children, the amount paid as maintenance under the decree came to Rs. 1,350.
+For the second year, the maintenance at Rs. 1,500 per month came to Rs. 18,000 which was claimed as a deduction.
+636 No charge on the property was created, and the matter does not fall to be considered under section 9(1)(iv) of the Income tax Act.
+The assessee, however, claimed this deduction on the strength of a ruling of the Privy Council in Bejoy Singh Dudhuria vs Commissioner of Income tax (1).
+This contention of the assesses was disallowed by the Income tax Officer, whose decision was affirmed on appeal by the Appellate Assistant Commissioner.
+On further appeal, the Tribunal observed: "This is a case, pure and simple, where an assessee is compelled to apply a portion of his income for the maintenance of persons whom he is under a personal and legal obligation to maintain.
+The Income tax Act does not permit of any deduction from the total income in such circumstances.
+" The Tribunal mentioned in the statement of the case that counsel for the assessee put his contention in the following words: "I claim a deduction of this amount from my total income because my real total income is whatever that is " computed, which I do not dispute, less the maintenance amount paid under the decree.
+" The assessee appears to have relied also upon a decision of the Lahore High Court in Diwan Kishen Kishore vs Commissioner of Income tax(2).
+The Tribunal, however, referred the above question for the opinion of the High Court.
+The High Court followed two earlier decisions of the same Court reported in Seth Motilal Manekchand vs Commissioner of Income tax (3) and Prince Khanderao Gaekwar vs Commissioner of Income tax (4), and held that, as observed in those two cases, the test was the same, even though there was no specific charge upon property so long as there was an obligation upon the assessee to pay, which could be enforeed in a Court of law.
+In Bejoy Singh Dudhuria 's case (1), there was a charge for maintenance created against the assessee, and the Privy Council had observed that the income must be deemed to have never reached that assessee, (1) (3) (2) (4) 637 having been diverted to the maintenance holders.
+In the judgment under appeal, it was held that the income to the extent of the decree must be taken to have been diverted to the wife and children, and never became income in the hands of the assessee.
+The Commissioner of Income tax questions the correctness of this decision and also of the two earlier decisions of the Bombay High Court.
+We are of opinion that the contention raised by the Department is correct.
+Before we state the principle on which this and similar cases are to be decided, we may refer to certain rulings, which illustrate the aspects the problem takes.
+The leading case on the subject is the decision of the Judicial Committee in Bejoy Singh Dudhuria 's case(1).
+There, the stepmother of the Raja had brought a suit for maintenance and a compromise decree was passed under which the stepmother was to be paid Rs. 1,100 per month, which amount was declared a charge upon the properties in the hands of the Raja, by the Court.
+The Raja sought to deduct this amount from his assessable income, which was disallowed by the High Court at Calcutta.
+On appeal to the Privy Council, Lord Macmillan observed as follows: "But their Lordships do not agree with the learned Chief Justice in his rejection of the view that the sums paid by the appellant to his step mother were not 'income ' of the appellant at all.
+This in their Lordships ' opinion is the true view of the matter.
+When the Act by Section 3 subjects to charge 'all income ' of an individual, it is what reaches the individual as income which it is intended to charge.
+In the present case the decree of the court by charging the appellant 's whole resources with a specific payment to his step mother has to that extent diverted his income from him and has directed it to his stepmother; to that extent what he receives for her is not his income.
+It is not a case of the application by the appellant of part of his income in a particular way, it is rather the allocation of a sum out of his revenue before it becomes income in his hands." (1) 81 638 Another case of the Privy Council may well be seen in this connection.
+That case is reported in P. C. Mullick vs Commissioner of Income tax, Bengal (1).
+There, a testator appointed the appellants as executors and directed them to pay Rs. 10,000 out of the income on the occasion of his addya sradh.
+The executors paid Rs. 5,537 for such expenses, and sought to deduct the amount from the assessable income.
+The Judicial Committee confirmed the decision of the Calcutta High Court disallowing the deduction, and observed that the payments were made out of the income of the estate coming to the hands of the executors and in pursuance of an obligation imposed upon them by the testator.
+It observed that it was not a case in which a portion of the income had been diverted by an over riding title from the person who would have received it otherwise, and distinguished the case in Bejoy Singh Dudhuria 's case (2).
+These cases have been diversely applied in India, but the facts of some of the cases bring out the distinction clearly.
+In Diwan Kishen Kishore vs Commissioner of Income tax (3), there was an impartible estate governed by the law of primogeniture, and under the custom applicable to the family, an allowance was payable to the junior member.
+Under an award given by the Deputy Commissioner acting as arbitrator and according to the will of the father of the holder of the estate and the junior member, a sum of Rs. 7,200 per year was payable to the junior member.
+This amount was sought to be deducted on the ground that it was a necessary and obligatory payment, and that the assessable income must, therefore, be taken to be pro tanto diminished.
+It was held that the income never became a part of the income of the family or of the eldest member but was a kind of a charge on the estate.
+The allowance given to the junior member, it was held, in the case of an impartible estate was the separate property of the younger member upon which he could be assessed and the rule that an allowance given by the head of a Hindu coparcenary to its members by way of maintenance was liable to be assessed (1) (2) (3) 639 as the income of the family, had no application.
+It was also observed that if the estate had been partible and partition could have taken place, the payment to the junior member out of the coparcenary funds would have stood on a different footing.
+In that case, the payment to the junior member was a kind of a charge which diverted a portion of the income from the assessee to the junior member in such a way that it could not be said that it became the income of the assessee.
+In Commissioner of Income tax, Bombay vs Makanji Lalji (1), it was stated that in computing the income of a Hindu undivided family monies paid to the widow of a deceased coparcener of the family as maintenance could not be deducted, even though the amount of maintenance had been decreed by the Court and had been made a charge on the properties belonging to the family.
+This case is open to serious doubt, because it falls within the rule stated in Bejoy Singh Dudhuria 's case (2); and though the High Court distinguished the case of the Judicial Committee, it appears that it was distinguished on a ground not truly relevant, namely, that in Bejoy Singh Dudhuria 's case (2) the AdvocateGeneral had abandoned the plea that the stepmother was still a member of the undivided Hindu family.
+It was also pointed out that this was a case of assessment as an individual and not an assessment of a Hindu undivided family.
+In Commissioner of Income tax, Bombay vs D. R. Naik (3), the assessee was the sole surviving member of a Hindu undivided family.
+There was a decree of Court by which the assessee was entitled to receive properties as a residuary legatee, subject, however, to certain payments of maintenance to widows.
+The widows continued to be members of the family.
+It was held that though section 9 of the Income tax Act did not apply, the assessee 's assessable income was only the balance left after payment of the maintenance charges.
+It appears from the facts of the case, however, that there was a charge for the maintenance (1) (2) (3) 640 upon the properties of the assessee.
+This case also brings out correctly the principles laid down by the Judicial Committee that if there be an overriding obligation which creates a charge and diverts the income to some one else, a deduction can be made of the amounts so paid.
+The last case may be contrasted with the case reported in P. C. Mullick and D. C. Aich, In re(1).
+There, under a will certain payments had to be made to the beneficiaries.
+These payments were to be made gradually together with certain other annuities.
+It was held that the payments could only be made out of the income received by the executors and trustees from the property, and the sum was assessable to income tax in the hands of the executors.
+It was pointed out that under the wilt it was stated that the amounts were to be paid "out of the income of my property", and thus, what had been charged was the income of the assessees, the executors.
+The case is in line with the decision of the Privy Council in P. C. Mullick vs Commissioner of Income tax, Bengal(2).
+In Hira Lal, In re,(3) there was a joint Hindu family, and under two awards made by arbitrators which were made into a rule of the Court, certain maintenance allowances were payable to the widows.
+These payments were also made a charge upon the property.
+It was held that inasmuch as the payments were obligatory and subject to an overriding charge they must be excluded.
+Here too, the amount payable to the widows was diverted from the family to them by an overriding obligation in the nature of a charge, and the income could not be said to accrue to the joint Hindu family at all.
+In Prince Khanderao Gaekwar vs Commissioner of Income tax (4), there was a family trust out of which two grandsons of the settlor had to be paid a portion of the income.
+It was provided that if their mother lived separately, then the trustees were to pay her Rs. 18,000 per year.
+The mother lived separately, and two deeds were executed by which the two grandsons agreed to pay Rs. 15,000 per year to the mother, (1) (3) (2) (4) 641 and created a charge on the property.
+The sons having paid Rs. 6,000 in excess of their obligations, sought to deduct the amount from their assessable income, and it was allowed by the Bombay High Court, observing that though the payment was a voluntary payment, it was subject to a valid and legal charge which could be enforced in a Court of law and the amount was thus deductible under section 9(1)(iv).
+There is Do distinction between a charge created by a decree of Court and one created by agreement of parties, provided that by that charge the income from property can be said to be diverted so as to bring the matter within section 9(1)(iv) of the Act.
+The case was one of application of the particular section of the Act and not one of an obligation created by a money decree, whether income accrued or not.
+The case is, therefore, distinguishable from the present, and we need not consider whether in the special circumstances of that case it was correctly decided.
+In V. M. Raghavalu Naidu & Sons vs Commissioner of Income tax (1), the assessees were the executors and trustees of a will, who were required to pay maintenance allowances to the mother and widow of the testator.
+The amount of these allowances was sought to be deducted, but the claim was disallowed.
+Satyanarayana Rao and Viswanatha Sastri, JJ. distinguished the case from that of the Privy Council in Bejoy Singh Dudhuria (2).
+Viswanatha Sastri, J. observed that the testator was under a personal obligation under the Hindu law to maintain his wife and mother, and if he had spent a portion of his income on such maintenance, he could not have deducted the amount from his assessable income, and that the position of the executor was no better.
+Satyanarayana Rao, J. added that the amount was not an allowance which was charged upon the estate by a decree of Court or otherwise and which the testator himself had no right or title to receive.
+The income which was received by the executors included the amount paid as maintenance, and a portion of it was thus applied in discharging the obligation.
+(1) (2) 642 The last cited case is again of the Bombay High Court, which seems to have influenced the decision in the instant case.
+That is reported in Seth Motilal Manekchand vs Commissioner of Income tax(1).
+In that case, there was a managing agency, which belonged to a Hindu joint family consisting of A, his son B and A 's wife.
+A partition took place, and it was agreed that the managing agency should be divided, A and B taking a moiety each of the managing agency remuneration but each of them paying A 's wife 2 as. 8 pies out of their respective 8 as.
+share in the managing agency remuneration.
+Chagla, C. J. and Tendolkar, J. held that under the deed of partition A and B had really intended that they were to receive only a portion of the managing agency commission and that the amount paid to A 's wife was diverted before it became the income of A and B and could be deducted.
+The learned Judge observed at p. 741 as follows: "We are inclined to accept the submission of Mr. Kolah that it does constitute a charge, but in our opinion, it is unnecessary to decide this question because this question can only have relevance and significance if we were considering a claim made for deduction under section 9(1)(iv) of the Income tax Act where a claim is made in respect of immovable property where the immovable property is charged or mortgaged to pay a certain amount.
+It is sufficient for the purpose of this reference if we come to the conclusion that Bhagirathibai had a legal enforceable right against the partner in respect of her 2 annas and 8 pies share and that the partner was under a legal obligation to pay that amount.
+" These are the cases which have considered the problem from various angles.
+Some of them appear to have applied the principle correctly and some, not.
+But we do Dot propose to examine the correctness of the decisions in the light of the facts in them.
+In our opinion, the true test is whether the amount sought to be deducted, in truth, never reaches the assessee as his income.
+Obligations, no doubt, there are in every case, but it is the nature of the obligation which is the (1) 643 decisive fact.
+There is a difference between an amount which a person is obliged to apply out of his income and an amount which by the nature of the obligation cannot be said to be a part of the income of the assessee.
+Where by the obligation income is diverted before it reaches the assessee, it is deductible; but where the income is required to be applied to discharge an obligation after such income reaches the assessee, the same consequence, in law, does not follow.
+It is the first kind of payment which can truly be excused and not the second.
+The second payment is merely an obligation to pay another a portion of one 's own income, which has been received and is since applied.
+The first is a case in which the income never reaches the assessee, who even if he were to collect it, does so, not as part of his income, but for and on behalf of the person to whom it is payable.
+In our opinion, the present case is one in which the wife and children of the assessee who continued to be members of the family received a portion of the income of the assessee, after the assessee had received the income as his own.
+The case is one of application of a portion of the income to discharge an obligation and not a case in which by an overriding charge the assessee became only a collector of another 's income.
+The matter in the present case would have been different, if such an overriding charge had existed either upon the property or upon its income, which is not the case.
+In our opinion, the case falls outside the rule in Bejoy Singh Dudhuria 's case and rather falls within the rule stated by the Judicial Committee in P. C. Mullick 's case For these reasons, we hold that the question referred to the High Court ought to have been answered in the negative.
+We, accordingly, discharge the answer given by the High Court, and the question will be answered in the negative.
+The appeal is thus allowed with costs here and in the High Court.
+Appeal allowed.

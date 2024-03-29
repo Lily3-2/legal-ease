@@ -1,0 +1,22 @@
+% The appellants, a Hindu undivided family, leased out a house owned by them.
+The covenant in the lease deed stated that the tenant will maintain and keep the demised premises in good and habitable condition, tenantable, repair, execute all repairs including annual white washing, repairs of electric and sanitary fittings etc.
+at the lessee 's expenses, and that the lessors shall undertake at their own cost major repairs such as repairs against collapse of the house.
+Originally in the assessments for the years 1954 55, 1960 61 and 1961 62, the annual letting value of the property was arrived at RS.36,000 and a deduction of Rs.6,000 was allowed for repairs under section 24(1)(i)(a) of the Income Tax, Act, 1961.
+Subsequently, the assessments were re opened on the ground that the assessee had got excess relief.
+In the re assessments, the Income Tax officer held that as the lessee had undertaken to keep the premises in good and habitable condition, execute all repairs, the deduction of Rs.6,000 was impermissible.
+He accordingly determined the annual letting value of the property at Rs.40,000 and allowed a deduction of Rs.4,000 towards repairs under s.24(1)(i)(a) of the Act.
+In the reopened assessment for the year 1954 55, the assessee 's claim for deduction of Rs.5,645 being the cost of the repairs undertaken by them was disallowed on the ground that this was a case where the tenant had undertaken to bear the cost of the repairs and, therefore, the allowance for repairs was limited to the limit permissible under section 24(1)(i)(b).
+The Appellate Assistant Commissioner and the Income Tax Appellate Tribunal affirmed the above view.
+88 At the instance of the assessee, the Tribunal stated a case and referred it to the High Court which though answered against the assessee, granted a certificate under section 261 of the Act, regarding the applicability of section 24(1)(i)(b) and reconsideration of deduction of the expenditure which was not allowed in the original assessment in the course of reopened assessments.
+In the appeal by special leave, it was urged that the covenant for repairs embodied in lease deed did not cast the burden to carry out the repairs exclusively on the lessee and that since the lessor had also undertaken to carry out some of the repairs, section 24(1)(i)(b) was not attracted and the benefit of section 24(1)(i)(a) was therefore available.
+On the question whether, having regard to the terms of the covenant, it could be said that the tenant had undertaken to bear the cost of repairs within the meaning, and for purposes, of section 24(1)(i)(b) of the Act.
+Dismissing the appeals, ^ HELD: 1.1 This is clearly not a case where the burden of carrying out repairs as understood in the context of section 24(1)(i)(b) of the Income Tax Act, 1961 is shared between the lessor and the lessee.
+The obligation is on the lessee alone.
+The obligation under the latter part of the covenant does not relate to such repairs.
+[93G H] 1.2 The idea of 'repair ' may include replacement or even a renewal.
+But the converse may not be true.
+All replacements or renewals need not necessarily be 'repairs '.
+In the case of a building, restoration of stability of safety of a subordinate or subsidiary part of it or any portion of it can be considered as repair while the reconstruction of the entirety of the subject matter may not be so regarded.
+[93B C] A general covenant to repair without any such words as tenantable or habitable or good repair is satisfied if the premises are kept in a substantial state of repair.
+[92H] Having regard to somewhat comprehensive nature of the obligations that go with and are attachment to and recognised under the tenant 's covenants for 'repairs ', it must be held that the covenant in the present case is one under which the tenant has undertaken 'substantial repairs ' and it must, accordingly, be held to fall within clause 89 (b) of section 24(1)(i) of the Act and not under clause (a) of the section and that the allowance for repairs must be one under, and limited to that provision.
+[93F] Commissioner of Income tax vs Parbutty Churn Law, ; Lurcoff vs Wakely and Wheeler, [1911] I K.B. 905; Rodesia Railway Ltd. vs Income tax Collector, [1933] Appeal Cases 368; Ravenseft Properties Ltd. vs Davstone (Holdings) Ltd., [1980] Q.B. 12 and Halsbury 's Laws of England, 4th Edn., paragraph 286, referred to

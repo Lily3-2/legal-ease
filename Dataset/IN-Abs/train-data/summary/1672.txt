@@ -1,0 +1,27 @@
+The appellants and the respondents entered into a partnership in the business of manufacturing bidis.
+Under the agreement a partner was entitled to retire after giving notice of six months to all partners.
+It contained a clause for reference of disputes between the partners relating to the business or dissolution of the firm to arbitration.
+It also contained a clause providing how four items including goodwill should be valued.
+According to this clause goodwill was equal to five years net profits for debts due to the firm were to be taken not at their book value but at 85% of that value, stocks of raw materials were to be valued at book value and immovable properties were to be valued at their purchase price or, their book value.
+About two years later the appellants desired to retire from the partnership and a deed ,of reference was executed and a sole arbitrator was appointed.
+This provided that the remaining partners shall continue the firm and they shall make full payment to the retiring partners of such amounts in such manner and on such conditions as shall be decided upon by the arbitrator.
+The arbitrator gave the award.
+He fixed the value of the goodwill of the firm at Rs.32 lakhs including in that amount the "depreciation and appreciation of the property, dead stock and dues to be recovered.
+" The award was filed in the Court under section 14(2) of the Indian .
+481 The respondents applied for an order setting aside the award on diverse grounds, two out of which survived for consideration in the present appeal.
+The first was that the arbitrator in making this award exceeded his jurisdiction because in fixing Rs. 32 lakhs as the value of the devisable assets of the firm he included therein the depreciation and appreciation of the property dead stock and outstandings; secondly that the arbitrator was guilty of misconduct.
+The trial court upheld these and certain other objections and set aside the award.
+The High Court confirmed the decision of the trial court insofar as it related to the two contentions.
+The present appeal is on a certificate granted by the High Court.
+Held:(i) An award made by an arbitrator is conclusive as a judgment between the parties and the court is entitled to set aside an award if the arbitrator has misconducted himself in the proceeding or when the award has been made after the issue of an order by the Court superseding the arbitration or after arbitration proceedings have become invalid under section 35 of the or where an award has been improperly procured or is otherwise invalid under section 30 of the Act.
+An award may be set aside by the Court on the ground of error on the face of the award, but an award is not invalid merely because by a process of inference and argument it may be demonstrated that the arbitrator has committed some mistake in arriving at his conclusion.
+Champser Bhara and Company vs Jivrai Balloo Spinning and Weaving Company Ltd., L.R. 50 I.A. 324 and Cruikshank and others vs Sutherland and others, , distinguished.
+(ii)It is not open to the Court to speculate, where no reasons are given by the arbitrator, as to what impelled the arbitrator to arrive at his conclusions.
+(iii)In the present case the arbitrator had included depreciation and appreciation of certain assets in the value of the goodwill which he was incompetent to include by virtue of the limits placed upon his authority by the deed of reference.
+This was not a case in which the arbitrator has committed an error of fact or law in reaching his conclusions on the disputed questions submitted for adjudication.
+It was a case of assumption of jurisdiction not possessed by him and that rendered the award to the extent to which it was beyond the arbitrators ' jurisdiction, invalid.
+It is, however, impossible to sever from the valuation made by the arbitrator the value of the depreciation and appreciation included by the arbitrator.
+The award must therefore fail in its entirety.
+Per Hidayatullah, J. (i) If the parties set limits to action by the arbitrator, then the arbitrator had to follow the limits set for him and the court can find that he exceeded his jurisdiction on proof of such excess.
+(ii)In the present case the arbitrator in working out net profits for four years took into account depreciation of immovable 1/SCI/64 31 482 property.
+For this reason he must be held to have exceeded his jurisdiction and it is not a question of his having merely interpreted the partnership agreement for himself as to which the Civil Court could have had no say, unless there was an error of law on the face of the award.

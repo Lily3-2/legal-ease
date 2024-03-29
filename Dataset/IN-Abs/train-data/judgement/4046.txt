@@ -1,0 +1,52 @@
+ax Reference Case No. 15 of 1975.
+Tax Reference under Section 257 of the Income Tax Act, 1961 made by the Income Tax Appellate Tribunal Delhi Bench R.A. No. 508 of 1971 72 arising out of I.T.A. No. 3410 of 70 71 for assessment year 1964 65.
+section L. Aneja and K. L. Taneja for the Appellant.
+section C. Manchanda, G. A. Shah and Miss A. Subhashini for the Respondent.
+The Judgment of the Court was delivered by PATHAK, J.
+Is an assessee, who has concealed the particulars of his income, liable to penalty under clause (iii) of sub section (1) of section 271 of the Income Tax Act, 1961 as it stood on the date of the concealment or as it stand during the assessment year relevant to the previous year in which the income was earned ? That is the question in this reference made by the Income Tax Appellate Tribunal under section 257 of the Income Tax Act.
+The assessee is a partner in two firms, Messrs. Hindustan Pottery Agency and Messrs. New Crockery House.
+He filed a return of his total income for the assessment year 1964 65 on April 201 24, 1968.
+He disclosed an income of Rs. 460/ from his share in the profits of Messrs. Hindustan Pottery Agency.
+He did not disclose the income from his share in Messrs. New Crockery House.
+In the course of the assessment proceedings, the Income Tax officer found that the assessee had received income from Messrs. New Crockery House also.
+Because of non compliance by the assessee with a notice issued under section 143 (2) of the Act, the Income Tax officer made a best judgment assessment under Section 144 of the Act on a total income of Rs. 12,118/ .
+This included a share income of Rs. 1,462/ from Messrs. Hindustan Pottery Agency and a share income of Rs. 3,456/ from Messrs. New Crockery House.
+Certain other items of income were also included.
+On appeal by the assessee, the Appellate Assistant Commissioner reduced the income from Messrs. New Crockery House to Rs. 2,955/ and taking into account certain other items determined the figure of concealed income at Rs. 7,357.
+The Income Tax officer instituted penalty proceedings, and applied clause (iii) of sub section (1) of section 271 of the Act, as it stand after amendment by the Finance Act, 1968.
+Having regard to the minimum penalty which, in his opinion, was leviable, he referred the case to the Inspecting Assistant Commissioner.
+The Inspecting Assistant Commissioner examined the matter, and on the basis that the concealed income was Rs. 7,357/ he imposed a 13 penalty in the like sum, in view of the amended clause (iii) of subsection (1) of section 271 of the Act.
+The assessee appealed to the Income Tax Appellate Tribunal, and contended that the amended provision could not be invoked and what came into operation was the law as it stood in the assessment year 1964 65.
+The Tribunal rejected the contention.
+But it reduced the penalty to Rs. 2,955/ taking the view that the assessee was guilty of concealing the share income from Messrs. New Crockery House only.
+The assessee then applied for a reference.
+The Tribunal saw a conflict of opinion on the point raised by the assessee between the Kerala High Court in Hajee K. Asseinar vs Commissioner of Income Tax, Kerala and the Punjab and Haryana High Court in Income Tax Reference No. 45 of 1971 (decided on April, 26, 1972) which had followed Saeed Ahmed vs Inspecting Assistant Commissioner of Income tax, Range ll, Lucknow(2) decided by the Allahabad High Court .
+In the circumstances, it made the present reference directly to this Court on the following question of law: 202 "Whether the Tribunal was, in law, right in sustaining the penalty of Rs. 2,955/ by applying the provisions of section 271(1)(c) (iii) of the Income Tax Act, 1961 as amended with effect from 1 4 1968 ?" Section 271 of the Income Tax Act provides for penalties in certain cases.
+Clause (c) of sub section (1) of section 271 speaks of a case where the Income Tax officer is satisfied that a person has concealed the particulars of his income or furnished inaccurate particulars of such income.
+The measure of the penalty is specified in clause (iii) of the sub section.
+During the assessment year 1964 65, clause (iii) read "(iii) in the cases referred to in clause (c), in addition to any tax payable by him, a sum which shall not be less than twenty per cent but which shall not exceed one and a half times the amount of the tax, if any, which would have been avoided if the income as returned by such person had been accepted as the correct income." That clause was substituted with effect from April 1, 1968 by the Finance Act, 1968 by the following: "(iii) in the cases referred to in clause (c), in addition to any tax payable by him, a sum which shall not be less than, but which shall not exceed twice, the amount of the income in respect of which the particulars have been concealed or inaccurate particulars have been furnished. ' It is evident that the quantum of tax which is levied under the substituted clause (iii) can be greater than that imposable in terms of the original clause (iii).
+The case of the assessee is that an assessment proceeding for the determination of the total income and the computation of the tax liability must ordinarily be made on the basis of the law prevailing during the assessment year, and inasmuch as concealment of income is concerned with the income relevant for assessment during the assessment year any penalty imposed in respect of concealment of such income must also be governed by the law pertaining to that assessment year.
+We are unable to accept the contention.
+In our opinion, the assessment of the total income and the computation of tax liability is a proceeding which for that purpose, is governed by entirely different considerations from a proceeding for penalty imposed for concealment of income And this is so notwithstanding that the income concealed is the income assessed to tax.
+203 In the case of the assessment of income and the determination of the consequent tax liability, the relevant law is the law which rules during the assessment year in respect of which the total income is assessed and the tax liability determined.
+The rate of tax is determined by the relevant Finance Act.
+In the case of a penalty, however, we must remember that a penalty is imposed on account of the commission of a wrongful act, and plainly it is the law operating on the date on which the wrongful act is committed which determines the penalty.
+Where penalty is imposed for concealment of particulars of income, it is the law ruling on the date when the act of concealment takes place which is relevant.
+It is wholly immaterial that the income concealed was to be assessed in relation to an assessment year in the past.
+We do not think that the cases to which the Tribunal has referred can be said to differ on this.
+The concealment of the particulars of his income was effected by the assessee when he filed a return of total income on April 24, 196$,.
+Accordingly, it is the substituted clause (iii), brought in by the Finance Act.
+1968, which governs the case.
+That clause came into effect from April 1, 1968.
+Another contention raised by the assessee may be noticed.
+It is urged that under section 139 of the Income Tax Act, as it stood during the assessment year 1964 65 the return of income should have been filed by the end of September, 1964 and inasmuch as the return, although filed as late as April 24, 1968, was accepted by the Income Tax officer it should be deemed that the return was treated as filed within time or, in other words, that the return had been filed by September 3(), 1964.
+In that event, the submission continues, the concealment of the particulars of income must be deemed to have taken place when the original clause (iii) of section (1) of section 271 of the Act was in operation.
+This contention is also without force.
+Under section 139 of the Act, although the statute itself prescribes the date by which a return of income must be filed, power has been conferred on the Income Tax officer to extend the date of furnishing the return.
+A return filed within the extended period is a good return in the sense that the Income Tax officer is bound to take it into consideration.
+But nowhere does section 13 declare that where a return is filed within the extended period it will be deemed to have been filed within the period originally prescribed by the statute.
+On the contrary, the section contains a provision for payment of interest where the return is filed beyond the 204 prescribed date even though within the extended period.
+That is evidence of the fact that the return filed during the extended period is not regarded by the statute as filed within the time originally prescribed.
+Accordingly, we are of opinion that clause (iii) substituted in sub section (1) of section 271 of the Income Tax Act, 1961 by the Finance Act, 1968, governs the case before us and, therefore, the penalty imposed on the assessee in the instant case is covered by that provision.
+We answer the question in the affirmative, in favour of the Revenue and against the assessee.
+The Revenue is entitled to its costs of this Reference.

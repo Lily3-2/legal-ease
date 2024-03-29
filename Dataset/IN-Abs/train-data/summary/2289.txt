@@ -1,0 +1,24 @@
+Under section 15(1) of the Forward Contracts (Regulation) Act 1952, forward contracts for the sale or purchase of specified goods may be entered into only between members of a recognised association or with a member or through any member of such association otherwise, the contract will be invalid.
+By sub section
+(4), Parliament imposed a prohibition upon every member of a recognised association against entry into a contract on his own account.
+with a non member, in respect of the specified goods: the prohibition is lifted when in the memorandum, agreement of sale or purchase, or in the bought and sold notes it is expressly disclosed that the contract is by the member on his own account and that he has secured the consent or authority of the other person who is a party to the contract, and.
+if such consent or authority be not in writing, the member has obtained a written confirmation by such person of such consent or authority within three days from the date of the contract.
+A notification was issued by the Central Government declaring section 15(1) to be applicable to forward contracts in jute goods, and the appellants, who were members of an Association recognised by the Act, entered into a contract with the respondents who were not members of any such association for buying jute bags on their own account.
+The appellants applied to the High Court.
+under section 33 of the , for an order declaring that there existed a valid arbitration agreement contained in the relevant bought and sold notes.
+No evidence was tendered in the High Court to show that the appellants had secured the written consent or authority of the respondents, to the contract, and it was not their case that they had secured any written confirmation of an oral consent or authority by the respondents.
+within three days of the date of the contract.
+The High Court held that the requirements of section 15(4) were not complied with.
+and that the contract was therefore invalid.
+In appeal to this Court.
+the appellants contended (1) that section 15(4) was complied with, because, the respondents did confirm the contract in the slip provided for such confirmation at the foot of the sold note, that the slip was detached from the sold note but was not tendered in evidence in the High Court as its importance was not realised, and that this Court should receive the document in evidence: and (2) that even if there was a breach of the prohibition in section 15 (4) the contract was enforceable, and the breach would merely expose the appellants to a criminal prosecution under section 20(2).
+HELD: (1) The additional evidence could not be allowed to be brought on record.
+[613H] 609 The document was in the possession of the appellants and no rational explanation Was furnished for not producing it before the High Court.
+Further, the document did not prove itself and did not establish that the respondents had consented in writing to the terms of the contract.
+This Court as the appellate court, did not require the additional evidence to enable it to pronounce judgment, nor was any substantial cause made out which would justify an order allowing additional evidence to be led in this Court, within the meaning of O. XLI, r. 27 of the Civil Procedure Code.
+[613C D, G H] (2) The prohibition imposed by section 15(4) is not imposed in the interest of revenue: the clause is conceived in the larger interest of the public to protect them against the malpractices indulged in by members of recognised associations in respect of transactions in which their duties as agents conflict with their persona interest.
+parliament has made a writing, evidencing or confirming the consent or authority of a non member, as a condition of the contract, if the member has entered into a contract on his own account.
+So long as there is no such writing, as is contemplated by section 15(4) or its proviso there is no enforceable contract.
+[615D F] The penal clause in section 20(2) cannot be utilised to restrict the prohibition contained in section 15(4).
+What is penalized under section 20(2) Is entry into a forward contract by a member on his own account without disclosing to the non member contracting party that the contract is on the member 's own account; and not, for failing to secure the consent or authority of the other party to the contract.
+[615G H] Shri Bajrang Jute Mills Ltd. vs Lalchand Dugar, , overruled.

@@ -1,0 +1,246 @@
+Appeals Nos, 731 732 of 1964.
+Appeals by special leave from the order dated January 29, 1963 of the Commissioner of Income tax, Bombay City 1, in No. 1/RP/BBY/40 and 41 of 1961.
+N. A. Palkhivala, T. A. Ramachandran, section P. Mehta and O, C. Mathur, for the appellant.
+Sarjoo Prasad, R. Ganapathy Iyer and R. N. Sachthey, for the respondent.
+The Judgment Of SARKAR, C.J. and MUDHOLKAR, J. was delivered by SARKAR, C.J. BACHAWAT, I. delivered a dissenting opinion.
+Sarkar.
+The assessee was an advocate of the High Court of Bombay and was practicing his profession there till March 1, 1957 when he was elevated to the Bench of that Court.
+He then ceased to carry on his profession and has not resumed it since.
+As an advocate he had been assessed to income tax on his professional income, his accounting years for the assessments being the calendar years, When he was raised to the Bench, various fees for professional work done by him were outstanding.
+In the years 1958 and 1959 during no part of which he had carried on any profession, he received certain moneys on account of these outstanding fees.
+297 His accounts had always been kept on the cash basis.
+The question is.
+whether be is liable to pay income tax on those receipts.
+We shall first make a few general observations.
+Section 6 of the Income tax Act, 1922 specifies six sources or heads of income which are chargeable to tax.
+In order to be chargeable, an income has to be brought under one of these six heads.
+section 6 also provides that the chargeability to tax shall be in the manner provided in sections 7 to 12B of the Act.
+Each of these sections lays down the rules for computing income for the purpose of chargeability to tax under one or other of the heads mentioned in section 6.
+An income falling under any head can only be charged to tax if it is so chargeable under the corresponding computing section.
+The fourth head of income in section 6 is "Profits and gains of business, profession or vocation" and the fifth head "income from other sources".
+The fifth head is the residuary head embracing all sources of income other than those specifically mentioned in the section under the other heads.
+Then we observe that the several heads of income mentioned in section 6 are mutually exclusive; a particular income can come only under one of them: The United Commercial Bank vs The Commissioner of Income Tax(2).
+We now turn to the present case.
+The receipts in the present case are the outstanding dues of professional work done.
+They were clearly the fruits of the assessee 's professional activity.
+They were the profits and gains of a profession.
+They would fall under the fourth head, viz., "Profits and gains of business, profession or vocation".
+They were not, however, chargeable to tax under that head because under the corresponding computing section, that is, section 10, an income received by an assessee who kept his accounts on the cash basis in an accounting year in which the profession had not been carried on at all is not chargeable and the income in the present case was so received.
+This is reasonably clear and not in dispute: see Commissioner of Income Tax vs Express Newspapers Ltd.(1).
+Can the receipts then be income falling under the residuary head of income and charged to tax as such? The Commissioner of Income tax from whose decision the present appeal has been taken by the assessee, held that it was chargeable under that head.
+He came to that conclusion on what he thought were the general principles and also on the authority of a certain observation of Chagla, J. in Re. B. M. Kamdar(3).
+The observation of Chagla, J. does not seem to us to be of much assistance for the decision in that case was not based on it nor is it supported by reasons.
+We find ourselves unable to agree with the learned Judge.
+We may add that apart from the observation in Kamdar 's case(1), there does not appear to be any direct authority supporting the view of the Commissioner.
+(1) ; (2) (3) I.T.R. 10.
+298 As to the general principles, we first observe that as the heads of income are mutually exclusive, if the receipts can be brought under the fourth head, they cannot be brought under the residuary head.
+It is said by the Revenue that as the receipts cannot be brought to tax under the fourth head they cannot fall under that head and must therefore fall under the residuary head.
+This argument assumes, in our view, without justification, that an income falling under one head has to be put under another head if it is not chargeable under the computing section corresponding to the former head.
+If the contention of the revenue is right, the position would appear to be that professional income of an assessee who keeps his account on the cash basis would fall under the fourth head if it was received in a year in which the profession was being carried on, but it would take a different character and fall under the residuary head if received in a year in which the profession was not being carried on.
+We are unable to agree that this is a natural reading of the provisions regarding the heads of income in the Act.
+Whether an income falls under one head or another has to be decided according to the common notions of practical men for the Act does not provide any guidance in the matter.
+The question under which head an income comes cannot depend on when it was received.
+If it was the fruit of professional activity, it has always to be brought under the fourth head irrespective of the time when it was received.
+There is neither authority nor principle for the proposition that an income arising from a particular head ceases to arise from that head because it is received at a certain time.
+The time of the receipt of the income has nothing to do with the question under which particular head of income it should be assessed.
+It is then said that the receipts had to be included in the total income stated in section 4 and since they do not fall under the exceptions mentioned in that section, they must be liable to tax and, therefore, they must be considered as income under the residuary head as they could not otherwise be brought to tax.
+This contention seems to us to be ill founded.
+While it is true that under section 4 the receipts are liable to be included in the total income and they do not come under any of the exceptions, the contention is based on the assumption that whatever is included in total income under section 4 must be liable to tax.
+We find no warranty for this assumption.
+Section 4 does not say that whatever is included in total income must be brought to tax.
+It does not refer at ill to chargeability to tax.
+Section 3 states that "Tax. shall be charged . . in accordance with, and subject to the provisions, of this Act in respect of the total income".
+This section does not, in our opinion, provide that the entire total income shall be chargeable to tax.
+It says that the chargeability of an income to tax has to be in accordance with, and subject to the provisions of the Act.
+The income has therefore to be brought under one of the heads In section 6 and can be charged to tax only if it is so chargeable under 299 the computing section corresponding to that head.
+Income which comes under the fourth head, that is, professional income, can be brought to tax only if it can be so done under the rules of computation laid down in section 10.
+If it cannot be so brought to tax, it will escape taxation even if it be included in total income under section 4.
+Furthermore, the expression "total income" in section 3 has to be understood as it is defined in section 2(15).
+Under that definition.
+total income means "total amount of income, profits and gains referred to in sub section
+(1) of section 4 computed in the manner laid down in this Act", that is, computed for the purpose of chargeability under one of the sections from section 7 to section 12 B.
+The receipts in the present case, as we have shown, can only be computed for chargeability to tax, if at all, under section 10 as income under the fourth head.
+If they cannot be brought to tax by computation under that section, they would not be included in "total income" as that word is understood in the Act for the purpose of chargeability.
+That all income included in total income is not chargeable to tax may be illustrated by referring to income from the source mentioned in the third head in section 6, namely, "Income from property".
+The corresponding computing section is section 9 which says that tax shall be payable on income under this head in respect of bona fide annual value of property.
+It is conceivable that income actually received from the property in a year may exceed the notional figure.
+The excess would certainly be liable to be included in total income under section 4.
+It however, cannot be brought to tax as income under the head "other sources", see Saliently House Estate, Ltd. vs Fry(1).
+It is an income which cannot be taxed at all though it is included in total income as defined in section 4.
+In Probhat Chandra Barua vs King Emperor(1) it was no doubt said that section 12 which is the computing section in respect of the residuary head of income, was clear and emphatic and expressly framed so as to make the head of "Other sources" describe a true residuary group embracing within it all sources of income, profits and gains, provided the Act applies to them, that is, provided they are liable to be included in total income under section 4 which deals with income to which the Act applies.
+We are in full agreement with that observation but we do not think that it affords any support to the contention that all income liable to be included within total, income under section 4 must be brought to tax.
+The observation must be read keeping in mind the undisputed principle that a source of income cannot be brought under the residuary head if it comes under any of the specific heads, for the Judicial Committee could not have overlooked that principle.
+If we do that, it will be clear that all that the Judicial Committee said was that all sources of income which do not come under any of the other heads of income can be brought under the residuary head.
+The words used are "embracing. all sources of income" and not all income.
+It did not say that an (1) ; (2) 57 I.A. 228.
+300 income liable to be included in the total income is chargeable to tax as income under the residuary head if it is not chargeable tinder a specific head under which it normally falls.
+In Probhat Chandra Barva 's case(1) the Judicial Committee was not concerned with that aspect of the matter; the only question before it was, whether zamindari and certain other income fell under the third head of income from property, as the word 'property ' was understood in the Act.
+Another aspect of Probhat Chandra Barua 's case(1) requires a mention.
+The question that there arose, as we have just now said, was, whether the Income tax Act did not impose a tax on the income of a zamindar derived from his zamindari and certain other properties.
+It was said on behalf of the assessee that the zamindari and the other income being income from property fell under the third head and could be brought to tax only under the corresponding computing section, section 9.
+It was pointed out that the income could not be charged to tax under that section because it dealt only with income from house property which the income concerned was not.
+It was then said that the income could not be taxed under the residuary head because it was really income from property and could be taxed only as such.
+The Judicial Committee did not accept this contention.
+It took the view that the word 'property ' in the third head "Income from property" had to be interpreted as restricted only to that kind of property which is described in the computing section, section 9 and as that section deals only with house property the income from zamindari and other properties did not fall under the head "Income from property".
+It, therefore, found no difficulty in holding that the zamindari income was income from the residuary source.
+We find no support in this case for the view that an income which is admittedly under a specific head can be brought to tax under the residuary head if it cannot be so brought under the cornputing section corresponding to that head.
+That case only held that zamindari income was not income which fell under the head "Income from property" and that it could never so fall.
+It provides ,no warranty for the contention that an income from one source may, in certain circumstances, be treated as income from a different source, which is the contention of the Revenue in the present case.
+We think it right also to observe that if the receipts in the present case could be treated as income from the residuary source, the position would be most anomalous.
+We have earlier said that if that were so, the placing of an income under this head would depend on the act of the assessee, it would depend on the time when the assessee chose to receive it.
+That we conceive is not it situation which the Act contemplates.
+But there is another and stronger reason to show that the Act did not contemplate it.
+Suppose the assessee had kept his accounts on the mercantile basis.
+(1) 57 I.A. 228. 301 He would then have been charged to tax on these receipts in the year when the income accrued which must have been a year when he was carrying on his profession as an advocate.
+It could not then have been said that the receipts should be taken under the head "other sources".
+If we are to accept the contention of the Revenue, we have to hold that the method of book keeping followed by an assessee would decide under which head a particular income will go.
+If the Revenue is right, the income of the assessee would go under the fourth head if the method of accounting was mercantile and it would go under the fifth head if the accounting was the cash basis.
+We are wholly unable to take the view that such can be the position under the Act.
+The heads of income must be decided from the nature of the income by applying practical notions and not by reference to an assessee 's treatment of income: see Commissioner of Income tax vs Cocanada Radhaswami Bank Ltd.(1).
+It now remains to see whether section 12 justifies a view contrary to that which we have taken.
+It lays down the rules for computation of income under the head "Other sources".
+It says that tax under the head "Income from other sources" shall be payable in respect of income of every kind which may be included in the total income if not included under any of the preceding heads.
+It seems to us clear that the words "if not included under any of the preceding heads" which refer to the heads considered in sections 7 to 10 refer to income and not to a head of income.
+section 12, therefore, deals with income which is not included under any of the preceding heads.
+If the income is so included, it falls outside section 12.
+Whether an income is included under any of the preceding heads would depend on what kind of income it was.
+It follows that if the income Is profits and gains of profession, it cannot come under section 12.
+Section 12 does not say that an income which escapes taxation under a preceding head will be computed under it for chargeability to tax.
+It only says and this is most important that 'an income shall be chargeable to tax under the head "other sources" if it does not come under any other head of income mentioned in the Act.
+Section 12 therefore does not assist the contention of the Revenue that professional income which cannot be brought to tax under section 10 may be so brought under section 12.
+For these reasons we have come to the conclusion that the receipts were not chargeable to tax either under the head of professional income or under the residuary head, It was not said that the receipts might be brought to tax under any other head.
+In our opinion, therefore, the receipts were not chargeable to tax at all.
+We accordingly allow these appeals with costs.
+(1) 3 S.C.R. 619.
+302 Bachwat, J.
+These appeals raise the question whether the professional income of an assessee whose accounts are kept on a cash basis, received by him during his life time after the discontinuance of the profession and after the close of the accounting year in which the profession is discontinued, is assessable to income tax either under section 10 or under section 12 of the Indian Income tax Act, 1922.
+The assessee was practising as an advocate in the High Court of Bombay till March 1, 1957 when he was appointed a Judge of the High Court at Bombay.
+His method of accounting was cash, and his accounting year was the Calendar year.
+The relevant orders of the Income tax Officer suggest that his accounting year was the financial year ending on March 3 1, but it is now the common case of both the assessee and the Revenue that the accounting year was the Calendar year.
+In the assessment year, 1958 59, the assessee was assessed to income tax in respect of the entire professional income received by him, during the Calendar year including the income received after March 1, 1957.
+It is not disputed that the assessee was liable to pay tax in respect of the income received by him between March 1, 1957 and December 31, 1957.
+During the Calendar years, 1958 and 1959, the assessee re ceived the sums of Rs. 30,570 and Rs. 15,240 respectively on account of professional fees for work done by him before March 1, 1957.
+In the returns for the assessment years, 1959 60 and 196061, the assessee included the aforesaid two sums as his income from profession.
+By his orders dated May 30, 1960 and October 26, 1960, the Income tax Officer subjected the aforesaid two sums to tax treating them as receipts of fees for professional services rendered in the earlier years and as part of the total income of the assessee.
+On April 4, 1961, the assessee filed two revision petitions before the Commissioner of Income tax, Bombay City 1, under section 33 A contending that the aforesaid two sums were no part of his total income of the relevant accounting years and were included in his returns through an error and asking for their exclusion from his assessable income for the relevant assessment years.
+By a common order dated January 29, 1963, the Commissioner of Income tax held that the two sums were assessable on general principles and also on the authority of the decision in Re. B. M. Kamdar(1), and rejected the revision petitions.
+From this order, the assessee now appeals to this Court by special leave.
+The first question is whether the two sums were assessable to tax under section 10 of the Indian Income tax Act, 1922.
+Section 10(1) provides: "The tax shall be payable by an assessee under the head Profits and gains of business, profession or vocation ' in respect of the profits and gains of any business, profession or vocation carried on by him." (1) 303 Section 10 applies to the profits and gains of any business, profession or vocation carried on by the assessee.
+Considering that the subject matter of charge is income of the previous year, the expression "carried on by him" must mean "carried on by him at any time during the previous year." To attract section 10(1), it is not essential that the assessee should have carried on the profession throughout the entire previous year or at the time when be realised the outstanding professional fees; it is sufficient that he carried on the profession at any time during the accounting year in which he realised his fees, see in re. Kamdar(1).
+On the other hand, the section does not apply to the profits and gains of any profession which was not carried on by the assessee at any time during the previous year.
+Our attention was drawn to several decisions of this Court dealing with section 10(2)(viii) and the second proviso to section 10(2)(vii).
+In Commissioner of Income tax vs Express Newspapers Ltd(1) and Commissioner of Income tax vs Ajax Products Ltd.(1), this Court held that one of the essential conditions of the applicability of the second proviso to section 10(2)(vii) is that during the entire previous year or a part of it the business shall have been carried on by the assessee.
+In the Express Newspapers Ltd. case(1), at page 259, Subba Rao, J. said: "Under section 10(1), as we have already pointed out, the necessary condition for the application of the section is that the assessee should have carried on the business for some part of the accounting year.
+" These observations support the conclusion that the profits and gains of a business or profession are not chargeable under section 10(1), if the assessee did not carry on the business or profession during any part of the previous year.
+In the instant case, the assessee discontinued his profession as soon as he became a Judge of the Bombay High Court.
+He could not carry on the profession after he became a Judge.
+It is not possible to hold that he continued to carry on the profession merely because he continued to realise his outstanding fees.
+It follows that the assessee did not carry on his profession as an advocate at any time during the Calendar years, 1958 and 1959.
+The receipts of the outstanding professional fees during 1958 and 1959 were not profits and gains of a profession carried on by the assessee during those years, and were not assessable to tax under section 10(1).
+Section 13 provides that except where the proviso to that section is applicable, the income for the purposes of section 10 must be computed in accordance with the method of accounting regularly employed.
+by the assessee.
+Section 13 is mandatory.
+In the instant (1) (2) , (3) ; 304 case, as the assessee employed the cash method of accounting and as the proviso to section 133 did not apply, his professional income during 1957 and the previous accounting years had to be computed on the cash basis.
+The Revenue had no option in the matter.
+Had the assessee adopted the mercantile method of accounting.
+the entire income of the assessee arising from his profession before March 1, 1957 would have been included in his assessable income for those years, and no portion of it would have escaped assessment under section 10.
+But as the assessee adopted the cash method of accounting, the outstanding fees could not be included in the assessment for those years.
+The question is whether this income now escapes taxation altogether.
+There is no doubt that by the method of accounting employed by the assessee, he has chosen to treat the receipts in question as income of the accounting years, 1958 and 1959.
+The Revenue claims that the income was assessable to tax under section 12.
+On behalf of the assessee, Mr. Palkhiwala submitted that (1) the income from the defunct source of profession, though not assessable under section 10, continued to fall under the head covered by section 10 and the residuary head under section 12 was not attracted, (2) section 12 covers residual heads and not residual receipts, and (3) that if section 12 were applied to this income, the assessee would suffer injustice because the deductions properly allowable under section 10 in respect of the income could not be allowed.
+On the other ban(], Mr. Sarjoo Prasad appearing on behalf of the Revenue submitted that the receipts in question were part of the total income of the assessee for the relevant accounting years chargeable under section 3 read with sections 2(15) and 4.
+and as the income was not exempt from tax and as it did not fall under section 10 or any other head, it must be assessed to tax under section 12.
+In support of his contention, Mr. Sarjoo Prasad relied upon the opinion of Chagla, J. in re. Kamdar(1) at p. 58.
+By section 3 read with sections 2(15) and 4, income tax is charged for every year in accordance with and subject to the provisions of the Act in respect of the total income of any previous year of the assessee computed in the manner laid down in the Act, including all income, profits and gains from whatever source derived.
+which accrue or arise or are received or are deemed to accrue, arise or to be received as provided by section 4(1) and which are not exempted under section 4(3).
+The crucial words in section 4 are "from whatever source derived".
+The nature of the source does not affect the chargeability of the income.
+Section 6 sets out the heads of income chargeable to tax.
+The several heads are dealt with specifically in sections 7, 8, 9, 10 and 12.
+Income is classified under different heads for the purpose of computing the net income under each head after making suitable deductions.
+Income, profits and gains from what ever source derived, included in the total income fall under one (1) 305 head or the other, If any part of the total income does not fall under the specific heads under sections 7, 8, 9 and 10, it must fall under the residuary head under section 12.
+Section 12(1) provides: "The tax shall be payable by an assessee under the head Income from other sources ' in respect of income, profits and gains of every kind which may be included in his total income (if not included under any of the preceding heads).
+" Income, profits and gains of every kind are covered by section 12, provided two conditions are satisfied, viz., (1) they are not included under any of the preceding heads and (2) they may be included in the total income of an assessee.
+Any income chargeable under a specific head can be charged only under that head and no part of that income can be charged again under section 12.
+But any part of the total income of the assessee not assessable under a specific head is assessable under the residuary head covered by section 12.
+Referring to similar words in section 12(1), as it stood before its amendment in 1939, Lord Russell observed in Probhat Chandra Barua vs The King Emperor(1): "These words appear to their Lordships clear and emphatic, and expressly framed so as to make the sixth head mentioned in section 6 describe a true residuary group embracing within it all the sources of income, profits and gains provided the Act applies to them i.e., provided that they accrue or arise or are received in British India or are deemed to accrue or arise or to be received in British India, as provided by section 4, sub section
+(1), and are not exempted by virtue of section 4, sub section
+" Referring to the words "income, profits and gains" in section 12, Lord Russell said in Gopal Saran Narain Shigh vs Income tax Commissioner(1): "The word 'income ' is not limited by the words 'profits ' and 'gains '.
+Anything which can properly be described as income is taxable under the Act unless specially exempted. " And Sarkar, J. said in Sultan Brothers vs Commissioner of Incometax(1): "Section 12 is the residuary section covering income, profits and gains of every kind not assessable under any of the heads specified earlier.
+" Section 6 gives the short label of each head, but the actual contents of the several heads are to be found in sections 7, 8, 9, 10 and 12.
+Take the head "(iii) Income from property" in section 6.
+Section 9 shows that only income from buildings or lands appurtenant thereto, of which the assessee is the owner, falls under this head.
+Income from other properties, e.g., land not appurtenant to (1) [1930] L.B. 57 I.A. 228,239.
+(2) [1915] L.R. 62 I.A. 207,213.
+(3) , 357: 306 building is outside the purview of this head and fall s under section 12.
+Again.
+take the head "(iv) Profits and gains of business, profession or vocation.
+" Section 10 on its proper construction applies only to the profits and gains of a business, profession or vocation carried on by the assessee during any part of the previous year.
+Profits and gains of business, profession or vocation of the assessee which was not carried on by him during any part of the previous year being outside the purview of section 10 must necessarily fall under section 1 2.
+Mr. Palkhiwala conceded that the receipts in question were the income of the assessee.
+He also admitted that the income was not exempt from tax under sub section
+(3) of section 4.
+The income was received by the assessee in the taxable territories during the relevant previous years.
+The receipts are, therefore, liable to be included in the total income.
+We have found that this income cannot be included under section 10.
+It is common case that it cannot be included under any other head.
+It follows that the income must fall under the residuary head specified in section 12.
+Section 12 dealing with the residuary head is framed in general terms and in computing the income under this head, requires deduction of any expenditure (not being in the nature of capital expenditure) incurred solely for the purpose of making or earning such income.
+As the income in the present case falls under section 12, the allowance for the necessary expenditure must necessarily be given under this head and not under section 10.
+There is no question of the assessee suffering an injustice by not being given the allowances under section 10.
+He cannot be given the allowances under section 10, as the income does not fall under that section.
+Counsel rightly submitted that section 12 covers residual heads and not residual receipts.
+In this connection, he relied upon Salisbury House Estates Ltd. vs Fry(1).
+That case decided that the various Schedules of the English Income tax Act, 1918 are mutually exclusive, Sch.
+A must be applied to the class of income falling under it and no pay of this income is chargeable under Sch.
+This decision received the approval of this Court in United Commercial Bank Ltd. vs The Commissioner of Income tax(2).
+On the principle of this decision, if a particular income is taxable as income from property under section 9, any residual receipt from the property in excess of the annual value assessed under section 9 cannot be assessed again as residual income under section 12.
+This principle has no application to the case before us.
+The relevant professional income of the assessee is not taxable under section 10 or under any other specific head, and it must, therefore, be taxed tinder section 12.
+This is not a case where the revenue has taxed or can tax the incomeunder section 10 and again seeks to tax the income under section 12.
+Mr. Palkhiwala next referred us to several English decisions in support of his contention that the receipts of the professional (1) ; (2) ; 307 income after the discontinuance of the profession are not assess a ble to income tax.
+Rowlatt, J. in Bennett vs Ogston(1) said: "When a trader or a follower of a profession or vocation dies or goes out of business because Mr. Needham is quite right in saying the same observations apply here and there remain to be collected sums owing for goods supplied during the existence of the business or for services rendered by the professional man during the course of his life or his business, there is no question of assessing those receipts to Income Tax; they are the receipts of: the business while it lasted, they are arrears of that business, they represent money which was earned during the life of the business and are taken to be covered by the assessment made during the life of the business, whether that assessment was made on the basis of bookings or on the basis of receipts." These bservations received the approval of the House of Lords in Purchase vs Stainer 's Executors(1) and Carson vs Cheyney 's Executors(1).
+In ' the last two cases, the Court held that the professional earnings of a deceased individual realised by his executor were not liable to income tax either under Case II or under Cases III and VI of Schedule D of the English Income tax Act, 1918.
+in Cheyney 's case(1), the professional earner had died in one of the assessment years and part of his earnings had been realised by his executor during the same assessment year.
+It is remarkable, however, that in Cheyney 's case(1) at p. 265 Lord Reid said: "In my opinion, the ground of judgment in this House in Stainer 's case was that payments which are the fruit of professional activity are only taxable under Case 11 and cannot be taxed under Case III, even when it is no longer possible when they fall due to tax them under Case II, and when looked at by themselves and without regard to their source they would fall within Case Ill.
+I am not sure that I fully appreciate the reasons for the decision, but I have no doubt that is what was decided, and I am bound by that decision whether I agree with it or not.
+" The rule in Stainer 's case(1), rests on shaky foundations and has been subjected to criticism even in England.
+The rule is subject to exceptions in England, and as pointed out by Jenkins, L. J. in Stainer 's case(1) is subject to the application of Rule 18 of the General Rules.
+The Indian Income tax Act, 1922 is not pair material, the scheme is in many respects different from the scheme of the English Act, and I think that the rule in Stainer 's case(1) is not applicable to the Indian Act.
+In England, the tax is on the I current year 's income, the Revenue has the option to assess the (1) ,378.
+(3) (2) 308 income on the accrual basis, and even if it chooses to make an assessment on the cash basis, the entire accrued income might be considered to be covered by the assessment.
+But under the Indian law, the tax is on the previous year 's income, the Revenue has no option to assess the income from a business or profession on the accrual basis if the accounts of the as are regularly kept on the, cash basis, and the assessment on the cash basis cannot cover the receipts in the subsequent years.
+Moreover, it is impossible to say under the Indian law that all receipts of outstanding professional fees after the retirement of the assessee from profession escape taxation.
+Beyond doubt, the receipt of the professional fees in the accounting year during which the assessee carried on the profession is assessable under section 10, though at the time of the receipt he has retired from the profession.
+The decision in The Commissioner of Income tax, Bombay City 1, Bombay vs Amarchand N. Shroff(1) is entirely distinguish able.
+In that case, this Court held that the income of a deceased solicitor received by his heirs subsequent to the previous year in which he died was not liable to be assessed to income tax under a. 24B as his income in the hands of his heirs, and apart from section 24B, no assesment can be made in respect of a person after his death.
+In the instant case, the assessee is alive,.
+and no question of assessment under section 24B arises, Neither side relied on section 25(1), and, in my opinion, rightly.
+That sub section gives an option to the Revenue to make an assessment in the year of the discontinuance of the business or profession on the basis of the income of the period between the end of the previous year and the date of the discontinuance in addition to the assessment, if any, made on the basis of the income of the, previous year, The sub section does not preclude the Revenue from making an assessment on the professional income under any other section of the Act.
+Our attention was drawn to section 176(4) of the Income tax Act, 1961, which provides: "Where any profession is discontinued in any year on account of the cessation of the profession by, or the retirement or death of, the person carrying on the profession, any sum received after the discontinuance shall be deemed to be the income of the recipient and charged to tax accordingly "in the year of receipt, if such sum would have been included in the total income of the aforesaid person had it been received before such discontinuance.
+" (2) [1963] Supp.
+I S.C.R. 690.
+309 The note on cl. 178 of the Income tax Bill, 1961 suggests that this sub section was passed with a view to give effect to the following recommendations of the Direct Taxes Administration Enquiry Committee in paragraph 7.81 (11) of its Report: "There is no provision in the law at present to assess the income, received after the cessation of practice or retirement or death of the assessees carrying on a profession, like, Solicitors.
+Advocates, Doctors, Consulting Surveyors.
+Engineers etc.
+The law should be amended in such a way that even on the assessee 's cessation of his vocation or retirement from the profession or death income received after such cessation, retirement or death would be taxed.
+" The Report does not purport to base, its opinion on any judicial decision.
+The assumption in this Report that there is no provision in the Indian Income tax Act to assess the entire income received after the retirement or death of professional men cannot be wholly correct, because, beyond doubt, the income received after the retirement in an accounting year during any part of which the assessee practiced his profession is assessable under section 10 and the income received after his death by his legal representative during the previous year in which he practised his profession is assessable in the hands of the legal representative under section 24B.
+Moreover, the Report is silent on the question of the assessment of the outstanding profits of business realised by a trader after the discontinuance of his business.
+In this case, we are concerned with the interpretation of the Indian Income tax Act, 1922, and the question is whether we can take into account the provision of the later Act in interpreting the earlier Act.
+In Craies on Statute Law, 6th Edn, p. 146, the law is stated thus: "Except as a parliamentary exposition, subsequent Acts are not to be relied on as an aid to the construction of prior unambiguous Acts.
+A later statute may not be referred to interpret the clear terms of an earlier Act which the later act does not amend, even although both Acts are to be construed as one, unless the later Act expressly interprets the earlier Act; but if the earlier Act is ambiguous, the later Act may throw light on it, as where a particular construction of the earlier Act will render the later incorporated Act in.
+effectual.
+" This passage is fully supported by the decision of the House of Lords in Kirkness vs John Hudson & Co.(1).
+In Hariprasad Shivshankar Shukla vs A. D. Divikar(2), this Court gave effect to the (1) [1955] 2 All.
+R.R. 845.
+(2) [1957] S.C.R. 121,140.
+310 plain meaning of an unamended Act, though on the interpretation given by it a later amendment would become largely unnecessary, and quoted with approval the following passage in the opinion of Lord Atkinson in Ormond Investment Co. Limited vs Betts(1): "An Act of Parliament does not alter the law by merely betraying an erroneous opinion of it.
+" I do not find any ambiguity in the clear terms of sections 2(15), 3,4,6,10, 12 and 13 of the Indian Income tax Act, 1922 and the later Act cannot be used as an aid to their construction.
+On the construction of the Indian Income tax Act, 1922, 1 hold that the profession income of an assessee whose accounts were kept on a cash basis received by him during his lifetime after the discontinuance of the profession and after the close of the accounting year in which the profession was discontinued, is assessable to income tax under section 12 of the Act.
+In the result, the appeals are dismissed.
+There will be no order as to costs.
+ORDER In accordance with the Judgment of the majority the appeals are allowed with costs.
+(1) ,164.

@@ -1,0 +1,76 @@
+Appeal No. 714 of 1966.
+Appeal by special leave from the judgment and order, dated September 17, 1964 of the Kerala High Court in Income tax Referred Case No. 62 of 1963.
+R.N. Sachthey, T.A. Ramachandran and B.D. Sharma, for the appellant.
+C.S. Venkateswara lyer, Sardar Bahadur Saharya and Yougindra Khusalani, for respondent No. 2.
+The Judgment of the Court was delivered by Grover, J.
+The sole question for determination in this appeal by special leave is whether on a true interpretation and construction of the second proviso to section 10(2)(vii) of the Income Tax Act 1922, sale of the assets of an assessee effected for the purpose of closing down the business would be covered by that proviso and would be assessable as profit.
+The assessee was running the business of plying buses in the name of Kumar Motor Service.
+During the assessee 's previous year which was the year ending August 16, 1959 the buses had been plied for part of the year but they were sold between August 16, 1958 and January 13, 1959.
+Two of the buses had been sold for Rs. 78,000 and the other four for Rs. 35,000, the total consideration received being Rs. 1,13,000.
+The assessee claimed a payment of Rs. 2,000 as brokerage.
+The Income tax Officer fixed a sum of Rs. 25,000 as the route value and held this amount to be a capital gain assessable to tax.
+On the balance of Rs. 86,000 he worked out the profits in the following manner : Sale price of 6 buses: .
+Rs. 86,000 Written down value of six Rs. 36,712 buses .
+Rs. 49,288 The Income Tax Officer consequently assessed the sum of Rs. 49,288 as profit under the second proviso to.
+section 10(2)(vii).
+Before the Appellate Assistant Commissioner in appeal the assessee contended that the business had been transferred as a whole and therefore no profit could be taxed under the aforesaid provision.
+This contention was rejected by the Appellate Assistant Commissioner on the ground that the transaction was only of sale of buses, along with the route value and this constituted sale of major assets but the business as such was not transferred or handed over to any party.
+Before the Income Tax Appellate 533 Tribunal the determination of Rs. 86,000 as the value of six buses was not disputed and the only point agitated related to the assessability of the amount of Rs. 49,288 as business profit under ' the second proviso.
+The tribunal was of the opinion that the buses had been plied by the assessee for part of the previous year and the profit on the sale of these buses was taxable under the said provision.
+The tribunal in its appellate order noticed the decision of this Court in Commissioner of Income Tax, Madras vs Express Newspapers Ltd., Madras(x) in which the question arose whether the second proviso would apply where the sale had been made in the process of winding up of a company but distinguished it on the ground that this Court in that case considered the second proviso as it stood before the amendment made by section 11 of the Taxation Laws (Extension to Merged States and Amendment) Act, 1949 (67 of 1949).
+The decision of this Court in Commissioner of Income Tax, Kerala vs West Coast Chemicals and Industries Ltd.(2) was also held by the tribunal to be inapplicable to the facts .of the present case.
+The assessee moved the tribunal for making a reference to.
+the High Court and the following question was referred: "Whether on the facts and in the circumstances of the case, the sum of Rs. 49,288 was assessable as profit under the provisions of section 10(2)(vii) ?".
+Although the tribunal had given no finding that the whole of the.
+bus service business had been wound up during the relevant period, the High Court proceeded to answer the question on that assumption.
+It is difficult to see how the High Court was justified in saying that the tribunal had apparently accepted the contention that the sale was a closing down or a realization sale.
+In such a situation we might have followed the course which commended itself in Commissioner of Income Tax, Kerala vs
+R.R. Ramakrishna Pillai(3); but we are of the opinion that even on the assumption that the sale of the buses was a closing down or a realization sale it would.
+nonetheless be taxable since the sale was made after the amendment of the second proviso by Act 67 of 1949.
+The High Court in the present case referred to the observations in the Commissioner of Income Tax vs Express Newspapers Ltd., Madras(1) and to the three conditions laid down therein for bringing the sale proceeds to charge under the second proviso.
+The High Court thought that the third condition was not satisfied as the sale of the buses was a closing down or a realization sale which was a mere incident of the winding up process of the business.
+It was consequently held that the question: (1) [19641 8 S.C.R. 189, 195.
+(2) (3) 534 referred must be answered in favour of the assessee and against the Revenue.
+Now the second proviso was in the following terms: "section 10 . . . . . (2). . . . . .
+Proviso (1) . . . . . (2) Provided further that where the amount for which any such building, machinery or plant is sold (whether during the continuance of the business or after the cessation thereof), exceeds the written down value, so much of the excess as does not exceed the difference between the original cost and the written down value shall be deemed to be profits of the previous year in which the sale took place;" The words within brackets did not exist before the amendment made by Act 67 of 1949 and were inserted by that Act.
+In The Liquidators of Pursa Limited vs Commissioner of Income Tax, Bihar(1) the controversy arose out of the proceedings relating to the assessment of Pursa Limited for the assessment year 1945 46.
+Attempts had been made from 1942 onwards to sell the entire business of the company but without success.
+In December 1943 an agreement was executed whereby the assessee agreed to sell all the lands, buildings, machinery, plant etc., used in connection with the sugar factory which was being run by the company.
+On the date of the sale the company possessed sugar stocks valued at Rs. 6 lakhs which the company continued to sell up to June 1944.
+The company went into voluntary liquidation on June 20, 1945.
+The Income Tax Officer held that the profits of the sale of machinery and plant were liable to assessment under section 10(2)(vii).
+The Appellate Asstt.
+Commissioner and the Income Tax Appellate Tribunal affirmed that order.
+After the matter had been taken to the High Court it came finally in appeal to this Court.
+It was held that the intention of the company was to discontinue its business and the sale of the machinery and plant was a step in the process of the winding up of the business culminating in the voluntary liquidation of the company and even if the sale of the stock of sugar be regarded as carrying on of business of the company and not a realisation of its assets with a view to winding the machinery or plant not having been used at all, section 10(2) (vii) would have no application to the sale of any such machinery or plant.
+The controversy in Commissioner of Income Tax, Kerala vs West Coast Chemicals and Industries Ltd.(2) arose out of the assessment of the company for the accounting year ending April 30, 1944.
+The assessee company had entered into an agreement (1) ; (2) 535 in 1943 for the sale of the lands, buildings, plant and machinery of a match factory with a view to close down the business.
+The purchaser made default in payment and a few months later a fresh agreement was entered into between the parties for the sale of the property mentioned in the first agreement and also chemicals and paper used for manufacture which had not been included in the first agreement.
+The Department sought to assess the profits derived from the sale of the chemicals and paper as profits from the business.
+The assessee contended that it was a realisation sale and this amount was not liable to tax.
+It was held that on the facts of that sale the sale of chemicals and materials used in the manufacture of matches was only a winding up.
+sale to close down the business and to realise all the assets.
+Therefore the tax liability was not attracted.
+In Commissioner of Income Tax, Madras vs Express Newspapers Ltd., Madras(1) a decision on which the High Court relied a great deal in the present case the question again arose out of the assessment made before the amendment made in 1949, the accounting year being 1946 47.
+Reference was made by Subba Rao, J., (as he then was) delivering the judgment of this Court to the decision in the case of The Liquidators of Pursa Limited(2) as also to other decisions and after an examination of the relevant provisions the following three conditions were laid down for bringing the sale proceeds to charge under the second proviso to section 10(2)(vii): "( 1 ) During the entire previous year or a part of it the business shall have been carried on by the assessee; (2) the machinery shall have been used in the business; and (3) the machinery shall have been sold when the business was being carried on and not for the purpose of closing it down or winding it up.
+" There can be no doubt that according to the law laid down by this Court the view of the High Court would have been sustainable if the sale in the present case had been effected during the assessment year prior to the amendment of the proviso by Act 67 of 1949.
+The critical words which were inserted by that proviso namely, "whether during the continuance of the business or after the cessation thereof ', must be given their 'proper meaning.
+It is quite plain that if the building, machinery or plant is sold during the continuance of the business or after the business ceases the sale proceeds would be liable to tax in accordance with that proviso.
+The only question therefore is whether when a sale is made for the purpose of closing down the business or effecting its cessation the proviso would be inapplicable.
+When the legislature clearly provided that the proviso would apply even if the sale (1) (2) ; 536 was made after the cessation of the business it is difficult to conceive that it was intended to exclude from the ambit of the proviso realisation sales of the nature contemplated in the previous decisions of this Court.
+Such a result would be illogical.
+Even logic is not necessarily to govern the interpretation of a taxing provision, the rule of reasonable interpretation cannot be ignored.
+Indeed this Court in a recent judgment Commissioner of Income Tax vs Ajax Products Ltd.(1) clarified the position about the effect of the amendment made in 1949 in the proviso and reference was made to the three conditions for the applicability of the second proviso before the amendment which were laid down in the previous decision of this Court.
+It was then observed: "the words whether during the continuance of the business or after the cessation thereof were not present in the unamended proviso.
+In the two decisions cited earlier, in the absence of such words, this Court held that to attract the said proviso the machinery shall have been sold before the business was closed down.
+This clause omits that condition for the exigibility of the tax".
+The above observations clearly show that the amending words in the proviso eliminated the third condition which had been laid down for its applicability in the previous decision namely, that the machinery shall have been sold when the business was being carried on and not for the purpose of closing it down or winding it up.
+Once that condition disappears as a result of the amendment only the first two conditions remain and all that has to be seen is whether during the entire previous year or a part of it the business has been carried on by the assessee and that the machinery has been used in the business.
+Both these conditions, according to the finding given by the tribunal, exist in the present case.
+The result would be that the profits.
+arising out of the sale of buses in question as determined by the Income Tax Officer would be chargeable to tax in accordance with the second proviso to section 10(2) (vii).
+The answer to the question referred in the present case has to be in the affirmative and against the assessee.
+The appeal is consequently allowed with costs and the answer returned by the High Court is discharged.
+We are informed at the Bar that K.B. Kalikutty one of the legal representatives of the assessee 'had died before Special Leave was granted.
+It will be open to the Tribunal to decide the effect of death of the said legal representative and to non impleadment of the legal representatives of the deceased at the hearing under section 66(5) of the Act.
+R.K.P.S. Appeal allowed.

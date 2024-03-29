@@ -1,0 +1,50 @@
+Section 95 of the prescribes the requirements of an insurance policy and the limits OF liability thereunder.
+By sub section (1) of section 95, a policy of insurance must insure the person or classes of persons specified in the policy to the extent specified in sub section (2) against any liability which may be incurred by him or them in respect of the death of or bodily injury to any person caused by or arising out of the use of the vehicle in a public place.
+Section 95(2) of the Act as it originally stood read thus: "95(2): Subject to the proviso to sub section (I) a policy of insurance shall cover any liability incurred in respect of any one accident upto the following limits, namely: (a) where the vehicle is a vehicle used or adapted to be used for the carriage of goods, a limit of twenty thousand rupees. ".
+This provision was substituted by a new clause by section 74 of the Motor Vehicles (Amendment) Act, 1956 with effect from February 16, 1957.
+The amended clause read: "95(2) (a) : Where the vehicle is a goods vehicle, a limit of twenty thousand rupees in all, including the liabilities, if any, arising under the Work men 's Compensation Act, 1923, in respect of the death of, or bodily injury to, employees (other Than The driver), not exceeding six in number, being carried in the vehicle".
+This provision underwent further amendment by the Motor Vehicles (Amendment) Act, 1969 which came into force on March 7, 1970.
+A collision took place between a motor car and a goods truck in February 1966 as a result of which the driver of The car died instantaneously and the person travelling in the car sustained injuries.
+The Truck was insured against third party risk with the appellant insurance company.
+861 The heirs and legal representatives of the deceased field an application before the Motor Accidents Claims Tribunal, under section 110 D of the Act, claiming compensation in the sum of Rs. 30,000 for the death caused in the accident.
+The person who was injured filed a separate application asking for compensation of Rs. 10,000 for the injuries suffered by him.
+The Tribunal dismissed both the applications on the ground that respondent No. 3 could not be said to have been driving the truck rashly and negligently at the time of the accident.
+The claimants filed separate appeals in the High Court, which awarded a compensation of Rs. 19,125 to the heirs of the deceased and Rs. 10,000 to the injured person.
+In the appeals to this Court it was contended on behalf of the appellant insurance company: (i) that under clause (a) of section 95(2) as it stood at the material time, the liability of the insurer under the statutory policy taken by the owner of the goods vehicle is limited to Rs. 20,000 in all and, therefore, the insurer cannot be asked to pay compensation in excess of that amount, and that the liability to pay the balance must be fixed on the owner of the goods vehicle who would be vicariously responsible for the negligence of his employee who was driving the goods vehicle, and (ii) that the Amendment Act of 1956 which came into force on February 16, 1957 introduced the words 'in all ' in clause (a) and that these words were introduced to limit the overall liability of the insurer to twenty thousand rupees Dismissing the appeals, ^ HELD: 1.
+The High Court took a just, correct and realistic view of the matter by holding that, under the statutory policy the appellant insurance company is liable to pay the full amount of compensation to the heirs of the deceased and to the passenger travelling in the car, each amount being less than Rs. 20,000.
+[880 G H] The purpose of law is to alleviate, not augment, the sufferings of the people.
+The award of compensation depends upon a variety of factors, including the extent of monetary deprivation to which the heirs of the deceased are subjected.
+[870 G] 3.
+By common practice and the application of recognised rules of statutory construction, harsh consequences following upon an interpretation are not considered as the governing factor in the construction of a statute, unless its language is equivocal and ambiguous.
+[871 E] 4.
+Clause (a) of section 95 (2) qualifies the extent of the insurer 's liability by the use of the unambiguous expression 'in all ' and since that expression was specially introduced by an amendment, it must be allowed its full play.
+The legislature must be presumed to have intended what it has plainly said.
+But, clause (a) does not stand alone and is not the only provision to be considered for determining the outside limit of the insurer 's liability.
+In fact, clause (a) does not even form a complete sentence and makes no meaning by itself.
+Like the other clauses (b) to (d), clause (a) is governed by the opening words of 862 section 95 (2) to the effect that "a policy of insurance shall cover any liability incurred in respect of any one accident up to the following limits", that is the limits laid down in clauses (a) to (d).
+[871 H 872 B] 5 (i) The expression, 'any one accident ' is susceptible of two equally reasonable meanings or interpretations.
+If a collision occurs between a car and a truck resulting in injuries to five persons, it is as much plausible to say that five persons were injured in one accident as it is to say that each of the five per sons met with an accident.
+A bystander looking at the occurrence objectively will be right in saying that the truck and the car met with an accident or that they were concerned in one accident.
+On the other hand, a person looking at the occurrence subjectively, like the one who was injured in the collision, will say that he met with an accident.
+And so will each of the five persons who were injured.
+From their point of view, which is the relevant point of view, "any one accident" means "accident to any one '.
+In matters involving third party risks, it is subjective considerations which must prevail and the occurrence has to be looked at from the point of view of those who are immediately affected by it.
+[872 E F] 5 (ii) A consideration of preponderating importance in a matter of this nature is not whether there was any one transaction which resulted in injuries to many but whether more than one person was injured, giving rise to more than one claim or cause of action, even if the injuries were caused in the course of one single transaction.
+If more than one person is injured during the course of the same transaction, each one of the persons meets with an accident.
+[873A B] 6.
+The ambiguity in the language used by the legislature in the opening part of section 95 (2) and the doubt arising out of the co relation of that language with the words 'in all ' which occur in clause (a) must be resolved by having regard to the underlying legislative purpose of the provisions, contained in Chapter VIII of the Act which deals with third party risks.
+That is a sensitive process which has to accommodate the claims of the society as reflected in that purpose.
+[873 C] 7.
+In the area of legislative ambiguities courts have to fill gaps, clear doubts and mitigate hardships.
+There is no table of logarithms to guide or govern statutory construction in this area, which leaves a sufficient and desirable discretion for the Judges to interpret laws in the light of their purpose, where the language used by the law makers does not yield to one and one meaning only.
+lt is, therefore, appropriate to hold that the word "accident" is used in the expression any one accident" from the point of view of the various claimants, each of whom is entitled to make a separate claim for the accident suffered by him and not from the point of view of the insurer.
+[873 D, F G] 8.
+With the emergence of the General Insurance Corporation which has taken over general insurance business of all kinds, including motor vehicle insurance, it should be easy to give statutory recognition to the State 's obligation to compensate victims of road accidents, promptly, adequately and without con test .
+Cabell vs Markham, 737, 739 [1945]; The South Staffordshire Tramways Company Ltd. vs The Sickness and Accident Assurance Association Ltd., [1891]1 Q.B.D. 402; Forney vs Dominion Insurance Co. Ltd., [1969] 1 Weekly Law Reports, 928; Manjusri Raha and Ors.
+vs B.L. Gupta and Ors. ; , referred to.
+Northern India Transporters Insurance Co. Ltd. vs Smt.
+Amrawati, AIR 1966 Punjab 288, Jayalakshmi and Ors.
+vs The Ruby General Insurance Company, Madras and Anr. ; Sabita Pati and Ors.
+vs Rameshwar Singh and Anr. ; Sheikhupura Transport Co. Ltd. vs Northern India Transport Co., distinguished.
+Sanjiva Shetty vs Anantha and Ors. , M/s. Construction India and Ors.
+vs Mahindra Pal Singh Ahluwalia and Ors , disapproved.

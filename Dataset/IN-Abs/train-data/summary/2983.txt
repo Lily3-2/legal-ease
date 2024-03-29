@@ -1,0 +1,26 @@
+The appellant was a public limited company.
+It carried on the business of raising coal from coal mines and selling the same.
+It had taken on lease several mines from the owners of the coal bearing lands.
+As lessee of the mines the appellant incurred liability for payment of (i) Road and Public Works cess under the Bengal Cess Act of 1880; (ii) Education Cess levied under the Bengal (Rural) Primary Education Act, 1930.
+The amounts payable by the assessee on account of the aforesaid cesses were claimed by it as a deduction under section 10 of the Income tax Act, 1922.
+The Income tax authorities disallowed that claim relying on section 10(4) of the Act.
+The Tribunal and the High Court decided against the appellant.
+In appeal to this Court by special leave, the question for determination was whether the cesses levied under the aforesaid Bengal Acts fell within the mischief of section 10(4) of the Act.
+It was common ground that these cesses were not levied on the profits or gains of any business, profession, or vocation but it was claimed on behalf of the Revenue that the cesses were assessed on the basis of such profits and gains and therefore they would be covered by the said provision.
+HELD : (i) The words 'profits and gains of any business, profession, or vocation which are employed in section 10(4) can, in the context, have reference only to profits or gains as determined under section 10 and cannot cover the net profits or gains arrived at or determined in a manner other than that provided by section 10.
+The whole purpose of enacting sub section
+(4) of section 10 appears to be to exclude from the permissible deduction under cis.
+(ix) and (xv) of sub section
+(2) such cess, rate or tax which is levied on the profits or gains of any business profession or vocation or is assessed at a proportion of or on the basis of such profits or gains.
+In other words sub section
+(4) was meant to exclude a tax or a cess or a rate the assessment of which would follow the determination or assessment of profits or gains of any business.
+profession or vocation in accordance with section 10 of the Act.
+[514 D E] (iii) The road cess and public works cess are to be assessed on the annual net profits under sections 72 and 76 of the Cess Act 1880.
+The net annual profits have to be calculated on the average of the net profits for the last three years of the mine or the quarry and if the annual net profits of the property cannot be ascertained in the aforesaid manner then it is left to the Collector to determine the value of the property first in such manner as he considers expedient and determine 6 per cent on that value which would be deemed to be the annual net profits.
+The Cess Act of 1930 follows the same pattern so far as the ascertainment of annual net profits is concerned.
+These profits arrived at according to the provisions of the two Cess Acts can by no stretch of reasoning be equated to the profits which are determined under section 10 of the Act.
+It is not possible to see, therefore, how section 10(4) could be applicable at all in the 511 present case.
+Thus on the language of the provisions both of the Act and the two Cess Acts the applicability of section 10(4) cannot be attracted.
+[514 F H] Commissioner of Income tax, Bengal vs Gurupada Datta , applied.
+Simbholi Sugar Mill Ltd. vs Commissioner of Income tax, U.P. & Rajasthan vs Banarsi Dass & Sons, , approved.
+Commissioner of Income tax, West Bengal vs West, Bengal Mining Co. , disapproved.

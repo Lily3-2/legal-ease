@@ -1,0 +1,47 @@
+The expression "salary," under section 17(1)(iv) of the Income Tax Act, 1961, includes "any fees, commissions, perquisites or profits in lieu of or in addition to any salary or wages"; under r. 2(h) in Part A of the Fourth Schedule to the Act, which contains Rules relating to recognised Provident Funds, the term `salary ' includes dearness allowance, if the terms of employment so provide, but excludes all other allowances and perquisites, where an assessee, as an employer, has paid any sum by way of contribution towards a recognised provident fund, section 36(1)(iv) allows such sum as a deduction in computing the income subject to such limits as may be prescribed for the purpose of recognising the provident fund.
+The term "contribution ' is defined in r. 2(c), of part A of the Fourth Schedule as any sum credited by or on behalf of any employee out of his salary or by an employer out of his own moneys to the individual account of an employee but does not include any sum credited as interest.
+The assessee maintained a provident fund which was recognised by the Commissioner of Income tax in 1937.
+Under r. 2 of the Provident Fund Scheme Rules "salary" meant not only fixed monthly salary but also commission and dearness allowance as might be paid by the company to its employees.
+As a term of the contract of employment, in addition to monthly salary, the assessee paid to each of the salesmen commission at a fixed percentage of turnover achieved by them.
+The assessee 's shares of the contribution to the provident fund was calculated on the basis of both salary as well as the commission paid to each of the salesmen.
+In respect of assessment years 1962 63, 1963 64 and 1964 65 the assessee claimed the whole amount paid by it towards provident fund contributions, as a deduction allowable under section 36(1)(iv) of the Income tax Act and for this purpose it relied on r. 2 of its Provident Fund Scheme Rules.
+Out of the total Provident Fund contributions claimed as allowable deduction under section 36(1)(iv) the Income tax Officer disallowed that part of the assessee 's contribution which related to the amounts calculated on the basis of commission paid to the salesmen on the ground that under r. 2(h) of Part A of the Fourth Schedule the expression "salary" did not include commission paid to the employees.
+789 The assessee 's appeal in respect of the assessment year 1962 63 was rejected by an Appellate Assistant Commissioner; but in respect of the other two assessment years another Appellate Assistant Commissioner allowed its appeals.
+On further appeals both by the assessee and the Department the Appellate Tribunal held that the commission paid being a part of the contractual obligation, it was a part of the salary paid to the employees and therefore contributions made towards provident fund on the commission were allowable as a deduction under section 36(1)(iv) of the Act, and secondly since the provident fund was a recognised fund which fulfilled the conditions laid down in r. 4(c) of Part A of the Fourth Schedule, the employer 's contributions were entitled to be deducted.
+The High Court answered the reference in favour of the Department.
+It held that since commission, unlike salary, was not a fixed monthly payment it could not be included within the meaning of "salary" and that the meaning of the term "salary" could not be extended by the assessee by defining it in a particular manner in its provident fund scheme rules for the purpose of recognition of its fund.
+The High Court relied upon a circular dated January 16, 1941 issued by the Central Board of Revenue which provided that unless commission and bonuses were fixed periodical payments not dependent on a contingency, they were not covered by the term "salary".
+On further appeal to this Court it was contended on behalf of the Revenue that the definition of "salary" in r. 2(h) clearly showed that it did not include commission and since commission was nothing but an allowance paid without reference to any time factor which is associated with salary or wages, it is not deductible under section 36(1) (iv).
+Allowing the assessee appeals, ^ HELD : The commission paid by the assessee to its salesmen would clearly fall within the expression "salary" as defined in r. 2(h) of Part A of the Fourth Schedule to the Act and the amounts representing proportionate provident fund contributions made by the assessee to its salesmen would be deductible under section 36(1)(iv) of the Act.
+[802 E] 1(a) The expression "salary" has been defined in section 17 as well as in r. 2(h) of Part A of the Fourth Schedule.
+But each of the definitions serves a different purpose.
+Since this case is concerned with contributions made to a recognised provident fund and deductions thereof under section 36(1)(iv), it would be the definition of "salary" as given in r. 2(h) of Part A of the Fourth Schedule, and not the one given in section 17, that will be applicable.
+A B] (b) Conceptually salary and wages connote one and the samething viz., remuneration or.
+payment for work done or services rendered.
+The former expression is generally used in connection with services of higher or non manual type while the latter is used in connection with manual services.
+If conceptually salary and wages mean one and the same thing then salary could take the form of payment by reference to the time factor or by the job done.
+In the case of salary the recompense could be determined wholly on the basis of time spent on service or wholly by the work done or partly by the time spent on service and partly by the work done.
+In other words, whatever be the basis on which such recompense is determined it would all be salary.
+[799 G; 801C] 790 Gordon vs Jennings, ; Mohmedalli vs Union of India, AIR 1964 SC 980: referred to.
+(c) The definition of "salary" in r. 2(h) includes dearness allowance if the terms of employment so provide and excludes all other allowances and perquisites.
+It does not, in terms, exclude commission.
+But though the dictionary meaning of the term "commission" is "a pro rata remuneration for work done as agent", in business practice commission covers various kinds of payments made under different circumstances.
+[801 E] (d) If under the terms of the contract of employment remuneration or recompense for the services rendered by the employee is determined at a fixed percentage of turnover achieved by him, then such remuneration or recompense will partake of the character of salary, the percentage basis being the measure of the salary.
+Therefore, such remuneration or recompense must fall within the expression "salary" as defined in r. 2(h).
+[802 A] In the instant case under the term of the contract of employment the assessee had been paying to the salesmen, in addition to the fixed monthly salary.
+commission at a fixed percentage of the turnover.
+It is, therefore, a case where remuneration or recompense payable for the services rendered by the salesman is determined partly by reference to the time spent in the service and partly by reference to the volume of work done.
+The entire remuneration so determined on both the bases clearly partakes of the character of salary.
+[802 C D] (e) The Circular dated January 16, 1941 issued by the Central Board of Revenue did not affect the question of deductibility because if the commission paid by the assessee to its salesmen was covered by the expression "salary" on its true construction, the Board 's view or instructions could not detract from the legal position arising on such construction.
+What the Board, by the said circular, wanted to keep out of the term "salary" were payments by way of commissions which did not partake of the character of salary.
+[802 F G] Bridge & Roofs Co. Ltd. vs Union of India & Ors. ; at p. 1477: held inapplicable.
+2(a) The Tribunal was right in its view that the provident fund maintained by the assessee satisfied the condition laid down in r. 4(c) of Part A of the Fourth Schedule.
+[803 G].
+(b) After taking into account the true nature of the commission payable by the assessee to its salesmen under the terms of the employment, the Commissioner granted recognition to the provident fund, as far back as 1937 and that recognition continued to remain in operation during the relevant assessment years.
+The provident fund clearly satisfied all the conditions laid down in r. 4 of Part A of the Fourth Schedule.
+It was, therefore, not open to the Taxing Authorities to question the recognition on the ground that the assessee 's provident fund did not satisfy any particular condition mentioned in r. 4.
+For the sake of certainty and uniformity in administering the law the Taxing Authorities should proceed on the basis that the recognition granted and available for any particular assessment year implied that the provident fund satisfied all the conditions in that rule.
+Under r. 3 the Commissioner had ample power to withdraw at any time the recognition already granted if the provident fund contravened any of the conditions required to be satisfied for its recognition.
+791 But until the Commissioner withdrew such recognition, the Taxing Authorities must proceed on the basis that the provident fund satisfied all the requisite conditions for its recognition for that year.
+Any other course would result in uncertainty.
+[803 H 804 F]

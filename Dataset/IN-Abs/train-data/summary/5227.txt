@@ -1,0 +1,18 @@
+Section 33 of the Income Tax Act, 1961 provides for the grant of development rebate.
+The appellant assessee, who carried on the business of manufacture and sale of insulated copper wires, claimed for the assessment years 1966 67 to 1971 72 that it was entitled to the benefits conferred by sections 33(i)(iii) (c)(A) and 80E read with items 7, 17 and 24 of the Fifth Schedule and sections 33(i)(b)(B)(i) and 80 I read with items 7, 17 and 24 of the Fifth or the Sixth Schedule, as the case may be, for the aforesaid assessment years as a "priority industry".
+It contended before the Income Tax officer that the wires manufactured by it were covered by the word "cables" employed in the articles and things specified in items 7, 17 and 24 of the Fifth Schedule for the assessment years 1966 67, 1967 68 and 1968 69 and items 7, 17 and 24 of the Sixth Schedule of the Income Tax Act for the assessment years 1969 70 to 1971 72.
+The Income Tax officer rejected the claim made by the appellant.
+The matter ultimately went before the High Court in a reference.
+The High Court answered the question in favour of the Revenue and against the appellant assessee on the ground that the wires were not meant for the generation and transmission of electricity and they would fall within item 7 only if they were meant solely for that purpose and not otherwise.
+Dismissing the appeal, ^ HELD: 1.
+Item 7 of the Fifth Schedule speaks of equipment for the generation and transmission of electricity and such equipment includes transformers, cables and transmission towers.
+To appreciate what is comprehended in item 7, it is permissible to refer to a related 479 entry, item 24, which refers to component parts of the articles mentioned, inter alia in item 7.
+When item 24 is read in its entirety, it is apparent that the component parts mentioned therein are component parts of what can be described as machinery.
+Then reading item 7 in conjunction with item 24, the conclusion is inescapable that when item 7 speaks of equipment, reference is intended to machinery needed tor the generation and transmission of electricity.
+The item envisages complete self contained units of equipment, units which, on being put together or connected together, constitute the apparatus for the generation and transmission of electricity.
+Viewed in that context, the reference in item 7 to cables must mean cables identifiable as a complete self contained unit in themselves as a distinct unit of equipment when employed in the generation and transmission of electricity.
+A cable does not fall within item 7 if it is merely a component, or part of a component, of a unit of equipment or machinery.[485F H; 486A C] Commissioner of Income Tax, Tamil Nadu V vs Dhandayuthapani Foundry (Private) Ltd., [1980] 123ITR 709, inapplicable.
+In the instant case, the sales accounts of the asessee showed that the assessee had sold winding wires used in the manufacture of different types of electricity.
+These are winding wires, employed in coils, winding of armatures, etc.
+and cannot be identified at all as cables in the sense in which item 7 conceives of cables.
+[486D E]

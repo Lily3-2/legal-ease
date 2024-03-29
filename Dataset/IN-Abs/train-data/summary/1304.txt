@@ -1,0 +1,19 @@
+Severe electrical interference was observed in a Post and Telegraphs Wireless Station which was traced to the respondent No. 1 's factory where a number of motors, were operated for the purpose of working electric drills.
+The Senior Electric Inspector issued a notice to the first res pondent to show cause as to why an order under s.34(2) (b) of the Indian Electricity Act requiring discontinuance of the operation of the electric motors in the said factory should not be made.
+The first respondent challenged the said order by a writ petition contending inter alia that there was no "Telegraph Line" in the Posts and Telegraphs Wireless Station within the meaning of s.34(2)(b) of the Act.
+The High Court held, firstly, that the word 'line ' in the expression telegraph line ' connotes the existence of a defined channel of communication which has got a physical existence and that wireless telegraphy is dependent upon transmission through space of electric waves and that is not a defined physical channel.
+Secondly, the expression "telegraph line", as used in section 34 2)(b) of the Indian Elec tricity Act, has, in the absence of any new definition in that Act, to be given the same sense as the Legislature had intended in 1885 by the definition of that expression in the earlier Act.
+This reason is based upon the maxim contemporaries exposition west optima et fortissima in lege (contemporaneous exposition is the best and strongest in law).
+The appellants contended that the definition of "telegraph line" in the , was wide enough to take in electric lines used for the purpose of 147 wireless telegraph and the High Court went wrong in invoking the old maxim contemporanea expositio est optima et fortisima in lege in construing the provisions of a modern statute.
+Held, that the combined reading of the relevant, provisions of the , and the , a "Telegraph line" is comprehensive enough and means a wire or wires used for the purpose of an appliance or apparatus for receiving telegraphic or other communications by means of electricity, and it need not be a continuous physical channel from the point of transmission to the point of reception.
+A wireless transmitter transmits sound as electro magnetic waves and the said waves are detected by the aerial and fed into the receiving apparatus by wires.
+So the wires of the aerials well as of the apparatus are used for the purpose of the apparatus receiving communications.
+Thus, the receivingapparatus employs "telegraph lines" within the meaning ofs.3 (4) of the Telegraph Act, 1885.
+Held, further, that the maxim contemporanea expositio as laid down by Coke was applied to construing ancient statutes, but not to interpreting Acts which were comparatively modem: The fundamental rule of construction is the same whether the court is asked to construe a provision of an ancient statute or that of a modern one, namely what is the expressed, intention of the Legislature.
+In a modern progressive society it would be unreasonable to confine the intention of a Legislature to the meaning attributable to the word used at the time the law was made, and unless a contrary intention appeared, an interpretation should be given to the words used to take in new facts and situations, if the words are capable of comprehending them.
+The maxim "contemporanea expositio" could not be invoked in construing the word "telegraph line" in the .
+Assheton Smith vs Owen, (1906)1 Ch.
+179, Attorney General vs Edison Telephone Co. of London, (1880)6 Q. B. D. 244 In re Regulation and Control of Radio Communication in Canada, , The King vs Brislan,.
+Ex parte Williams, ; and James vs Commonwealth ,of Austratia, , referred to.
+State of Madras vs Gannon Dunkerley & Go.
+(Madras) Ltd. ; , relied on., 148

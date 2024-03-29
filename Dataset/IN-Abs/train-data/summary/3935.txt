@@ -1,0 +1,29 @@
+Section 63 of the Bombay Tenancy and Agricultural Lands Act, 1948 prohibits the sale of agricultural land to a person who is not an agriculturist.
+One of the duties of the Mamlatdar, under section 70, of the Act, is to decide whether a person is an agriculturist and whether a transfer or acquisition of land is invalid being in contravention of the Act.
+Section 85 bars the jurisdiction of a civil court to settle, decide or deal with any question which is by or under the Act is required to be settled, decided or dealt with by the Mamlatdar, or the authority mentioned in the section The Bombay High Court in a case coming before it on the interpretation of section 85 held that where in a suit in a civil court an issue arises which has to be decided under the provisions of section 70, the civil court should refer the parties to the competent authority under the Tenancy Act to get the question decided and such decision would be binding on the civil court.
+Taking note of this decision section 85A was added to the Tenancy Act, enabling the civil court to refer the issue to the competent authority to decide which the jurisdiction of the civil court is barred under section 85.
+The plaintiff 's suit for specific performance of a contract for sale of land was resisted by the defendant alleging that since he (the plaintiff), was not an agriculturist, he was prohibited by section 63 of the Tenancy Act from purchasing agricultural land and the contract being contrary to the provisions of the Act is not capable of being specifically enforced.
+The trial court dismissed the plaintiff 's suit on the ground that he was not an agriculturist.
+It held that the issue whether or not the plaintiff was an agriculturist being incidental in a suit for specific performance of a contract the civil court had jurisdiction to decide such incidental issues.
+On appeal the High Court held that the civil court which had jurisdiction to entertain a suit for specific performance, it would have jurisdiction to decide the incidental issue whether the plaintiff was an agriculturist or not.
+The question before the Supreme Court was where in a suit for specific performance, an issue arose whether the plaintiff was an agriculturist or not on the date of agreement whether the civil court would have jurisdiction to decide the issue or it is required to refer it to the Mamlatdar under section 70 read with section 85A.
+Allowing the appeal and remitting the case to the trial court for disposal.
+587 ^ HELD: 1.
+The Legislature having expressly ousted the jurisdiction of the civil court to settle, decide or deal with any question which is by or under the Tenancy Act required to be settled, decided or dealt with by any of the authorities therein mentioned the authority to decide the issue whether the vendee was an agriculturist would be the Mamlatdar as provided in section 70(a).
+[592 G] 2 .
+The expression "any issues which are required to be settled, decided or dealt with by any authority competent to settle, decide or deal with such issues under this Act" in section 85A would only mean that, if upon contest an issue which is required to be settled, decided and dealt with by the competent authority under the Tenancy Act arises, notwithstanding the fact that such an issue arises in a properly constituted civil suit cognizable by the civil court, it would have to be referred to the competent authority under the Tenancy Act.
+[594H 595 B] 3.
+Mere because jurisdiction is conferred on the Mamlatdar to decide whether a person is an agriculturist within the meaning of the Tenancy Act, it does not ipso facto oust the jurisdiction of the civil court to decide that issue if it arises before it in a civil suit.
+Unless the Mamlatdar is constituted an exclusive forum to decide the question, conferment of such jurisdiction would not oust the jurisdiction of the civil court.
+It is settled law that exclusion of jurisdiction of the civil court is not to be readily inferred but that such exclusion must either be explicity expressed or clearly implied.
+[592 D E] Secretary of State vs Mask, 67 IA 222: referred to.
+The finding of the competent authority under the Tenancy Act is made binding on the civil court.
+The jurisdiction of the civil court to settle, decide or deal with any issue which is required to be settled, decided or dealt with by any competent authority under the Act is totally ousted.
+This would lead to the conclusion that the Mamlatdar while performing the function and discharging his duties conferred on him by section 70 would constitute an exclusive forum.
+Section 70(a) requires the Mamlatdar to decide whether a person is an, agriculturist.
+Therefore, if an issue arises in a civil court whether a person is an agriculturist within the meaning of the Tenancy Act, the Mamlatdar alone would have exclusive jurisdiction under the Act to decide the same and the jurisdiction of the civil court is ousted.
+The civil court, as required by section 85A, will have to frame an issue and refer it to the Mamlatdar and on the reference being answered back, to dispose of the suit in accordance with the decision recorded by the competent authority.
+[593G, 594 C] Dhondi Tukaram Mali vs Dadoo Piraji Adgale, , Trimbak Sopana Girme vs Gangaram Mhataraba Yadav, ; approved.
+Mussamiya Imam Haider Bax Razvi vs Rabari Govindbhai Ratnabhai & Ors. ; , explained.
+Bhimaji Shanker Kulkarni vs Dundappa Vithappa Udapudi ,& Anr.
+, ; at 150; Ishverlal Thakorelal, Almaula vs Motibhai Nagjibhai, [1966] 1 SCR 367; Jambu Rao Satappa Kocheri vs Neminath Appayya Hanammannaver, ; ; and Noor Mohd. Khan Ghouse Khan Soudagar vs Eakirappa Bharmappa Machenahalli & Ors., ; ; referred to

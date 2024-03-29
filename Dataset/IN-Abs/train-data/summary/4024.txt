@@ -1,0 +1,36 @@
+In January, 1956 the assessee company whose assets had been valued at Rs. 155 lacs as on December 31, 1955 decided to terminate the services of 22 of its employees with effect from 31st March, 1956 and to pay them retrenchment compensation and compensation for termination of employment.
+Thereafter Davids, who held the shares of the company entered into an agreement with Tatas to sell to them all the shares for Rs. 155 lacs.
+The agreement provided that compensation and gratuity payable to the Directors and employees whose services had been terminated and the annuity payable to the managing director should be deducted from the purchase consideration.
+The assessee claimed deduction under section 10(2)(xv) of the Indian Income Tax Act, 1922 of a sum of Rs. 1.64 lakhs paid by way of retrenchment compensation and compensation for termination of service during the assessment year 1957 58 and a sum of Rs. 16,885 which was the amount of annuity paid to the managing director in each of the three succeeding assessment years.
+The Income Tax officer disallowed the amounts on the ground that the services of the directors and employees had been terminated not as business expediency but because the purchasers of the shares made it a condition under the agreement.
+On appeal the Appellate Assistant Commissioner, affirming the view of the Income Tax Officer, held that the decision to pay compensation could not be said to have been taken solely with a view to the business requirement of the company.
+Dismissing the assessee 's appeal the Appellate Tribunal held that the expenses had not been incurred for the purpose of the company but purely as a result of the bargain between Davids and Tatas and assuming that the payments were beneficial to the assessees by reason of the reduction in its establishment expenses, no deduction could be allowed under section 10(2) (xv) since the payment was made to the benefit of a third party.
+Relying principally upon the decision of this Court in Gordon Woodroffee Leather Manufacturing Co. vs The Commr.
+of Income tax, [1962] Supp. 2 SCR 211, the High Court held that the amount involved in the case did not satisfy the test applicable to the expenditure allowable under section 10(2)(xv) of the Act and, therefore, disallowed the expenditure of Rs. 1.27 lakhs out of a sum of Rs. 1.64 lakhs on the ground that it had not been incurred for commercial expediency.
+The High Court also disallowed the annuity paid to the managing director in the succeeding three assessment years.
+879 Allowing the assessee 's appeals ^ HELD: 1(a) The three tests laid down by this Court in Gordon Woodroffee 's case viz., (1) that the payment should have been made as a matter of practice which affected the quantum of salary, (ii) that there was an expectation by the employee of getting a gratuity and (iii) that the sum of money was expended on the ground of commercial expediency and in order indirectly to facilitate the carrying on of the business of the assessee have to be read disjunctively.
+So read the present case which satisfied the third test fell under section 10(2) (xv) of the Act.
+The High Court was in error in holding that the amount in question did not satisfy any of the tests applicable to the expenditure allowable under the section.
+[893H] (b) In order to claim deduction under the section an assessee has to show that the expenditure in question (1) was not an allowance of the nature described in any of the clauses (i) to (xiv) of the section, (ii) was not in the nature of a capital expenditure or personal expenses of the assessee and (iii) had been laid out or expended wholly and exclusively for the purposes of his business, profession or vocation.
+[891G] (c) Even assuming that the motive behind the payment of retrenchment compensation was that the terms of the agreement of the sale of shares should be satisfied, as long as the amount had been laid out or expended wholly and exclusively for the purpose of the business of the assessee there could be no good reason for denying the benefit of this section if there was no other impediment to do so.
+[891H] In the instant case the assessee company was neither dissolved nor was its business undertaking sold.
+It continued to exist as a juristic entity and continued to function even after the transfer of its shares to Tatas.
+The expenditure was laid out for the purpose of the assessee company 's own trade and not for the trade of Tatas who were only shareholders of the company.
+As a result of the expenditure the company was benefited and it was possible for it to earn more profits as a consequence of the reduction in the wage bill.
+It cannot be said that Tatas were in any way benefited financially by reason of reduction in the consideration payable by them for the shares.
+[893B C] Gordon Woodroffae Leather Manufacturing Co. vs The Commissioner of Income tax, Madras, [1962] Supp.
+2 SCR 211, applied.
+(i) Commissioner of Inland Revenue vs Patrick Thomson, Ltd. (in Liquidation), (ii) Commissioners of Inland Revenue vs J. & R. Allan, Ltd. (In liquidation), (iii) Commissioners of Inland Revenue vs Pattigrew & Stephens, Ltd., , referred to.
+Commissioner of Income tax, Gujarat vs Laxmi Cement Distributors (P) Ltd., , Commissioner of Income tax, Bombay City I vs Fairdeal Corporation (P) Ltd., ; Commissioner of Income tax, Bombay City I vs Patel Cotton Co. Pvt. Ltd., ; approved.
+880 (d) Moreover it is too late in the day whatever might have been the position about two decades ago, to treat the expenditure incurred by the management in paying reasonable sums by way of gratuity and retrenchment compensation or compensation for termination of services as not business expenditure.
+Such expenditure would ordinarily fall within the scope of section 10(2)(xv) of the Act.
+[889C] 2.
+The argument that since there was no necessity to retrench the services of all the employees, the expenditure could not be treated as one laid out wholly and exclusively for the purpose of business has no force.
+The expression "wholly and exclusively" does not mean "necessarily".
+Ordinarily it is for the assessee to decide whether any expenditure should be incurred in the course of his or its business.
+Such expenditure may be incurred voluntarily and without any necessity and if it is incurred for promoting the business and to earn profits the assessee can claim deduction under the section even though there was no compelling necessity to incur such expenditure.
+The fact that somebody other than the assessee was also benefited by the expenditure should not come in the way of an expenditure being allowed by way of deduction under the section, if it satisfies otherwise the test laid down by law.
+[894D G] In the instant case the company thought that its business could be carried on with a smaller number of employees and the only way to reduce the number was to terminate the services of all employees by paying compensation and to re employ only some of them.
+Thereby the company reduced its expenditure on wages payable to its employees.
+It could not therefore be said that compensation was paid with an oblique motive and without regard to commercial considerations or expediency.
+[895F]

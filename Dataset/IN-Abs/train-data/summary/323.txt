@@ -1,0 +1,14 @@
+The appellant, a contractor, entered into a contract with the Dominion of India for the supply of bricks.
+A clause in the contract required all disputes arising out of or relating to the contract to be refered to arbitration.
+Disputes arose and the matter was duly referred.
+The arbitrator gave an award in the contractor 's favour.
+The Union Government, which by then had displaced the Dominion of India, contested the award on a number of grounds.
+Held:(1) that it is not enough for the contract to provide for arbitration; more is necessary.
+An arbitrator only gets jurisdiction when either, both the parties specifically agree to refer specified matters or, failing that, the court compels them to do so under the arbitration clause if the dispute is covered by it; (2) the legality of an award cannot be challenged on facts, but it can be challenged on questions of law provided the illegality is apparent on the face of the award: section 16(1)(c) of the ; (3) the only exception is when both parties specifically refer a question of law for the decision of the arbitrator.
+In that event they are bound by his decision on that particular question as well as by his decision on the facts.
+But a distinction must be drawn between cases in which a question of law is specifically referred and those in which a decision is incidentally material (however necessary) in order to decide the question actually referred.
+The law about this is the same in India as in England.
+and , followed.
+at 79, 50 I.A. 324 at 330 49 331, 54 I.A. 427 at 430, 29 I.A. 51 at 60, at 368 referred to and ; at 798, explained; Quaere: Whether the courts will interfere when a question of law is specifically referred if the arbitrator acts illegally in deciding it, such as deciding on inadmissible evidence or on principles of construction which the law does not countenance.
+at 409, referred to; (4) a wrong construction of the contract is an error of law and can be challenged provided the error appears on the face of the award; (5) so is the awarding of interest when the contract does not provide for interest and the requirements of the Interest Act are not fulfilled:65 I.A. 66, referred to.
+Quaere: whether the Interest Act applies to arbitrations; (6) when a specific type of loss is directly contemplated by the parties to a contract and they expressly stipulate that no damages will be payable in respect of it they must be bound down to their agreement and any claim for damages in respect of such loss must be dismissed; (7) when the agreement on which the suit is based is not to be found in a contract which has been reduced to writing but has to be implied under section 9 of the Contract Act then the matter is not covered by an arbitration clause of the kind referred to above because the dispute in such a case arises out of and relates to the implied agreement and not to the written contract: at 371, referred to.

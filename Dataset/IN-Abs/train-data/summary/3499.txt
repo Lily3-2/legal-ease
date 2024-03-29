@@ -1,0 +1,49 @@
+The assessee company held certain shares in Dibru Darang Tea Co. Ltd. (D.D.T. Company) and Taikron Tea Company Ltd. (TT Company) .
+Both the Companies were companies growing, manufacturing and selling tea and owned large tea estates consisting of land, building plant, machinery etc.
+In 1947, both the said companies sold their entire tea estates including all assets to Brooke Bond Estate India Ltd. Consequently DDT Company received a surplus is Rs. 17,18,081/ over the book value of its assets.
+The amount relating to the land of DDT Company was Rs. 19,30,374/ and that relaung to the T.T. company was Rs. 10,11,216/ .
+Both the companies went into voluntary liquidation in 1954.
+On account of the liquidation of the two companies the assessee company became entitled to receive Rs. 57,69,186/ out of the total distributable assets of DDT Company and Rs. 36,53,453/ out of the total distributable assets of T.T. Company.
+Section 2(1) defines agricultural income.
+Section 2(4A) defines capital asset to mean property of any kind held by an assessee whether or not connected with his business, profession or vocation but does not include any land from which the income derived is agricultural income.
+It was defined to include any distribution made to the shareholders of a company on its liquidation to the extent to which the distribution is attributable to the accumulated profits of the company immediately before its liquidation, whether capitalised or not.
+Explanation provides that expression "accumulated profits" shall not include capital gain arising during certain periods.
+The income has been defined by section 2(6C) to include dividend.
+Section 2(3)(8) provides that; agricultural income shall not be included in the total income chargeable to tax under section 3 or the Act.
+Rule 23 provides for assessment of income which is partly agricultural income and partly income chargeable to income tax.
+Rule 24 provides that income derived from the sale of tea grown and manufactured by the seller in the taxable territories shall be computed as if it were income derived from business and 40 per cent or such income shall be deemed to be income, profits and gains liable to tax.
+The assessee contended before the Income Tax officer that apart from Rs. 2,47,921/ which had been assessed as capital gain under section 12B of Income Tax Act 1922 in respect of T.T. company, no other amount could be included in the computation of the accumulated profits available for distribution under section 2(6A)(c) of the Act.
+The Income Tax officer rejected the claim of the assessee.
+On an appeal, the Appellate Assistant Commissioner rejected the main claim of the assessee.
+On further appeal the Tribunal held as far as item 1 (land) and item 4 (reserve on revaluation) are concerned that since the lands of the two tea estates were utilised for producing and selling tea it cannot be said that the said assets were lands from which the income derived was agricultural income.
+At best, what could be said is that barring 40 per cent of such income the balance was agricultural income.
+As far as item 2 (profit and loss a/c) 12 833Sup CI/76 146 and item 3 (general reserve) are concerned, the Tribunal held that the ratio of 60 : 40 as laid down in rule 24 of the Income Tax Rules, 1922 could not be applied for finding out the proportion of accumulated profits in a tea business and that profits whether capitalised or not did not admit of such a bifurcation for the determination of accumulated profits.
+The Tribunal held that the general and taxation reserves were accumulated profits and the share received by the assessee company on the distribution of such accumulated profits was taxable as dividend within the meaning or section 2(6A) (c) of the Act.
+Both the assessee as well as Revenue approached the High Court in two references arising out of the judgment of the Tribunal.
+The High Court held: (1) Regarding item No. 1 and 4 the excess of the prices is not profit of the business, unless such appreciation has been included in the capital gains.
+The High Court arrived at certain figures of excess profit which was included in the computation of capital gains and held that only that figure was includible in the accumulated profits within the meaning of section 2(6A) (c).
+(2) Regarding items 2 and 3 the High Court held that the balance in the profit and loss account is arrived at after deducting or providing for all out goings including the estimated liability for both the income tax and agricultural income tax.
+Therefore, the balance carried to the balance sheet is pure profit, i.e. the accumulated profit.
+The High Court negatived the contention that each item in the balance sheet contains in itself the proportion of the income attributable to business activity and to the agricultural activity of the companies or that they must be disintegrated into 6 components parts at the time of inclusion in dividends.
+Tea companies carry on a business activity though such activity may include agricultural operation as part thereof.
+Overall excess of incomings over out goings as reflected in the balance of profit and loss account would represent the commercial profits of the business undertaking and though in bifurcation is necessary for the purpose of assessment and imposition of tax no further bifurcation could be made once the balance of profit was finally determined.
+In appeals filed by both the assessee and Revenue by special leave the assessee contended that 60 per cent of the amounts mentioned in items 2 and 3 were agricultural income and as such, were not income for the purpose of the Act.
+To that extent the said amount did not constitute accumulated profits within the meaning of section 2(6A) (c).
+Revenue contended that 10% of income derived in respect of item 1 not being agricultural should be held to be capital asset and, therefore, accumulated profits.
+Dismissing both the appeals, ^ HELD: (1) Clause 2(6A) (c) provides that dividend shall include any distribution made to the shareholders of a company on its liquidation to the extent to which the distribution is attributable to the accumulated profits of the company immediately before its liquidation whether capitalised or not.
+The proviso is, however, to the effect that only the accumulated profits so distributed which arise during the 6 previous year of the company proceeding the date of liquidation shall be so included.
+60 per cent of the profits made by both the companies by sale of tea grown and manufactured by them were not liable to be taxed in view of rule 24.
+However, once those profits got accumulated with the two companies they became accumulated profits within the meaning of h. 2(6A)(c).
+The contention of the assessee that only 40 per cent of the profits which got accumulated were liable to be taxed and therefore only 40 per cent should be treated as accumulated profit for the purpose of 147 section 2(6)A) (c) cannot be accepted.
+I`he assessee wants to add to section 2(6A) (c) the following words: "as are liable to be taxed under the Act" It is not permissible for us to construe the clause by adding those words.
+[152 F G, 154 G H, 155 A B] (2) The decision of the case in Mrs. Bacha F. Guzdar Bombay vs Commissioner of Income Tax Bombay 27 I.T.R. 1, followed with approval.
+[155 E] (3) The contention of the Revenue that the land in question to the extent of 60 per cent would not answer the description of capital asset, and as 40 per cent of the income derived from that land was not agricultural income 40 per cent interest in that land should be held to be capital asset for the purpose of section 2(4A), is not well founded.
+The income which is realised by sale of tea by a tea company which grows tea on its land and thereafter subject is to manufacturing process in its factory is an integrated income consisting of agricultural and non agricultural components.
+Rule 24 prescribes the formula which should be adopted for apportioning the income realised as a result of the sale of tea after it is grown and subjected to manufacturing process in the factory.
+So far as the lands held by the company were concerned they yielded purely agricultural income in the shape of green tea leaves.
+40 per cent of the income on sale of tea which was received by both the companies was not income from land.
+It was income which could be ascribed to manufacturing process to which the green tea leaves were subjected in the factories of those companies.
+As the lands held by both the companies yielded agricultural income it would follow that those lands did not constitute capital asset as defined in section 2(4A).
+Section 2(4A) expressly states that capital asset does not include any land from which income is derived as agricultural income.
+Any gain arising from the transfer of such land would not constitute capital under the Act and consequently would not be liable to be taxed as such.
+[155H, 156 A D, 157 B D]

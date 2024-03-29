@@ -1,0 +1,121 @@
+iminal Appeal No. 113 of 1965.
+Appeal from the judgment and order dated October 26, 1964 of the Allahabad High Court in Criminal Revision No. 803 of 1963.
+J. P. Goyal, for the appellants.
+O. P. Rana and Atiqur Rehman, for respondent No.1.
+section K. Mehta and K. L. Mehta, for respondent No., 2.
+B. R. L. lyengar and B. R. G. K. Achar, for the Intervener.
+The Judgment of the Court was delivered by Mudholkar, J.
+The only point which falls to be decided in this appeal by certificate granted by the High Court at Allahabad is whether the District Judge has jurisdiction under section 24 of the Code of Civil Procedure to transfer a reference made by a Magistrate to a particular civil court under section 146 of the Code of Criminal Procedure to another civil court.
+It arises this way.
+Proceedings under section 145, Cr.
+P.C. were initiated by a Magistrate on the basis of a report of a police officer to the effect that a dispute likely to cause a breach of the peace exists concerning a plot of land situate within the jurisdiction of the Magistrate between the parties mentioned in the report and praying for appropriate action under section 145 of the Code of Criminal Procedure.
+The learned Magistrate upon being satisfied about the possibility of a breach of the peace made a preliminary order under section 145, Cr. P.C., attached the property to which the dispute related and called upon the parties to adduce evidence in respect of their respective claims.
+In due course he recorded the evidence but he was unable to make up his mind as to which of the parties was in possession on the date of the preliminary order and within two months thereof.
+He, therefore, referred the case under section 146(1) of the Cr. P. C. to a civil court for decision, as to which of the parties was in possession at the material point of time and in the meanwhile directed that the attachment of the Property shall continue.
+The reference went to the court of the Munson within whose territorial jurisdiction the property was situate.
+But thereafter one of the parties Brij Gopal Binani, respondent No. 2 before us, made an application to the District Judge under section 24, C.P.C. for transfer of the case to some other.
+court.
+The, ground given was that in the execution case out of which proceedings under section 145, Cr.
+P.C. had arisen, the same Munsiff had.
+made an order against him depriving him of costs.
+The Munsiff having no objection to the transfer the District Judge ' transferred the case to the court of another Munsiff.
+The opposite parties, that.
+is, the appellants before us Ram Chandra Aggarwal and Kedar Prasad Aggarwal acquiesced in the order of transfer and did not raise any question as to the jurisdiction of the, transferee court to hear and decide the reference.
+Eventually evidence was led by both sides ' and a finding given by the transferee court.
+This finding was in favour 395 of the second respondent.
+After receiving the finding the I Magistrate heard the parties and held that it was the second respondent who was in possession at the relevant date and passed an order under section 145(6), Cr.
+P.C. pursuant thereto.
+A revision application was preferred by the appellants before the court of Sessions in which the objection was taken for the first time that the decision of the civil court was a nullity because it had no territorial jurisdic tion over the subject matter of the dispute.
+It was further contended that the District Judge had no jurisdiction to transfer the case and that consequently the ultimate order made by the learned Magistrate was a nullity.
+The learned Additional Sessions Judge who heard the revision application rejected these contentions on the ground that they were not raised earlier.
+The appellants then took the matter to the High Court in revision.
+The appellants rested their revision application on the sole ground that section 24, C.P.C. was not available in respect of a reference under section 146(1) Cr.
+P.C. and that, therefore, the proceedings subsequent to the transfer of the reference from the court of one Munsiff to that of another are a nullity.
+The High Court permitted the point to be urged.
+The attack was based upon two grounds: that the reference under section 146(1), Cr.
+P.C. was to a persona designata and that the provisions of section 24, C.P.C. were not available with respect to it.
+The second ground was that the proceeding before the civil court was not a civil proceeding within the meaning of section 141, C.P.C.
+The High Court negatived both the grounds on which the contention was based.
+On behalf of the appellants Mr. Goyal has reiterated both the contentions.
+In fairness to Mr. Goyal it must be said that his attack on the order of the District Judge transferring the case under section 24, C.P.C. was based more on the ground that the reference under section 146(1) Cr.
+P.C. is not a civil proceeding than on the ground that the reference was to a persona designata.
+However, as he did not wish to abandon the other point we must deal with it even though Mr. B. R. L. Iyengar who appears for the State conceded that a reference under section 146(1) is to a constituted court and not to a persona designata.
+In BalakrishnaUdayar vs Vasudeva Aiyar(1) Lord Atkinson has pointed out teh difference between a persona designata and a legal tribunal.
+The difference is in this that the "determinations of a persona designata are not to be treated as judgments of a legal tribunal".
+In the central Talkies Ltd. vs Dwarka Prasad(2) this 'Court has accepted the meaning given to the expression persona designata in Osborn 's Concise Law Dictionary.
+4th edn.
+p. 263 as eta person who is pointed out or described as an individual, as opposed to a person ascertained as a member of a class, or as filling a particular characters Section 146(1) Cr.
+P.C. empowers a Magis 396 trate to refer the question as to whether any, and if so, which of the parties was in possession of the subject matter of dispute at.
+the relevant point of time to a civil court of competent jurisdiction.
+The power is not to refer the matter to the presiding Judge of a particular civil court but to a court.
+When a special or local law provides for an adjudication to be made by a constituted court that is, by a court not created by a special or local law but to an existing court it in fact enlarges the ordinary jurisdiction of such a court.
+Thus where a special or local statute refers to a constituted court as a court and does not refer to the presiding officer of that court the reference cannot be said to be to a persona designata.
+This question is well settled.
+It is, therefore, unnecessary to say anything more on this part of the case except that cases dealing with the point have been well summarised in the recent decision in Chatur Mohan vs Ram Behari Dixit.(1).
+Now, as to the argument based on the ground that the pro ceeding before the civil court is not a civil proceeding, Mr. Goyal 's contention is that since the proceeding before the criminal court under section 145 is a criminal proceeding any matter arising out of it, including a reference to a civil court, does not lose its initial character of a criminal proceeding.
+In support of his contention he has placed strong reliance upon the observations of Jagdish Sahai J., in Sri Sheonath Prasad vs City Magistrate, Varanasi.
+(2) In that case the learned Judge was called upon to consider the meaning of the expression "civil court of competent jurisdiction" occurring in section 146(1) of the Code of Criminal Procedure.
+It was contended before him that the competency of the court is to be determined not merely with respect to the territorial jurisdiction of the court but also with respect to its pecuniary jurisdiction.
+The question arose because it was contended before him that the finding on a question of possession was recorded by a civil court which though it had territorial jurisdiction over the subject matter of the dispute the value of the subject matter was in excess of the pecuniary jurisdiction of the court.
+In the course of his judgment the learned Judge has observed: "that a proceeding even on reference made to a civil court retains its old moorings and does not change its character from a criminal proceeding to a civil proceeding and does not become a proceeding in the suit.
+" Then he went on to point out that the criminal court still retains its jurisdiction because it could withdraw the reference from the civil court at any.
+time and also because the ultimate decision with the respect to the dispute between the parties was to be made by the Magistrate and not by the civil court.
+All this, according to the learned Judge, would show that the proceeding even: before the civil court would not be a civil proceeding.and the idea of pecuniary jurisdiction of a court being foreign to the Code of Criminal Procedure it was not necessary to (1) 1964 All.
+L. J. 256.
+(2) A.I.R. 1959 All.
+467. 397 ascertain whether the court to which a reference was made under section 146(1) Cr.
+P.C. had pecuniary jurisdiction over the subject matter of the dispute or not.
+This ' decision ignores the vast 'body of authority which is to the effect that when a legal right is in dispute and the ordinary courts of the country are seized of such dispute the courts are governed by the ordinary rules of procedure applicable to them.
+Two of the decisions are Adaikappa Chettiar vs Chandrasekharca Theyar(1) and Maung Ba Thaw vs Ma Pin(1) and also a decision of this Court which proceeds upon the same view.
+Thus in South Asia Industries (P) Ltd. vs section B. Sarup Singh(1) it was held that where a statute confers a right of appeal from the order of a tribunal to the High Court without any limitation thereon 'the appeal to the High Court will be regulated by the practice and procedure obtaining in the High Court.
+We would also like to refer to the decision of this Court in Naravan Row vs Ishwarlal(1) in which it was held that there is no reason for restricting the expression "civil proceeding" only to those proceedings which arise out of civil suits or proceedings which are tried as civil suits.
+Though this decision was concerned with the meaning of the words "civil proceeding" used in article 133(1)(c) of the Constitution the reasoning behind it sufficiently repels the extreme contention of Mr., Goyal that a proceeding stemming from a criminal matter must always bear the stamp of a criminal proceeding.
+Then, according to Mr. Goyal, when a magistrate refers a question as to which: party was in possession at the relevant date what be does is to delegate that duty, initially resting upon him, to the civil court.
+In performing that duty the civil court would, therefore, be acting as a criminal court just as the magistrate would be doing where he has to decide the question himself.
+The two Privy Council decisions we have referred to sufficiently answer this contention.
+No doubt, the Magistrate, while discharging his function under the Code of Criminal Procedure under section 145(1), would be exercising his criminal jurisdiction because that is the only kind of jurisdiction which the Code confers upon the magistrates but when the magistrate refers the question to a civil court he does not confer a part of his criminal jurisdiction upon the civil court.
+There is no provision under which he can clothe a. court or a tribunal which is not specified in the Criminal Procedure Code with criminal jurisdiction We are, therefore, unable to accept the contention of Goyal.
+Mr. Iyengar tried to put the matter in a somewhat different way.
+In the first place.
+according to him , if we hold that the proceeding before the civil court is a, civil proceeding then all the rules of procedure contained in the Civil Procedure Code,.
+including those relating to appeals or revision would apply to the proceeding.
+(1) 74 I.A. 264.
+(2) 61 I.A. 158.
+(3)[1966].2 S.C.R. 756.
+(4) A.I.R. 1956 S.C.1818 398 he points out, would be contrary to the provisions of section 146(1 P) of Code of Criminal Procedure which bar an appeal,review or revision from any finding of the civil court.
+From this he wants us to infer that the proceeding does not take the character of a civil proceeding even though it takes place before a civil court.
+We are not, impressed by this argument.
+If sub section
+(1 D) had: , not been enacted (and this is really a new provision) an appeal or revision application would have been maintainable.
+Now that it is there, the only effect of it is that neither an appeal nor a revision is any longer maintainable.
+This consequence ensues because of the express provision and not because the proceeding, before the civil court is not a civil proceeding.
+The next contention and it was the one pressed strenuously by him was that a proceeding upon a reference under section 146(1) entertained by a civil court not being an original proceeding the provisions of section 141, C.P.C. are not attracted and that, therefore.
+those provisions of the Civil Procedure Code which relate to suits are not applicable to a proceeding undertaken by a civil court upon a reference to it under section 146(1) of the Code of Criminal Procedure.
+A number of cases dealing with this point were brought to our notice either by him or by Mr. Goyal.
+It seems to us, however, that those cases are not relevant for deciding the point which is before us.
+In passing, however, we may mention the fact that a full bench of the Allahabad High Court has held in Maha Ram vs Harbans(1) that the civil court to which an issue on the quest ion of proprietary rights has been submitted by a revenue court under section 271 of the Agra Tenancy Act, 1926 has jurisdiction to refer,the issue to arbitration under paragraph I of Schedule II of the C.P C.
+This decision is based upon the view that by virtue of section 141, C.P.C. the provisions relating to arbitration contained in the second schedule to the Code of Civil Procedure before the repeal of that schedule applied to a proceeding of this kind.
+Similarly recently this Court has held in Munshi Ram vs Banwarilal(2) that under section 41 of the Arbitration Act and also under section 141, C.P.C. it was competent to the court before which an award made by an arbitration tribunal is filed for passing a decree in terms thereof to permit Parties to compromise their dispute under O. XXIII, r. 3, C.P.C.
+Though there is no discussion, this Court has acted upon the view that the expression" 'civil proceeding" in section 141 is not necessarily confined to an original proceeding like a suit or an application for appointment of a gurdian etc.
+but that it applies also to a proceeding which is not an original proceeding.
+Thus, though we say that it is not an original to consider in this case whether.
+the proceeding before the civil court is a civil proceeding as contemplated by section 141 or not there is good authority for saying that it is a civil Proceeding.
+All that we are concerned with in this case is whether (1) I.L.R. [1941] All.193 (2) I.L.R. 1962 S.C.903.
+399 the provisions.
+of section 24(1)(b) of the Code of Civil Procedure are available with respect to a proceeding arising out of a reference ,,under section 146(1), Cr.
+The relevant portion of section 24 may, therefore be set out.
+It reads thus: "On the application of any of the parties and after notice to the parties and after hearing such of them as desired to be heard, or of its own motion without such notice, the High Court or the District Court may at any stage (a) (b) withdraw any suit, appeal or other proceeding pending in any Court subordinate to it, and (ii) transfer the same for trial or disposal to any Court subordinate to it and competent to try or dispose of the same; or III. . . . .
+It plainly speaks of "other proceeding pending in any court subordinate to it" and not only to the civil proceeding pending before a subordinate court.
+The decisions of the Privy Council and one decision of this Court which we have earlier quoted would warrant the application of the provisions of the Code of Civil Procedure generally to a proceeding before a civil court arising out of a reference to it by a Magistrate under section 146(1) of the Code of Crimi nal Procedure.
+The expression "proceeding" used in this section is not a term of art which has acquired a definite meaning.
+What its meaning is when it occurs in a particular statute or a provision of a statute will have to be ascertained by looking at the relevant statute.
+Looking to the context in which the word has been used in section 24(1)(b) of the Code of Civil Procedure it would appear to us to be something going on in a court in relation to the adjudication of a dispute other than a suit or an appeal.
+Bearing in mind that the term "proceeding" indicates something in which business.
+is conducted according to a prescribed mode it would be only right to give it, as used in the aforesaid provision, a comprehensive meaning so as to include within it all matters coming up for judicial adjudication and not to confine it to a civil proceeding alone.
+In a recent case Kochadai Naidu vs Nagavasami Naidu(1) Ramachandra lyer J., (as he then was) was called upon to consider the very question which arises before us.
+The learned Judge held (1) I.L.R. 400 that a proceeding before a civil court arising out of a reference to it under section 146(1), Cr.
+P.C. can be transferred by the High Court or District Court under section 24, C.P.C. because it is in any case a proceedings.
+He has also considered this question from the angle of the nature of the proceeding and expressed the view that the proceeding was a civil proceeding to which the procedure for suits could, with the aid of section 141, C.P.C. be applied.
+If indeed the term "proceeding" in section 24 is not confined to a civil proceeding there is no need whatsoever of taking the aid of section 141, C.P.C.
+Upon this view we dismiss the appeal.
+Appeal dismissed.

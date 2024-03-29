@@ -1,0 +1,143 @@
+vil Appeals Nos. 633 and 634 of 1964.
+Appeals from the judgement and order dated July 23 and 24, 1962 of the Bombay High Court in Income tax Reference No. 61 of 1961.
+A. V. Viswanatha Sastri, S.N. Vakil, T.A. Ramachandran, 1.
+B. Dadachanji, O.C. Mathur and Ravinder Narain, for the appellant (in both the appeals).
+Niren De, Additional Solicitor General, R. Ganapathy lyer and R.N. Sachthey, for respondent (in both the appeals).
+A.V. Vishwanatha Sastri, M.N. Shroff and 1.
+N. Shroff, for the Intervener (in all the appeals).
+The Judgment of the Court was delivered by Subba Rao, J.
+The appellant, the Poona Electric Supply Co., Ltd., hereinafter called the Company, carried on the business of distribution of electricity in the city of Poona under a licence issued by the Government.
+Under the relevant provisions of the , (Act 54 of 1948), hereinafter called the Act, the Company 's "clear profit" in any year should not, as far as possible, exceed the amount of "reasonable return" as defined under the Act.
+The excess, if any, after making some deductions, the Company has to distribute to its consumers in the form of rebate.
+During the assessment years 1953 54 and 1954 55 the Company claimed deduction of two amounts of Rs. 42,148/ and Rs. 77,138/ for the said two years from its taxable income as they were credited to "Consumers Benefit Reserve Account".
+The Income tax Officer disallowed the claim; and on appeal the Appellate Assistant Commissioner agreed with the Income tax Officer.
+On a further appeal, the Income tax Appellate Tribunal accepted the contention of the appellant and allowed the deductions.
+At the instance of the Revenue, the Tribunal submitted the following question of law to the High Court of Judicature at Bombay for its opinion: "Whether the two sums of Rs. 42,1481 in the assessment year 1953 54 and Rs. 77,138/ in the assessment year 1954 55 were deductible in computing income, profits and gains from the assessee 's business assessable to tax.
+" 820 A Division Bench of the said High Court answered the question in the negative and against the appellant.
+The present appeals have been filed by the Company after obtaining the requisite certificate from the High Court.
+The argument of Mr. A.V. Viswanatha Sastri, learned counsel for the appellant, may be summarised thus: (1) There is a distinction between commercial profit of a company and "clear profit" under the Act one is arrived at on commercial principles and the other is regulated by the statute; the real profit of a company under section 10(1) of the Indian Income tax Act can be determined only after excluding the amount statutorily transferred to the "Consumers Benefit Reserve Account", for that amount represents a rebate to the customers of the excess amount collected from them.
+(2) As the reservation of a part of the said excess is a statutory condition subject to which the Company carries on its business, it is an expenditure wholly and exclusively incurred for the purpose of the Company 's business and, therefore, it is an allowance deductible under section 10(2)(xv) of the Income tax Act for computing the profit of the Appellant 's business.
+(3) The Company follows the mercantile system of accounting and, therefore, the amount of rebate so reserved is deductible for arriving at the commercial profit of the Company in the year when the statutory liability arises and not when the amount is actually paid; and in the present case the statutory liability for the said two amounts arose in the accounting years of 1952 and 1953.
+Learned Additional Solicitor General contended that (1) under the relevant provisions of the Act the transference of a part of the said excess to the consumers benefit reserve account would only amount to apportionment or distribution of the profit after it has been earned and, therefore, it is not a deductible item for ascertaining the profit of the Company under section 10(1) of the Income tax Act; (2) the said amounts could not be said to be an expenditure wholly and exclusively incurred for the purpose of the business, as the expenditure was not incurred either during the course of the business or for the purpose of earning the profits of the business, but was only apportioned or distributed from and out of the profits already earned.
+To appreciate the rival contentions and to arrive at a satisfactory solution it will be necessary to notice the relevant provisions of the Act and of the Income tax Act.
+The gist of the relevant provisions may be stated thus: No person can supply electric energy in any area unless he has obtained a licence from the State Government under section 3(1) of the (9 of 1910).
+The Act, i.e., The , provides for the rationalization of the production and supply of electricity and generally for taking 821 measures conducive to electrical development.
+One of its main objects is to prevent such licensees from charging unreasonable rates to the detriment of the consumers.
+Under section 57(1) of the Act the provisions of the Sixth Schedule and the table appended to the Seventh Schedule thereto are deemed to be incorporated in the licence of every licensee.
+Paragraph I of the Sixth Schedule imposes a duty on every such licensee to so adjust his rates for the sale of electricity by periodical revision that his clear profit in any year shall not, as far as possible, exceed the amount of "reasonable return".
+The expressions "clear profit" and "reasonable return" are defined.
+Under Para.
+II thereof if the clear profit of a licence in any year of account is in excess of the amount of reasonable return, one third of such excess, not exceeding 7 1/2% of the amount of reasonable return, shall be at the disposal of the undertaking; one half of the said excess shall either be distributed in the form of a proportional rebate on the amounts collected from the sale of electricity and meter rentals or carried forward in the accounts of the licensee for distribution to the consumers in future in such manner as the State Government may direct.
+It is, therefore, clear from these provisions that for the purpose of rationalization of rates and keeping them under control the licence is directed to adjust his rates in such a way that his clear profit in any year shall not, as far as possible, exceed the amount of reasonable profit; but if an excess is collected, the licensee shall distribute half of that excess in the form of a proportional rebate to the consumers or carry forward the same in his accounts for future distribution to the consumers.
+Briefly stated, the scheme of the provisions is that a part of the excess collected is returned to the consumers by way of a rebate.
+The question is whether the amount so returned or returnable by the licensee to his consumers is deductible for ascertaining his taxable income from his business under section 10(1) or section 10(2)(xv) of the Income tax Act.
+Learned Additional Solicitor General took us though the various paragraphs of the Sixth Schedule to the Act and argued that under them the licensee 's clear profit was arrived at after all the deductions were made, including the appropriations for all taxes on income and profits and, therefore, the distribution of a part of the excess was only a distribution out of the profits.
+There is plausibility in this argument and at the first blush it appears to be attractive.
+But there is an obvious fallacy underlying the argument and that arises from the fact that the argument equates the expression "clear profit" with that of commercial profits.
+The object of the Act and that of the Sixth Schedule thereto, as aforesaid, is to statutorily rationalize and regulate the rates chargeable for the energy supplied in the interest of the public and for electrical development.
+The rules embodied in the Sixth Schedule to the Act are intended only to achieve that object.
+Under the said rules certain appropriations and certain deductions have to be made to.
+arrive at the clear profit; otherwise the items may be manipulated 822 to sustain a demand for abnormal rates.
+The rules have no concern with income tax; though for the purpose of arriving at the clear profit the taxes paid are also deductible.
+If this distinction is borne in mind, the problem presented is easily and readily solved.
+Under section 10 (1) of the Income tax Act, tax shall be payable by an assessee under the head "profits and gains of business" in respect of profits and gains of any business carried on by him.
+The said profits and gains are not profits regulated by any statute, but profits in a business computed on business principles.
+They are business profits and not statutory profits.
+They are real profits and not notional profits.
+The real profit of a businessman under section 10(1)of the Income tax Act cannot obviously include the amounts returned by him by way of rebate to the consumers under statutory compulsion.
+It is as if he received only from the consumers the original amount minus the amount he returned to them.
+In substance there cannot be any difference between a businessman collecting from his constituents a sum of Rs. Y in addition to Rs. X by mistake and returning Rs. Y to them and another businessman collecting Rs. X alone.
+The amount returned is not a part of the profits at all.
+In this context some of the decisions cited at the Bar may be of some help.
+In Pondicherry Railway Co., Ltd. vs Commissioner of Income tax, Madras(1).
+under an agreement with the French Colonial Government the railway company had to pay to the said Government half of its net profits calculated as provided thereunder.
+One of the questions that arose in the appeal was whether the appellant company was entitled to deduct the payments made under the agreement with the said Government as being expenditure incurred solely for the purpose of earning such profits within section 10(9) of the Income tax Act.
+In dealing with the question, Lord Macmillan observed: "A payment out of profits and conditional on profits being earned cannot accurately be described as a payment made to earn profits.
+It assumes that profits have first come into existence.
+But profits on their coming into existence attract tax at that point, and the revenue is not concerned with the subsequent application of the profits.
+" The learned Lord, after citing with approval the principle laid down by Lord Chancellor Halsbury in Gresham Life Assurance .Society vs Styles(2), proceeded to observe: "The word 'profits ' I think is to be understood in its natural and proper sense. in a sense which no commercial man would misunderstand.
+But once an individual or (1) , 251 252, 252.
+(2) 823 a company has in that proper sense ascertained what are the profits of his business or his trade, the destination of those profits or the charge which has been made on those profits by previous agreement or otherwise is perfectly immaterial.
+The tax is payable upon the profits realized, and the meaning to my mind is rendered plain by the words 'payable out of profits.
+" The distinction between payment out of profits and a payment to earn profits is unexceptionable.
+The difficulty is to ascertain in each case whether a particular payment falls under one or other of the two categories.
+The statement in the aforesaid observations that a payment conditional on profits being earned cannot be a payment made to earn profits has been modified and explained by the Privy Council in The Indian Radio and Cable Communications Cornpony, Ltd., vs The Commissioner of Income tax, Bombay Presidency & AdenC).
+There, their Lordships were dealing with a case of a joint venture by two companies; and Lord Maugham pointed out thus: "It may be admitted that, as Mr. Latter contended, it is not universally true to say that a payment the making of which is conditional on profits being earned cannot properly be described as an expenditure incurred for the purpose of earning such profits.
+The typical exception is that of a payment to a director or a manager of a commission on the profits of a company.
+" To that extent the principle laid down by Lord Macmillan in the case of Pondicherry Railway Co.(2) has been modified.
+Lord Macmillan himself in a later decision in The Union Cold Storage Co. Ltd., vs Adamson (H. M. Inspector of Taxes)(3) explained his observations in the Pondicherry Railway Co. 's case (2).
+There, the appellant company leased lands and premises abroad under a deed reserving a particular rent per annum.
+The deed provided that if at the end of any financial year it was found that after providing for this rent the result of the Company 's operations was insufficient to pay both interest on its charges and debentures and dividends at fixed rates on its preference shares and also at least 10 per cent, on its ordinary shares, the rent for the year was to be abated to the extent of the deficiency, repayment of rent already paid being made if necessary.
+The question raised in that case was whether such repayments made were allowable as deductions in assessing the Company 's income to income tax.
+The House of Lords held that they were allowable deductions.
+When the observations of Lord Macmillan in the Pondicherry Railway Co. 's case(2) were pressed upon the House in support of the contention (1) , 277.
+(2) L.R. 58 A.C. 239.
+(3) , 331.
+824 on behalf of the Revenue, Lord Macmillan explained his earlier observations thus: "When, therefore, in the passage referred to by the Attorney General in the Pondicherry case I said that "a payment out of profits and conditional on profits being earned cannot accurately be described as a payment made to earn profits", I was dealing with a case in which the obligation was, first of all, to ascertain the profits in a prescribed manner, after providing for all outlays incurred in earning them, and then to divide them.
+Here the question is whether or not a deduction for rent has to be made in ascertaining the profits, and the question is not one of the distribution of profits at all.
+" Though a contractual term of payment of rent operated after the profits were ascertained and on the insufficiency to meet certain obligations was discovered, the House of Lords did not find any difficulty in holding that the deductions for rent were made only for ascertaining the profits and not for distributing the same.
+The decision of the Court of Appeal in British Sugar Manufacturers, Ltd. vs Harris (Inspector of Taxes(1) is rather instructive.
+There, a company carrying on a manufacturing business agreed with two other companies to pay them a stated percentage of its "net profits" in consideration of their giving to the company the full benefit of their technical and financial knowledge and experience, and giving to the company and its directors advice to the best of their ability.
+The question arose whether in computing the profits of the company for the purpose of income tax, the company was entitled to deduct the sums so paid as being money wholly and exclusively laid out or expended for the purposes of the trade within Rule 3(a) of Cases I and II.
+Greene, M.R., pithily observed thus: "Once you realise that as a matter of construction the word "profits" may be used in one sense for one purpose and in another sense for another purpose, I think you have the real solution of the difficulties that have arisen in this case.
+" Applying that test, the Master of the Rolls held that: "In the present case there are two funds of so called profits which come into the picture.
+The first one is the fund which has to be ascertained for the purposes of calculating the 20 per cent . . . .
+Now when that amount has been ascertained, that fund has ceased to have any usefulness at all, and it then becomes necessary to ascertain what are the divisible profits, and for that purpose, to take another account, which not only would bring in depreciation, but would also take into (1) , 105, 106, 108 109.
+829 account the sum that had been paid out to the Skoda works, and the Corporation upon the taking of the first account.
+" Romer, L.J., put the test in a different way when he said: "Is the payment that has to be made by the trader under the contract in question a mere division of profits with another party or is it a payment to the other party, the amount of which is ascertained by reference to the profits?" MacKinnon, L.J. stated much to the same effect thus: "The whole question in this, as in other cases, is whether this, which is an annual payment, is an annual payment to be taken into account in order to ascertain the profits, or is it an annual payment payable out of the profits after they have been ascertained? I think the true facts of this case are that it is of the former character.
+The difficulty in the case arises largely because of the necessary ambiguity in the word "prof its" and the fact that in this agreement "profits" as a word does appear; but "profits", as I think, quite clearly of a different description from the annual profits or gains with which one is concerned in assessing the income tax.
+" This decision accepts the principle that a contract or a statute may provide for the ascertainment of two profits for different purposes and the question to be decided in each case is whether the amount claimed as deduction is payable out of the real profits.
+The Judicial Committee again in Raja Bejoy Singh Dudhuria vs Commissioner of Income tax, Calcutta(1) emphasized the concept of real income in the context of payment of income tax.
+Lord Macmillan, speaking for the Board, after adverting to the Imperial System of income tax legislation, proceeded to observe: "The correlative of the obligation to return as income sums which are really charges upon the taxpayer 's income is the right to reimbursement of the tax on such charges.
+The Indian Income tax Act makes no similar provision for the deduction of tax at the source and the consequent reimbursement of the taxpayer in the case of such a charge as that to which the revenues of the appellant are subject . . . . . that the omission from the Indian Act of any such provision points rather to an intention to tax, in Lord Davey 's Phrase, only "the real income" of.
+the taxpayer, than to an intention to impose, without right of reimbursement, a tax on what is a charge upon his income." (1) L.R. (1933) 60 I.A. 196, 202.
+826 The concept of "real income" is also expounded in the decision of the Bombay High Court in H.M. Kashiparekh & Ca.
+Ltd. vs Commissioner of Income tax, Bombay North (1).
+There, under the managing agency agreement the managing agent was under a duty to forgo up to one third of its commission where the profits of the managed company were not sufficient to pay a dividend of 6 per cent.
+The contention of the Revenue that such a surrender of the commission under the provisions mentioned in the agreement was not deductible for the purpose of income tax was negatived.
+The principle has been succinctly stated in the head note thus: "The principle of real income is not to be subordinated as to amount virtually to a negation of it when a surrender or concession or rebate in respect of managing agency commission is made, agreed to or given on grounds of commercial expediency, simply because it takes place some time after the dose of an accounting year.
+In examining any transaction and situation of this nature the court would have more regard to the reality and speciality of the situation rather than the purely theoretical or doctrinaire aspect of it.
+It will lay greater emphasis on the business aspect of the matter viewed as a whole when that can be done without disregarding statutory language.
+" Now let us look at two of the cases on which strong reliance is placed on behalf of the Revenue.
+In Mersey Docks and Harbour Board vs Lucas(3) the harbour board was empowered by Act of Parliament to levy dock dues to be applied in maintaining the concern and in paying interest on moneys borrowed; any surplus income remaining after meeting these charges was directed to be applied in forming a sinking fund to extinguish the debt incurred in the construction of the docks.
+It went to reduce the capital liability.
+The question was whether the sum carried to the sinking fund, and the surplus carried to the following year 's accounts, were "profits" within the meaning of the Income tax Acts.
+The House of Lords held that the surplus was profit assessable to the incometax.
+In this case the surplus income formed the sinking fund and was utilised to pay off the debts of the harbour board; therefore, the Court rightly held that the said amount was utilised by the board from and out of its profits and, therefore, the said surplus could not be an allowable deduction.
+The decision of the Queen 's Bench Division in Paddington Burial Board vs Commissioners of Inland Revenue(3) was also based on the same principle.
+Under a public Act of Parliament a burial ground was provided out of the poor rates, and fees were charged to persons using it; any (1) , 707.
+(2) (3) 827 surplus of income over expenditure was applied in aid of the poor rates as required by the Act.
+It was held that the surplus was a profit assessable to income tax.
+It will be seen that the burial ground was managed on behalf of the Parish of Paddington and the surplus was applied for the benefit of the parishners.
+In the words of Day, J., it was a business carried on for the benefit of the rate payers of the parish of Paddington.
+This case also, therefore, dealt with payments out of profits utilised for the benefit of those on whose behalf the business was conducted.
+In Young (H. M. Inspector of Taxes) vs Racecourse Betting Control Board(1) the question that arose was whether the Racecourse Betting Control Board was entitled in computing the profits of the trade of totalisatot operator for the years 1953 54 and 1954 55 to deduct certain payments.
+The Board would be entitled, under the appropriate statutes, to deduct payment of moneys wholly and exclusively laid out or expended for the purpose of trade.
+It was held in that case that the said payments were all voluntary payments and were not made for the purpose of the trade.
+This decision has no bearing on the question raised before us.
+The said decisions lead to the following results: Income tax is a tax on the real income, i.e., the profits arrived at on commercial principles subject to the provisions of the Income tax Act.
+The real profits can be ascertained only by making the permissible deductions.
+There is a clear cut distinction between deductions made for ascertaining the profits and distributions made out of profits.
+In a given case whether the outgoings fall in one or the other of the heads is a question of fact to be found on the relevant circumstances, having regard to business principles.
+Another distinction that shall be borne in mind is that between the real and the statutory profits, i.e., between the commercial profits and statutory profits.
+The latter are statutorily fixed for a specified purpose.
+If we bear in mind these two principles there will be no difficulty in answering the question raised.
+The appellant company is a commercial undertaking.
+It does business of the supply of electricity subject to the provisions of the Act.
+As a business concern its real profit has to be ascertained on the principles of commercial accountancy.
+As a licensee governed by the statute its clear profit is ascertained in terms of the statute and the schedule annexed thereto.
+The two profits are for different purposes one is for commercial and tax purposes and the other is for statutory purposes in order to maintain a reasonable level of rates.
+For the purposes of the Act, during the accounting years the assessee credited the said amounts to the "Consumers Benefit Reserve Account".
+They were part of the excess amount paid to it and reserved to be returned to the consumers.
+They did not form part of the asessee 's real profits.
+So, to arrive at the taxable income of the assessee from the business (1) (D)5SCI 14 828 under section 10(1) of the Act, the said amounts have to be deducted from its total income.
+In this view it is not necessary to express our opinion on the question whether the said amounts would be allowable deductions under section 10(2)(xv) of the Act.
+The next question is whether the amounts so reserved for future payment were deductible in computing the income, profits or gains from the assessee 's business for the assessment years 1953 54 and 1954 55.
+It is not disputed that the assessee adopts the mercantile system of accounting.
+The liability to return the amounts was incurred by the assessee during the relevant accounting years.
+This Court held in Calcutta Co. Ltd., vs Commissioner Income tax, West Bengal(1) that where an assessee maintained his accounts on mercantile basis, the accrued liability and the estimated expenditure which it would incur in discharging the same could be deducted from the income of the accounting year in which the said liability accrued.
+Indeed, this legal position was not contested on behalf of the Revenue.
+In the result we answer the question referred to the High Court in the affirmative and in favour of the assessee.
+The order of the High Court is set aside.
+The appeals are allowed with costs.
+Appeals allowed.

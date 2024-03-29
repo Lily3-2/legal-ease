@@ -1,0 +1,89 @@
+Appeals Nos. 1594 and 1595 of 1968.
+Appeals from the judgment and order dated August 29, 1963 of the Calcutta High Court in Income Tax Reference No. 38 of 1960.
+Sachin Chaudhuri, T. A. Ramachandran and D. N. Gupta, the appellant (in both the appeals).
+D. Narsaraju, section K. Aiyar, R. N. Sachthey and B. D. Sharma for the respondent (in both the appeals).
+The Judgment of the Court was delivered by Shah, J.
+In respect of assessment years 1949 50 and 1950 51 the Income tax Appellate Tribunal referred five questions to the High Court of Calcutta under section 66(1) of the Indian Income tax Act, 1922.
+Three of those questions which are canvassed in these appeals need be set out : Assessment year 1949 50 "(1) Whether on the facts and in the circumstances of the case, the sum of Rs. 51,550/ was A profit in the nature of revenue and therefore liable to tax under the Indian Income tax Act ?" Assessment year 1950 51 "(3) Whether, on the facts and in the circumstances of the case, the sum of Rs. 8,756/ was a profit 798 in the nature of revenue 'and was subject to tax under the Indian Income tax Act ? (4) Whether, on the facts and in the circumstances of the case, the loss of Rs. 34,891/ was allowable as a deduction against the business income of the assessee for the assessment year 1950 51?" The appellant a limited Company incorporated under the Indian Companies Act, 1913 carries on business as managing agents, dealers in shares and stocks, stores and spare parts of machinery and acts as insurance agents and manufacturers of carbon dioxide.
+It also works certain coal mines.
+The Company obtained a prospecting licence from the State of Korea for the Chirimiri Colliery in 1944 and after prospecting for coal sold the colliery, and thereby earned a profit of Rs. 51,550 in the account year 1948 49 and Rs. 8,756 in the account year 1949 50.
+The Income tax Officer brought the profits arising out of the sale of the colliery to tax as business profits.
+The order was confirmed in appeal by the Appellate Assistant Commissioner and the Income tax Appellate Tribunal.
+The Company conducted a Dry Ice Factory at Lahore.
+The factory was sold in September 1948 to the Indo Pakistan Corporation Ltd. The purchaser took over the factory on October 1, 1948, but the price was finally settled in December, 1949.
+By the sale the Company suffered a loss of Rs. 34,891.
+The Company claimed to deduct this loss from its income assessable to tax in the assessment year 1950 51.
+The Income tax Officer disallowed, the claim.
+The Appellate Assistant Commissioner agreed with that view, and the Tribunal confirmed the order.
+In answering questions (1) & (3) the High Court observed "The Chirimiri Colliery was sold after prospecting and proving coal.
+The sale in such 'a case was a part of the trading activities of the assessee and such activity could be gathered from the surrounding circum stances as also from the manner in which it was sold, that is, within a very short time after its acquisition and after it was made fit for obtaining a reasonably higher price at the sale. .
+The profit thus acquired can not be treated as a capital asset.
+" In answering question (4) the High Court observed "The loss of Rs. 34,891 sustained by the assessee after the sale of Dry Ice Factory at Lahore in September 1948 cannot be treated as a loss of the business of sale, inasmuch as the Tribunal found as a fact that the loss not having occurred in the relevant accounting 799 year, was referable to the transaction of business during a period when the business completely ceased before the commencement of the accounting year.
+Counsel for the Company urges that prospecting for coal under a licence obtained from the State of Korea was not, part of the business operations of the Company and that by selling the rights in the mine, the Company disposed of its assets and made gains of a capital nature.
+In any event, it was urged, this was a single transaction and in the absence of evidence that the Company carried on the business of obtaining prospecting licences and of selling the mines if "coal was proved", the profit arising out of sale of the mine which was a capital asset acquired by that transaction was not taxable.
+Where a person disposes of a part or the whole of his assets the general rule is that the mere change or realisation of an investment does not attract liability to income tax but where such a realisation is an act which in itself is a trading transaction, profit earned by sale or conversion is taxable : Commissioner of Taxes vs Melbourne Trust Ltd.(1) The cases which illustrate this distinction fall broadly into two categories those where the sales formed part of trading activity, and, those in which the sale or realisation was not an act of trading.
+As observed in Californian Copper Syndicate (Limited and Reduced) vs Harris (Surveyor of Taxes) (2) the test is Is the sum of gain that has been made a mere enhancement of value by realising a security, or, is it a gain made in an operation of business in carrying out a scheme for profit making ?" In determining whether the gain is realization of mere en hancement of value or is a gain made in an operation of business in carrying out a scheme for profit making, do uniform rule ran be evolved.
+It was observed by this Court in Janki Ram Bahadur Ram vs Commissioner of Income tax(3) : ". . no single fact has decisive significance, and the question whether a transaction is an adventure in the nature of trade must depend upon the collective effect of all the relevant materials brought on the record.
+But general criteria indicating that certain facts have dominant significance in the context of other facts have been adopted in the decided cases.
+if, for instance, a transaction is related to the business which is normally carried on by the assessee, though not directly part of it, an intention to launch upon an, adventure in the nature of trade may readily be inferred.
+(1) , 1010 (P.C.) (2) ,166.
+(3) , 25.
+800 A similar inference would arise where a commodity is purchased and sub divided, altered, treated or repaired and sold, or is converted into a different commodity and then sold.
+Magnitude of the transaction of pur chase, the nature of the commodity, subsequent dealings and the manner of disposal may be such that the transaction may be stamped with the character of a trading venture: .
+" A transaction of sale may in a given case be isolated : in another it may be intimately related to the normal business of the tax payer.
+In the latter class profit arising from the transaction will probably arise out of the tax payer 's business and will be assessable as business profits.
+An instructive case of this class is Imperial Tobacco Co. (of Great Britain and Ireland) Ltd. vs Kelly(1).
+In that case the Company carried on the business of tobacco manufacture, for which large quantities of tobacco leaf were purchased in the United States, where the Company maintained a large buying Organisation.
+To finance the purchases and the expenses of this Organisation the Company bought dollars in the United Kingdom through its bankers who remitted them to the banking accounts of the Company in the United States, and it was the practice of the Company to accumulate a large holding of dollars each year before the leaf season commenced.
+The Company never bought dollars for the purpose of resale as a speculation.
+On the outbreak of war, in September 1939.
+the appellant Company, at the request of the Treasury, stopped all further purchases of tobacco leaf in the United States, and, as a result, the Company had on hand, a holding of dollars accumulated between January and August, 1939.
+On September 30, 1939, the Company was ordered under the Defence (Finance) Regulations, 1939, to sell its surplus dollars to the Treasury, and, owing to the rise in the rate of exchange, the sale resulted in a profit to the Company.
+It was held by the Court of Appeal that the profit was liable to be included as profits of its trade under Sch.
+D Case 1.
+The tax payer was not carrying on business in dollars, but the transactions in dollars were intimately related to their principal business and the profits earned by sale of dollars were treated as profits taxable as business profits.
+In T. Beynon & Co. Limited V. Ogg (Surveyor of TaxeS(2) the tax payer carrying on business as Coal Merchants, Ship and Insurance Brokers, and as sole selling agent for various Colliery Companies, in which latter capacity it was part of its duty to purchase wagons on behalf of its clients, bought a large number of wagons on his own account with the intention of reselling them (1) (2) 801 at profit.
+The contention of the tax payer that the transaction being an isolated one, the profit was in the nature of a capital profit on the realisation of an investment was negatived.
+The profits realised in this transaction were held to result from the operation of the Company 's business and properly includable in the computation of the Company 's profits for assessment under Sch.
+D. In Gloucester Railway Carriage and Wagon Co. Ltd. vs The Commissioners of Inland Revenue(1) the tax payer carried on the business of manufacturing wagons for sale or hire.
+The tax payer sold some of the wagons which were formerly hired out.
+The tax payer contended that the profit realized by sale was an isolated transaction resulting in a capital profit.
+The House of Lords held that the "business was all one ', namely, to make profit out of wagons and on that account the profits realized by sale of wagons were taxable.
+The Tribunal in the present case recorded the following findings : "It is no doubt true that this was a single transaction ' But we were told by the assessee 's counsel that the assessee obtained prospecting licence in the colliery, developed the colliery and then sold out.
+What was the purpose of obtaining the prospecting licence has not been told to us.
+The assessee was carrying on business of coal mining.
+The prospecting of coal is a part of the coal mining business.
+Therefore, in our opinion, the transaction of prospecting, developing and selling the colliery is a transaction in the nature of a business.
+Therefore, the profit arising from the sale is a profit in the nature of revenue and has been rightly brought to tax.
+" Our task would have been lightened if the Tribunal had stated the findings in greater detail.
+Nevertheless the Tribunal has found that the Company was carrying on the business, of coal mining and prospecting of coal was a part of the coal mining business and on that account the transaction of prospecting, developing and selling the colliery was a transaction in the nature of a business.
+On the findings recorded by the Tribunal it follows that the prospecting for, coal being a part of the coal mining business, the income was properly regarded as taxable.
+The answer recorded by the High Court on questions (1) & (3) must be upheld.
+Turning to the fourth question : the sale transaction of the Dry Ice Factory, was completed on October 1, 1948, but the price was finally settled in December 1949.
+In the settlement, the Company suffered a loss of Rs. 34,891.
+The loss was suffered in the (1) 802 business transaction and the only dispute raised before the Tribunal related to the year in which the loss was liable to be taken into account.
+The Tribunal disallowed the loss in the assessment of income for the year 1950 51.
+The Tribunal held that the business of the Dry Ice Factory was not carried on in the year of account April 1, 1949 to March 31, 1950, and on that account the loss was hot admissible as a permissible deduction in computing the taxable income of the Company for the assessment year 1950 51.
+The High Court agreed with the Tribunal.
+In our judgment, the High Court was in error in holding that the loss was not a permissible deduction.
+Section 24 of the Income tax Act, 1922, in the relevant year of assessment read as follows : "(1) Where any assessee sustains a loss of profits or gains in any year under any of the heads mentioned in section 6, he shall be entitled to have the amount of the loss set off against as income, profits or gains under any other head in that year Provided that (2) Where any assessee sustains a loss of profits or gains in any year, being a previous year not earlier than the previous year for the assessment for the year ending on the 31st day of March, 1940, under the head profits of business, profession or vocation, and the loss cannot be wholly set off under sub section (1) the portion not so set off shall be carried forward to the following year and set off against the profits or gains, if any, of the assessee from the same business, profession or vocation for that year Provided that By sub section
+( 1 ) the loss or profits or gains suffered under any head in any year was liable to be set off against the income, profits or gains under any other head, and by sub section
+(2) where the loss suffered in any business, profession or vocation could not be wholly set off under sub section
+( 1 ) the loss not so set off had to be carried forward to the following year and set off against the profits and gains of the same business in the subsequent years.
+The Tribunal and the High Court applied sub section
+(2) of section 24 in computing the taxable income of the Company for the assessment year 1950 51.
+But in so proceeding, in our judgment, they were in error.
+The business of Dry Ice Factory was sold in October, 1948.
+We will assume that the Dry Ice Factory was 'a separate business of the Company and was not a part of the other business carried on by the Company.
+But the price for which the business was sold was settled in December 1949.
+Until the price was 803 settled, loss did not accrue or arise to the Company.
+The loss was suffered in the account year 1949 50 and could be allowed against the income of that year under section 24(1).
+The assumption that the loss was suffered in the previous year i.e., 1948 49 was, in our judgment, not warranted.
+The case was plainly governed by sub section
+(1) of section 24.
+The answer to the fourth question recorded by the High Court must be discharged.
+The answers to questions (1) & (3) recorded by the High Court are affirmed.
+Question (4) Will be answered in the affirmative and in favour of the Company.
+In view of the divided success, there will be no order as to costs in this Court.
+The order as to costs in the High Court is maintained.
+V.P.S. Appeals allowed in part.

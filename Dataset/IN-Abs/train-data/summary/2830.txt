@@ -1,0 +1,28 @@
+The assessee was a Private Limited Company.
+It carried on the business of banking and financing as also of managing agency.
+Starch Products Ltd., was one of various companies which was being managed by the assessee.
+Starch Products had appointed the U.P. Sales Corporation Ltd., as its selling agent.
+The assessee claimed to have stood guarantee for a loan of Rs. 6 lacs which was advanced to U.P. Sales Corporation Ltd., by the Gwali Industrial Bank.
+The borrower failed to pay the loan which on August 2, 1948 stood at Rs. 5,60,199.
+This amount was paid by the assessee pursuant to the guarantee.
+Thereafter the assessee treated the U.P. Sales Corporation as its debtor for the aforesaid amount.
+That company went into liquidation and as the assessee could not recover anything from it, a sum of Rs. 5,60,199 was written off in the books of the assessee company.
+Before the Income tax Officer the said amount was claimed as a bad debt under section 10(2) (xi) of the Income tax Act, 1922.
+The Income tax Officer rejected the claim.
+The assessee 's appeal before the Assistant Commissioner failed.
+The Appellate Tribunal, however, held that the guarantee given by the assessee was of indirect benefit to the assesse 's business because if it had not guaranteed the loan in question the company managed by it would have had to give extended credit to its selling agent which it could not have done without borrowing money either from the assessee or some third party.
+In reference, the High Court also held that the guarantee was in the larger interest of the assessee 's business.
+The Commissioner of Income tax appealed to this Court by special leave.
+HELD : (i) While computing profits or gains of business under section 10 certain allowances have to be made under sub section
+The allowance covered by cl.
+(xi) thereof has to be made, when the assessee 's accounts in respect of any part of his business, profession or vocation are not kept on a cash basis, of such sum, in respect of the bad and doubtful debts, due to the assessee in respect of that part of his business profession and vocation and in the case of an assessee carrying an a banking or money lending business of such sum in respect loans made in the ordinary course of such business as the Income tax Officer may estimate to be irrecoverable but not exceeding the amount actually written off as irrecoverable in the books of the assessee.
+A bad debt means a debt which would have gone into the balance sheet as a trading debt in the business or trade.
+It must arise in the course of and as a result of the assessee 's business.
+The deductions claimed should not be too remote from the business carried on by the assessee.
+[361 B E] 12 Sup.
+C 1/70 9 358 In the present case, neither the memorandum of association nor the managing agency agreement contained any such provisions by which it could be said that he guarantee of the loan made by the bank to the selling agents was done in the course of the managing agency business.
+There was no privity of contract or any legal relationship between the assessee and the selling agent.
+Neither under custom nor under any statutory provision or any contractual obligation was the assessee bound to guarantee the loan advanced by the bank to the selling agent. 'The guarantee could not be said to be indirectly in the interest of the assessee 's business, or as held by the High Court, in its larger interest.
+The Tribunal and the High Court were, therefore, in error in holding that the sum in question was allowable as a deduction under section 10 (2) (xi).
+[362 D E, F H] Madan Gopal Bagla vs Commissioner of Income tax, West Bengal, and Commissioner of Income tax, Bombay vs Abdullabhai Abdulkadar, , applied.
+Essen Private Ltd. vs Commissioner of Income tax, 65 I.T.R. 625, distinguished.

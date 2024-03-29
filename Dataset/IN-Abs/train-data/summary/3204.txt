@@ -1,0 +1,48 @@
+A dispute arose regarding the performance of a contract between the appellant and respondent, each party contending that the other had committed a breach of the contract and claiming large sums of money by way of damages.
+The appel lant 's claim was for damages stipulated under cl. 14 of the contract.
+The respondent was called upon to pay the amount claimed and was also informed that on failure to make the payment the appropriate officer would be authorised to recover the amount from the pending bills of the respondent in respect of other contracts under cl. 18 of the Contract.
+The respondent thereupon moved the High Court under section 20 of the , and the claim and counter claim were referred to arbitration.
+During the pendency of the arbitration some amounts became due and payable by the appellant to the respondent in respect of other contracts between them.
+The respondent applied to the High Court for an injunction restraining the appellant from recovering its claim for damages from the amounts which had fallen due and the High Court granted the injunction holding that cl. 18 did not authorise the appellant to appropriate the amounts of any pending bills of the respondent towards satisfaction of its claim for damages against the respondent unless such claim was either admitted by the respondent or adjudicated upon by the arbitrator or the Court.
+Dismissing the appeal to this Court, HELD : (1) The order of interim injunction cannot be said to be outside the scope of the High Court 's power under section 41 (b) of the .
+[563D E] (a) Section 41 (b) says that the Court shall have, for the purpose of and in relation to arbitration proceedings, the same power of making orders in respect of any of the matters set out in the second schedule as it has for the purpose of and in relation to any proceedings before the Court and one of the matters set out in the second Schedule is 'interim injunction. ' The, Court has therefore power to issue interim injunction.
+But such interim injunction can only be for the purpose of and in relation to arbitration proceedings.
+The Court could not therefore make an interim order which, though ostensibly in form an order of interim injunction, in substance amounted to a direction to the appellant to pay the amounts due to the respondent under other contracts.
+[562F 563A] (b) However, in the present case, the order of interim injunction ' does not expressly or by necessary implication direct the appellant to pay amounts due to the respondent under other contracts.
+The a appellant can still refuse to pay such amounts if it thinks it has a valid defence and the only remedy open to the respondent then would be to take measures in an appropriate forum.
+No breach of the interim injunction as such would be involved in non payment of such amounts by the appellant to the respondent.
+The only thing which the appellant is interdicted from doing is to satisfy its claim for damages by appropriating such amounts.
+Such an order would be within the power of the court under section 41 (b), because the claim for damages forms the subject matter of arbitration proceedings.
+[563A D] (2) The appellant had no right or authority under cl. 18 to appropriate the amounts of other pending bills of the respondent, 'in or towards satisfaction of its claim for damages against the respondent, and so, the High Court has justified in issuing the interim injunction .
+[569G] 557 (a) Though the words"where any claim for the payment of a sum of money arises" occurring in the opening part of cl. 18 are words of great amplitude, covering even a claim for damages, it is a well settled rule of interpretation, applicable alike to instruments as to statutes that the meaning of ordinary words is to be found not so much in strict etymological propriety of language nor even in popular use as in the subject or occasion on which they are used and the object which is intended to be attained.
+The context and collection of a particular expression may show that it was not intended to be used in the sense which it ordinarily bears.
+The words must therefore be read not in isolation but in the context of the whole clause.
+[564G 565B] (b) The heading of the clause reads "Recovery of sums due".
+The heading cannot control the interpretation of a clause if its meaning is otherwise plain and unambiguous, but it can be referred to as indicating the general drift of the clause and affording a key to a better understanding of the meaning.
+When there is an obligation to pay a sum of money at a future date it is a debt owing, but when the obligation is to pay a sum of money in present, it is a debt due.
+A sum due would therefore mean a sum for which there is an existing obligation to pay in present or in other words which is presently payable.
+[565 C D, G H] (c) The language used in the body of the clause also supports the view that it is with recovery of sums presently due and payable by the respondent that this clause deals.
+The clause is merely intended to provide a mode of a claim for payment of a sum of money arising out of or under the contract. ' It therefore postulates a claim for a sum which is due and payable, that is, presently recoverable and it may be recovered by the mode therein provided.
+It is difficult to believe that the contracting parties could have intended that even though a, sum is not due and payable by the respondent, the appellant should be entitled to recover it by adopting the mode set out in the clause.
+Such an interpretation would mean that as soon as a claim is made by the appellant, it would immediately become recoverable and the appellant, under the clause, would be entitled to sell of the securities of the respondent and appropriate the sale proceeds in or towards satisfaction of such claim, and in case that is insufficient, to recover the balance by appropriating other sums due to the respondent, and if there is even then a shortfall, to recover it personally from the respondent.
+And this consequence would ensue even if the claim is for a sum which the respondent is under no existing obligation to pay or which is not presently payable or, is disputed as regards liability or quantum.
+It would be more consonant with reason and good sense to take the view, which is supported by the language of the clause that it does no more than merely provide an additional mode of recovery.
+to the appellant and that the appellant is entitled to exercise the right conferred under it only where there is a claim for a sum which is presently due and payable by the respondent.
+The last words of the clause namely, "the contractor shall on demand pay to the purchaser the balance remaining due", clearly postulate that the reference in the clause is to a sum presently due and payable by the respondent to the appellant.
+[566B 567B] (d) It is not legitimate to construe the clause by reference to a corresponding clause which prevailed in the earlier standard form of contract where the words were whenever under the contract any sum of money is recoverable '.
+This is not a statute enacted by the legislature where it can be said that if the legislature has departed from the language used by it in an earlier enactment, it would be a fair presumption to make that the alteration in ,the language was deliberate and was intended to convey a different meaning ' This is a clause in a contract and in construing it any reference to a similar or dissimilar clause in another contract would be irrelevant.
+Moreover, on a question of construction of the clause the mere use of word 'claim ' cannot be a decisive factor.
+The clause has to be read as a whole, and so read, it applies.only where the appellant has a claim for a sum presently due and payable by the respondent.
+[567B G] (e) In the present case, the claim is for damages for breach of the contract.
+The damages claimed are liquidated damages under cl. 14 of the Contract; but under Indian law there is no difference in the nature of the claim whether it be for liquidated damages or for unliquidated damages.
+Even if there is a stipulation for liquidated damages a party complaining of breach of contract can recover 558 only reasonable compensation for the injury sustained by him, the stipulated amount being merely the outside limit.
+The claim in the present case therefore stands on the same footing as a claim for unliquidated damages.
+A claim for unliquidated damages does not give rise to a debt until the liability is adjudicated upon and damages assessed by an adjudicatory authority.
+When there is a breach of contract, the party who commits the breach does not eo instanti incur any pecuniary obligation nor does the party complaining of the breach become entitled to a debt due from the other party.
+The only right which the party aggrieved by the breach has is the right to sue for damages and this is not an actionable claim.
+A claim for damages for breach of contract is therefore not a claim for a sum presently due and payable and the appellant is not entitled, in exercise of the right conferred upon it under cl. 18, to recover the amount of such claim by appropriating other sums due to the respondent.
+[567H 569G] Kesoram Industries vs Commissioner of Wealth Tax ; followed.
+Jones vs Thompson , Jabed Sheikh vs Taher Malik 45 Cal.
+Weekly Notes, 519 and section Malkha Singh vs M/s. N. K. Gopala, Krishna Mudaliar 1956 A.I.R. Pun.
+174, referred to.
+Iron & Hardware (India) Co. vs Firm Shamlal & Bros. approved.

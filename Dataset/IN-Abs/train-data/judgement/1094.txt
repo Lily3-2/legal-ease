@@ -1,0 +1,84 @@
+Appeals Nos. 134 to 137 of 1959.
+Appeals by special leave from the judgment and order dated September 20,1957, of the Bombay High Court in Income Tax Reference No. 14 of 1957.
+R. J. Kolah, section N. Andley, J. B. Dadachanji, Rameshwar Nath and P. L. Vohra, for the appellants.
+K. N. Rajagopal Sastri and D. Gupta, for the respondent.
+January 3.
+The Judgment of the Court was delivered by HIDAYATULLAH, J.
+This judgment governs the disposal of Civil Appeals Nos.
+134 to 137 of 1959.
+They have been filed by four assessees with special leave, and arise out of similar facts, and it is not necessary to refer to more than one case to consider the point in question.
+The assessment year under consideration is 1952 53, and the previous year, the Calendar year, 1951.
+In that year, Mr. Tulsidas Kilachand, one of the four appellants, made a declaration of trust in favour of his wife, a portion of which may be quoted here: ". . . 1, Tulsidas Kilachand hereby de clare that I hold 244 shares of Kesar Corporation Ltd. and 120 shares of Kilachand Devchand & Co., Ltd upon trust to pay the income thereof to my wife Vimla for a period of seven years from the date hereof or her death (whichever event may be earlier) and I hereby declare that this trust shall not be revocable." In the year of account, a sum of Rs. 30,404 was received as dividend income on those shares, and the assessee contended that this income, after being grossed up, was not liable to be included in his total income, in view of the third proviso to section 16(1)(c) of the Indian Income tax Act.
+The Income tax Officer did not accept this contention, and though the assessment order is not before us, we gather from the statement of the case that the reason he gave was that the income had accrued to or had arisen in the hands of 353 Mr. Tulsidas Kilachand and had been paid by him to his wife.
+The Income tax Officer held that the words of the proviso "income arising to any person by virtue of a settlement or disposition" did not apply to this income.
+On appeal, the Appellate Assistant Commissioner held that the case was governed by section 16(3)(b), and need not be considered under the third proviso.
+to section 16(1)(c) of the Act.
+It appears to have been conceded before him that if the former provision applied, the proviso would not save the income from being assessed in the hands of Mr. Tulsidas Kilachand.
+The appeal was dismissed.
+In the appeal before the Tribunal, Mr. Tulsidas Kilachand again relied upon the third proviso to section 16(1)(c), and contended that the case was riot governed by section 16(3)(b) and that the dividend income could not be included in his assessment.
+The Tribunal came to the conclusion that the case was covered either by section 16(3)(a)(iii) or by section 16(3)(b), and that the income from the shares was, therefore, liable to be included in the income of Mr. Tulsidas Kilachand.
+The Tribunal, however, raised and referred the following question under section 66(1) of the Act to the High Court of Bombay: "Whether on a true construction of the deed of declaration of trust dated 5th March , 1951, the net dividend income of Rs. 30,404 on 120 shares of Kilachand Devchand & Co., Ltd. and 244 shares of Kesar Corporation Ltd. held under trust by the assessee for the benefit of his wife was income liable to be included in the total income of the assessee? The High Court came to the conclusion that, though section 16(1)(c) was not satisfied in view of the third proviso, section 16(3)(b) was applicable to the case, and answered the question in the affirmative.
+In the appeal before us, the case for the Department was based both on section 16(3)(a)(iii) and section 16(3)(b), while the appellants contended that this disposition fell within the third proviso to section 16(1)(c).
+The relevant provisions are: 45 354 " 16.
+Exemptions and exclusions in determining the total income. (1) In computing the total income of an assessee. . . . . . . . . (c) all income arising to any person by virtue of a settlement or disposition whether revocable or not, and whether effected before or after the commencement of the Indian Income tax (Amendment) Act, 1939 (7 of 1939), from assets remaining the property of the settlor or disponer, shall be deemed to be income of the settlor or disponer, and all income arising to any person by virtue of a revocable transfer of assets shall be deemed to be income of the transferor: Provided. . . . . . . . .
+Provided further. . . . . . . .
+Provided further that this clause shall not apply to any income arising to any person by virtue of a settlement or disposition which is not revocable for a period exceeding six years or during the lifetime of the person and from which income the settlor or disponer derives no direct or indirect benefit but that the settlor shall be liable to be assessed on the said income as and when the power to revoke arises to him.
+(2). . . . . . . . (omitted) (3).
+In computing the total income of any individual for the purpose of assessment, there shall be included (a) so much of the income of a wife or minor child of such individual as arises directly or indirectly (i). . . . . . . . . (ii). . . . . . . . . . (iii) from assets transferred directly or indirectly to the wife by the husband otherwise than for adequate consideration or in connection with an agreement to live apart; or (b). so much of the income of any person or association of persons as arises from assets transferred otherwise than for adequate consideration to the person or 355 association by such individual for the benefit of his wife or a minor child or both.
+" The object of framing section 16 can almost be taken from the observations of Lord Macmillan in Chamberlain vs Inland Revenue Commissioners (1), where he stated as follows: "This legislation . (is) designed to overtake and circumvent a growing tendency on the part of taxpayers to endeavour to avoid or reduce tax liability by means of settlements.
+Stated quite generally, the method consisted in the disposal by the taxpayer of part of his property in such a way that the income should no longer be receivable by him, while at the same time he retained certain powers over, or interests in, the property or its income.
+The legislature 's counter was to declare that the income of which the taxpayer had thus sought to disembarrass himself should, notwithstanding, be treated as still his income and taxed in his hands accordingly.
+" These observations apply also to the section under consideration, and the Indian provision is enacted with the same intent and for the same purpose.
+Section 16 thus lays down certain exemptions and exclusions in determining the total income of an assessee.
+Some of the provisions lay down the conditions for inclusion of certain income, while others lay down the conditions for exclusion of other income.
+We are concerned with the income accruing in case of settlements and the conditions under which income of a wife is treated as the income of the settlor or disponer or as the income of the husband.
+We have to see if the pro visions for exclusion or inclusion apply to this case.
+Section 16(1)(c) provides that income from assets remaining the property of the settlor or disponer or arising to any person by virtue of a revocable transfer of assets shall be deemed to be the income of the transferor.
+What cl.
+(c) means was decided by this Court in Provat Kumar Mitter vs Commissioner of Income tax (2).
+There, Provat Kumar Mitter had assigned the dividends only, and had not transferred the relevant shares.
+It was held by this Court that this (1) , 329.
+(2) 356 was a case of application of one 's own income and not assignment of the source from which the income was derived, which alone saved the income from tax, subject, however, to provisions like section 16(1)(c) and section 16(3).
+The deed in favour of the wife in that case gave only a right to the dividends, and not being a transfer of an existing property of the assessee, section 16(1)(c) and the third proviso were not attracted.
+That case thus has no application to the facts of the present case, where the disposition is differently made.
+The disposition here is for a period of seven years or the life of the settle ' whichever is shorter.
+During that period or the life of the settlee, Mr. Tulsidas Kilachand has bound himself upon trust to pay the dividends to his wife and not to revoke the settlement.
+The intention is obviously to put this case within the third proviso to section 16(1)(c), because cl.
+(c) does not apply to any income arising to any other person provided the disponer derives no direct or indirect benefit, even though the assets remain his property.
+If it were only a question of the application of the proviso, this disposition would be exempt.
+But by the deed of trust, the settlor holds the shares in trust; the shares do not remain the property of the settlor.
+Section 16(1)(c) has, therefore, no application, and the proviso is not attracted.
+The section goes on to deal with other situations and to provide for them specially.
+Sub section (3) provides specially for assets transferred to the wife or minor child.
+Income from assets transferred to the wife is still to be included in the total income of the husband, (a) if the assets have been transferred directly or indirectly to the wife by the husband otherwise than for adequate consideration [vide sub section
+(3)(a)(iii)], or (b) so much of the income of any person or association of persons as arises from assets transferred otherwise than for adequate consideration to the person or association by such individual for the benefit of his wife [vide sub section
+(3)(b)].
+The first question is whether there can be said to be transfer of assets to the wife or to 'any person ' for the benefit of the wife.
+The second question is whether there was adequate consideration for the transfer, if 357 there was one The contention of the assessee is that there was no transfer of any assets at all.
+It is contended that the ownership of shares involves a bundle of rights, and that they are, generally speaking, (a) right to vote, (b) right to participate in the distribution of assets on dissolution, and (c) right to participate in the profits, e. g., dividends which might be Hi, .declared.
+It is pointed out that none of these rights was transferred to the wife, because transfer of assets connotes a creation of a right in the assets in praesenti.
+It is urged that there was no transfer of assets either to the wife or to any person for the benefit of the wife but merely a creation of a trust in respect of the shares, the dividends from which were payable to the wife, and that thus section 16(3)(a)(iii) or section 16(3)(b) was not applicable.
+It is lastly contended that even if it be held that there was such a transfer, it was for adequate consideration, being for love and affection, which is a good consideration.
+The contention that there was no transfer at all in this case is not sound.
+The shares were previously held by Mr. Tulsidas Kilachand for himself.
+After the declaration of trust by him, they were held by him not in his personal capacity but as a trustee.
+No doubt, under sections 5 and 6 of the Indian Trusts Act if the declarer of the trust is himself the trustee also, there is no need that he must transfer the property to himself as trustee; but the law implies that such a transfer has been made by him, and no overt act except a declaration of trust is necessary.
+The capacity of the declarer of trust and his capacity as trustee are different, and after the declaration of trust, he holds the assets as a trustee.
+Under the Transfer of Property Act, there can be a transfer by a person to himself or to himself and another person or persons.
+In our opinion, there was, in this case, a transfer by Mr. Tulsidas Kilachand to himself as a trustee, though there was no formal transfer.
+The assessee also stresses the words "any person or association of persons" in section 16(3)(b), and contends that such a person must be other than the husband, who transfers.
+The word "any person" is wide 358 enough to include the husband, when he transfers property to himself in another capacity.
+The change of capacity makes him answer the description "any person".
+This deed must be regarded as involving a transfer by the husband to a trustee, and even though the husband is the same individual, in his capacity as a trustee he must be regarded as a person distinct from the transferor.
+In our opinion, section 16(3)(b) covers the case.
+It remains to consider whether there was adequate consideration for the transfer.
+Reliance has been placed only upon love and affection.
+The words "adequate consideration" denote Consideration other than mere love and affection, which, in the case of a wife, may be presumed.
+When the law insists that there should be "adequate consideration" and not good consideration", it excludes mere love and affection.
+They may be good consideration to support a contract; but adequate consideration to avoid tax is quite a different thing.
+To insist on the other meaning is really to say that consideration must only be looked for, when love and affection cease to exist.
+In our opinion, this case falls within the special rules concerning wife and minor child, laid down in section 16(3)(b) and not within the third proviso to section 16(1)(c).
+It must thus be held that there was a transfer of the assets to the husband trustee for the benefit of the wife, The answer given by the High Court was thus correct.
+The appeals fail, and are dismissed with costs.
+One hearing fee.
+Appeals dismissed.

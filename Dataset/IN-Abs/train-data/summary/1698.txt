@@ -1,0 +1,51 @@
+The appellant was 'declared elected having defeated the respondent by 2 votes.
+Thereafter, the respondent filed an election petition.
+The respondent challenged the validity of the appellant 's election on the ground of improper reception of votes in favour of the appellant and improper rejection of votes in regard to himself.
+His prayer was that the appellant 's election should be declared void and a declaration should be made that the respondent was 'duly elected.
+The appellant urged before the Tribunal that there had been improper rejection of his votes and improper acceptance of the votes of the respondent, and his case was that if recounting and re scrutiny was made, it would be found that he had secured a majority of votes.
+The respondent objected to this course; his case was that since the appellant had not recriminated nor furnished security under section 97 of the Act, it was not open to him to make this plea.
+The Tribunal rejected the objection of the respondent and accepted the plea of the appellant.
+The Tribunal re examined the ballot papers of the respondent as well as the appellant and came to the conclusion that 22 ballot papers cast in favour of the respondent had been wrongly accepted.
+The result was that the respondent had not secured a majority of votes.
+The Tribunal declared that the election of the appellant was void and refused to grant a declaration to the respondent that he had been duly elected.
+Both the appellant and the respondent preferred appeals before the High Court against the decision of the Tribunal.
+The High Court dismissed both the appeals and the decision of Tribunal was confirmed.
+Hence the appeal.
+Held: (i) The scope of the enquiry in a case falling under section 100 (1) (d) (iii) is to determine whether any votes have been improperly cast in favour of the returned candidate or any votes have been improperly refused or rejected in regard to any other candidate.
+These are the only two matters which would be relevant in 'deciding whether the election of the returned candidate has been materially affected or not.
+At this enquiry the onus is on the petitioner to prove his allegation.
+Therefore, in the case of a petition where the only claim made is that the election of the returned candidate is void, the scope of the enquiry is clearly limited by the requirement of section 100 (1)(d) itself.
+In fact, section 97(1) has no application to the case falling under section 100(1)(d) (iii); the scope of the enquiry is limited for the simple reason that what 55 the clause requires to be considered is whether the election of the returned candidate has been materially affected and nothing else.
+(ii) There are cases in which the erection petition makes a double claim; it claims that the election of a returned candidate is void and also asks for a declaration that the petitioner himself or some other person has been duly elected.
+It is in regard to such a composite case that section 100 as well as section 100(1) would apply, and it is in respect of the ,additional claim for a declaration that some other candidate has been duly elected that section 97 comes into play.
+Section 97(1) thus allows the returned candidate to recriminate and raise pleas in support of his case.
+The result of section 97(1) therefore, is that in dealing with a com posite election petition the Tribunal inquires into not only the case made out by the petitioner, but also the counter claim made by the returned candidate.
+In this connection the returned candidate is required to comply with the provisions of section 97(1) and section 97(2) of the Act.
+If the returned candidate does not recriminate as required by section 97, then he cannot make any attack against the alternative claim made by the petitioner.
+In other words the returned candidate will not be allowed to lead any evidence because he is precluded from raising any pleas against the validity of the claim of the alternative candidate.
+(iii) The pleas of the returned candidate under section 97 of the Act,have to be tried after a declaration has been made under section 100 of the Act.
+The first part of the enquiry in regard to the validity of the election of the returned candidate must be tried within the narrow limits prescribed by section 100(1)(d) (iii) and the latter part of the enquiry which is governed by section 101(a) will have to be tried on a broader basis permitting the returned candidate to lead evidence in support of the pleas which he may have taken by way of recrimination under section 97(1).
+But ,even in cases to which section 97 applies, the enquiry necessary while dealing with the dispute under section 101(a) will not be wider if the returned candidate has failed to recriminate, and in a case of this type the duty of the Election Tribunal will not be to count and scrutinise all the votes cast at the election.
+As a result of r. 57, the Election Tribunal will have to assume that every ballot paper which had not been rejected under r. 56 constituted one valid vote and it is on that basis the finding will have to be made under section 101(a).
+Therefore, it is clear that in holding an enquiry either under section 100(1)(d) (iii) or under section 101 where section 97 has not been complied with it is not competent to the Tribunal to order a general recount of the votes preceded by a scrutiny about their validity.
+Inayatullah Khan vs Diwanchand Mahajan, and Lakshmi Shankar Yadav vs Kunwar Sripal Singh, overruled.
+Bhim Sen vs Gopali and Ors. , relied on.
+Vashist Narain Sharma vs Dev Chandra, ; , Hari Vishnu Kamath vs Syed Ahmed Ishaque, [1955] 1 S.C.R. 1104 and 56 Keshav Laxman Borkar vs Dr. Devrao Laxman Anande, , 'discussed.
+Per Ayyangar J. (i) Section 100 of the Act casts on the election petitioner the onus of establishing to the satisfaction of the Tribunal that "the result of the election was materially affected by the improper reception or rejection of particular votes", but from this it does not follow that the returned candidate is powerless to establish to the satisfaction of the Tribunal that notwithstanding the improper reception or rejection of the particular votes alleged by the petitioner his election has not been materially affected.
+If the key words of the provision on the fulfillment of which alone the Tribunal is invested with jurisdiction to set aside an election are taken to be the words "the result of the election has been materially affected"; it is not beyond the power of the returned candidate to establish this fact which he might do in any manner he likes.
+The returned candidate might do this by establishing that though a few votes were wrongly counted as in his favour, still a large number of his own votes were counted in favour of the petitioner or that votes which ought to have been counted as cast for him, have been improperly counted as cast in favour of defeated candidates other than the petitioner.
+Without such a scrutiny it would manifestly not be possible to determine whether the election of the returned candidate has been materially affected or not.
+There is nothing in cl.
+(iii) which precludes the returned candidates from establishing this.
+As this clause does not speak of the person in whose favour or as against whom the improper reception or rejection has taken place, its content and significance have to be ascertained from the purpose of which the provision is intended viz., to determine from a counting of the voting papers after a scrutiny whether the election of the returned candidate has been materially affected.
+The expression "any vote" in this clause has to be read as meaning "any vote cast in the election with which this petition is concerned" and not "any vote cast in the favour of the returned candidate".
+(ii) Section 101(a) provides that there cannot be a declaration in favour of the claimant to a seat merely because the election of the returned candidate has been declared void but he must in addition have secured the majority of the lawful votes cast.
+It is obvious that for this purpose the Tribunal ought to scrutinise not merely the ballot papers of the claimant and the returned candidate but also of the other candidates.
+When the Tribunal has reached the conclusion after scrutiny of votes that the claimant has, in fact, received the majority of valid votes, the Tribunal embarks on the further enquiry as to whether there are any reasons why he should not be declared elected And it is at this stage that the provisions of section 97 in regard to recrimination came into play.
+If no recrimination is filed then on the terms of section 101(a) the claimant would be immediately declared elected but if there is recrimination the provision of section 101(b) is attracted.
+This construction would harmonise the provision of sections 97, 100(1)(d) and 101.
+and would lead to a rational result.
+57 (iii) Rule 57(1) means that so far as the returning officer is concerned and for the purpose of enabling him to declare the result the ballot papers which are not rejected are to be deemed as valid.
+It is manifest that if that validity held good even at the stage of the election petition and for the conduct of the enquiry before the Tribunal that could really be no scrutiny of the ballot papers and section 100(1)(d) (iii) would become meaningless.
+The validity of the Ballot Paper can be challenged in Election Petition by making proper pleadings and the Tribunal can declare any ballot paper as improperly received.
+Rule 57 does not bear upon the construction of section 100(1)(d) (iii) or of section 101(a).

@@ -1,0 +1,79 @@
+In the assessment year 1957 58, the Wealth Tax Officer had included a sum of Rs.4,90,775 representing the market value of certain immovable properties in respect of which, although the assessee had received full consideration money, he had not executed any registered sale deeds in favour of the vendees.
+The question was whether the properties belonged to the assessee even after such sale for the purpose of inclusion of his net wealth within the meaning of section 2(m) of the Wealth Tax Act, 1957.
+The Wealth Tax Officer held that the assessee 1073 still owned those properties and consequently the value of the same was included in his net wealth.
+On appeal, the Appellate Assistant Commissioner sustained the order of the Wealth Tax Officer with certain deductions in value.
+On further appeal, the Tribunal held that the assessee had ceased to be the owner of the properties because the assessee having received the consideration money from the purchasers and the purchasers having been put into possession were protected in terms of section 53A of the and the term 'owner ' not only included the legal ownership but also the beneficial ownership.
+The High Court following the ratio of Commissioner of Income Tax, A.P. Hyderabad vs Nawab Mir Barkat Ali Khan, , reversed the order of Tribunal and upheld that of the Wealth Tax Officer and the Assistant Appellate Commissioner.
+The Assessee Nizam of Hyderabad, was a paramount ruler owning certain private properties called Sarf e khas.
+On surrendering his paramountcy and acceding to the Union of India, his private properties were taken over by the Government and it was agreed to pay him a sum of Rs. 1 crore annually distributed as follows: (a) Rs.50 lakhs as a privy purse; (b) Rs.25 lakhs in lieu of his previous income from the Sarf e khas, and (c) Rs.25 lakhs for the upkeep of palaces etc.
+The Government in its letter to the assessee stated that his Sarf e khas estates should not continue as an entirely separate administration independent of the Diwani administrative structure and it should, therefore, be completely taken over by the Diwani, its revenue and expenditure being merged with the revenues and expenditure of the State.
+Question was whether the assessee 's right to receive the sum of Rs.25 lakhs O.S. from the State Government was an asset for the purposes of inclusion in his net wealth under the Wealth Tax Act, 1957.
+The Wealth Tax Officer treating the said sum as an annuity and as an asset or property, capitalised the same to Rs.99,78,572 and included that amount as an asset of the assessee.
+The Appellate Assistant Commissioner agreed with this view.
+The Tribunal, however, refused to call it as an annuity, characterised it as an annual payment for surrender of life interest and held that the capitalised value of such life interest be added to the net wealth and taxed.
+The High Court agreed with the view taken by the Tribunal that it was only an annual payment made in compensation for the property which had been taken over by the Govern 1074 ment, therefore, it was a part of the wealth and it was possible to commute the annual payment of Rs.25 lakhs.
+The High Court found that there was neither any express preclusion nor any circumstances from which legitimately an inference could be drawn precluding commutation of the said amount into a lumpsum grant.
+Consequently, the High Court upheld the order of the Wealth Tax Tribunal.
+Partly allowing the Appeal, ^ HELD: (1) Under section 3 of the Wealth Tax Act, 1957 the charge of wealth tax is on the 'net wealth ' of the assessee on the relevant valuation date as defined under section 2(m) of the Act.
+[1081E F] (2) The material expression for the purposes of this appeal is "belonging to the assessee on the valuation date".
+The properties in respect of which registered sale deeds had not been executed but consideration for sale of which had been received and possession in respect of which had been handed over to the purchasers belonged to the assessee for the purpose of inclusion of his net wealth.
+[1081G H; 1082A] (3) It is not necessary for the purpose of section 2(m) to be tied down with the controversy whether in India there is any concept of legal ownership apart from equitable ownership or not or whether under sections 9 and 10 of the Indian Income Tax Act, 1922 and sections 22 to 24 of the Indian Income Tax Act, 1961, where 'owner ' is spoken of in respect of house properties, the legal owner is meant and not the equitable or beneficial owner.
+All the rights embedded in the concept of ownership of Salmond cannot strictly apply either to the purchasers or the assessee in the instant case.
+[1082C D; 1082H; 1083A] (4) The liability to wealth tax arises because of the belonging of the asset, and not otherwise.
+Mere possession, or joint possession unaccompanied by the right to be in possession, or ownership of property would, therefore, not bring the property within the definition of "net wealth" for it would not then be an asset "belonging" to the assessee.
+Unlike the provisions of Income tax Act, section 2(m) of the Act uses the expression 'belonging to ' to indicate that the person having lawful dominion of the assets would be assessable to wealth tax.
+[1083C E] (5) Though the expression 'belonging to ' no doubt was capable of denoting an absolute title was neyertheless not confined to connoting that sense.
+Full possession of an interest less than that of full ownership could also be signified by that expression.
+[1086G H] 1075 Commissioner of Wealth tax, West Bengal vs Bishwanath Chatterjee and Others, and Raja Mohammad Amir Ahmed Khan vs Municipal Board of Sitapur and another.
+A.I.R. , relied upon.
+Webster 's Distionary and Aiyar 's Law Lexicon of British India, [1940] edn., p. 128 and Salmond on Jurisprudence, 12th edn., pp. 246 to 264, referred to.
+(6) The property is owned by one to whom it legally belongs.
+The property does not legally belong to the vendee as against the vendor, the assessee.
+The precise sense in which the words 'belonging to ' were used in section 2(m) of the Act must be gathered only by reading the instrument or the document as a whole.
+[1090C D] (7) Though all statute including the Wealth Tax Act should be equitably interpreted, there is no place of equity as such in taxation laws.
+The concept of reality in implementing fiscal provision is relevant and the Legislature in section 2(m) has not significantly used the expression 'owner ' but used the expression 'belonging to '.
+The Legislature having designedly used the expression 'belonging to ' and not the expression 'owned by ' had perhaps expected Judicial statesmanship in interpretation of this expression.
+[1089G H] (8) On a distinction being made between 'belonging to ' and 'ownership ' the following facts emerge: (1) the assessee has parted with the possession which is one of the essentials of ownership; (2) the assessee was disentitled to recover possession from the vendee and assessee alone until document of title is executed was entitled to sue for possession against others i.e. others than the vendee in possession in this case.
+The title in rem vested in the assessee; (3) the vendee was in rightful possession against the vendor; (4) the legal title, however, belonged to the vendor; and (5) the assessee had not the totality of the rights that constitute title but a mere husk of it and a very important element of the husk.
+[1088H; 1089A B] (9) The property in question legally cannot be said to belong to the vendee.
+The vendee is in rightful possession only against the world.
+Since the legal title still vests with the assessee, the property should be treated as belonging to the assessee.
+It will work some amount of injustice in such a situation because the assessees would be made liable to bear the tax burden in such situations without having the enjoyment of the property in question.
+But times perhaps are not ripe to transmute equity on this aspect in the interpretation of law.
+[1089C F] 1076 (10) Under section 53A of the Transfer of Property Act, 1908 where possession had been handed over to the purchasers and the purchasers are in rightful possession of the same as against the assessee, secondly that the entire consideration has been paid, and thirdly the purchasers were entitled to resist eviction from the property by the assessee in whose favour the legal title vested because conveyance has not yet been executed by him and when the purchasers were in possession had right to call upon the assessee to execute the conveyance, it cannot be said that the property legally belonged to the assessee in terms of section 2(m) of the Act in the facts and circumstances of the case, even though the statute must be read justly and equitably and with the object of the section in view.
+If a person has the user and is in the enjoyment of the property it is he who should be made liable for the property in question under the Act, yet the legal title is important and the Legislature might consider the suitability of an amendment if it is so inclined.
+[1090F H; 1091A] Commissioner of Wealth tax, Gujarat IV vs H.H. Maharaja F.P. Gaekwad, approved.
+Commissioner of Income tax, A.P. Hyderabad vs Nwab Mir Barkat Ali Khan, referred to.
+Commissioner of Wealth tax, A.P. vs Trustees of H.E.H. Nizam 's family (Remainder Wealth) Trust, , R.B. Jodha Mal Kuthiala vs Commissioner of Income tax, Punjab, Jammu & Kashmir and Himachal Pradesh, , Commissioner of Income tax, West Bengal II vs Ganga Properties Ltd., , Commissioner of Wealth tax Gujarat I vs Kum Manna G. Sarabhai, , Commissioner of Income tax, Gujarat vs Ashaland Corporation, , Commissioner of Income tax, Bombay City III vs Smt.
+T.P. Sidhwa, 133 I.T.R.840, Smt.
+Kala Rani vs Commissioner of Income Tax, Patiala I, , Mrs. M.P. Gnanambal vs Commissioner of Income tax, Madras, , S.B. (House & Land) Pvt. Ltd. vs Commissioner of Income tax, West Bengal, and Addl.
+Commissioner of Income tax Bihar vs Sahay Properties and Investment Co. (P) Ltd., distinguished.
+(11) Special leave is a discretionary jurisdiction and the dismissal of a special leave petition cannot be construed as affirmation by the Supreme Court of the decision from which special leave was sought for.
+[1087E] Daryao & Ors.
+vs State of U.P. & Ors.
+, ; relied upon.
+1077 Sahu Govind Prasad vs Commissioner of Income tax, at 863 approved.
+(12) Section 2(e) (iv) of the Wealth Tax Act, 1957 provides that "assets" includes property of every description, movable or immovable, but does not include a 'right to any annuity ' in any case where the terms and conditions relating thereto preclude the commutation of any portion thereof into a lump sum grant.
+[1091B D] (13) The term 'annuity ' is not defined in the Act.
+It must be given the signification which it has assumed as a legal term owing to judicial interpretation and not its popular and dictionary meaning.
+An 'annuity ' is a certain sum of money payable yearly either as a personal obligation of the grantor or out of property.
+The hall mark of an annuity is: (1) it is a money; (2) paid annually; (3) in fixed sum; and (4) usually it is a charge personally on the grantor.
+[1091G H] (14) In this case, in view of the background of the terms of payment and the circumstances why the payment was made, there cannot be any doubt that Rs.25 lakhs annually was an 'annuity '.
+It was a fixed sum to be paid out of the property of the Government of India in lieu of the previous income of the assessee from Sarf e khas.
+Therefore, it was an 'annuity '.
+[1093C D] (15) In the instant case, there is no express provision in the document itself which prevented commutation of this annuity into a lump sum.
+For inferring whether such as express provision precluding commutation exists, the background of the facts and circumstances of the payment has to be kept in mind.
+The assessee was given Rs.25 lakhs in lieu of his previous income from the Sarf e khas.
+Income is normally meant for expenditure.
+The assessee had to incur various exenditures.
+Commutation is often made when one is not certain as to whether the source from which that income comes.
+In this case, this being an agreement between earstwhile ruler and the Government of India, there is no such motivation and this payment of Rs.25 lakhs in lieu of the previous income of Sarf e khas must be read in conjunction with two other sums namely Rs.50 lakhs as privy purse and Rs.25 lakhs for upkeep of palaces.
+This bears the same character.
+[1093E H; 1094A B] (16) As privy purses were not commutable, from the circumstances and keeping in background of the payment, there was an express provision flowing from the circumstances precluding the 1078 commutation of this amount of Rs.25 lakhs and, therefore, it was exempt under section 2(e) (iv) of the Act.
+[1094B C] (17) There was no right granted and can be gathered from the terms of the grant of payment for the assessee to claim commutation of the amount of Rs.25 lakhs.
+That would defeat the purpose of the set up of the arrangement under which the payment of the amount was made.
+From the nature of the sum stipulated in the letter written by the Government to the assessee, the assessee had no right to claim commutation.
+Taking that fact in conjunction with the circumstances under which the payment of Rs.25 lakhs was agreed to, it is held that from the terms of the agreement, there was an express stipulation precluding commutation and, therefore, it comes within cl.
+(iv) of section 2(e) of the Act and the assessee was entitled to exemption.
+[1094C F] Oxford Dictionary: Jarman on Wills (P. 1113), relied on and Ahmed G.H. Ariff and Others vs Commissioner of Wealth tax, Calcutta, , Commissioner of Wealth tax Gujarat vs Arundhati Balkrishna, , Commissioner of Wealth tax, Rajasthan vs Her Highness Maharani Gayatri Devi of Jaipur, , Commissioner of Wealth tax, Lucknow vs P.K. Banerjee, and H.H. Maharajadhiraja Madhav Rao Jiwaji Rao Scindia Bahadur & Ors.
+vs Union of India; , referred to.

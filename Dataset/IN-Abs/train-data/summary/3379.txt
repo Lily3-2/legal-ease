@@ -1,0 +1,15 @@
+The respondent, a director of a company was charged with offences under sections 418 and 471 read with sections 468 and 477A, I.P.C. on the ground that he defrauded the company.
+At the trial, a single Judge of the High Court discharged the respondent on the view that he had no jurisdiction to proceed with the trial by reason of s.195(1)(c) of the Cr. P.C., 1898.
+The full Bench of the High Court affirmed the view of the single Judge.
+Allowing the appeals to this Court, ^ HELD: The High Court was entitled to proceed with the trial of the respondent in respect of offences under section 471 without any complaint in writing from the company Judge whom the proceeding was pending.
+[938A] (1) Section 195(1)(c) of the Code of Criminal Procedure provides that no court shall take cognizance of an offence described in section 463 or punishable under sections 471, 475 and 476, Indian Penal Code where such offence is alleged to have been committed by a party to any proceeding in any court in respect of any document produced or given in evidence in such proceeding, except on the complaint in writing of such court or of some other court to which such court is subordinate.
+The High Court had clearly and indubitably jurisdiction to proceed with the trial against the respondent in respect of offences under sections 418 and 477A. On its plain language the inhibition in section 195(1)(c) applies only where a person is being tried for an offence under section 463 or punishable under sections 471, 475 or 476.
+Offences under 418 and section 477A are plainly not covered by section 195(1)(c) Cr.
+P.C. [936 D G] (2) In regard to offences under section 471, I.P.C. it could not be said that the respondent could invoke the applicability of section 195(1)(c).
+The offence under section 471 was committed by the respondent long before the proceeding in the Company matter commenced and he became a party to that proceeding, and it was not committed by him in his capacity as such party, i.e. after having become a party to the proceeding.
+In Patel Laljibhai Somabhai vs The State of Gujarat this Court restricted the scope and ambit of section 195 (1)(c) to cases where the offence was alleged to have been committed by a party to a proceeding after he became such party and not before.
+[936H, 937A D] Raghunath vs State of U.P., AIR 1973 S.C. 1100 and Mohan Lal vs The State of Rajasthan, AIR 1974 S.C. 299, referred to.
+In the instant case since the offence charged against the respondent was one alleged to have been committed by him before he became a party to the proceeding in the company matter, section 195(1)(c) had no application.
+Secondly, the forged bills had not been produced in evidence before the Company Judge in the proceeding before him.
+The requirement of section 195(1)(c) that the document in question should be produced or given in evidence in the proceeding was, therefore, clearly not satisfied and on this ground also section 195(1)(c) was not attracted in the present case.
+[937G, 938A]

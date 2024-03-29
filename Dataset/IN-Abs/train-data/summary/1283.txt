@@ -1,0 +1,17 @@
+Section 2(g) of the Bengal Finance (Sales Tax) Act, 1941, as extended to Delhi State, provided as follows, " 'Sale ' means any transfer of property in goods for cash or deferred payment or other valuable consideration, including a transfer of property in goods involved in the execution of a contract, but does not include a mortgage, hypothecation, charge or pledge.
+Explanation I. A transfer of goods on hire purchase or other instalment system of payment shall, notwithstanding that the seller retains a title to any goods as security for payment of the price, be deemed to be a sale.
+" The hire purchase agreement entered into by the petitioner company provided that after all the monthly instalments had been paid, "the hiring shall come to an end and the vehicle shall, at the option of the hirer, become his absolute property; but until such payments as aforesaid have been made, the vehicle shall remain the property of the owners.
+The hirer shall also have the option of purchasing the vehicle at any time during the currency of this agreement by paying in one lump sum the balance of all the hire hereinbefore mentioned and any other expenses incurred by the owners relating to the transaction.
+" The question for determination was whether the agreement was a transaction of mere hiring or one of hire purchase within the meaning of Explanation 1 to section 2(g) of the Act.
+645 Held, that the language of Explanation 1 to section 2(g) of the Act was wide enough to include a mere transfer of goods without the transfer of the title thereto, if such transfer took place in the course of an agreement of hire purchase or any other instalment system of payment.
+As the Act did not define the term 'hire purchase ', it had to be construed in its ordinary Common Law sense, i.e., that it partook of the nature of a contract of bailment with an element of sale added to it.
+Lee vs Butler, [1893] z Q. B. 318 and Helby vs Matthews, , referred to.
+The non obstacle clause in Explanation 1 to section 2(g) of the Act did not govern the main clause of the said Explanation and its sole purpose was to emphasise the categorical statement of the law Contained therein.
+Since the agreement in the instant case contained not merely a contract of bailment simpliciter but also an element of sale, the transaction had rightly been subjected to sales tax.
+There could be no force in the contention that the Act in so far as it sought to extend the concept of sale to what in law was not a real sale, was unconstitutional.
+Mithan Lal vs State of Delhi, ; , referred to.
+Nor was there any substance in the contention that the extended definition of the word 'sale ' in the Act infringed article 14 of the Constitution.
+It is well settled that in matters of taxation there can be no question of res judicata.
+Society of Medical Officers of Health vs Hope (Valuation Officer), and Broken Hill Proprietary Company Ltd. vs Municipal Council of Broken Hill, [1925] A. C. 94, referred to.
+Installment Supply Ltd., New Delhi vs State of Delhi, A.I.R. 1956 Punj.
+177, considered.

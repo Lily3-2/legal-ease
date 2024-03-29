@@ -1,0 +1,173 @@
+Appeal No. 596 of 1963.
+Appeal from the judgment dated March 1, 1960 of the Madras High Court in Case Referred No. 11 of 1955.
+K. N. Rajagopal Sastri and R. N. Sachthey, for the appellant.
+R. Ganapathy Iyer and R. Gopalakrishnan, for the respondent.
+May 7, 1964 The Judgment of the Court was delivered by SUBBA RAO, J.
+This appeal by special leave is preferred against the order of the Madras High Court in a reference made to it by the Income tax Appellate Tribunal under section 66(1) of the Income tax Act, 1922, hereinafter called the Act.
+The facts leading up to the reference and relevant to the present enquiry are as follows.
+The Free Press of India (Madras) Ltd., hereinafter called the Free Press Company, was a private limited company carrying on business as printers and publishers of certain newspapers, namely, "Indian Express", "Dhinamani" and "Andhra Prabha" at 191 Madras, "Eastern Express" and "Bharat" at Calcutta and "Sunday Standard" and "Morning Standard" at Bombay.
+,On August 31, 1946, the Free Press Company passed a resolution transferring to the Express Newspapers Limited, a new company formed on or about April 22, 1946, hereinafter called the assessee company, the right to print and publish the said newspapers from September 1. 1946.
+letting out its machinery and assets and authorizing the assessee company to collect the book debts and pay off the liabilities of the Free Press Company.
+The assessee company accordingly started publishing newspapers from September 1, 1946.
+On October 31, 1946, the Free Press Company resolved at a General Body Meeting to wind up the company voluntarily.
+The liquidator appointed thereunder was directed not to carry on the business of the company.
+On November 1, 1946, the liquidator ascertained the value of the assets over the liabilities taken over by the assessee company as per the balance sheet at Rs. 19,36.000/and this amount was credited to the account of the two directors of the Free Press Company in the assessee 's books.
+The profit of the Free Press Company was worked out to be Rs. 6,08,666, being the difference between the written down value and the sale price of the machinery.
+That sum was made up of, (i) the difference between the original cost price and the written down price of the machinery. ' Rs. 2,14,090/ , (ii) the amount in excess over the original cost price .
+Rs. 3,94,576/ .
+The Income tax Officer included the said two items in the total income of the assessee company under the following heads, (i) profit under proviso to section 10(2) (vii) .
+Rs. 2,14,090/ , and (ii) capital gains under section 12B .
+Rs. 3,94,576/ , and assessed each to tax.
+The Income tax Appellate Tribunal upheld the validity of the inclusion of the item under capital gains in the total income of the assessee but decided against the inclusion of the first item.
+The Appellate Tribunal referred the following two questions, among others, for the decision of the High Court of Madras under section 66(1) of the Incometax Act: "4.
+Whether Free Press Company made a business profit of Rs. 2,14,090/ under proviso to section 10(2);(vii) of the Act?" 192 "6.
+Whether the capital gain made by the Free Press Company is liable to be assessed in the hands of the Express Company, under section 26(2) of the Act?" The reference was heard by a Division Bench of the High Court, consisting of Rajagopalan and Ramachandra Iyer, JJ., who by their judgment answered the two questions in the negative and against the department.
+The present appeal is preferred against the said judgment of the High Court.
+The argument in the appeal proceeded on the basis of the following facts.
+During the accounting year 1946 47 the Free Press Company did not do the business of printing and publishing newspapers from September 1, 1946, and thereafter the assessee company alone was carrying on the said business.
+The Free Press Company went into voluntary liquidation on October 31, 1946, and the liquidator, on November 1, 1946, confirmed the transfer of the assets made by the Free Press Company to the assessee company.
+Therefore, on November 1, 1946, the aforesaid machinery was sold yielding a profit of Rs. 6,08,666/ to the Free Press Company being the difference between the written down value and the sale price of the machinery.
+Broadly stated, the machinery was sold by the Free Press Company during the accounting year after it closed down its business and after it went into voluntary liquidation.
+On those facts learned counsel for the Revenue raised before us the following two contentions: (1) The first item of Rs. 2,14,090/ , representing the surplus over the written down value of the machinery was assessable in accordance with the proviso to section 10 (2) (vii) of the Act; and (2) the second item of Rs. 3,94,576/ , representing the capital gains made by the Free Press Company is assessable in the hands of the assessee company, who succeeded to the said business, under section 26(2) of the Act.
+Learned counsel for the respondent contended that neither the conditions laid down in section 10(2)(vii) of the Act nor those laid down in section 26(2) thereof attracted the said two items of income and, therefore, they were not assessable in the hands of the assessee company.
+193 The first question turns upon the relevant provisions of section 10 of the Act.
+To have a clear view of the scope of the relevant provisions it will be convenient to read them at one place.
+Section 10. (1) The tax shall be payable by an assessee under the head "Profits and gains of business, profession or vocation" in respect of the profit or gains of any business, profession or vocation carried on by him.
+(2) Such profits or gains shall be computed after making the following allowances, namely: (iv) in respect of insurance against risk of damage or destruction of buildings, machinery, plant, furniture, stocks or stores, used for the purposes of the business, profession or vocation.
+the amount of any premium paid: (v) in respect of current repairs to such buildings, machinery, plant or furniture, the amount paid on account thereof; (vii) in respect of any such building, machinery or plant which has been sold or discarded or demolished or destroyed, the amount by which the written down value thereof exceeds the amount for which the building, machinery or plant, as the case may be, is actually sold or its scrap value: Provided further that where the amount for which any such building, machinery or plant is sold, whether during the continuance of the business or after the cessation thereof, exceeds the written down value, so much of the excess as does not exceed the difference between the original cost and the written 51 S.C. 13 194 down value shall be deemed to be profits of the previous year in which the sale took place: We are concerned with the second proviso to section 10(2) (vii) of the Act.
+The substantive clause grants a balancing allowance in respect of building, machinery or plant which has been sold or discarded or demolished or destroyed.
+The allowance represents the excess of the written down value over the sale price.
+Under the proviso, if the sale price exceeds the written down value, but does not exceed the original cost price, the difference between the original cost and the written down value shall be deemed to be profits of the year previous to that in which the sale takes place; that is to say, the difference between the price fetched at the sale and the written down value is deemed to be the escaped profits for which the assessee is made liable to tax.
+As the sale price is higher than the written down value, the difference represents the excess depreciation mistakenly granted to the assessee.
+To illustrate: assume that the original cost of a machinery or plant is Rs. 100/ and depreciation allowed is Rs. 25/ ; the written down value is Rs. 75.
+If the machinery is sold for Rs. 100/ , it is obvious that depreciation of Rs. 25/ was wrongly allowed.
+If it had not been allowed that amount would have swelled the profits to that extent.
+When it is found that it was wrongly allowed that profit is brought to charge.
+The second proviso, therefore, in substance, brings to charge an escaped profit or gain of the business carried on by the assessee.
+The scope of this proviso cannot be ascertained in vacuum.
+The conditions for its applicability can be ascertained only in its relation to the other related provi sions.
+Under section 3 of the Act income tax shall be charged for any year in accordance with and subject to the provi sions of the Act in respect of the total income of the previous year of every assessee; under section 6, one of the heads of taxable income is "profits and gains of business, profession or vocationl,; under section 10(1), the tax under that head is payable in respect of profit or gains of any business carried on by the assessee during the accounting year.
+The 195 main condition which attracts all the other sub sections and clauses of the section is that the tax shall be payable by an assessee in respect of the profit or gains of any business etc.
+carried on by him.
+The crucial words are ."business carried on by him".
+If the profit or gains were not earned when the business was being carried on by the assessee during the accounting year, they would fall outside the provision of section 10(1).
+For instance, if the machinery sold after the business was closed or when the business was under liquidation, it would not be appropriate to hold that the profit or gains earned by the sale were in respect of the business that was being carried on by the assessee.
+The second condition that attracts the second proviso is implicit in the adjective "such" preceding "building, machinery or plant" sold.
+The adjective "such" refers back to cls.
+(iv), (v), (vi) and (vii) of section 10(2).
+Under cl.
+(iv) an allowance is allowed in regard to any premium paid in respect of insurance against risk of damage or destruction of buildings, machinery, plant etc.
+used for the purpose of the business, profession or vocation.
+Under this clause allowance is allowed only in respect of the machinery used for the purpose of the business.
+Clauses (v), (vi) and (vii) refer to such buildings, machinery, plant etc.; that is to say, such buildings, _machinery, plant etc.
+used for the purpose of the business.
+The result is that the second proviso will only apply to the sale of such machinery which was used for the purpose of the business during the accounting year.
+It brings in to charge the escaped profits under the guise of superfluous allowances if the machinery sold was used for the business during the accounting year when the business was being carried on.
+Therefore, to bring the sale proceeds to charge the following condition.
+,, shall be fulfilled: (1) During the entire previous year or a part of it the business shall have been carried on by the assessee; (2) the machinery shall have been used in the business; and (3) the machinery shall have been sold when the business was being carried on and not for the purpose of closing it down or winding it up.
+If these were the conditions for the applicability of the said proviso, the sale of the machinery in the instant case having taken place after the business was closed and during the winding up 196 proceedings, it would fall outside the scope of the said proviso and therefore the first item is not assessable to tax This point directly arose for consideration in The Liquidators of Pursa Limited vs Commissioner of Incometax, Bihar(1).
+There, the assessee company carried on the business of growing sugarcane and manufacturing and selling sugar.
+In the year 1943 it negotiated for the sale of the factory and other assets with the object of winding up the company.
+It received a firm offer on August 9, 1943, and concluded the agreement of sale on December 7, 1943.
+Between August 9, 1943, and December 7, 1943, it never used the machinery and plant for the purpose of manufacturing sugar or for any other purpose except that of keeping them in trim and running order.
+In the assessment of the company to income tax for the accounting period from October 1, 1943, to September 30, 1944, the income tax authorities treated the surplus made by the company on the sale of the buildings, plant and machinery as profits under proviso (2) to section 10(2)(vii) of the Act.
+This Court held that the said amount was not taxable.
+This Court rejected the contention of the Revenue that the said excess was taxable on two grounds, namely, (1) "the sale of the machinery and plant was not an operation in furtherance of the business carried on by the company but was a realisation of its assets in the process of gradual winding up of its business which eventually.
+culminated in the voluntary liquidation of the company; (2) "even if the sale of the stock of sugar be regarded as carrying on of business by the company_and not a realisation of its assets with a view to winding up, the machinery or plant not being used in the accounting year at all and in any event not having had connection with the carrying on of that limited business during the accounting year, section 10(2)(vii) could have no application to the sale of any such machinery or plant".
+Learned counsel for the Revenue contends that the main reason for the decision was that the machinery or the plant was not used in the accounting year for the business and that the second reason, namely, that the assets were sold in the process of gradual winding up of the com 197 pany was only an observation and that the decision was not based upon the said observation.
+But a careful perusal of the judgment discloses beyond any reasonable doubt that the decision was based upon both the grounds.
+As in the present case the machinery was sold not for the business but only for closing it up during the liquidation proceedings, this decision directly covers the present case.
+This question again fell to be considered by this Court in The Commissioner of Income tax, Bombay Circle II vs The National Syndicate, Bombay(1).
+There, the National Syndicate, a Bombay firm, acquired on January 11, 1945, a tailoring business as a going concern for Rs. 89,321/ which includedthe consideration paid for sewing machines and a motor lorry.
+Soon after the purchase the respondent found it difficult to continue the business, and therefore it closed its business in August, 1945.
+Between August 16, 1945, and February 14, 1946, sewing machines and the motor lorry were sold at a loss.
+The respondent closed its account books on February 28, 1946, showing the two losses and writing them off.
+For the assessment year 1946 47, the respondent claimed a deduction under section 10 (2) (vii) of the Indian Income tax Act.
+The question fell to be considered on a construction of the provisions of section 10(2) (vii) of the Act.
+This Court, speaking through Hidayatullah, J., held that the loss was a business loss, though the machines and the motor lorry were sold after the business was closed down, as the said machines and lorry were used for the purpose of the business during a part of the accounting year and were sold during the accounting year.
+This Court, after noticing the decision under appeal and that of this Court in The Liquidators of Pursa Limited vs Commissioner of Income tax, Bihar (2), and the amendment introduced in the second proviso to section 10 (2) (vii) of the Act, observed: "But it is to be noticed that no such amendment was made in el.
+(vii) to exclude loss over buildings, machinery or plant after the closure of the business.
+It is thus clear that the principles which govern the proviso cannot be (1) ; (2) ; 199 used to govern the main clause, because profit or loss arise in different ways in business.
+The two rulings do not, therefore, apply to the facts here.
+" It is contended that the principle accepted by this decision is in conflict with that laid down in the case of The Liquidators of Pursa Limited(1).
+It is said that the con dition that the sale of the machinery at a loss should have been before the closing of the business is impliedly laid down by section 10(1) of the Act which applies equally to cl.
+(vii )as well as to the second proviso thereto, and that if the condition need not be fulfilled in the case falling under the substantive part of cl.
+(vii) of section 10(2) of the Act, it will be incongruous to apply it to a case falling under the second proviso before it was amended.
+So stated there is some plausibility in the argument.
+But this Court in express terms made a distinction between the scope of the substantive part of cl.
+(vii) and that of the second proviso thereto and expressly distinguished those rulings on the ground that they would not apply to the construction of the substantive part of cl.
+(vii).
+When this Court expressly confined the scope of the decision to the substantive part of cl.
+(vii) without disturbing the validity of the decisions governing the second proviso, it is not proper that we should rely upon it in preference to a direct decision on the second proviso to cl.
+(vii) of section 10(2) of the Act before it was amended.
+This Court in K. M. section Reddy, Commissioner of Income tax, Kerala vs The West Coast Chemicals and Industries Ltd. (in liquidation), Alleppy(2) held that a winding up sale was not trading or doing business.
+There.
+chemicals and other raw materials were sold not in the course of ordinary trading but only in realisation sale after the company had been wound up.
+This Court, speaking through Hidayatullah, J., posed the following question, "The question, therefore, is whether there can be said to be a sale in the carrying on of the business in respect of the chemicals and other raw materials." (1) ; (2) [1962] Supp.
+3 S.C.R. 960, 965. 199 After referring to the passages in Halsbury 's Laws of Eng land, 3rd Edn., Vol. 20, pp. 115 117, wherein it was stated that "mere realisation of assets is not trading" and that there was distinction between sales forming part of the trading activities and those where the realisation was not an act of trading, the learned Judge observed that the said distinction was a sound one.
+The learned Judge, on a consideration of other decisions, also accepted as correct the distinction made between a sale of the entire stock as part of trading and the sale of a part of the stock as a winding up sale.
+Then the learned Judge applied the principles to the facts of the case and held that it was im possible to infer that the chemicals and raw materials were sold in the ordinary way of business or that the assessee company was carrying on a trading business.
+This decision again accepts the distinction between a sale held in the ordinary way of business and that held for the purpose of winding up the business and that in the latter case the profits accrued are not trading profits.
+This case no doubt did not turn upon the provisions of the second proviso to cl.
+(vii) of section 10(2) of the Act, but the principle accepted therein is the basis for the application of section 10 of the Act and that will apply to all provisions of section 10, unless an exception is made in a particular provision.
+For the fore going reasons we hold that the first item is not liable to tax and the High Court has given the correct answer to the first question submitted to it.
+The second item relates to capital gains.
+That represents the excess of the price obtained on the sale of the machinery over its original cost price.
+It is conceded that it does not represent profits and gains of business, but it falls under the heading "capital gains".
+But it is argued that, as the Free Press Company wag wound up and, therefore, could not be found.
+, the assessee, who had succeeded to it, would be liable to be assessed for the said capital gains under the proviso to section 26(2) of the Act.
+To appreciate the contention some of the relevant provisions of the Act may be read: Section 6.
+Save as otherwise provided by this Act, the following heads of income, profits and 200 gains, shall be chargeable to income tax in the manner hereinafter appearing, namely: (v) Profits and gains of business, profession or vocation.
+(vi) Capital gains.
+Section 10. (1) The tax shall be payable by an assessee under the head "Profits and gains of business, profession or vocation" in respect of the profit or gains of any business, profession or vocation carried on by him.
+(2) Such profits or gains shall be computed after making the following allowances, namely: Section 12B. (1) The tax shall be payable by an assessee under the head "Capital gains" in respect of any profits or gains arising from the sale, exchange, relinquishment or transfer of a capital asset effected after the 31st day of March, 1956, and such profits and gains shall be deemed to be income of the previous year in which the sale, exchange, relinquishment or transfer took place: Section 24. (2A) Notwithstanding anything con tained in sub section (1), ",here the loss sustained is a loss falling under the head "Capital gains," such loss shall not be set off except against any profits and gains falling under that head.
+(2B) Where an assessee sustains a loss such as is referred to in sub section (2A) and the loss cannot be wholly set off in accordance with the provisions of that sub section, the portion not so set off shall be carried forward to the 201 following year and set off against capital gains for that year, and if it cannot be so set off, the amount thereof not so set off shall be carried forward to the following year and so on, so however that no such loss shall be carried forward for more than eight years: Provided that where the loss sustained by an assessee, not being a company, in any previous year does not exceed five thousand rupees, it shall not be carried forward.
+Section 26. (2) Where a person carrying on any business, profession or vocation has been succeeded in such capacity by another person, such person and such other person shall, sub ject to the provisions of sub section (4) of section 25, each be assessed in respect of his actual share, if any, of the income, profits and gains of the previous year: Provided that, when the person succeeded in the business, profession or vocation cannot be found, the assessment of the profits of the year, in which the succession took place up to the date of succession, and for the year preceding that year shall be made on the person succeeding him in like manner and to the same amount as it would have been made on the person succeeded or when the tax in respect of the assessment made for either of such years assessed on the person succeeded cannot be recovered from him, it shall be payable by and recoverable from the person succeeding, and such person shall be entitled to recover from the person succeeded the amount of any tax so paid.
+A conspectus of the said sections discloses a clearcut scheme.
+Though income tax is only one tax levied on the total income, section 6 enumerates six heads whereunder the income of an assessee falls to be charged.
+This Court in United Commercial Bank Ltd. vs Commissioner of Income 202 tax, West Bengal(1) laid down that sections 7 to 12 are mutually exclusive and where an item of income falls specifically under one head it is to be charged under that head and no other.
+The expression "Income, profits and gains" in section 6 is a composite concept which takes in all the six heads of income mentioned therein.
+The 4th head is "profits and gains of business, profession or vocation" and the 6th head is "capital gains".
+Section 10 taxes the profits and gains of a business, profession or vocation carried on by an assessee; it also enumerates the different kinds of allowances that can be made in computing the profits.
+Under section 10(1), as we have already pointed out, the necessary condition for the application of the section is that the assessee should have carried on the business for some part of the accounting year.
+Section 26(2) indicates the manner of assessment of the income, profits and gains of any business, profession or vocation.
+This section does not provide for the assessment of income under any other head.
+It only says that if there is a succession to a person carrying on business during an accounting year, the person succeeded and the person succeeding can each of them be assessed in respect of his actual share.
+The proviso deals with a case where the person succeeded cannot be found; in that event, the assessment of the profits of the year in which the succession took place upto the date of the succession and for the year preceding that year shall be made on the person succeeding him.
+If an assessment has already been made in respect of the said years on the person succeeded, it can be recovered from the person succeeding.
+But both sub section
+(2) and the proviso deal only with income, profits and gains of 'the business, that is to say, for the assessment made in respect of profit and gains under the 4th head of section 6.
+Now turning to section 12B, it provides for capital gains.
+Under that section the tax shall be payable by the assessee under the head capital gains in respect of any profits or gains arising from, the sale of a capital asset effected during the Prescribed period.
+It says further that such profits or gain shall be deemed to be income of the previous year in which the sale etc.
+took place.
+This deeming clause does not lift the, capital gains from the 6th head in section 6 and place it (1) ; (4) 203 under the 4th head.
+It only introduces a limited fiction, named that capital gains accrued will be deemed to be income of the previous year in which the sale was effected.
+The fiction does not make them the profit or gains of the business.
+It is well settled that a legal fiction is limited to the purpose for which it is created and should not be extended beyond its legitimate field.
+Sub sections (2A) and (2B) of section 24 provide for the setting off of the loss falling under the head "capital gains" against any capital gains falling under the same head.
+Such loss cannot be set off against an income falling under any different head.
+These three sections indicate beyond any doubt that the capital gains are separately computed in accordance with the said provisions and they are not treated as the profits from the business.
+The profits and gains of business and capital gains are two distinct concepts in the Income tax Act: the former arises from the activity which is called business and the latter accrues because capital assets are disposed of at a value higher than what they cost the assessee.
+They are placed under different heads; they are derived from different sources; and the income is computed under different methods.
+The fact that the capital gains are connected with the capital assets of the business cannot make them the profit of the business.
+They are only deemed to be income of the previous year and not the profit or gains arising from, the business during that year.
+If that be the scheme of the Act, the contention of the learned counsel for the Revenue can easily be answered.
+He asks that if section 26(2) deals with only profits and gains of the business, why should the Legislature use the word "income" therein? As we have indicated, the expression "income, profits and gains" is a compendious term to connote the income from the various sources mentioned in section 6; therefore, the use of such an expression does not efface the distinction between the different heads, but only describes the income from the business.
+The expression ;,profits" in the proviso makes it clear that the income, profits and gains in sub section
+(2) of section 26 only refer to the profits under the 4th head in section 6.
+On the other hand, if the interpretation 204 sought to be put upon the expression "income" in sub section
+(2) of section 26 by the Revenue is accepted, then the absence of that word in the proviso destroys the argument.
+But the more reasonable view is that both the sub section and the proviso deal only with the profits under the 4th head men tioned in section 6 and, so construed, it excludes capital gains.
+The argument that sub section
+(2) of section 26 read with the proviso thereto indicates that the total income of the person succeeded is the criterion for separate assessment under sub section
+(2) and for assessment and realisation under the proviso is on the assumption that sub section
+(2) and the proviso deal with all the heads mentioned in section 6 of the Act.
+But if, as we have held, the scope of sub section
+(2) of section 26 is only limited to the income from, the business, the share under sub section
+(2) and the assessment and realisation under the proviso can only relate to the income from the business.
+The argument is really begging the question itself.
+In the result we agree with the High Court in regard to the answer it has given in respect of the second question.
+In this view no other question arises for our consideration.
+In the result, the appeal fails and is dismissed with costs.
+Appeal dismissed.

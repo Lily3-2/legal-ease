@@ -1,0 +1,87 @@
+Appeal No. 95 of 1953.
+On appeal from the Judgment and decree dated the 29th day of June 1951 of the Bombay High Court in Appeal No. 93 of 1949 arising out of the order dated the 16th September 1949 of the Court of Bombay City Civil Court at Bombay in Award No. 45 of 1949.
+M.C. Setalvad, Attorney General of India (H. J. Umrigar, Sri Narain Andley, Rameshwar Nath and Rajinder Narain, with him), for the appellant.
+H.R. Mehervaid and R. N. Sachthey, for the respondent.
+October 4.
+The Judgment of the Court was delivered by VENKATARAMA AYYAR J.
+The appellant is a share broker carrying on business in the City of Bombay, and a member of the Native Share and Stock Brokers ' Association, Bombay.
+The respondent, Mrs. Goolbai Hormusji, employed him for effecting sales and purchases of shares on her behalf, and on 6 8 1947 there was due from her to the appellant on account of these dealings a sum of Rs. 6,321 12 0.
+On that date, the respondent had outstanding for the next clearance, sales of 25 shares of Tata Deferred and 350 shares of Swadeshi Mills.
+On 11 8 1947, the appellant effected purchases of 25 shares of Tata Deferred and 350 shares of Swadeshi Mills to square the outstanding sales of the respondent, and sent the relative contract notes therefor Nos. 2438 and 2439 (Exhibit A) to her.
+She sent a reply repudiating the contracts on the ground that the appellant had not been authorised to close the transactions on 11 8 1947, and instructed him to square them on 14 8 1947.
+The appellant, however, declined to do so, maintaining that the transactions had been closed on 11 8 1947 under the 109 860 instructions of the respondent.
+After some correspondence which it is needless to refer to, the appellant applied on 21 8 1947 to the Native Share, and Stock Brokers Association, Bombay for arbitration in pursuance of a clause in the contract notes, which runs as follows: "In event of any dispute arising between you and me/us of this transaction the matter shall be referred to arbitration as provided by the Rules and Regulations of the Native Share and Stock Brokers ' Association".
+The Association gave notice of arbitration to the respondent, and called upon her to nominate her arbitrator, to which she replied that the contract notes were void, and that in consequence, no arbitration proceedings could be taken thereunder.
+The arbitrators, however, fixed a day for the hearing of the dispute, and gave notice thereof to her, but she declined to take any part in the proceedings.
+On 10 10 1947 they made an award in which, on the basis of the purchases made by the appellant on 11 8 1947 which were accepted by them, they gave credit to the respondent for Rs. 1,847, and directed her to pay him the balance of Rs. 4,474 12 0.
+The respondent then filed the application out of which the present appeal arises, for setting aside the award on the ground, inter alia, that the contracts in question were forward contracts which were void under section 6 of the Bombay Securities Contracts Control Act VIII of 1925, that consequently the arbitration clause was also void and inoperative, and that the proceedings before the arbitrators were accordingly without jurisdiction and the award a nullity.
+Section 6 of the Act is as follows: "Every contract for the purchase or sale of securities, other than a ready delivery contract, entered into after a date to be notified in this behalf by the Provincial Government shall be void, unless the same is made subject to and in accordance with the rules duly sanctioned under section 5 and every such contract shall be void unless the same is made between members or through a member of a recognised stock 861 exchange; and no claim shall be allowed in any Civil Court for the recovery of any commission, brokerage, fee or reward in respect of any such contract".
+Section 3(1) defines 'securities ' as including shares, and therefore, contracts for the sale or purchase of shares would be void under, section 6, unless they were made in accordance with the rules sanctioned by the Provincial Government under section 5.
+The appellant sought to avoid the application of section 6 on the ground that the contracts in question were 'ready delivery contracts ', and fell outside the operation of that section.
+Section 3(4) of Act VIII of 1925 defines 'ready delivery contract ' as meaning "a contract for the purchase or sale of securities for performance of which no time is specified and which is to be performed immediately or within a reasonable time", and there is an Explanation that "the question what is a reasonable time is in each particular case a question of fact".
+The contention of the appellant was that contracts Nos.
+2438 and 2439 were ready delivery contracts as defined in section 3(4), as no time was specified therein for performance.
+The learned City Civil Judge, who heard the application agreed with this contention, and holding that the contracts were not void under section 6 of Act VIII of 1925, dismissed the application.
+The respondent took the matter in appeal to the High Court of Bombay, and that was beard by Chagla, C.J. and Tendolkar, J. They were of the opinion that the con ' tracts in question were not ready delivery contracts as defined in section 3(4) of the Act, because though no time for performance was specified therein, they had to be performed within the period specified in the Rules and Regulations of the Association, which were incorporated therein by reference, and not "immediately or within a reasonable time" as provided in section 3(4), that they were accordingly void under section 6, and that consequently, the arbitration clause and the proceedings taken thereunder culminating in the award were also void.
+They accordingly set aside the award as invalid and without jurisdiction.
+Against this judgment, the appellant has preferred this appeal 862 on a certificate under article 133(1) (c).
+It was argued by the learned Attorney General in support of the appeal that even apart from the question whether the contracts in question were for ready delivery or not, they would be outside the purview of section 6, because they were not contracts for sale and purchase of securities.
+This contention was not raised in the courts below, and learned counsel for the respondent objects to its being entertained for the first time in this Court, as that would involve investigation of facts, which has not been made.
+But in view of the terms of the contract notes and the admission of the respondent in her petition, we are of opinion that the point is open to the appellant, and having heard counsel on both sides, we think that the appeal should succeed on that point.
+The dispute between the parties is as to whether the appellant was acting within the scope of his authority when he purchased 25 shares of Tata Deferred and 350 shares of Swadeshi Mills on 11 8 1947.
+If he was acting within his authority, then the respondent was entitled only to a credit of Rs. 1,847 on the basis of the said purchases. ' But if these purchases were unauthorised, the appellant was liable to the respondent in damages.
+In either case, the dispute was one which arose out of the contract of employment of the Appellant by the respondent as broker and not out of any contract of sale or purchase of securities.
+The question of sale or purchase would arise between the respondent and the seller or purchaser, as the case may be, with reference to the contract brought about by the appellant.
+But the relationship between the respondent and the appellant was one of principal and agent and not that of seller and purchaser.
+The contract of employment is no doubt connected, and intimately, with sales and purchases of securities; but it is not itself a contract of sale or purchase.
+It is collateral to it, and does not become ipso facto void, even if the contract of purchase and sale with which it is connected is void.
+Vide the decision of this Court in Kishan Lal and another vs Bhanwar Lal(1) The legis (1) (1955] 1 S.C.R. 439.
+863 lature might, of course, enact that not merely the contract of sale or purchase but even contracts collateral thereto shall be void, in which case the contracts of employment with reference to those contracts would also be void.
+But that is not what Act VIII of 1925 has done.
+Section 6 expressly provides that no claim shall be maintained in a civil court for the recovery of any commission, brokerage, fee or reward in respect of any contract for the purchase or sale of securities.
+That is to say, the bar is to the broker claiming remuneration in any form for having brought about the contract.
+But the contract of employment is not itself declared void, and a claim for indemnity will not be within the prohibition.
+The question whether contract notes sent by brokers to their constituents are contracts for the sale and purchase of securities within section 6 of Act VIII of 1925, came up for consideration before the Bombay High Court in Promatha Nath vs Batliwalla & Karani (1) and it was held therein that they were not themselves contracts for sale or purchase but only intimations by the broker to the constituent that such contracts had been entered into on his behalf.
+We agree with this decision.
+It may be argued that if the contract note is only intimation of a sale or purchase on behalf of the con stituent, then it is not a contract of employment, and that in consequence, there is no agreement in writing for arbitration as required by the Arbitration Act.
+But it is settled law that to constitute an arbitration agreement in writing it is not necessary that it should be signed by the parties, and that it is sufficient if the terms are reduced to writing and the agreement of the parties thereto is established.
+Though the respondent alleged in her petition that she had not accepted the contract notes, Exhibit A, she raised no contention based thereon either before the City Civil Judge or before the High Court, and even in this Court the position taken up by her counsel was that Exhibit A constituted the sole repository of the contracts, and as they were void, there was no arbi (1) I.L.R. [1942] Bom. 655; A.I.R. 1942 Bom.
+864 tration clause in force between the parties.
+We accordingly hold that the contract notes contained an agreement in writing to refer disputes arising out of the employment of the appellant as broker to arbitration, and that they fell outside the scope of section 6 of Act VIII of 1925, that the arbitration proceedings are accordingly competent, and that the award made therein is not open to objection on the ground that Exhibit A is void.
+It was next contended for the respondent that the contract notes were void under Rule 167 of the Native Share and Stock Brokers ' Association, and that on that ground also, the arbitration proceedings and the award were void.
+Rule 167 so far as it is material is as follows: "167.
+(a) Members shall render contract notes to non Members in respect of every bargain made for such non Member 's account, stating the price at which the bargain has been made.
+Such contract notes shall contain a charge for brokerage at rates not less than the scale prescribed in Appendix G annexed to these Rules, or as modified by the provisions of rules 168 and 170(b).
+Such contract notes shall show brokerage separately and shall be in Form A prescribed in Appendix annexed to these Rules.
+. . . . . . . . (c) No contract note not in one of the printed Forms in Appendix H shall be deemed to be valid.
+. . . . . . . . (g) A contract note referred to in this rule or any other rule for the time being in force shall be deemed to mean and include a contract and shall have the same significance as a contract".
+Form A in Appendix H referred to in Rule 167(a) contains two columns, one showing the rate at which the securities are purchased or sold and the other, the brokerage.
+The contract notes sent to the respondent are not in this form.
+They are in accordance with Form A in Appendix A, and show the rates at which the securities are sold or purchased, the brokerage not being separately shown.
+At the foot of the document, there is the following note; 865 "This is net contract.
+Brokerage is included in the price".
+The contention of the respondent is that the contract notes are not in accordance with Form A in Appendix H, as the price and brokerage are not separately shown, and that therefore they are void under Rule 167(c).
+Now, Rule 167 applies only to forward contracts, and the basis of the contention of the respondent is that inasmuch as the contract notes, Exhibit A, have been held by the learned Judges of the High Court not to be ready delivery contracts but forward contracts, they would be void under Rule 167(c), even if they were not hit by section 6 of Act VIII of 1925.
+The assumption underlying this argument is that what is not a ready delivery contract under the definition in section 3(4) of Act VIII of 1925 must necessarily be a forward contract for purposes of Rule 167.
+But that is not correct.
+The definition of a ready delivery contract in section 3(4) is only for the purpose of the Act, and will apply only when the question is whether the contract is void under section 6 of that Act.
+But when the question is whether the contract is void under Rule 167, what has to be seen is whether it is a forward contract as defined or contemplated by the Rules.
+The definition in section 3(4) of Act VIII of 1925 would be wholly irrelevant for determining whether the contract is a forward contract for purposes of Rule 167, the decision of which question must depend entirely on the construction of the Rules.
+The relevant Rules are Nos. 359 to 363.
+Rule 359 provides that "contracts other than ready delivery contracts shall not be made or transacted within or without the ring".
+Rule 361 confers on the Board power to specify which securities shall be settled by the system of Clearance Sheets and which, by the process of Tickets.
+Rules 362 and 363 prescribe the modus operandi to be followed in effecting the settlement.
+It was with reference to these rules which under the contract notes were to be read as part of the con tract, that the learned Judges held that the contracts were not ready delivery contracts as defined in sec 866 tion 3(4) of Act VIII of 1925.
+But reading the above Rules with Rule 359, there can be no doubt that the contract notes, Exhibit A, would for the purpose of the Rules be ready delivery contracts.
+Indeed, the form of the contract notes, Exhibit A, is the one provided under the Rules for ready delivery contracts, whereas Form A in Appendix H is, as already stated, for forward contracts.
+Thus, contracts which are regulated by Rules 359 to 363 cannot be forward contracts contemplated by Rule 167, and they cannot be held to be void under that Rule.
+The error in the argument of the respondent is in mixing up two different provisions enacted by two different authorities and reading the one into the other.
+The rules framed by the Association form a code complete in itself, and any question arising with reference to those rules must be determined on their construction, and it would be a mistake to read into them the statutory provisions enacted in Act VIII of 1925.
+In this view, the contract notes, Exhibit A, cannot be held to be void under rule 167.
+In the result, we must hold, differing from the learned Judges of the court below, that the arbitration proceedings are not incompetent and that the award made therein is not void on the ground that the contracts containing the agreement are void.
+The respondent contested the validity of the award on several other grounds.
+They were rejected by the City Civil Judge and in the view taken by the learned Judges of the High Court that the contract notes were void under section 6 of Act VIII of 1925, they did not deal with them.
+Now that we have held that the contracts are not void, it is necessary that the appeal should be heard on those points.
+We accordingly set aside the order of the court below, and direct that the appeal be reheard in the light of the observations contained herein.
+As the appeal succeeds on a point not taken in the courts below, the parties will bear their own costs throughout.
+The costs of the further hearing after remand will be dealt with by the High Court.

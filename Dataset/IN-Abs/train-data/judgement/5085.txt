@@ -1,0 +1,44 @@
+Civil Appeal No. 1613 (NT) of 1974 From the Judgment and Order dated 26th April, 1973 of the Allahabad High Court in Misc.
+Case No. 202 of 1971.
+B.B. Ahuja and Miss A. Subhashini for the Appellant.
+P.K. Mukharjee and A.K. Sengupta for the Respondent.
+The Judgment of the Court was delivered by 216 PATHAK J.
+This appeal by special leave is directed against the judgment of the High Court of Allahabad pronouncing on the meaning of the expression 'reserves ' in the Second Schedule to the .
+For the assessment years 1961 62 and 1962 63 the assessee had debited an amount of Rs.5,40,000 and an amount of Rs.2,76,000 to its profit and loss accounts of the relevant previous years respectively.
+The amounts were debited on the ground that they represented the assessee 's liability of the relevant years for the additional cane price payable to cane growers in terms of a price linking formula to be fixed by the Competent Authority under the Sugarcane Price Control Order 1955.
+Accordingly an item of Rs.8,16,000 being the sum of the two amounts, was shown in the Balance Sheet of the assessee as on September 30, 1962.
+The item was shown under the head "Current liabilities and provisions".
+In assessment proceedings under the for the assessment year 1963 64, the Income tax Officer did not include the amount of Rs.8,16,000 in the capital computation of the assessee.
+Dismissing the assessee 's appeal, the Appellate Assistant Commissioner affirmed the view taken by the Income tax Officer.
+The Appellate Assistant Commissioner held that the amount did not qualify as a 'reserve ' inasmuch as the assessee had itself shown it as a 'provision ' in its Balance Sheet.
+On second appeal, the Appellate Tribunal noted that the liability had not been allowed as a deduction on revenue account by the Income tax authorities and that the decision was accepted by the assessee.
+It also observed that in the subsequent accounting year ending September 1963, the assessee had credited its profits by the said amount by reversing the entries, and further that the assessee had not made any such provision in the subsequent years.
+It was also not disputed that no such payment was ever actually made by the assessee.
+In the circumstances, the Appellate Tribunal held that the liability for which the 'provision ' was made was at the best unreal and imagined or the mere possibility of a liability.
+The Appellate Tribunal was unimpressed by the description of the item as a 'provision ' by the assessee in its Balance Sheet.
+The Appellate Tribunal held that the amount represented a 'reserve ' and should have been included in the capital computation of the assessee.
+At the instance of the Revenue the Appellate Tribunal referred the case to the High Court of Allahabad for its opinion on the following question: 217 "Whether on the facts and in the circumstances of the case the provision for additional cane price amounting to Rs.8,16,000 was rightly treated as a 'reserve ' forming part of the assessee 's capital for the purposes of assessment to Super Profits Tax for the year under consideration?" The High Court answered the question in the affirmative by its judgment dated April 26, 1973.
+We are of opinion that the High Court is right.
+Section 4 of the levies super profits tax on every company in respect of so much of its chargeable profits of the previous year as exceed the standard deduction.
+The expression 'standard deduction ' is defined by sub section
+(9) of section 2 of the Act to mean an amount equal to six per cent of the capital of the company as computed in accordance with the provisions of the Second Schedule, or an amount of fifty thousand rupees, whichever is greater.
+The Rules provide for computing the capital of a company for the purposes of super profits tax.
+A perusal of rule 1 of the Second Schedule will show that for the purposes of that rule the capital of a company includes the reserve created under some of the provisions of the Indian Income tax Act and "its other reserves in so far as the amounts credited to such other reserves have not been allowed in conputing its profits" for the purposes of the Income tax Act.
+The concept embodied in the word "reserves" used in that rule has been examined by this Court in the context of the and the analogous enactment, the Companies (Profits) Super Tax Act, 1964.
+In a recent decision, Vazir Sultan Tobacco Co. Ltd. vs Commissioner of Income tax, A.P.,[1981] , this Court had occasion to examine the significance and scope of the concept.
+In doing so it referred to the earlier pronouncement of the Court in Metal Box Co. of India Ltd. vs Their Workmen, "The distinction between a provision and a reserve is in commercial accountancy fairly well known.
+Provisions made against anticipated losses and contingencies are charges against profits and, therefore, to be taken into account against gross receipts in the Profit and Loss Account and the Balance Sheet.
+On the other hand, reserves are appropriations of profits, the assets by which they are represented being retained to form part of the capital employed in the business.
+Provisions are usually shown in the Balance Sheet by way of deductions from the 218 assets in respect of which they are made, whereas general reserves and reserve funds are shown as part of the proprietor 's interest.
+(See Spicer and Pegler 's Book Keeping and Accounts, 15th Edn., p. 42)".
+Regard was had by the court to the relevant provisions of the including the form set out in , Schedule VI thereof where both expressions "Reserves and Surpluses" and "Current Liabilities and Provisions" have been used.
+It is not necessary, we think, to embark upon a detailed discussion of the distinction between a 'provision ' and a 'reserve '.
+It is sufficient for us to point out that in determining whether an item is a 'provision ' or a 'reserve ' the true nature and character of the sum so retained or appropriated must be determined and its mere description by the assessee in its Balance Sheet is not conclusive of its true nature.
+It is now settled that a 'provision ' is a charge against the profits, being made against anticipated losses and contingencies.
+A 'reserve ', on the contrary, is an appropriation of profits, the assets by which it is represented being retained to form part of the capital employed in the business.
+Unlike a 'provision ' which is a present charge against the profits, the assessee continues to enjoy a proprietor 's interest in the 'reserve '.
+In the present case, when the evidence clearly discloses that there was no liability at all on the assessee requiring it to set apart a sum as a charge against its profits and there was never any intention to make payments to the cane growers nor was payment ever made but, on the contrary, the assessee reversed the entries in a subsequent year in its books, it is apparent that the amount can not be described as a 'provision '.
+It can only be described as a 'reserve '.
+It was part of the capital which fell for computation under rule 1 of the Second Schedule.
+The appeal fails and is dismissed with costs.
+M.L.A. Appeal dismissed.

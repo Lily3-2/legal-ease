@@ -1,0 +1,59 @@
+The appellant assessee, in his income tax return for the assessment year 1962 63 (for which the previous year was the calendar year 1961) recited that the annual value of the building derequisitioned by the Govt.
+on 26 12 1960 was Rs. 1,23,672/ .
+However on the ground that the building had remained vacant throughout the previous year, the assessee claimed a remission in the computation of the income of the entire annual value.
+The assessee also claimed a deduction on account of insurance premium and municipal taxes relating to the property.
+The Income Tax Officer took the view that the property was not in a habitable condition and did not admit of letting and therefore no question arose of applying the provisions of the Income Tax Act relating to the computation of income from property.
+Accordingly, he held that the annual value as well as the vacancy claim had to be ignored.
+The assessee appealed to the Appellate Assistant Commissioner who held that although the property had remained vacant, it possessed an annual value and should be considered for assessment.
+On that view, he allowed the deductions claimed by the assessee.
+In second appeal, the Income Tax Appellate Tribunal favoured the view taken by the Income Tax Officer and accordingly held that the claim to deductions made by the assessee must fail.
+The Tribunal, in other words, affirmed that the property fell outside the scope of section 22 of the Act and, consequently, denied the deductions.
+The Revenue appeared satisfied with the order of Appellate Tribunal.
+But, at the instance of the assessee a reference was made to the High Court.
+The High Court was of the opinion that the Appellate Tribunal had misconceived the law in holding that because the property was in a state of disrepair it did not possess an annual value.
+As regards the assessee 's claim to the specified deduction, it held that while the insurance premium paid by it could be allowed, there was no merit in the claim on account of vacancy remission and payments of municipal taxes.
+Hence the appeal by special leave to this Court.
+Dismissing the appeal, the Court, ^ HELD : 1.
+Whether the High Court was right in including a direction to the Appellate Tribunal to take into account the annual value of the property 429 will depend on the appreciation of the true scope of the reference taken to the High Court.
+The question referred to the High Court was rooted in the fundamental submission of the assessee that the property possessed an annual value for the purpose of Section 22 and it was, therefore, entitled to the vacancy remission and other deductions claimed by it.
+The frame of the question indicates that it has two parts, whether the Appellate Tribunal was right in holding that in computing the income from property the premises 3, Gun Foundry, possessed an annual value and whether the Appellate Tribunal was right in disallowing the vacancy remission and other deductions in respect of that property.
+[434C E] Unless the property fall within the scope of Section 22 there was no occasion for considering the assessee 's claim to the deductions.
+The High Court also, when considering the reference, examined the question in its bifurcated character.
+But although bifurcated, the thrust of the question was directed to the consideration of the deductions claimed by the assessee.
+Whether the property possessed an annual value was necessary to determine solely for the purpose of considering the claim to deductions.
+Unless the assessee was interested in those deductions it would not have asked for a finding that the property possessed an annual value.
+The High Court, was, therefore, right in examining both parts of the question and in determining whether the property had an annual value and the deductions claimed were permissible.
+[434E G] The High Court had to consider the first part of the question because that was the very case of the assessee throughout from the earliest stage of the proceeding.
+The need for the determination whether the property has an annual value arises only if it is found that on the terms of the statute the assessee is otherwise entitled to the deductions claimed by him.
+If those deductions are not permissible under the relevant section, no question arises of examining whether the property has an annual value.
+Viewed in that light, the determination of the question whether the property has an annual value falls into its proper place.
+[434G H, 435A] 2.
+It is not open to the Revenue to contend that even though the claim to deduction must otherwise fail, the question whether the property has an annual value must still be considered.
+If the Revenue intended that the High Court should determine whether the property had an annual value as a question independent of its finding on the admissibility of the deductions, the Revenue should have applied to the Appellate Tribunal for a reference to the High Court accordingly.
+It did not ask for a reference and, therefore it is not entitled to raise that contention now.
+[435A C] However, the only way of looking at the case, is whether on the assumption that the property has an annual value and falls within the scope of Section 22, the assessee is entitled to the deductions under Sections 23 and 24.
+If he is entitled to any of those deductions, then in order to establish the foundation in which the deductions can be rooted it will be necessary to determine whether the property possesses an annual value.
+That is what the High Court did, and the observations made by it must be construed accordingly.
+It may be that the deduction to which the assessee is found entitled runs to a far smaller figure than the annual value property attributable to the property.
+In that event the consequence will be a net annual value of some significance.
+And this will be the consequence notwithstanding that 430 the reference is at the assessee 's instance and no reference at all has been brought by the Revenue.
+The result appears anomalous, but after all it is for the assessee to choose whether or not he wishes to take a reference to the High Court, and if he is found entitled to even one of the deductions claimed by him and effect cannot be given to that claim without the annual value of the property being computed he has only to thank himself.
+[435C F] 3.
+The High Court, on a reference before it, does not act as a court of appeal.
+The jurisdiction is advisory and no more.
+The High Court is empowered to decide the question of law referred to it, and to return its answer to the Appellate Tribunal.
+The Appellate Tribunal then takes up the appeal and disposes it of conformably with the answer returned by the High Court.
+It is not part of the jurisdiction of the High Court to interfere and modify or set aside the appellate order of the Tribunal.
+[435F H] 4.
+The proviso to Section 23 (1) of the Income Tax Act, 1961 can be availed of only if the property is in the occupation of a tenant.
+It would seem so on the language of the proviso.
+The assessee does not rest his claim on any other provision of law.
+In the circumstances, the High Court is right in denying the claim in respect of municipal taxes.
+[436G H] 5.
+The provisions of the Income Tax Act relating to the charge on income apply in relation to a specific assessment year and the provisions of the Act providing for the computation of the chargeable income (which includes taking into account permissible deductions in the computation of the income chargeable under different heads) apply, in the absence of anything to the contrary, in relation to the relevant previous year.
+The total income of the previous year needs to the computed, and the different provisions relating to the computation of income must be read and applied in the context of the facts and circumstances obtaining during that year, unless the context suggests the contrary.
+Consequently, when reading s.24(2) (ix) of the Income Tax Act, 1961 which speaks of property which is let and which was vacant during a part of the year, the Court must read it to mean property which was let during the previous year and was vacant during a part of the year.
+It cannot refer to property which was not let at all during the previous year.
+[437D E] In the present case, there is no evidence to show that it was ever given out by the assessee that the property was available for letting.
+The assessee is not entitled to the deductions claimed by it in respect of municipal taxes and a vacancy remission.
+[437F] Maharajadhiraja of Darbhanga vs Commissioner of Income Tax, Bihar and Orissa, ; distinguished.

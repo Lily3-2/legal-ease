@@ -1,0 +1,79 @@
+Section 40(b) of the Income Tax Act, 1961, as it stood at the relevant time, prohibited deduction of interest, salary, bonus, commission or remuneration paid by the firm to the partner.
+Explanation 1 introduced thereto by the Taxation Laws (Amendment) Act, 1984, which took effect from 1st April, 1985, provided that where interest is paid by a firm to a partner who has also paid interest to the firm, the amount of interest to be disallowed shall be limited to the net amount of interest paid by the firm to the partner.
+Circular No. 33D(XXV 24) of 1965 issued by the Central Board of Direct Taxes provided that where a firm pays interest to as well as receives interest from the same partner, only the net interest can be stated to have been received or paid by the firm.
+The assessee appellant, a registered partnership firm, in the accounting year for the assessment year 1975 76, paid interest to the partners on the amounts standing to their respective credits.
+It also received from the partners interest on their borrowings from the firm.
+The Income tax Officer 244 while disallowing the amount of interest paid to the part ners did not set off the interest received from them on their borrowings.
+The Appellate Assistant Commissioner allowed the claim of the appellants that only the net inter est paid to the partners after setting off the interest received from them was to be disallowed.
+The Appellate Tribunal affirmed the appellate order.
+The High Court an swered the reference in favour of the Revenue on the view that the Tribunal was not justified in holding that net interest should be disallowed under section 40(b) of the Act.
+In these appeals by special leave it was contended for the appellants that: (a) the sole object of section 40(b) was, having regard to the special features and legal incidents of a partnership, to enable the assessment of the 'real income ' of the firm and did not require or compel the exclusion of the cross interest paid by a partner in determining the quantum to be disallowed; (b) the extent of the embargo under section 10(4)(b) of the 1922 Act on the disallowance of interest paid to a partner was judicially interpreted and ascertained in Sri Ram Mahadeo Prasad vs CIT, All.
+and when the legislature re enacted those provisions in section 40(b) of the 1961 Act in substantially the same terms, legislature must be held to have used that expression with the same implications attributed to it by the earlier judi cial exposition; (c) the interest paid to a partner on the capital brought in by him and the interest received from a partner on his borrowings from the firm were both integral parts of a method adopted by the partners for adjusting the division of profits and in that sense both payments partook of the same character and it would be permissible to take both the payments into consideration in quantifying the interest and treat only such excess, if any, paid by the firm as susceptible to the exclusionary rule in section 40(b); (d) the circular of the Central Board of Direct Taxes, which was statutory in character, was binding on the authorities and the High Court was in error in taking a view of the legal position different from the one indicated in it; and (e) the amendment of 1984 inserting Explanation 1 in section 40(b), though later in point of time, constitutes a legisla tive exposition of the correct import of the provision and so construed offers a guide to the correct understanding of the provisions in section 40(b) in their application to the earlier years as well.
+Allowing the appeals, the Court, HELD: 1.1 As long as there is no ambiguity in the statu tory language, resort to any interpretative process to unfold the legislative intent becomes impermissible.
+The supposed intention of the legislature cannot then be ap pealed to whittle down the statutory 245 language.
+If the intendment is not in the words used it is nowhere else.
+[255E F] Doypack Systems Pvt. Ltd. vs Union of India, ; , referred to.
+1.2 Section 40 of the Income Tax Act, 1961 opens with the nonobstante clause and directs that outgoings such as interest, salary, bonus, commission or remuneration specifi cally enumerated in cl.
+(b) shall not be deducted in comput ing the income chargeable under the head "profits and gains of business or profession".
+The words used therein on their own terms, are plain and unambiguous.
+They manifest the intention of the legislature and must, therefore, be applied as they stand.
+[255D E, F G, 256B] 1.3 Artificial and unduly latitudinarian rules of con struction, with their general tendency to 'give the tax payer the breaks ', are out of place where the legislation has a fiscal mission.
+Taxation is regarded as a potent fiscal tool of State policy to achieve equitable distribu tion of the burdens of the community to sustain social services.
+[256C D] Thomas M. Cooley: Law of Taxation, Vol. 2, referred to.
+1.4 The test of 'real income ' as one on which the opera tion of section 40(b) could be sought to be limited is not a reliable one.
+It might on its own extended logic validate a set off of the interest paid to one partner against interest received from another and likewise, interest received from one partner on some other dealings between him and the firm against interest paid to another partner on his or her capital contribution and thus lead to positions and results, whose dimensions and implications are not fully explored.
+It must not, therefore, be called in aid to defeat the funda mental principles of the law of income tax.
+[257 A, 256A, 256G, 257D1 State Bank of Travancore vs CIT, ; at 155, referred to.
+2.1 When words acquire a particular meaning or sense because of their authoritative construction by superior courts, they are presumed to have been used In the same sense when used In a subsequent legislation In the same or similar context.
+[257G] H.H. Ruckmaboye vs Lulloobhoy Mottichund, Moore 's Indian Appeals, Vol.
+5, p. 234 at 250, referred to.
+2.2 However, the rules of interpretation are not rules of law.
+they 246 are mere aid to construction and constitute some broad pointers.
+The interpretative criteria apposite in a given situation may, by themselves, be mutually irreconcilable.
+It is the task of the court to decide which one, in the light of all relevant circumstances, ought to prevail.
+[258E F] Maunsell vs Olins, and Utkal Contrac tors & Joinery vs State of Orissa, ; at 330, referred to.
+2.3 The decision in Sri Ram Mahadeo Prasad vs CIT, All.) proceeded on a construction of the relevant provision i.e.s. 10(4)(b) of the 1922 Act and on what the High Court considered as affording to the assessee a fair treatment.
+It did not rest on any special or technical connotation of the word 'interest ' nor any special legal sense which that word could be said to have acquired by the earlier judicial ascertainment of its amplitude.
+The appeal to this principle of construction in the instant case is, therefore, out of place.
+[258D E] 3.1 To the extent the statute expressly or by necessary implication departs from the general law, the latter can not be invoked to displace the effect of the statute.
+But if there is no such statutory departure the general principle operating in that branch of law would determine the nature of legal relationship.
+[261F H] Sir Francis Bennion, on Statutory Interpretation, p. 350, 354, referred to.
+In the case of partners, therefore, to the extent not prohibited by section 40(b) of the Act, the incidents of the general law of partners would be attracted to ascertain the legal nature and character of a transaction.
+This is quite apart from distinguishing the 'substance ' of the transaction from its 'form '.
+But the legal effect of a transaction, cannot be displaced by probing into the substance of the transaction.
+The Court, however, is not precluded from treating what the transaction is in point of fact as one in point of law also.
+[262C D, 263A B] Sargaison vs Roberts, [1969] 45 Tax Cases 612; CIT vs Gillanders Arbuthnot & Co., ; Narayanappa vs Krishtappa; , ; CIT vs Chidambaram, ; Lindley on Partnership, (14th Edn.) p. 30; Regional Director Employees State Insurance Corporation, Trichur vs Ramanuja Match Industries, and Ellis vs Joseph Ellis & Co., referred to.
+3.2 If interest paid by the firm to a partner and the inter est, in 247 turn, received from the partner are mere expressions of the application of the funds or profits of the partnership and which, having regard to the community of interest of the partners, are mere variations of the method of adjustment of the profits, they could be treated as part of the same transaction if, otherwise, in general law they admit of being so treated.
+The provisions of section 40(b) do not exclude or prohibit such an approach.
+[263B D] If instead of the transactions being reflected in two separate or distinct accounts in the books of the partner ship they were in one account, the quantum of interest paid by the firm to the partner would, to the extent of interest on drawings of the partner, stand attenuated.
+The mere fact that the transactions were split into or spread over to two or more accounts would not by itself make any difference if, otherwise.
+the substance of the transaction was the same.
+[263D E] Official Liquidator vs Lakshmikutty, ; , referred to.
+Even the idea of a set off itself, which presupposes a duality of entities may be out of place in the very nature of the relationship between a firm and its partners where the former is a mere compendious reference to the latter.
+But even to the extent the income tax law which identifies the firm as a distinct entity and unit of assessment goes, the idea of set off may be invoked in view of the mutuality implicit in the putative duality inherent in deeming the firm as a distinct entity under the Act for certain pur poses.
+The fiction may have to be pushed to its logical conclusions.
+[263H 264B] 3.3 Where a strict literal construction leads to a result not intended to subserve the object of the legisla tion another construction, permissible in the context should be adopted.
+Therefore, though equity and taxation are often strangers, attempts should be made that these do not remain always so.
+More so, a taxing statute being not different from other statutes it is not to be construed differently.
+The duty of the Court is to give effect to the intention of the legislature.
+[264C, E F, G H, 265A] CITv.
+J.H. Gotla, and A.G.V. Carlton Bank, , referred to.
+3.4 Accordingly, where two or more transactions on which interest is paid to or received from the partner by the firm are shown to have the element of mutuality and are referable to the funds of the 248 partnership as such, section 40(b) should not be so construed as to exclude in quantifying the interest on the basis of such mutuality.
+If that be so, the interest, if any paid to a partner by the firm in excess of what is received from the partner could alone be excluded from deduction under section 40(b).
+[265B C] C.I.T. vs T.V. Ramanaiah & Sons, A.P., approved.
+C.I.T. vs O.M.S.S. Sankaralinga Nadar & Co., Mad., overruled.
+The Central Board of Direct Taxes cannot pre empt a judicial interpretation of the scope and ambit of a provi sion of the Income Tax Act by issuing circulars on the subject.
+A circular cannot even impose on the tax payer a burden higher than what the Act itself on a true interpreta tion envisages.
+Nor can it detract from the Act.
+The task of interpretation of the laws is the exclusive domain of the courts.
+The circulars do not bind them.
+[265E F, 266D, 265F, G H] State Bank of Travancore vs CIT, ; , re ferred to.
+Since the circular of 1965 broadly accords with the view taken on the true scope and interpretation of section 40(b) as regards qualification of interest it is unnecessary to examine whether or not such circulars are recognised legiti mate aids to statutory construction.
+[266E F] 5.
+An 'Explanation ' is generally intended to explain the meaning of certain phrases and expressions contained in a statutory provision.
+There is no general theory as to the effect and intendment of the Explanation except that the purpose and intendment of the Explanation are determined by its own words.
+An Explanation depending on its language, might supply or take away something from the contents of a provision.
+An Explanation may also be introduced by way of abundant caution in order to clear the meaning of a statuto ry provision and to place what the legislature considers to be the true meaning beyond controversy or doubt.
+[266G 267B] In the instant case, the notes on clauses appended to the Taxation Laws (Amendment) Bill, 1984 say that clause 10 which seeks to amend section 40will take effect from 1st April, 1985 and will, accordingly, apply in relation to the assess ment year 1985 86 and subsequent years.
+In view of the express prospective operation and effectuation of the Expla nation 249 it is not necessary to examine its possible purpose any further.
+[267C E]

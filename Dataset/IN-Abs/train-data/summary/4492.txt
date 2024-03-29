@@ -1,0 +1,82 @@
+The appellant mortgagor took a loan by mortgaging his house property to the respondent mortgagee.
+The mortgage was a mortgage with possession.
+According to the mortgagee sometime thereafter the mortgagor agreed to sell the property to him and that pursuant to this agreement requisite stamps were purchased and a draft sale deed was drawn up.
+The sale deed was however not registered.
+A few days later the mortgagor sold the property to another person and the mortgagor and the subsequent purchaser filed a suit against the mortgagee for a decree for redemption.
+In the written statement the mortgagee claimed that even though the sale deed was not registered, since he was in possession of the property in part performance of the contract of sale and continued to be in possession and did several acts attributable to the contract, the mortgagor was debarred from enforcing any right against him in respect of the property.
+It was also claimed that since the mortgagor himself had no subsisting title to the property on the date of sale, he could not have transferred the property to the subsequent purchaser.
+The trial court held that though the sale deed was executed but since it was not registered the transaction of sale was not complete.
+The Court further held that benefit of section 53 A is not available to the mortgagor defendant because the mortgage being a mortgage with possession, continued possession of the mortgagee after the date of contract would not be in part performance of the contract, and also the payment made for the purchase of stamps and for expenses of registration could not be said to be in furtherance of the contract because that amount was paid before the execution of the contract.
+In the mortgagee 's appeal the High Court held that he was entitled to the benefit of section 53A against the mortgagor and the subsequent purchaser for the reason that he was in possession of the property and paid Rs. 1000 in furtherance of the contract.
+The appellant in Civil Appeal No. 1145 of 1969 filed a suit against the mortgagor for recovery of a debt owed to him and obtained attachment of the 187 suit property before judgment.
+The suit eventually ended in a decree in his favour, In the auction of the suit property since there were no bidders the decree holder 's bid was accepted with the permission of the Court.
+The High Court allowed the decree holder to be impleaded as a respondent in the mortgagee 's appeal which was then pending in the High Court.
+It was contended on behalf the mortgagor that the decree holder could not maintain an application under order XXII, Rule 10 of the Code of Civil Procedure because he could not be said to be claiming under the mortgagor.
+(Rule 10 of order XXII CPC provides for continuance of any action by or against a person who acquires any interest either by assignment, creation or devolution during the pendency of the suit with the leave of the Court.) ^ HELD: To qualify for the protection of the doctrine of part performance it must be shown that there is a contract to transfer immovable property for consideration and the contract is evidenced by a writing signed by the person sought to be bound by it and from which the terms necessary to constitute the transfer can be ascertained with reasonable certainty.
+After establishing these circumstances, it must be further shown that a transferee had in part performance of the contract either taken possession of the property or any part thereof or the transferee being already in possession, continued in possession in part performance of the contract and had done some act in furtherance of the contract.
+The acts claimed to be in part performance must be unequivocally referable to the pre existing contract and the acts of part performance must unequivocally point in the direction of the existence of contract and evidencing implementation or performance of contract.
+There must be a real nexus between the contract and the acts done in pursuance of the contract or in furtherance of the contract and must be unequivocally referable to the contract.
+When series of acts are done in part performance one such may be payment of consideration.
+Any one act by itself may or may not be of such a conclusive nature as to conclude the point one way or the other but when taken with many others, payment or part of the consideration or the whole of the consideration may as well be shown to be in furtherance of the contract.
+[209 D H] The view of the House of Lords that one must not first look at the oral contract and then see whether the alleged acts of part performance are consistent with it but that one must look at the alleged acts of part performance and see whether they prove that there must have been a contract and that it is only if they do so prove that one can bring in the oral contract may not be wholly applicable to the situation in India because an oral contract is not envisaged by section 53A.
+Even for invoking the equitable doctrine of part performance there has to be a contract in writing from which the terms necessary to constitute the transfer can be ascertained with reasonable certainty.
+The correct view would be to look at that writing that is offered as a contract for transfer for consideration of any immovable property, examine the acts said to have been done in furtherance of the contract and find out wether there is a real nexus between the contract and the acts pleaded as in part performance so that to refuse relief would be perpetuating the fraud of the party who, after having taken advantage or benefit of the contract, backs out and pleads non registration as defence.
+[210A D] Foxcroft vs Lester, 2 Vern.
+P. 456; Elizabeth Meddison vs John Alderson, Lord Selborne ; Clinan & Anr.
+vs Cooke & Ors.
+1775 1802 188 All.
+E.R. (Reprint) 16; Chapronierse vs Lambert 1916 17 All.
+E.R. (Reprint) 1889; Steadman vs Steadman [1974] 2 All.
+E.R. 977, referred to.
+In short, acts preliminary to the contract would be hardly of any assistance in ascertaining whether they were in furtherance of the contract.
+Anything done in furtherance of the contract postulates the pre existing contract and the acts done in furtherance thereof.
+Therefore, the acts anterior to the contract or merely identical to the contract would hardly provide any evidence of part performance [210 E] Although the mortgagee 's claim regarding payment of Rs. 1000 to the mortgagor for the purchase of stamps and for expenses incidential to registration was not in dispute, there is no evidence on record to show that there was an oral contract anterior to the unregistered sale deed, nor was there a draft agreement prior to the drawing up of the sale deed.
+Out of the sum of Rs. 1000 a sum of Rs. 700 was paid prior to the agreement.
+It was not subsequently claimed that the balance of Rs. 300 was paid in furtherance of the contract.
+The High Court was in error in holding that the act envisaged by the phrase "in furtherance of the contract" should be in pursuance of the contract and not that it should either precede or follow the agreement or the contract.
+If a written contract is a sine qua non for the application of the equitable doctrine of part performance any act preceding the contract could never be in furtherance of that contract which was yet to materialise.
+Negotiations for a contract and a concluded contract stand apart from each other.
+Anything at the negotiating stage cannot be claimed as a contract unless the contract is concluded between the parties, that is the parties are ad idem.
+The contract should be a written contract from which the necessary ingredients constituting the transfer could be ascertained with reasonable certainty.
+[203 A B] There is no material on record to substantiate the mortgagee 's claim that out of the total consideration payable to the mortgagor he had retained in deposit with him a sum of Rs. 17000 odd for being paid to other creditors of the mortgagee and that out of this amount a sum of Rs. 541 due to him had been adjusted.
+Assuming that he could reimburse himself there is no evidence to show that he gave discharge or gave credit in his books of account to this sum.
+Also there is nothing to show that the mortgagor had in his possession a list of the mortgagees creditors or that he had made any attempt to procure the list or that he issued a public notice inviting the creditors of the mortgagor to claim payment from him to the extent of the consideration retained by him.
+Neither did he pay any creditor nor did he make any attempt to pay any creditor including those whose names were known to him.
+[211 G] Induction into possession of an immovable property for the first time subsequent to the contract touching the property, may be decisive of the plea of part performance.
+But mere possession ceases to be of assistance when the person claiming benefit of part performance is already in possession prior to the contract and continues to retain possession.
+There is an understandable and noteworthy difference in the probative value of entering into possession for the first time and continuing in possession coupled with a claim of change in character.
+Where a person claiming benefit of part performance of a contract was already in posses 189 sion prior to the contract, the Court would expect something independent of the mere retention of possession to evidence part performance.
+Mere retention of possession, quite legal and valid, if mortgage with possession is not discharged, could hardly be said to be an act in part performance unequivocally referable to the contract of sale.
+[213 D E, 215 E F] In the instant case retention of possession is of no consequence because the mortgage was not discharged and was subsisting and the mortgage being a mortgage with possession, the mortgagee was entitled to retain possession.
+The fact that immediately a sale deed was executed in favour of the subsequent purchaser by the mortgagor would show that he was not willing to accept the contract as offered by the mortgagor.
+The subsequent purchaser had taken a conditional sale and this reinforces the stand of the mortgagor.
+The existence of the dispute, about the nature of the transaction, is not in dispute.
+Therefore the conduct of the mortgagor is consistent with his case.
+[217 D F] The mortgagee had failed to prove that he did any act in furtherance of the contract, continued retention of possession being a circumstance of neutral character in the facts and circumstances of the case and it being further established that the mortgagee was not willing to perform his part of the contract, he is not entitled to the benefit of the equitable doctrine of part performance.
+[217 H] (2) A perusal at the chronological events of the case would clearly show that the decree holder had more than a mere semblance of title.
+Even if the application would not fall under order 22 Rule 10 CPC.
+section 146 of the Code enables him to maintain the application.
+Saila Bala Desai vs Smt.
+Numala Sundari Dassi and another; , at 1291, referred to.
+[221 D E] The decree holder did not acquire under the sale certificate the equity of redemption of the mortgage.
+The suit property was sold subject to subsisting mortgage in favour of the mortgagee.
+At a Court auction what is sold is right, title and interest of the judgment debtor who in this case was the mortgagor.
+Subject to other conditions, his right is the right to redeem the mortgage.
+Much before the proclamation of sale was issued the equity of redemption held by the mortgagor was sold by him to the subsequent purchaser.
+Therefore, even on the date of decree as also on the date of filing of the execution application the mortgagor had no subsisting interest in the property which could be sold at the Court auction.
+[222 A B] The object behind the order levying an attachment before judgment is to give an assurance to the plaintiff that his decree, if made, would be satisfied.
+Where an attachment has been made, any private transfer or delivery of the property attached would be void as against all claims enforceable under the attachment.
+What is claimed enforceable is claim for which the decree is made.
+A dismissal of the suit may terminate the attachment and would not be revived even if the suit is restored As a corollary, if attachment before judgment is obtained in a suit which ends in a decree but if in appeal the decree is set aside, the attachment of necessity must fall.
+It at an intermediate stage pursuant to the decree of the trial Court the attached property is sold at a Court auction and where an appeal is preferred, an attempt should be made to obtain stay of the execution of the decree of the trial court.
+If the execution proceeds and the property is 190 sold at a court auction before the appeal is disposed of, the equity in favour of a person as a auction purchaser may come into existence.
+In such a case if the auction purchaser is an outsider and if the execution of the decree was not stayed, the auction purchaser would be protected even if the decree in execution of which the auction sale had been held is set aside because the equity in favour of the stranger should be protected.
+[223 C E] If on the other hand the auction purchaser is the decree holder himself, he should not be entitled to any protection because when he proceeds with the execution he was aware that an appeal against the original decree was pending and that if the appeal was allowed the decree which he sought to execute might be set aside.
+He could force the place by executing the decree, taking advantage of the economic disability of the judgment debtor in a money decree by making the situation irreversible.
+Therefore, where the auction purchaser was none other than the decree holder who purchased the property for a meagre sum, this results in an atrocious situation, but yet by a technicality he wants to protect himself.
+To such an auction purchaser, who is not a stranger and who is none other than the decree holder, the Court should not lend its assistance.
+[224 G H] Janak Raj vs Gurdial Singh & Anr. ; at 86, followed.
+In the instant case the High Court was right in holding that the auction purchaser decree holder was entitled to recover only the decretal amount and proportionate costs.
+[225 D] But yet the conduct of the mortgagor, the subsequent purchaser and the mortgagee in not paying a small debt and allowing the property to be auctioned and forcing the decree holder to fight a never ending litigation was iniquitous in the facts and circumstances of this case.
+Taking into consideration the conduct of the parties the decree holder should be paid a sum of Rs. 7,000 inclusive of decretal amount, interest, proportionate costs and costs of litigation so far.
+[225 E F]

@@ -1,0 +1,11 @@
+Section 15 of the Assam Sales Tax Act, 1947, as originally enacted, provided that in calculating the net turnover of a registered dealer for tax purposes, all sales made to another registered dealer of goods specified in the latter 's certificate of registration were to be excluded from the gross turnover, if the goods were brought for resale.
+In 1951, the section was amended by the addition of the words "in the State" after the word " resale", as a result of which the exclusion was confined only to sales of goods for resale in the State.
+Rule 80 was framed to give effect to the amendment.
+The petitioner, a registered dealer in Assam, and whose business consisted mainly of buying tea in Assam and selling it either in Assam or in Calcutta, chal lenged the legality of the amendment on the ground that the result of the amendment was that tax could be levied on interState sales and that, therefore, it contravened article 286(2) of the Constitution of India.
+Held: (1) that a sale of goods to a dealer within the State who purchased them for the purpose of selling them to dealers outside the State, and who, in fact, so sold them, would not make it a sale in the course of inter State trade as the two sales were distinct and separate.
+The first sale was an intra State sale and a tax imposed thereon did not offend article 286(2) of the Constitution.
+Endupuri Narasimham vs State of Orissa, ; , followed.
+(2) that section 15 of the Assam Sales Tax Act, 1947, and Rule 80 framed under that Act were not ultra vires article 286(2) of the Constitution.
+The object of section 15 of the Act was to avoid taxation at multiple points and the amendment to that section in 1951 or Rule 80 did not enable the levy of tax on sales in the course of inter State trade twice.
+Such sales were expressly saved from tax by the operation of article 286(2) and section 3(1)(A)(iii) of the Act.
+Once those sales were outside the charging section there was no need to re enact that prohibition in section 15 which was a machinery section and would stand cut down by the limitation placed by the charging section and the Constitution. 987

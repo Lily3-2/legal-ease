@@ -1,0 +1,75 @@
+% The appellant, a State Government enterprise, on or about May 17, 1983, entered into a contract with the respondent, a private limited company, for the supply and installation of a vanaspati manufacturing plant at a place in the district of Nainital.
+The contract bond contemplated guaranteed performance of the work at various stages in accordance with the time schedule prescribed and provided for completion and commissioning of the plant after trial run by May 15, 1984.
+According to the appellant, the time was essentially and indisputably the essence of the contract.
+As per the terms and conditions of the contract bond, according to the appellant, the respondent was to furnish a performance bank guarantee for Rs.16.5 lakhs and yet another bank guarantee for Rs.33 lakhs as security for the monies advanced by the appellant to the respondent for undertaking the work.
+Both these guarantees as also the contract bond entitled the appellant to invoke them and call for their realisation and encashment on the failure of the respondent to perform the obligations for which the appellant was made the sole judge.
+It was alleged that the respondent defaulted at various stages and finally failed to complete the work within the stipulated time.
+The appellant invoked the two guarantees one after the other, and thereafter proceeded to have the plant completed, etc.
+According to the appellant, the plant could actually be commissioned for commercial production in July/August, 1985.
+The respondent, on August 4, 1986, filed an application under section 41 of the (The Act) in the court of the Civil Judge, praying for an injunction restraining the appellant from realis 1125 ing and encashing the bank guarantees.
+The Civil Judge dismissed the application.
+The respondent filed a revision petition before the High Court, which allowed the same, holding that the invocation of the performance guarantees was illegal, and the contentions of the appellant that the performance guarantees constituted independent and separate contracts between the guarantor bank and the beneficiary and created independent rights, liabilities and obligations under the guarantee bonds themselves, as being "technical pleas".
+The High Court, however, directed the respondent to keep alive the bank guarantee during the pendency of the arbitration proceedings.
+The appellant then moved this Court for relief by special leave.
+Allowing the appeal, The Court, ^ HELD: Per Sabyasachi Mukharji, J. Under the terms agreed to between the parties, there is no scope of injunction.
+The High Court proceeded on the basis that this was not an injunction sought against the bank but against the appellant.
+But the net effect of the injunction is to restrain the bank from performing the bank guarantee.
+That cannot be done.
+One cannot do indirectly what one is not free to do directly.
+The respondent was not to suffer any injustice which was irretrievable.
+The respondent can sue the appellant for damages.
+There cannot be any basis in the case for apprehension that irretrievable damage would be caused, if any.
+His Lordship was of the opinion that this was not a case in which injunction should be granted.
+An irrevocable commitment either in the form of confirmed bank guarantee or irrevocable letter of credit cannot be interfered with except if a case of fraud or a case of a question of apprehension of irretrievable injustice has been made out.
+This is the well settled principle of the law in England.
+This is also the well settled principle of law in India.
+No fraud and no question of irretrievable injustice was involved in the case.
+[1138C F] In order to restrain the operation either of irrevocable letter of credit or of confirmed letter of credit or of bank guarantee, there should be a serious dispute and a good prima facie case of fraud and special equities in the form of preventing irretrievable injustice between the parties; otherwise, the very purpose of bank guarantees would be negatived and the fabric of trading operation would be jeopardised.
+The commitments of the banks must be honoured free from interference by the courts; otherwise, trust in commerce internal and international would be irreparably damaged.
+It is only in exceptional cases, that is, in 1126 cases of fraud or in cases of irretrievable injustice that the court should interfere.
+This is not a case where irretrievable injustice would be done by enforcement of the bank guarantee.
+This is also not a case where a strong prima facie case of fraud in entering into a transaction was made out.
+The High Court should not have interfered with the bank guarantee.
+The judgment and order of the High Court set aside.
+The order of the Civil Judge restored.[1141A B; 1142D H] Per K. Jagannatha Shetty, J. (concurring): The crux of the matter relates to the obligation assumed by the bank under a performance guarantee.
+[1143B] Whether the obligation is similar to the one arising under a letter of credit? Whether the Court could interfere in regard to such obligation, and if so, under what circumstances? These are the questions raised in the appeal.
+[1143B C] The primary question for consideration is whether the High Court was justified in restraining the appellant from invoking the bank guarantees.
+The basic nature of the case relates to the obligations assumed by the bank under the guarantees given to the appellant.
+If under the law, the bank cannot be prevented by the respondent from honouring the credit guarantees, the appellant also cannot be restrained from invoking the guarantees.
+What applies to the bank must equally apply to the appellant.
+Therefore, the frame of the suit by not impleading the bank cannot make any difference in the position of law.
+Equally, it would be futile to contend that the court was justified in granting the injunction since it has found a prima facie case in favour of the respondent.
+The question of examining the prima facie case or balance of convenience does not arise if the court cannot interfere with the unconditional commitment made by the bank in the guarantees in question.
+[1144C D; 1145A B] The modern documentary credit had its origin from letters of credit.
+The letter of credit has developed over hundreds of years of international trade.
+It was intended to facilitate the transfer of goods between distant and unfamiliar buyer and seller.
+It was found difficult for a buyer to pay for goods prior to their delivery.
+The bank 's letter of credit came to bridge this gap.
+In such transactions, the seller (beneficiary) receives payment from the issuing bank when he presents a demand as per the terms of the documents.
+The bank must pay if the documents are in order and the terms of credit are satisfied.
+The bank, 1127 however, was not allowed to determine whether the seller had actually shipped the goods or whether the goods conformed to the requirements of the contract.
+Any dispute between the seller and the buyer must be settled between themselves.
+The Courts, however, in carving out an exception to this rule of absolute independence, held that if there has been a "fraud in the transaction", the bank could dishonour beneficiary 's demand for payment.
+The Courts have generally permitted dishonour only on the fraud of the beneficiary, not the fraud of somebody else.
+[1145C, E H; 1146A] In modern commercial transactions, various devices are used to ensure performance by the contracting parties.
+The traditional letter of credit has taken a new meaning.
+Stand by letters of credit are also used in business circles.
+Performance bond and guarantee bond are also devices increasingly adopted in transactions.
+The Courts have treated ch documents as analogous to letter of credit.
+l 1148E] Whether it is a traditional letter of credit or a new device, like performance bond or performance guarantee, the obligation of the bank appears to be the same.
+Since the bank pledges its own credit, involving its reputation, it has no defence except in the case of fraud.
+The nature of the fraud that the courts talk about is the fraud of an 'egregious nature as to vitiate the entire underlying transaction".
+It is the fraud of the beneficiary, not fraud of somebody else.
+The bank cannot be compelled to honour the credit in such cases.
+In such cases, it would be proper for the bank to ask the buyer to approach the court for an injunction.
+The court, however, should not lightly interfere with the operation of irrevocable documentary credit.
+In order to restrain the operation of irrevocable letter of credit, performance bond or guarantee, there should be a serious dispute to be tried and there should be a good prima Facie act of fraud .
+[1149E H; 1150A] The sound banking system may, however, require more caution in the issuance of irrevocable documentary credit.
+It would be for the banks to safeguard themselves by other means, and, generally, not for the courts to come to their rescue with injunctions unless there is established fraud.
+The appeal must be allowed, and the order of the civil judge, restored.
+[1150D E] Hamzeh Melas & Sons vs British Imex Industries Ltd., ; Elian and Rabbath (Trading as Elian & Rabbath vs Mastas and Mastas & ors., [1966] 2 Lloyd 's List Law Reports 495; R.D. Harbottle (Mercantile) Ltd. and Another vs Nahonal Westminster 1128 Bank Ltd. and Ors., [1977] 2 All England Law Reports 862; Edward owen Engineering Ltd. vs Barclays Bank International Ltd, [1978] 1 All England Law Reports 976; United City Merchants (Investments) Ltd. & Ors.
+vs Royal Bank of Canada vs State Bank of India & Ors.
+AIR 1979 Calcutta 44; State Bank of India v; The Economic Trading Co. S.A.A. & ors., AIR 1975 Calcutta 145; B.S. Auila Company Pvt. Ltd. vs Kaluram Mahadeo Prasad & Ors., ; Union of India & ors.
+vs Meena Steels Ltd. & Another, AIR 1985 Allahabad 282; Arul Murugan Traders vs Rashtriya Chemicals & Fertilizers Ltd. Bombay and another, AIR 1986 Madras 161; Tarapore & Co. Madras vs M/s. V/o Tractors Export, Moscow & Anr., ; ; United Commercial Bank vs Bank of India & ors.
+; , ; Centax (India) Ltd. vs Vinmar Impex Inc. and others, ; United Commercial Bank vs Bank of India & Ors., ; and Bolivinter oil SA vs Chase Mannettan Bank & Ors.
+, at 352, referred to.

@@ -1,0 +1,123 @@
+vil Appeal No. 938 of 1963.
+Appeal from the judgment and decree dated December 19, 1960 of the Allahabad High Court in Income tax Reference No. 1588 of 1956.
+K. N. Rajagopala Sastri, R. H. Dhebar and R. N. Sachthey, for the appellant.
+A. V. Viswanatha Sastri and Naunit Lal, for the respondent.
+The Judgment of the Court was delivered by Subba Rao J.
+This appeal by certificate raises the question whether loss of cash by dacoity is an admissible deduction under section 10(1) of the Indian Income tax Act, 1922, hereinafter called the Act, in computing the assessee 's income in a banking business.
+The facts relevant to the question raised may be briefly state .
+The assessee is the Nainital Bank Limited.
+It is a puplic limited company which carries on the business of banking.
+It has various branches and one of them is situated at Ramnagar.
+In the usual course of its business large amounts were kept in various safes in the premises of the Bank.
+On June 11, 1951, at about 7 P.m.
+there was a dacoity in the Bank and the dacoits carried away the cash amounting to Rs. 1,06,000 and some ornaments etc.
+pledged with the Bank.
+For the assessment year 1952 53 the Bank claimed the said amount as a deduction in computing its income from the banking business on the ground that it was a trading loss.
+The Income tax Officer disallowed the claim on the ground that it was not a loss incidental to the banking business.
+On appeal, the Appellate Assistant Commissioner of Income tax, and on further appeal, the Income tax Appellate Tribunal, confirmed that finding.
+On a reference to the High Court of Judicature at Allababad, a Division Bench of that Court held that the loss by dacoity was incidental to the banking business and was, therefore, a trading, loss and that the assessee was entitled to a deduction of the same under section 10 (1 ) of the Act.
+Hence the appeal.
+Mr. Rajagopala Sastri, learned counsel for the appellant, argued that the Bank lost the money by burglary not in its capacity as a bank but only just like any other citizen, that the risk of L2Sup./64 9 342 burglary was not incidental to the business of banking and that, therefore, the amount burgled could not be deducted as a trading loss.
+Mr. A. V. Viswanatha Sastri, on the other hand, contended that the money lost by burglary was the stock in trade of the banking business, that it was kept in the Bank in the usual course of its business and that the risk of its loss was incidental to the carrying on of the said business and, therefore, the amount lost was a trading loss liable to be deducted under section 10(1) of the Act.
+Before we consider the law on the subject, it would be con venient at the outset to notice briefly the scope of the activities of banking business.
+Under section 5 (1 ) (b) of the Banking Companies Act, 1949, "banking" is defined to mean "the accepting, for the purpose of lending or investment, of deposits of money from the public, repayable on demand or otherwise, and withdrawable by cheque, draft, order or Otherwise"; and under section 5 (1) (c), "banking company" means any company which transacts the business of banking in India; under section 5(1) (cc), " 'branch ' or 'branch office in relation to a banking company, means any branch or branch office, whether called a pay office or sub pay office or by any other name, at which deposits are received, cheques cashed or money lent, and for the purposes of section 35 includes any place of business where any other form of business referred to in subsection (1) of section 6 is transacted," Therefore, a banking business consists mainly in receiving deposits, making advances, realizing them and making fresh advances.
+It is a continuous process which requires maintenance of ready cash in the bank premises.
+The Nainital Bank Ltd., is a public limited company incorporated for carrying on such banking business and Ramnagar branch is one of its branches doing such business.
+Unlike an individual, a limited company like a banking company comes into existence for the purpose of carrying on only the banking business and ordinarily there cannot be any scope for attributing different characters to that business.
+We therefore, start with the fact that the Ramnagar branch of the Bank had kept large amounts in the Bank premises in the usual course of its business in order to meet the demands of its constituents.
+It is settled law, and indeed it is not disputed, that cash is the stock in trade of a banking company.
+In Arunachalam Chettiar vs Commissioner of Income tax Madras(1), the Judicial Committee was considering the basis of the right of an assessee to ((1) , 83 (P.C.).
+343 deduct irrecoverable loans before arriving at the profits of moneylending, and in that context stated: "The basis of the right to deduct irrecoverable loans before arriving at the profit of money lending is that to the money lender, as to the banker, money is his stock in trade or circulating capital; he is dealing in money." In Commissioner of Income tax, Madras vs Subramanya Pillai(1) a Division Bench of the Madras High Court, in explaining the principle why in money lending business allowances for bad debts were given, observed: "In the case of banking or money lending business . allowance for bad and doubtful debts was given for the reason that all the moneys embarked in the moneylending business and lent out for interest were in the nature of stock in trade of the banker or money lender and the bad and doubtful debts represented so much loss of the stock in trade.
+Losses in respect of the stock intrade have always been regarded as trade losses and allowed to be set off against the receipts.
+" The same view was expressed by the Full Bench of the Madras High Court in Ramaswami Chettiar vs Commissioner of Income tax, Madras (2 ) and by the Patna High Court in Motipur Sugar Factory, Ltd. vs Commissioner of Income tax, Bihar & Orissa(3).
+Under section 10(1) of the Act loss of stock in trade is certainly an admissible deduction in computing the profits.
+Payment received from an insurance company for stock destroyed by fire was taken into account as a trading receipt in computing the profits assessable to income tax; see Green (H. M. Inspector of Taxes) vs J. Gliksten and Son, Ltd. (4) ; and Raghuvanshi Mills Ltd. vs Commissioner of Income tax, Bombay City(5).
+If receipt from an insurance company towards loss of stock was a trading receipt, conversely to the extent of the loss not so recouped it should be trading loss.
+Loss sustained by an assessee owing to destruction of the stock in trade by enemy invasion was held to be a trading loss which the assessee was entitled to claim as a deduction: see Pohoomal Bros. vs Commissioner of Income tax, Bombay City(6).
+Loss incurred in stock in trade by ravages of white ants was allowed as trading loss in computing the profit of a business; see Hira Lal Phoolchand vs Commissioner of Income (1) , 92.
+(3) (5) ; (2) I.L.R. (4) (6) 344 tax, C.P., U.P. and Berar(1).
+We, therefore, reach the position that cash is a stock in trade of a banking business and its loss in the course of its business under varying circumstances is deductible as a trading loss in computing the total income of the business.
+But it is said that every loss of a stock in trade in whatsoever way it is caused is not a trading loss, but the said loss should have been caused not only in the course of the business but also should have been incidental to it.
+The leading case on the subject is that of this Court in Badridas Daga vs Commissioner of Income tax(2).
+There, the appellant was the sole proprietor of a firm which carried on the business of money lending.
+The agent of the firm withdrew large amounts from the firm 's bank account and applied them in satisfaction of his personal debts.
+In the firm 's account the balance of the amount not recovered from the agent was written off at the end of the accounting year as irrecoverable.
+This Court held that the loss sustained by the appellant therein as a result of I misappropriation by the agent was one which was incidental to the carrying on of the business and should therefore, be deducted in computing the profits under section 10 (1) of the Act.
+Venkatarama Ayyar J., speaking for the Court, observed: ,,The result is that when a claim is made for a deduction for which there is no specific provision in section 10(2), whether it is admissible or not will depend on whether, having regard to accepted commercial practice and trading principles, it can be said to arise out of the carrying on of the business and to be incidental to it.
+If that is established, then the deduction must be allowed, provided of course there is no prohibition against it, express or implied, in the Act.
+" Applying the principle to the facts of the case before the Court, the learned Judge proceeded to state: "If employment of agents is incidental to the carrying on of business, it must logically follow that losses which are incidental to such employment are also incidental to the carrying on of the business.
+" The principle was clearly laid down and was, if we may say so, correctly applied to the facts before the Court.
+But there is a (1) (2) ; 345 passage in the judgment on which strong reliance was placed by the learned counsel for the appellant and it was contended that the instant case clearly fell under the illustration contained in the passage.
+It reads: "At the same time, it should be empbasised that the loss for which a deduction could be made under section 10(1) must be one that springs directly from the carrying on of the business and is incidental to it and not, any loss sustained by the assessee, even if it has some connection with his business.
+If, for example, a thief were to break overnight into the premises of a money lender and run away with funds secured therein, that must result in the depletion of the resources; available to him for lending and the loss must, in that sense, be a business loss, but it is not one incurred in the running of the business, but is one to which all owners of properties are exposed whether they do business or not.
+The loss in such a case may be said to fall on the assessee not as a person carrying on business but as owner of funds.
+This distinction, though fine, is very material as on it will depend whether deduction could be made under section 10(1) or not.
+" It was said that the loss in the present case fell on the assessee not as a person carrying on the business of banking but as owner of funds.
+That passage in terms refers to a money lender and does not deal with a public company carrying on banking business.
+In the case of a money lender the profits he made may form part of the private funds kept in his house which he may or may not invest in his business.
+It is indistinguishable from his other moneys.
+But in the case of a bank the deposits received by it form part of its circulating capital and at the time of the theft formed part of its stock in trade.
+In one case it cannot be posited that the amount robbed is part of the stock in trade of the trader till he invests it in his business; in the other it forms part of the stock in trade without depending on the intention of the banking company.
+There lies the distinction between the instant case and the illustration visualized by this Court.
+We have only suggested a distinction, but we are not expressing any definite opinion on the question whether the loss incurred in the case illustrated is or is not a trading loss.
+The correctness or otherwise of the said observation may fall to be considered when such a case directly arises for decision.
+346 Before parting with this decision, it may be noticed that this Court agreed with the decisions in Venkatachalapathy lyer vs Commissioner of Income tax(1), Lord 's Dairy Farm Ltd. vs Commissioner of Income tax(2) , and Motipur Sugar Factory Ltd. vs Commissioner of Income tax( 3 ).
+The decision in Motipur Sugar Factory case(3), which was accepted by this Court to be correct, takes us a step further in the development of law.
+There, the assessee company was carrying on business in the manufacture of sugar and molasses out of sugarcane.
+It deputed an employee,in compliance with the statutory rules, with cash for disburse ment to sugarcane cultivators at the spot of purchase.
+The cash was robbed on the way.
+The Division Bench of the Patna High Court held that the loss of money was loss arising out of the business of the assessee and sprang from the statutory necessity of sending money to various purchasing centres for disbursement and, therefore, the assessee was entitled to deduct the loss in computing its taxable income under section 10(1) of the Act.
+It will be noticed that this is not a case of misappropriation by a servant of the company, but a case of loss to the company by reason of its cash being robbed from its servant.
+In that case, cash was entrusted to the employee under statutory rules.
+But there may be cases where such entrustment may be made by custom or practice.
+What is important to notice is that robbery of cash from the hands of an employee is held to be incidental to the business of the assessee.
+If that be so, why should a different principle be adopted if the loss was not caused by robbery from the hands of the employee on his way to a particular place in discharge of his duty, but it was a loss caused by dacoity from the premises of the bank itself.
+In one case, the employee carried cash for disbursement to sugarcane cultivators, and in the other, funds were lodged in the Bank with reasonable safeguards for disbursement of the same to its constituents.
+If the loss was incidental to the business in one case, it should equally be so in the other case.
+The judgment of the Special Bench of the Madras High Court in Ramaswami Chettiar vs The Commissioner of Income tax, Madras(4) supports the case of the Revenue.
+There, the loss was incurred by theft of money used in moneylending business and kept in the business premises.
+The Full Bench by majority held that the loss incurred thereby should not be allowed in computing the income tax, as the theft was committed by persons who were not at the time of commission employed as clerks or servants by the assessee.
+This judgment, (1) (3) (2) (4) Mad.
+347 if we may say so with respect, takes a narrow view of the problem.
+Indeed in Motipur Sugar Factory case(1), which was approved by this Court, the theft was committed not by the employee of the company but by robbers.
+To that extent the correctness of the Madras decision is shaken.
+That apart the judgment of Anantakrishna Ayyar J., who recorded a dissent, contains a constructive criticism of the majority view.
+We prefer the view of Anantakrishna Ayyar J., to that of the majority.
+The decision of the High Court of Australia in Charles Moore and Co. (W. A.) Pvt. Ltd. vs Federal Commissioner of Taxa tion(2) throws considerable light on the subject.
+In that case the assessee was carrying on business of a departmental store and he banked the takings thereof daily.
+It was the practice every business morning for the cashier accompanied by another employee to take the previous day 's takings to the bank some two hundred yards away and pay them to the credit of the assessee.
+One day, while on their way to the bank the two employees were held up at gun point and robbed of a large amount which formed part of the receipts of the assessee for the previous day.
+The Court held that the loss was incurred in gaining or producing the assessable income of the year in question within the meaning of section 5 1 (I) of the Income Tax and Social Services Contribution Assessment Act, 1936 52 and was not a loss or outgoing of capital or of a capital nature, and was consequently a deduction from assessable income in such year.
+It was pointed out therein: "Banking the takings is a necessary part of the operations that are directed to the gaining or producing day by day of what will form at the end of the accounting period the assessable income.
+Without this, or some equivalent financial procedure, hitherto undevised, the replenishment of stock in trade and the payment of wages and other essential outgoings would stop and that would mean that the gaining or producing of the assessable income would be suspended.
+" Then the Court proceeded to state "The 'occasion of the loss ' in the present case was the pursued in banking the money .
+There Is no difficulty in understanding the view that involuntary outgoings and unforeseen or unavoidable losses should be allowed as deductions when they represent that kind of casualty, mischance or misfortune which is a natural or recognized incident of a particular trade or (1) (2) ; , 350.
+348 business the profits of which are in question.
+These are characteristic incidents of the systematic exercise of a trade or the pursuit of a vocation.(1) Even if armed robbery of employees carrying money through the streets had become an anachronism which we no longer knew, these words would apply.
+For it would remain a risk to which of its very nature the procedure gives rise.
+But unfortunately it is still a familiar and recognized hazard and there could be little doubt that if it had been insured against the premium would have formed an allowable deduction.
+Phrases like the foregoing or the phrase 'incidental and relevant ' when used in relation to the allowability of losses as deductions do not refer to the frequency, expectedness or likelihood of their occurrence or the antecedent risk of their being incurred, but to their nature or character.
+What matters is their connection with the operations which more directly gain or produce the assessable income.
+" This decision laid down the following principles: (i) banking the takings was a necessary part of the operations of the business with which the court was dealing in that case; (ii) the loss to the business caused by robbery was incidental and relevant to that business as the procedure involved in carrying on of the business carried with it the risk of the cash being robbed on the way; (iii) the expressions "incidental" and "relevant" in relation to losses did not relate to the frequency of the happening of the risk but to their nature and character, that is to say, the loss must be connected with the operation to produce income.
+The judgment of the Supreme Court of Newzealand in Gold Band Services Limited vs Commissioner of Inland Revenue ( 2 ) applied the decision of the Australian High Court cited above to a situation which comes very near to our case.
+The appellant therein owned and operated a petrol service station which was kept open continuously.
+It was held up by an armed robber and a substantial sum of money was stolen.
+The Court held that the sum lost as a result of the robbery was a loss exclusively incurred in gaining or producing the assessable income of the appellant and was deductible from its ' gross income.
+Adverting to the argu ment very often advanced in courts based upon the robbery being committed in the premises and that committed on the way to a bank, Haslain J. observed (1) Rich J. in Commissioner of Taxation (N.S.W.) vs Ash at 277.
+(2) ,470. 349 .lm15
+I can see no valid distinction to be drawn in principle between the robbery of trade receipts on the appellant 's premises at an hour before banking was possible (but intended to be banked at a time when the banks were open) and the robbery of the same money when in the custody of the employee on the way to the bank.
+In my opinion, the occasion for the loss of the present appellant was the operation of its business in the normal way, with the result that the cash stolen was on the premises at that particular time and that the possibility of such plunder constituted an attraction to a certain type of criminal, including both the safe blower and the armed burglar.
+" The present case is a stronger one, for the money was kept in the Bank as it was absolutely necessary to carry on the operation of the banking business.
+We may now summarize the legal position thus.
+Under section 1O (I ) of the Act the trading loss of a business is deductible for computing the profit earned by the business.
+But every loss is not so deductible unless it is incurred in carrying out the operation of the business and is incidental to the operation.
+Whether loss is incidental to the operation of a business is a question of fact to be decided on the facts of each case, having regard to the nature of the operations carried on and the nature of the risk involved in carrying them out.
+The degree of the risk or its frequency is not of much relevance but its nexus to the nature of the business is material.
+In the present case the respondent was carrying on the busi ness of banking.
+It is an integral part of the process of banking that sufficient moneys should be kept in the bank duly guarded to meet the demands of the constituents.
+The retention of the money in the bank is a part of the operation of banking.
+The retention of money in the bank premises carries with it the ordinary risk of its being subject of embezzlement, theft, dacoity or destruction by fire and such other things.
+Such risk of loss is incidental to the carrying on of the operations of the business of banking.
+In this view, we are clearly of the opinion that the loss incurred by dacoity in the present case is incidental to the carrying on of the business of banking.
+In the result, the order of the High Court is correct and the appeal fails and is dismissed with costs.
+Appeal dismissed.

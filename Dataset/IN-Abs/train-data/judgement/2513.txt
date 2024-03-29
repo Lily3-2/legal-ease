@@ -1,0 +1,357 @@
+ivil Appeal No. 1263 of 1968.
+Appeal by special leave from the order, dated November 2, 1967 of the Government of India, Ministry of Finance, Department of Revenue & Insurance, New Delhi in Central Excise Revision Application No. 1323 of 1967.
+K. Sen, S.V. Gupte, Rameshwar Nath, Mahinder Netrain and Ravinder Nath, for the appellant.
+V.A. Seyid Muhammad and S.P. Nayar, for the respondents.
+[ SIKRI, J. delivered the majority Judgment on behalf of himself and BACHAWAT, J. HEGDE, J. gave a dissenting Opinion].
+Sikri, J. I have had the advantage of reading the draft judgement prepared by Hegde, J., but, while I agree with him that there is no force in the plea of limitation advanced on behalf of the assessee, in my opinion the appeal should fail on the ground that the excise duty was levied correctly as determined by the Central Government in its order, dated November 2, 1967.
+The facts are fully set out in the judgment of Hegde, 21 '.
+It is only necessary to mention a few facts in order to make this judgment readable.
+The assessee manufactures iron and steel products.
+It manufactured wires out of steel rods, which had been imported by it prior to April 24, 1962.
+Item 26AA was added to the First Schedule of the (I of 1944) hereinafter referred to as the Excise Act by Finance Act (No. 2), 1962 (XX of 1962) with effect from April 24, 1962.
+This reads as under: "26 AA.IRON OR STEEL PRODUCTS, THE FOLLOWING, NAMELY : (i)Bars,rods,coils,wires,joi Five per cent.
+ad volorem pl sts, girders, angles,channa us excise duty for the time ls,tees,flats,beams,zeds,tr being leviable on pig iron ough,pilling and all other or steel ingots,as the case rolled forced or extruded may be.
+shapes and sections,not other wise specified.
+(ii) Plates and sheets, other Seven and a half per cent.ad than plates and sheets inten valorem plus the excise duty ded for for 485 tinning and hoops, and str the time being leviable on ipe, all sorts,including pig iron or steel ingots as galvanised or corrugated the case may be.
+and sheets.
+(iii) Uncoated plates and Seven and a half per cent.
+sheets intended for tin ad valorem plus the excise ning.
+duty for the time being le viable on pig or iron steel (iv) Pipes and tubes ingots, as the case may be.
+(including blanks there fore)all sorts, whether Five per cent.ad valorem rolled,forged,spun,cast plus the excise duty for drawn,annealed,welded or the time being leviable extruded.
+on pig iron or steel ingots as the case may be.
+(v) All other steel Five per cent.ad valorem castings,not otherwise sp plus the excise duty for ecified.
+the time being leviable on steel ingots. ' The short point that arises is this: What is the duty leviable on the wires manufactured by the assessee out of steel rods which had already been imported ? For the time being I will ignore notifications issued under r. 8 (1) of the rules made under the Excise Act, and the amendments made by the Finance Act (No. 2) of 1962, and Indian Tariff (Amendment Act) 1963 (III of 1963) to the Indian Tariff Act, 1934. ' "Wires".
+are mentioned in item No. 26AA(i).Therefore we have to scrutinize the third column of item 26AA(i) for the rate of duty.
+Three points need clarification: (a) What is the meaning of or inference derivable from the word 'plus '? (b) What iS the meaning of the formula "the excise duty for the time being leviable on pig iron or steel ingots"? (c) What is the import of the words"as the case may be"? The word 'plus ' in the context indicates that the rate of duty consists of 2 parts: one part is ad valorem duty and the other is the excise duty calculated according to the formula given.
+In other words, both duties have to be levied.
+I will presently discuss what the formula means but this is clear that the third column contemplates one duty, consisting of two parts, being levied.
+Before I discuss the meaning of the formula it will clarify matters if the import of the words "as the case may be" is first ascertained.
+These words indicate that a choice has to be made between two types of excise duties excise duty leviable on pig iron or excise duty leviable On steel ingots, Sub items (ii), (iii) and (iv) of item 26AA use the same set of words.
+In sub item (v) excise duty leviable on steel ingots is only mentioned.
+This sub item consists of steel casting.
+This indicates that the duty is being calculated thus because steel castings have been made 486 from steel ingots.
+Item 26AA deals with iron 'and steel products.
+It seems to me that the context indicates that the words "as the case may be" denote that the excise duty leviable on pig iron is to be charged of the product is an iron product; if it is a steel product then the excise duty leviable on.
+steel ingots is to be levied.
+In other words, this decides the choice whether item 25 (pig iron) or item 26 (steel ingots) is to be looked at.
+Although 1 was not enlightened on the point by counsel during the course of the hearing, I have no doubt that the Excise Department and the trade know how to distinguish a steel product from an iron product.
+If there is a dispute on the point it will have to be resolved in the future.
+Now to come to the formula "the excise duty for the time being leviable on pig iron or steel ingots.
+" Let me give a simple problem in order to illustrate the points which ' arise under this head of inquiry. "A" manufactures a steel ingot 'X ' in May 1961 in Jamshedpur.
+He pays excise duty on it in May 1961 as he removes it out of the factory.
+Its value is determined at the wholesale cash price at the time of removal in accordance with section 4 of the Excise Act.
+Steel ingot 'X ' is sold to a manufacturer "B" in Faridabad who manufactures steel rods ( 'Y ' & 'Z ') out of it in May 1962 and removes them in May 1962.
+What is the excise duty payable on steel rods ( 'Y ' & 'Z ') ? Ad valorem duty is easy to calculate.
+What about the additional duty ? We know that the steel ingot 'X ' has paid excise duty.
+But this does not make any difference.
+The additional duty has still to be calculated under the formula.
+It is also plain that no excise duty is strictly leviable under sections 3 and 4 of the Excise Act on steel ingot 'X ' as such.
+Not only that it does not exist any longer but duty on it has already been paid and further no duty would be leviable under section 4 for it was removed from the factory long time ago in May 1961.
+Therefore, it is clear that the formula cannot be concerned with the particular ingot 'X ' at all. ' It seems to me that what it is concerned with is the duty leviable on a hypothetical steel ingot if it had been manufactured or removed at the same time as the steel rods ( 'Y ' & 'Z ') were manufactured or removed.
+In the example given above, under the formula the excise duty leviable under item 26 in May 1962 would have to be charged, i.e., 39.35 per metric tonne.
+The weight to be taken into consideration would be the weight of steel rods 'Y ' & 'Z ', and not of the steel ingot 'X ' out of which they were made.
+It seems to me that this is the true interpretation of column 3 of items 26AA(i).
+It simply prescribes a rate of duty as the heading of column indicates.
+It is not concerned with actual ingots out of which other articles are made.
+It is not concerned with whether that steel ingot has paid excise duty or countervail 487 ing duty or not.
+It is a simple formula perhaps inartistically formulated.
+It is said that the item should be strictly construed, it being a taxing enactment.
+But no rule or principle ,of construction requires that close reasoning should not be employed to arrive at the true meaning of a badly drafted entry in an Excise Act.
+I believe I am not stretching the language of the entry against the subject, but it, appears to me that in the context of scheme of the Excise Act this is the only reasonable construction to give to the entry.
+If it is permissible to look at the notifications issued by the Central Government which have given reliefs of various kinds, they seem to me to proceed on the interpretation which I have given above.
+It will be noted that they do not exempt the article from the levy of duty; they give relief which may in a particular case be the excise duty or countervailing duty levied on the article out of which the assessed article has been manufactured.
+To revert to the example given by me above, notification No.70/62, dated April 24, 1962, would exempt manufacturer B '"from so much of the duty of excise leviable on steel rods as is equivalent to .the duty leviable under item 26." Therefore, reading entry 26AA(i) with this notification, manufacturer 'B ' does not pay the whole of the duty leviable on steel rods ( 'Y ' & 'Z ') under col. 3 (item 26AA) because the steel ingot which he has used had already paid the appropriate amount of duty.
+I am not able to appreciate how the insertion of item No. 63 (36) in the First Schedule of the Tariff Act or the subsequent amendment of the Indian Tariff Act, 1934, by Indian Tariff (Amendment Act) 1963 throw any light on .the interpretation of item 26 AA(i).
+Item No. 63(36) is in respect of the same iron and steel products as are mentioned in item 26AA.
+Column 4 (standard rate of duty) reads: "The excise duty for the time being leviable on like articles if produced or manufactured in India, and where such duty is leviable at different rates the highest duty; and the duty so leviable shall be in addition to the duty which would have been levied 'if this entry had not been inserted.
+" The effect of this entry is to levy an additional customs duty equivalent to the prevalent excise duty on like articles produced and manufactured.
+In other words, if the customs duty leviable under other entries in the Second Schedule on steel rods is 'D ', an additional duty 'E ' has to be levied equal to the excise duty leviable on steel rods, i.e., under item 26AA.
+This has been called countervailing duty.
+488 The manufacturer India, who used steel rods made in India, and made wires from them was given a certain relief by notification No. 77 of 1962, but the manufacturer in India who used steel rods made abroad to make wires was not first given this exemption.
+Later by amendments he was given a similar exemption.
+The ' Central Excise Manual (Seventh Edition) at p. 123 states the position thus: "26AA(2) Iron or Steel products falling under item No. 26AA, if made from another article falling under the said item or item No. 63 36) of the First Schedule to the Indian Tariff Act, 1934 (32 of 1934) and having already paid the appropriate amount of excise or countervailing customs duty, as the case may.be, are exempt with effect from 24th April, 1962, from so much of the duty of excise as is equivalent to the excise or countervailing customs duty payable on the said article ' vide Government of India, Ministry of Finance (Department of Revenue) Notification No. 89/62 Central Excise, dated 10th May, 1962 (issued in supersession of Notification No. 77/62 Central Excises, dated 24th April, 1962, as further amended by Notifications No. 93/62 Central Excises, dated 26th May, 1962, and No. 225/62 Central Excises,dated 29th December, 1962.
+" The only light thrown by these amendments.
+and the notifications referred to above is that it is not the idea to levy excise duty at various stages of manufacture of certain articles and this is achieved by issuing notifications giving appropriate reliefs.
+But if there is no relief given by notifications the full duty at the rate mentioned in col. 3 of entry (i) of item 26 AA has to be paid.
+In the result the appeal fails and is dismissed with costs.
+Bachawat, J. I agree with Sikri, J. Hegde, J. This is an appeal by special leave.
+It is directed against the order of the Government of India in No. 1323 of 1967, dated November 2, 1967 rejecting the appellant 's application for refund of the excise duty paid by him under protest.
+In order to appreciate the controversy between the parties it is necessary to set out the material facts.
+The appellant is a Company having a factory at Rishara in the State of West Bengal.
+It manufactures, among other items, Iron and Steel Products such as Jute Baling Hoops, Wire Ropes, Cold Rolled Strips, Chain Pulley Blocks, Electric Hoists.etc.
+Between December 1961 and January 1962 the appellant received various consignments of imported High Carbon Steel Wire Rods.
+Its opening stock of imported High Carbon Steel Wire Rods on April 24, 1962 was 489 2,788.401 metric tons.
+As before, the appellant manufactured wires from those steel rods even after April 24, 1962.
+Finance (No. No. 20 of 1962) imposed for the first time excise duty on the Iron and Steel Products; and by sub el.
+(S) of sub section
+(2) of section 16 of the said Act an amendment was made to the First Schedule of the Central Excise and Salt Act, 1944 (hereinafter referred to as the Act) incorporating after item 26A item 26AA.
+The relevant portion of that entry reads thus: Iron or Steel Products.
+The following namely: (1) Bars, rods,coils,wires 5% ad valorem plus the ex joists girders,angels,channels cise duty for the time tees,flats beam,zeds,trough, being leviable on pig iron piling and all other rolled and Steel Ingots as the forged or extruded shapes and case may be.
+section not otherwise specified.
+Pig Iron and Steel Ingots were already subject to excise duty under Items Nos. 25 and 26 in the First Schedule of the Act.
+The rate of duty in the case of the former at the material time was Rs. 10 per metric tonne and that of the latter Rs. 39/35 per metric tonne.
+The newly imposed duty under Item 26AA came into force on April 24, 1962.
+The Collector of Central Excise, West Bengal, Calcutta by a Trade Notice, Central Excise No. 32 Iron and Steel Products 2/62 dated Calcutta the 16th May 1962 notified the procedure to be followed.
+By Notification No. 70/62, dated April 24, 1962 issued in exercise of the powers conferred by rule 8 (1 ) of the rules framed under the Act (to be hereinafter referred to as the rules), the Central Government exempted Iron and Steel Products falling under Item 26AA, if made from Pig Iron or Steel Ingots on which the appropriate amount of excise duty has already been paid, from so much of the duty of the excise leviable thereon as is equivalent to the duty leviable under Item 25 or 26 as the case may be.
+On the same day as per Notification No. 77 of 1962, the Central Government exempted Iron and Steel Products falling under sub items (2), (3), (4) and (5) of Item 26AA, if made from articles which have already paid the appropriate duty of excise under sub item (1 ) of the said Item, from so much of the duty of excise as is equivalent to the duty payable under the sub item (1).
+Finance (Act No. 2) of 1962 by section 15 amended the First Schedule of the Tariff Act by adding Item No. 63 (36) which deals with imported Iron and Steel Products.
+The second column of that entry mentions the various Iron and Steel Products included therein.
+The items included therein are the very items set out in Sup CI/69 14 490 Item 26AA of the First Schedule to the Act.
+The third column of that Item which specifies the levy reads thus: "The excise duty for the time being leviable on like articles if produced or manufactured in India, and where such duty is leviable at different rates the highest duty so leviable shall be in addition to the duty which would have been levied if this entry had not been inserted." On May 10, 1962, the Government issued a fresh Notification (No. 89 of 1962) under rule 8(1) of the rules in supersession of the Notification No. 77/62 dated April 24, 1962.
+By that Notification, the Government exempted with effect from April 24, 1962, Iron and Steel Products falling under Item 26AA if made from another article falling under the said Item and having already paid the appropriate amount of duty from so much of the duty of excise as is equivalent to the duty payable on the ' said article.
+On the same day namely May 10, 1962, the Government issued yet another Notification (Notification No. 90 of 1962) under rule 8 (1) under which it exempted Iron and Steel Products falling under Item 26AA specified in column 2 of the table annexed to the Notification if made from Pig Iron or Steel Ingots on which appropriate amount of excise duty has already been paid, from so much of the duty of excise leviable on such products as in excess of the duty corresponding entry in column 3 of the said table.
+(Wire) the product with which we are concerned in this case is also included in the table.
+That Notification contains a proviso which says: "Provided that if the products are made from pig iron and steel ingots on which appropriate amount of duty has not been paid the excise duty for the time being leviable on pig iron or steel ingots as the case may be shall be payable in addition to the duties specified in the appropriate entry in column 3 of the table.
+" On December 29, 1962, the Government issued yet another Notification under rule 8(1) amending the Notification No. 89 of 1962 issued on May 10, 1962.
+In the place of words "if made from another article falling under the said item and having already paid the appropriate amount of duty from so much of the duty of excise as is equivalent .to the duty payable on the said article.
+", the following was substituted: "if made from another article falling under the said Iterm or Item No. 63(36) of the First Schedule to the Indian Tariff Act 1934 (32 of 1934) and having already paid the appropriate amount of excise or court 491 tervailing custom duty as the case may be from so much of the duty of excise as is equivalent to the excise or countervailing custom duty payable on the said article." By Indian Tariff (Amendment Act 1963) (Act No. 3/63) effective from the 25th January 1963, the Indian Tariff Act 1934 was amended and after section 2, the following section was inserted namely: 2(a) (1).
+Any article which is imported into India shall be liable to custom duty equal to the excise duty for the time being leviable on a like article if produced or manufactured in India.
+Explanation: In this sub sec.
+the expression "the excise duty for the time being leviable on a like article if produced or manufactured in India" means the excise duty for the time being in force which would be leviable on a like article if produced or manufactured in India or if a like article is not so produced or manufactured, which would be leviable on the class or description of articles to which the ' imported article belongs and where.
+such duty is leviable at different rates, the highest duty.
+(2) The customs duty referred to in sub section (i) shall be in addition to any duty imposed under this Act or under any other law for the time being in force.
+" On or after April 24, 1962, the appellants cleared from their warehouse wires produced from the aforementioned imported Steel Rods after obtaining the required permission from the excise authorities and after paying the duty assesse.
+On those wires, duty was assessed without taking into consideration "the excise duty for the time being leviable on Pig Iron and Steel Ingots as the case may be.
+" At that time the Central Excise authorities proceeded on the basis .that on the stock of wire in question only ad valorem duty had to be levied and not "excise duty for the time being leviable on Pig Iron or Steel Ingots as the case may be." On March 21, 1963, the Inspector of Central Excise attached to M/s. J.K. Steel Ltd., Rishara issued the following notice: "COLLECTORATE OF CENTRAL EXCISE WEST BENGAL No. 6 Range RIS.
+I. Date: 21 3 1963.
+Circle CGR.
+Notice of Demand for duty under rule 9(2) of C.E. Rules, 1944.
+492 To M/s. J.K. Steel Ltd., Rishara, Hooghly.
+Take notice that on behalf of the Central Government, I hereby demand payment by you of the sum of Rs. 4,18,801/30 N.P. (Rupees four lacs eighteen thousand eight hundred one and paise thirty only) within ten days from the date hereof.
+Particulars of Demands Quantity Rate of duty Amount of duty involved Steel Ingot Duty on 6932.964 Rs.39.36 NP Rs.2,72,812/13 M.T.Hoops Per M.T. Steel Ingot Duty on 921.937 Rs.39.36 NP Rs. 36,278/22 M.T.Strips Per M.T. Steel Ingot Duty on 2788.00 Rs.39.36 NP Rs.1,09,710/95 Wire.
+Total Rs.4,18,801/30 No. VI/5A/I&S/JKS/CE/63/183, dated 21 3 1963.
+Sd/ Inspector I/C Central Excise M/s. 1.
+K. Steel Ltd., Rishara.
+" The appellants objected to the demand in question as per their letter of March 24, 1963.
+They contended that they had not contravened rule 9(2) of the rules nor was there any short levy.
+As per his letter of August 26, 1963, the Assistant Collector of Central Excise Calcutta 4th Division confined the demand to that made under serial No. 3 of the notice.
+The appellants paid ' the same under protest and thereafter took up the matter in appeal to the Collector of Central Excise who dismissed their appeal as per his order of March 19, 1964, with these observations: "The crucial point of this appeal is whether counter vailing import duty was paid by the appellants on the imported steel rods from which steel wires were manufactured.
+The appellants could not produce any documents in support of their argument that either import duty or countervailing duty equivalent to steel ingot rate was paid by them on the iron rods from which steel wires were drawn.
+Such duty is leviable on steel rods under tariff item No. 26AA.
+As no such duty on steel rods was paid by the appellants, countervailing 493 duty equivalent to steel ingot duty has, therefore, to be paid.
+" As against the order of the Collector, the appellants went up in revision to the Central Government.
+The Central Government allowed the revision petition to some extent.
+This is what the Central Government ordered: "The Government of ' India have carefully considered all the points raised by the petitioners but see no reason to interfere with the Collectors stated that the Steel Wires manufactured out of steel wire rods imported prior to 24 4 1962 on which no countervailing duty was paid, and cleared during the period, from 24 4 1962 to 10 8 1963 were subject to full duty as then leviable under Item 26AA (1) of Central Excise Tariff.
+However the demand for differential duty initially made on 2 3 1963 and subsequently amended vide the Asstt.
+Collector 's order, dated 26 8 1963 shall be restricted to the clearance effected during the 3 months period prior to the initial service of demand on 21 31963 that is to say, up to 21,12 1962 only as per the provisions of Rule 10 of Central Excise Rules, 1944 which was applicable to this case.
+The demand in respect of clearances effected prior to 21 12 1962 is hereby set aside and consequential refund shall be granted to the petitioners.
+Subject to the above modifications, the revision application is otherwise rejected.
+" Aggrieved by that order, the appellants have brought this appeal.
+The questions that arise for decision in this appeal are: (1) What is the true scope of entry No. 26AA of the First Schedule to the Act ? (2) In considering the scope of the said entry, can the Notifications issued by the Government on or after April 24, 1962 be taken into consideration? (3) Is the demand barred by limitation under rule 10 of the rules ? One other question had been raised in the grounds of appeal namely that the order of the Central Government is vitiated as it had contravened the principles of natural justice.
+That contention was not pressed at the hearing.
+In the context of this case that contention loses much of its significance If we accept the appellant 's contention as regards the scope of entry 26AA then ' the fact that the Government 's illegal is immaterial illegal is immaterial.
+If 494 on the other hand we accept the interpretation placed by the Revenue on that entry remand of the case to Central Government serves no purpose.
+I shall now proceed to consider the questions earlier formulated for decision.
+According to the assessee the true import of the clause in column 3 of entry 26AA is that goods mentioned in column 2 of that entry are dutiable at 5 per cent ad valorem plus the excise duty for the time being leviable under the Act on pig iron or steel ingot used in the production of those goods.
+Shri A.K. Sen, the learned Counsel for the assessee urged that the expression leviable in that clause means leviable under the Act; in other words dutiable under the Act; the words 'Pig Iron ' and 'Steel Ingots ' referred to therein is the Pig Iron or the Steel Ingot used in manufacture of the articles on which duty is sought to be levied; otherwise the word leviable becomes inappropriate.
+In other words according to him the second limb of the levy under that clause is attracted only when any pig iron or steel ingot dutiable under the Act is used in the manufacture of any article dutiable under sub cl.
+(1) of entry 26AA.
+As the steel bars used in manufacturing the 'wires ' with which we are concerned in tiffs case were not made out of steel ingot dutiable under the Act, as they were imported bars, that part of the levy is not attracted on those wires.
+The contention for the Revenue is that the expression "the excise duty for the time being leviable on Pig Iron or Steel Ingot as the case may be" sets out only a measure; the rate at which the duty is leviable; it has no reference to any particular material; it is merely a yardstick.
+The argument of Dr. Syed Muhammad, learned Counsel for the Revenue proceeded thus: The entry in question deals with two classes of products i.e., iron products and steel products.
+The assessing authority has first to decide whether a particular article is an iron product or steel product.
+If he comes to the conclusion that it is a steel product then he should assess the duty payable firstly by determining the ad valorem duty payable on it, thereafter he must find out its weight in metric tons and add to the ad valorem duty the amount payable as excise duty under entry 26 of the First Schedule on steel ingot of that weight.
+If the intention of the Parliament was as suggested by the learned Counsel for the Revenue then column 3 should have read thus: "5 per cent ad valorem plus excise duty at the rate for the time being leviable on pig iron or steel ingots as the case may be.
+" 495 It is difficult to interpret the words "for the time being leviable" as indicating a rate.
+The expression "leviable on pig iron and steel ingots as the case may be" in my opinion has reference to pig iron or steel ingots dutiable under the Act.
+In fiscal legislation the terms "rate" is a familiar term.
+In fact entry 5 of the First Schedule dealing with salt speaks of "rate fixed annually by a Central Act".
+Therefore it would have been the easiest tiring for the Parliament to convey its intention without ambiguity.
+At this stage it may also be noted that the clause in question refers to "the excise duty" and not excise duty in general.
+The definite article "the" has considerable significance.
+It refers to some particular excise duty.
+If the second part of the clause merely refers to a rate than the article "the" has no place in that context.
+It was urged on behalf of the Revenue that to accept the contention of the assessee and to hold that the second part of the.
+clause refers to the steel ingot used in the production of the "wires" is .to read into the clause the words "used in the production of the article in question.
+" It was said that such a construction is impermissible.
+Therefore we should not accede to that contention.
+I am not prepared to accept that reasoning.
+In fact in my opinion to accept the construction contended for on behalf of the Revenue, it would be necessary for us to include the words "at the rate" after the words "excise duty" and before the words "for the time being".
+No such difficulty arises if we accept the interpretation placed by the assessee on that clause.
+The expression "the excise duty for the time being leviable" by necessary implication refers to an. article dutiable under the Act.
+That must necessarily be the article which is one of the components ' of the article on which duly is sought to be levied.
+In the instant case that must be the steel ingot used in the production of the "wires" with which we are concerned in this case.
+As laid down by this.
+Court in C.A. Abraham vs I.T.O., Kottayam and Anr.(1) "In interpreting a fiscal statute the Court cannot proceed to make good deficiencies if there may be any; the court must interpret the statute as it stands and in case of doubt in a manner favourable to the tax payer.
+" This Court also laid down in Commissioner of Income Tax vs Karamchand Premchand Ltd., Ahmedabad(2) that if there is any ambiguity of language in a fiscal statute, benefit of that ambiguity must be given to the assessee.
+At this.
+stage I am tempted to recall to my mind the well known observations of Lord Russel of Killowen in Inland Revenue Commissioners vs Duke of Westminister(3) viz.: (1) ; S.C.607,612 (2) ; , 742.
+(3) [1936] A.C.1, 24.
+496 "I confess that I view with disfavour the doctrine that in taxation cases the subject is to be taxed if in accordance with a Court 's view of what it considers the substance of the transaction, the Court thinks that the case falls within the contemplation or spirit of the statute.
+The subject is not taxable by inference or by analogy, but only by the plain words of a statute applicable to the facts and circumstances of his case.
+" About a century ago Lord Cairns in Partington vs The Attorney General(x) observed: "As I understand the principle of all fiscal legislation it is.tiffs: If the person sought to be taxed comes within the letter of the law he must be taxed however great the hardship may appear to the judicial mind to be.
+On the other hand, if the Crown, seeking to recover the tax cannot bring the subject within the letter of the law, the subject is.
+free, however apparently within the spirit of the law the case might otherwise appear to be.
+" Unless I am satisfied that the only reasonable interpretation that can be placed on the clause in col. 3 of entry 26AA is that placed by the Revenue, it is not possible to justify the impugned levy.
+There is yet another difficulty in accepting the interpretation tried to be placed by the Revenue on entry 26AA.
+According to books on steel making pig iron is the intermediate form through which almost all iron must pass in the manufacture of steel (see "The Making, Shaping and Treating of Steel" edited by Harold E. Mcgannon at p. 384).
+Therefore every steel product is also.
+an iron product.
+If the second part of the clause in column 3 of entry 26AA refers to .a rate and not the duty leviable on the material used in the manufacture of the dutiable article under that entry then the question arises whether the rate in question is that at which duty is leviable on steel ingot or that leviable on pig iron.
+That part of the clause refers to two different materials dutiable at different rates.
+If on the other hand it refers.
+to the material from which the article on which duty is sought to be levied is made the proximate raw material and not the material from which that raw material is made, then there is no difficulty in finding out the amount.
+Dr. Syed Muhammad was not able to tell us how the assessing authorities classify articles into iron products and steel products.
+It is not his case that there is any recognised basis for doing so.
+It is also not his case that there is any prescribed procedure for deciding that question.
+His explanation that it is done on the basis of the practice prevailing in the trade is far from satisfactory.
+(1) , 122.
+497 He was not able to tell us how we can ascertain that practice or what that practice is.
+If his contention is correct then the power of the assessing authorities to determine the nature of an article is an arbitrary power.
+It is undefined and unguided.
+The determination may vary from officer to officer.
+It is doubtful whether such a power is a valid power.
+That apart legislature is not likely to have conferred such an arbitrary power on the authorities.
+That difficulty will not arise if the duty under the second limb of the levy in column 3 of entry 26AA is determined on the basis of the actual material used.
+For the purpose of interpreting the clause in question, reference may also be made to entry 63(36) in the First Schedule to the Tariff Act.
+It may be remembered that entry as well as entry 26AA in the First Schedule of the Act were enacted simultaneously under Finance (No. Both these entries came into force on the same day namely on 24th April 1962 The Act and the Tariff Act are cognate legislations.
+In other words they are legislations which are pari materia.
+They form one code.
+They must be taken together as forming one system and as interpreting and enforcing each other.
+It is proper to assume from the surrounding circumstances, that these two entries were introduced in pursuance of a common purpose, that purpose being that the articles listed in entry 26AA whether produced out of indigenous Pig Iron or Steel Ingot or made out of imported Pig Iron or Steel Ingot must bear the same amount of duty.
+If the interpretation placed on entry 26AA by the learned Counsel for the assessee is accepted then it would be seen that entry by itself would not impose the duty contemplated by the second part of the clause in col. 3 of entry 26AA on imported Pig Iron or Steel Ingot.
+Evidently in order to equalise the duty on articles made out of indigenous material as well as imported material entry 63 (36) of the First Schedule to the Tariff Act was enacted.
+In other words that entry imposes countervailing duty and not additional duty.
+It was conceded by the learned Counsel for the Revenue that the duty levied under entry 63(36) of the First Schedule of the Tariff Act is only a countervailing duty.
+If that be so, that duty cannot be considered as an additional duty over and above the duty imposed under entry 26AA of the First Schedule of the Act.
+But it would be an additional duty if the interpretation of entry 26AA canvassed on behalf of the Revenue is accepted because according to the Revenue the rate prescribed in that entry is equally applicable to all articles mentioned therein whether manufactured from indigenous or imported material.
+If that be so the duty collected under entry 63(36) of the First Schedule under the Tariff Act will be an additional duty and not a countervailing duty.
+It is true that despite entry 26AA of the First Schedule to the Act and entry 63(36) of the First Schedule 498 of the Tariff Act if pig iron or steel ingot imported before April 24, 1962 is used in the manufacture of an article dutiable under entry 26AA only the ad valorem duty prescribed under that entry can be levied on that article.
+It may be that the legislature intended it to be so or there is a lacuna in the provision.
+In either case the effect is the same.
+I now come to the question whether in interpreting a taxing entry I can take any aid from the various steps taken by the Department in implementing that levy, I have earlier referred to a large number of Notifications issued under rule 8 (1 ) of the rules.
+The parties have also produced before us the instructions issued by the Department on May 16, 1962 in the matter of implementation of entry 26AA.
+I have now to see whether any aid can be taken from these instructions as well as the Notifications for finding out the true scope of entry 26AA.
+So far as the instructions issued by the Department are concerned there is hardly any doubt that the same are wholly irrelevant.
+In Craies on Statute Law Sixth Edn.
+at page 131 it is stated: "Explanatory notes regarding the working of an Act issued by a government department for the assistance of their officials are inadmissible for the purpose of construing the Act." .
+The same conclusion was arrived at by this Court in Commissioner Income ' Tax, Madras vs
+K. Srinivasan and K. Gopalan.(1) At pages 502 503 of that report it is observed: "He,(learned Counsel for the assessee), however, drew our attention to the directions contained in the Income tax Manual in force for a number of years and contended that the department itself placed on sub sections (3) and (4) of section 25 the same construction as was placed on them by the senior Judge in the High Court and that was the true construction of these two sub sections.
+This argument in our opinion, has no validity.
+The department changed its view subsequently and amended the manual.
+The interpretation placed by the department on these sub sections cannot be considered to be a proper guide in a matter like this when the construction of a statute is involved.
+" Therefore I have to exclude from consideration the instructions issued by the Government.
+This takes me to the Notifications issued by the Government under rule 8(1) of the rules.
+Under section 38 of the Act all rules (1) , 502 503.
+499 made and notifications issued under the Act shall be made and issued by publication in the official Gazette.
+All such rules and notifications shall thereupon have effect as if enacted in the Act.
+The rules made have to be placed on the table of the Parliament.
+The Parliament can amend those rules.
+Section 3 8 is of no assistance.
+to us in the present case because the notifications referred to earlier are not those issued under the Act.
+They are notifications issued under rule 8 (1) of the rules.
+Therefore their relevance has to be considered without taking any assistance from section 38.
+In Halsbury 's Laws of England 3rd edn.
+36 at page 401 it is observed: "Where a statute provides that subordinate legislation made under it is to have effect as if enacted in the statute, such legislation may be referred to for the purpose of construing a provision in the statute itself.
+Where a statute does not contain such a provision, and does not confer any power to modify the application of the statute by subordinate legislation, it is clear that subordinate legislation made under the.
+statute cannot alter or vary the meaning of the statute itself where it is unambiguous, and it is doubtful whether such legislation can be referred to for the purpose of construing an expression in the statute, even if the meaning of the expression is ambiguous.
+" No decision of this Court or of any of the High Courts in this country dealing with tiffs aspect has been brought to my notice.
+Even the Counsel for the parties were not definite about the stand that they should take.
+They were changing their position again.
+and again.
+On this question the opinion in English courts is not unanimous.
+That question came up for consideration as early as in 1871 in Ex Parte Wier In re Wier.(1).
+Sir G. Mellish L.J. delivering the judgment of the Court observed: "We do not think that any other section of the Act throws any material light upon the proper construction of this section,.
+and if the question had depended upon the Act alone we should have had great doubt what the proper construction was; but we are of opinion that, where the construction of the Act is ambiguous and doubtful on any point, recourse may be had to the rules which have been made by the Lord Chancellor under the authority of the Act, and if we find that in the rules any particular construction has been put on the Act, that it is our duty to adopt and follow that construction.
+" (1) Ch.
+Appeal Cases (Vol. 6) p. 879.
+500 In Re: Normal Ex parte Board of Trade (1) Lord Esher,M.R.Observed: "It was urged that we ought to hold the Act to be retrospective by reason of the rules and forms which have been made under it, and which have a statutory force; and it is said that shew that that the trustee must go back in his accounts to matters which happened before the Act came into operation.
+But, when we look at the forms, we see that they are in express terms headed so as to relate to transactions taking place after the coming into operation of the Act; and, therefore, they supply no reason why we should depart from the ordinary rule that an Act is not retrospective.
+" From these observations, it is clear that Lord Esher did take into consideration the subordinate legislation in considering the principal Act.
+In Billings vs Reed,(2) Lord Greene stated that: "The fact that the object .of this Act was in substance what I have suggested can be seen from a consideration of the way in which the scheme has been framed pursuant to the Act itself and with the tacit approval of Parliament as provided in the Act.
+At any rate, we are entitled to look at the scheme for the purpose of seeing the kind of practical treatment of these questions which Parliament has authorised.
+" From this observation, it is seen that the learned Judge did look into the subordinate legislation in finding out the object of the Act.
+In Hale vs Bolton Leathers Ltd.,(8) Somervell L. J. observed: "The county court judge was referred, as we were, to various paragraphs in the regulations made under the Act of 1946.
+He took the view that these regulations could not affect the construction of the Act.
+The regulation making power is conferred by section 89, sub section 1, proviso (b), and is as follows: 'regulations may make such transitional 'or consequential provisions as appear to the Minister to be necessary or expedient, having regard to the repeal of the said enactments in relation to diseases and to injuries not caused by accident, including provision for modifying or winding up any scheme made thereunder. ' We agree that these regulations could not contradict the Act.
+(1) , 373:.
+(2) (3) , 505.
+501 They might, we think, properly be referred to as working out in detail the provisions of the Act consistently with its terms.
+" In Howgate vs Ganall and .Anr.(1) Barry J. observed: "I cannot, of course, have recourse to these schemes as a guide to the correct interpretation of the Act under which they were made, but I am, I think, entitled to consider them for certain limited purposes.
+In Billings vs Reed(1) Lord Greene H.R., .said, in reference to a scheme made under the Act: 'The fact that the object of this Act was in substance what I have suggested can be seen from a consideration of the way in which the scheme has been formed pursuant to the Act itself and with the tacit approval of Parliament as provided in the Act.
+At any rate we are entitled to look at the scheme for the purpose of seeing the kind of practical treatment of these questions which Parliament has authorized.
+It is abundantly clear from the wording of the various schemes made under the Act that the Minister, with the tacit consent of Parliament has throughout considered that 'war injuries ' may be sustained outside the United Kingdom . . " The decision in Hales vs Bolton Leathers Ltd.(a) to which references has been made earlier was taken in appeal to the House of Lords.
+The judgment of the House of Lords is reported in [1951] A.C.p. 531.
+Dealing with the question whether subordinate legislation could be taken into consideration in interpreting the principal Act lord Simonds said: "I much doubt whether I am entitled.
+to look to the regulations for guidance on the eaning of the word in sub section
+(1), but I will say something on this point later.
+" Reverting back to that topic again (at p. 541 of the report) the learned Judge observed: "First, if I may look at the regulations made under section 55, sub section
+(4), to assist in the interpretation of the word, I agree with my noble and learned friend Normand, in thinking that they assist or at least are consistent with this interpretation." Lord Normand one of the other Judges who heard the appeal observed: "The National Insurance (Industrial Injuries) (Prescribed Diseases) Regulations, 1948, were made under (1) , 274.
+(2) (3) 505.
+502 section 55, sub section 4, and though in my opinion they cannot control the construction of the Act, it is yet of some importance to consider whether they fit into the construction which I think the Act properly hears." Lord Oaksey in the same case was positive that the regulations could be looked into for certain limited purposes.
+This is what observed: "I agree with your Lordships in thinking that the regulations themselves (National Insurance) (industrial Injuries) (Prescribed Diseases) (Regulations 1948) cannot alter the meaning of the words of the statute, but they may, I think, be looked at as being an interpretation placed by the appropriate Government department on the words of the statute." Therein Lord MacDermott also took the assistance of the regulations while considering the statute.
+Lastly we come to the decision of the Chancery Division in London County Council vs Central Land Board(1).
+Danckwerts J. in that case referred to the regulations made under the Housing Act, 1936 while construing the provisions of the Act.
+From the above decisions, it is clear that several judges in England have referred to the subordinate legislation made under a statute for the purpose of interpreting that statute though for the limited purpose of know how the department which was entrusted with the task of implementing that statute had understood that statute.
+In the case of fiscal statutes, it may not be inappropriate to take into consideration the exemptions granted in interpreting the nature and the scope of the impost.
+In the matter of fiscal legislation the initiative is in the hands of the executive.
+Under article 112(1) of our Constitution, the President shall in respect of every financial year.
+cause to be laid before both the Houses of Parliament a statement of the estimated receipts and expenditure for that year.
+Under sub article (3) of article 113 no demand for a grant shall be made except on the recommendation of the President.
+In the matter of taxation very large powers are left in the hands of the executive.
+Generally speaking the question of exemption is left to the discretion of the Government.
+It ought to be so because the exercise of that power depends on various circumstances some of which cannot be anticipated in advance.
+But yet the levy and exemptions are parts of the same scheme of taxation.
+The two together carry into effect the purpose of the legislation.
+For finding out the true scheme of a taxing measure we have to take into consideration not merely the levy but also (1) 503 the exemptions granted.
+This Court in Kailash Nath and another vs State of U.P. and ors.
+(1) held that the exemption granted in pursuance of a notification issued under the.
+U.P. Sales Tax Act must be considered as having been contained in the parent Act itself.
+This is what this Court stated therein: "This notification having been made in accordance with the power conferred by the statute has statutory force and validity and, therefore, the exemption is as if it is contained in the parent Act itself.
+" I do not think it is necessary for me to decide in this case the general question whether subordinate legislation can be used for interpreting a provision in the parent Act.
+I am not unaware of the danger in accepting that it could be so done.
+But for the present purpose, it is sufficient to hold that for finding out the scope of a particular levy, notifications issued by the executive Government providing for exemption from that levy can be looked into as they disclose the overall scheme.
+Even according to the learned Counsel for the Revenue the notifications referred to earlier were issued with a view to avoid double taxation.
+If that is so, the exemption granted under those notifications provide a clue as to the scope of the levy made under Item 26AA.
+We have earlier seen that on the very day, the levy came into force the Government had issued two notifications i.e., Notifications Nos. 70 and 77 of 1962.
+Under Notification No. 70 it exempted Iron and Steel Products falling under item 26AA if made from Pig Iron or Steel Ingots on which the appropriate amount of duty has already been paid, from so much duty of the excise leviable thereon as is equivalent to the duty leviable under Item 25 or as the case may be under Item 26.
+Under Notification.
+No. 77, it exempted Iron and Steel Products falling under subitems Nos. 2, 3, 4 and 5 of Item 26AA, if made from articles which have already paid appropriate duty of excise under subitem (1) of the said item from so much of the duty of excise as is equivalent to the duty payable under the said sub item (1).
+These Notifications clearly indicate that under Item 26AA, there was no intention to levy double excise duty on the same material.
+The intention appears to be that if one article is made out of another article both of which are subject to excise duty, the excise duty paid on the raw material should be deducted in putting the excise duty payable on the finished product.
+In addition these Notifications clearly show that the Pig Iron and Steel Ingot mentioned in el.
+3 of entry 26AA are those used in the manufacture of the article on which duty is sought to be levied under that entry.
+(1) A.I.R. 1957 S.C.790.
+504 In this connection we may also refer to Notification No. 89/62.
+Notification No. 77/62 referred merely to Iron and Steel Pro,ducts falling under sub items 2, 3, 4 and 5 of item 26AA manufactured out of articles falling under sub item (1) thereof.
+That Notification by itself was not all comprehensive.
+It did not take in other articles made out of Pig Iron or Steel Ingot.
+It is that reason Notification No. 89/62 was issued on May 10, 1962 under which exemption was given with effect from April 24, 1962 to all Iron and Steel Products falling under Item 26AA if made from another article falling under the said item and having already paid appropriate amount of duty from so much of the duty of excise as is equivalent to the duty payable on the said article.
+Notifications Nos. 70, 77 and 89 exempted payment of excise duty on an article to the extent duty had been paid on the raw material used in the manufacture of the article dutiable under entry 26AA.
+All these Notifications proceeded on the basis that the second limb of the levy in column 3 of entry 26AA refers to the duty payable on the Pig Iron or Steel Ingot, as the case may be used in the manufacture of an article dutiable under 26AA.
+But the above Notifications do not deal with the countervailhag duty levied under entry 63(36) of the First Schedule to the Tariff Act.
+This was clearly an omission.
+To make good that omission the Government amended Notification No. 89/62 by its order, dated December 29, 1962.
+The amended Notification in addition to the exemption already given under Notification No. 89/62 also exempted from the payment of duty any article falling Within any of the sub items in item 26AA if made from an article on which countervailing duty has been paid under item 63(36) of the First Schedule to the Tariff Act from so much ,of the duty of excise as is equivalent to the countervailing custom .duty payable on the said article.
+This Notification clearly shows that the countervailing duty in question was levied on the basis that the excise duty contemplated by entry 26AA will not apply to articles made out of imported Pig Iron or Steel Ingot.
+Further if the legislature intended the duty under entry 63(36) to be an additional duty, the exemption granted would nullify the legislative mandate.
+To summarise the effect of the Finance (No. 2) Act of 1962 and the various Notifications issued for the purpose of implementing the scheme under that Act is that excise duty is leviable at the rate mentioned in column 3 of Item 26AA on pig iron or steel ingot used in the production of the article on which duty under entry 26AA is sought to be levied but to the extent .any excise duty or countervailing custom duty had been paid on any of the material used in the manufacture of any of that article, the ,same is exempt.
+From this scheme it is clear that when Item 26AA 505 speaks of , 'the excise duty for the time being leviable on Pig Iron or Steel Ingots: as 'the case may be" it refers to the excise duty payable on ' the Pig Iron or Steel Ingots used in the production of the article dutiable under that item.
+From the above discussion, it follows that the wires which are the subject matter of the levy impugned in this case are not liable to pay the duty in dispute in this case.
+At one Stage it was contended on behalf of the assessee that the levy under sub item (1) of Item 26AA comes into effect only when an article is made directly from out of Pig Iron or Steel Ingot as the case may be and not otherwise.
+It is not necessary to examine the correctness of this contention because at no stage the assessee had challenged his liability to pay ad valorem duty .under
+Item 26AA.
+He paid the same without objection nor had he claimed refund of the same.
+I shall now take up the question of limitation.
+The written demand made on March 21, 1963 purports to have been made under rule 9 (2) of the rules.
+Therein the assessing authority demanded steel ingot duty which according to it the assessee had failed to pay.
+Quite clearly rule 9(2) is inapplicable to the facts of the case.
+Admittedly the assessee had cleared the goods from the warehouse after paying the duty demanded and after obtaining the permission of the concerned authority.
+Hence there is no question of any.
+evasion.
+Despite the fact that the assessee challenged the validity of the demand made on him both the Assistant Collector as well as the Collector ignored that contention; but when the matter was taken up to the Government it treated the demand in question as a demand under rule 10.
+The Government confined the demand to clearances effected after December 21, 1962.
+The demand so modified is in conformity with rule 10.
+But the contention of the assessee is that the demand having been made under rule 9 (2) and there being no indication in that demand that it was made under rule 10, the Revenue cannot now change its position and justify the demand under rule 10; at any rate by the time the Government amended the demand, the duty claimed became barred even under rule 10.
+We are unable to accept this contention as correct.
+There is no dispute that the officer who made the demand was competent to make demands both under rule 9(2) as well as under rule 10.
+If the exercise of a power can be traced to a legitimate source, the fact that the same was purported to have been exercise under a different power does not vitiate the exercise of the power in question.
+This is a well settled proposition of law.
+In this connection reference may usefully be made to the decisions of this Court in B. Balakotaiah vs The Union of India and Ors.
+(1) and (1) ; 3sup.
+CI/69 15 506 Afzal UIlah vs State of U.p.(1).
+Further a common form is prescribed for issuing notices both under rule 9(2) and rule 10.
+The incorrect statements in the written demand could not have prejudiced the assessee.
+From his reply to the demand, it is clear that he knew as to the nature of the demand.
+Therefore I find ass suesseeance in the plea of Limitation advanced on behalf of the For the reasons mentioned above, this appeal is the Revenue is directed to refund the excess duty paid under protest.
+ORDER In accordance with the opinion of the appeal is dismissed with costs.

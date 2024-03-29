@@ -1,0 +1,77 @@
+Civil Appeal No. 871 of 1964.
+Appeal from the judgment and order dated January 16, 17, 1961 of the Gujarat High Court in Special Civil Application No. 233 of 1960.
+N. D. Karkhanis, T. A. Ramachandran, 0.
+C. Mathur, Ravinder Narain and J. B. Dadachanii, for the appellant.
+A. V. Viswanatha Sastri, R. Ganapathy Iyer, B. R. G. K. A char and R. N. Sachthey, for the respondents.
+The Judgment of the Court was delivered by Shah, J.
+The appellants Company registered under the Indian Companies Act, 1913 was assessed in the assessment years 1948 49 to 1953 54 in respect of the profits earned in its business, and was allowed rebate under the appropriate provisions contained in the Schedules to the relevant Finance Acts on the undistributed profits of the previous years.
+On December 31, 1956 at an annual general meeting of the shareholders the Company declared an aggregate sum of Rs. 2,15,232/ as dividend for the year ending December 31, 1956.
+Thereafter a special resolution was passed for voluntary winding up of the Company with effect from October 1, 1957, and for appointing a liquidator to wind up the affairs of the Company.
+On October 20 & 21, 1957 the liquidator distributed to the shareholders thereafter on February 21 & 22, 1958; July 27, 1959 the liquidator distributed to the shareholders.
+In respect of each liquidator issued an "income tax refund that the amount was distributed out of accumulated profits of earlier years.
+The Income tax Officer, Special Investigation Circle B, Ahmedabad in exercise of the power under section 35(10) of the Indian Income tax Act, 1922, passed an order withdrawing the rebate, 734 granted in respect of each of the six assessment years 1948 49 to 1953 54 and demanded payment of tax on the amount of the rebate.
+The appellant then applied to the High Court of Bombay for writs quashing the orders of the Income tax Officer and the notice of demand and directing the Income tax Officer to withdraw and cancel the order and notice of demand.
+The petition was dismissed by the High Court.
+With certificate granted by the High Court, this appeal has been preferred.
+Two questions are raised for determination in this appeal (1) Whether section 35(10) authorises the Income tax Officer to bring to tax rebate granted in assessment years commencing prior to April 1, 1956; and (2) whether distribution by the liquidator of accumulated profits in the previous years could be regarded as declaration of dividend within the meaning of section 35(10) so as to attract the applicability of the provisions enabling withdrawal of rebate and demand for tax.
+The first question is concluded by a recent judgment of this Court in Ahmedabad Manufacturing and Calico Printing Co. Ltd. vs section G. Mehta, Income tax Officer and Another(1).
+In that case this Court held that section 35(10) applied even though dividend was declared before April 1, 1956.
+Counsel for the Company urged that in the Ahmedabad Manufacturing and Calico Printing Co. 's case it was held that power to withdraw rebate granted in the year before April 1, 1952 was not exercisable by the Incometax Officer under section 35(10) and consistently with that view withdrawal of rebate granted in the years ending on and before March 31, 1952 was unauthorised.
+In Ahmedabad Manufacturing and Calico Printing Co. 's case(1) declaration of dividend by the Com pany was made on April 20, 1953.
+The financial year in which the amount on which rebate of income tax was allowed was availed of by the Company for declaring dividends was 1953 54, and within four years from the end of that year an order calling upon the Company to show cause why action should not be taken under section 35(10) to recall the proportionate part of the rebate was issued.
+It was said by Hidayatullah, J. : "Since the power commenced on April 1, 1956, the utmost reach of the Income tax Officer would be the end of the assessment year 1952.
+Any declaration of (1) [1963] Supp. 2 S.C.R. 92.
+735 dividend after 1st day of April, 1952, out of accumulated profits of any of the years in which rebate was earned would be within the time for the recall of any rebate.
+But a declaration prior to April 1, 1952, would be beyond the power of the Income tax Officer to recall." Power to withdraw rebate was in that case held exercisable within four years from the end of the financial year in which the amount of rebate was availed of : it was not held that the power was exercisable in respect of rebate granted only in respect of four years before April, 1956.
+The argument raised by counsel importing a limitation contrary to the plain words of the statute must therefore be rejected.
+Sub section (10) of section 35 was inserted in the Income tax Act by section 19 of the Finance Act, 19@6, with effect from April 1, 1956.
+It provides "Where, in any of the assessments for the years beginning on the 1st day of April of the years 1948 to 1955 inclusive, a rebate of income tax was allowed to a company on a part of its total income under clause (i) of the proviso to Paragraph B of Part I of the relevant Schedules to the Finance Acts specifying the rates of tax for the relevant year, and subsequently the amount on which the rebate of income tax was allowed as aforesaid is availed of by the company, wholly or partly, for declaring dividends in any year, the amount or that part of the amount availed of as aforesaid, as the case may be, shall, by reason of the rebate of incometax allowed to the company and to the extent to which it has not actually been subjected to an additional income tax in accordance with the provisions of clause (ii) of the proviso to Paragraph B of Part I of the Schedules to the Finance Acts above referred to,.
+be deemed to have been made the subject of incorrect relief under this Act, and the Income tax Officer shall recompute the tax payable by the company by reducing the rebate originally allowed, as if the recomputation is a rectification of a mistake apparent from the record within the meaning of this section and the provisions of sub section (1) shall apply accordingly, the period of four years specified therein being reckoned from the end of the financial year in which the amount on which rebate of 736 income tax was allowed as aforesaid was availed of by the company wholly or partly for declaring dividends.
+" It is urged by counsel for the Company that power under sub section (10) of section 35 cannot be exercised because distribution of accumulated profits by the liquidator is not distribution by the Company.
+The argument is wholly without substance.
+On the passing of a special resolution by the Company that it be wound up voluntarily under the Companies Act 1 of 1956, the Company does not stand dissolved.
+That is so expressly provided by section 487, of the Companies Act.
+A Company which has resolved to be voluntarily wound up may be dissolved in the manner provided by section 497(5) : till then the Company has corporate existence and corporate powers.
+The property of the Company does not vest in the liquidator : it continues to remain vested in the Company.
+On the appointment of a liquidator, all the powers of the Board of directors and of the managing or whole time directors, managing agents, secretaries and treasurers cease (section 491), and the liquidator may exercise the powers mentioned in section 512, including the power to do such things as may be necessary for winding up the affairs of the Company and distributing its assets.
+The liquidator appointed in a members ' winding up is merely an agent of the Company to administer the property of the Company for purposes prescribed by the statute.
+In distributing the assets including accumulated profits the liquidator acts merely as an agent or administrator for and on behalf of the Company.
+It is then urged that on the commencement of winding up, distinction between the capital and accumulated profits of the Company disappears, and what remains in the hands of the liquidator are the assets of the Company, and distributions made by the liquidator are distributions of capital, regardless of the source from which the funds are distributed is capital or accumulated profits.
+In distributing the surplus assets in his hands, the liquidator is therefore not "declaring dividends" within the meaning of section 35(10).
+In support of this contention, reliance was placed upon Inland Revenue Commissioners vs George Burrell(1).
+The Court in that case held that on the winding up of a limited company the undivided profits of the past year and the year in which winding up occurred were only assets of the company and on distribution amongst the shareholders supertax was not payable on the undivided profits as income.
+(1) 737 Under the , accumulated profits of the Company at the commencement of the winding up of the Company undoubtedly come into the hands of the liquidator as assets for the purpose of satisfying liability of the Company and for distribution among the shareholders.
+But the rule in Burrell 's cave(1) since the amendment of the definition of "dividend" in section 2(6A) by the Finance Act, 1956, no longer applies, when the liability to assessment of income tax in respect of amounts distributed out of accumulated profits by a liquidator in a winding up falls to be determined.
+The Parliament had devised by the Indian Income tax (Amendment) Act 7 of 1939, a special inclusive definition for the Income tax Act, 1922 of "dividend" in section 2(6A).
+Being an inclusive definition, the expression "dividend" means dividend as ordinarily understood under the and also the heads of payment or distribution specified therein.
+Clause (c) as originally enacted, included distributions made to the shareholders of a Company out of accumulated profits on the liquidation of the Company.
+This was clearly an attempt to supersede the rule in Burrell 's case(1).
+It was pointed out by this Court in Dhandhania Kedia & Co. vs Commissioner of Income tax(2) that section 2 (6A) (c) was enacted to remove the anomaly which was created by the judgment in Burrell 's case(1), and to assimilate the distribution of accumulated profits by a liquidator to a similar distribution by a Company which is working.
+But the language of the clause and the proviso thereto included only those accumulated profits which had not been capitalized, and which arose during the six previous years preceding the date of commencement of the year of account in which the liquidation commenced.
+By the Finance Act, 1955, the proviso to cl.
+(c) was omitted : thereby accumulated profits whether capitalized or not and without any restriction as to time were brought within the definition.
+By the Finance Act, 1956, cl.
+(c) was recast as follows : " any distribution made to the shareholders of a company on its liquidation, to the extent to which the distribution is attributable to the accumulated profits of the company immediately before its liquidation, whether capitalized or not.
+" Amendment to cl.
+(c) in section 2(6A) was made and section 35(10) was inserted in the Income tax Act simultaneously by the Finance Act, 1956.
+It would be reasonable to regard the provisions of section 35(10) and amended cl.
+(c) of sub section
+(6A) of section 2 as part of a (1) L3Sup.
+CI/66 18 (2) 738 single scheme to declare distribution of accumulated profits, capitalized or not, as dividends, and to bring the rebate granted on undistributed profits to tax if availed of by the company or by the liquidator of a company for distributing dividends.
+Counsel for the Company contended that the amount distributed out of accumulated profits by the liquidator is not dividend in the hands of the Company.
+For this distinction again there is no warrant.
+Distribution of accumulated profits by a Company not subject to winding up is distribution of dividend by virtue of section 2(6A) (a), and distribution of accumulated profits in the course of liquidation is dividend by virtue of section 2(6A)(c).
+It is true that the definition of "dividend" in section 2(6A)(c) win apply only if there is nothing repugnant in the subject or context in which the expression "dividend" occurs in section 35(10), but there is nothing in section 35(10) which suggests that the expression "dividend" was to have a meaning different from the meaning assigned to it by the interpretation clause.
+It was urged that assuming that accumulated profits of a Company distributed by the liquidator may be regarded as dividends, power under section 35(10) cannot be exercised in respect of those profits, because the liquidator is not in distributing the profits "declaring dividends".
+But the assumption underlying the argument that the provides that dividends may be deemed to be declared only if certain mandatory provisions are complied with is without substance.
+By section 205 of the Indian (before it was amended in 1960) it was provided that no dividend shall be declared or paid except out of the profits of the company or out of moneys provided by the Central or a State Government for the payment of the dividend in pursuance of a guarantee given by such Government.
+The Company in the present case was registered under the Indian Companies Act, 1913.
+The Articles of Association of the Company are not before us, but the Articles relating to distribution of dividend being under section 17(2) of the Companies Act, 1913, obligatory, articles 95, 96 and 97 in Table A of Act 7 of 1913 applied.
+By article 95 it was provided that a company in general meeting may declare divi dends, but no dividends shall exceed the amount recommended.
+But to the distribution of interim dividends, the condition that it must be declared in general meeting of the Company did not apply, and such interim dividends as appeared to the directors to be justified by the profits of the company could be distributed (article 96).
+The only other relevant condition was in article 97 that no dividend shall be paid otherwise than out of profits of the year or any other undistributed profits.
+739 The liquidator of the appellant company did from time to time distribute accumulated profits, and within the meaning of section 2(6A)(c) read with the provisions of the Companies Act, they were distribution of interim dividends.
+It is true that power under section 35(10) may be exercised if accumulated profits are availed of by the Company "for declaring dividends in any year", but since the Companies Act does not in the matter of distribution of interim dividends set up any special machinery, nor impose any special condition before power in that behalf may be exercised, no artificial meaning can be attached to the word "declaring dividends".
+Distribution of accumulated profits by the liquidator together with the income tax refund certificate in the course of voluntary winding up may therefore, for the purpose of section 2(6A)(c), be regarded as declaration of dividend.
+The appeal therefore fails and is dismissed with costs.
+Appeal dismissed.

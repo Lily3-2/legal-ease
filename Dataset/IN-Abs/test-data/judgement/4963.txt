@@ -1,0 +1,40 @@
+Tax Reference Cases Nos. 3 to 5 of 1975 Tax Reference under Section 257 of the Income tax Act, 1961 made by the Income tax Appellate Tribunal, Cuttack Bench, Cuttack P.A. Francis, Champat Rai and Miss A. Subhashini for the Appellant.
+C.S.S. Rao for the Respondent.
+The Judgment of the Court was delivered by 308 PATHAK, J.
+: These references under s.27(1) of the have been made by the Income Tax Appellate tribunal, Cuttack Bench at the instance of the Commissioner of Wealth Tax, Orissa for the opinion of this Court on the following question of law: "Whether on the facts and in the circumstances of the case, the Wealth Tax Officer was in law justified in including in the net wealth of the assessee interest due on accrual basis (though not realised) on the outstandings of the money lending business, the accounts of the assessee being maintained on cash basis ?" The respondent assessee was assessed to wealth tax for the assessment years 1965 66, 1966 67 and 1967 68 (the respective valuation dates being March 31, 1965, March 31, 1966 and March 31, 1967), in the status of a 'Hindu Undivided Family.
+In each of the assessments, the Wealth Tax Officer included a sum of Rs. 1,50,000 estimated as the accrued interest on the assessee 's money lending investments.
+The assessee appealed to the Appellate Assistant Commissioner and urged that as it maintained its books of account in accordance with the cash system of accounting the accrued interest on the money lending investments could not be included in the wealth tax assessments.
+The contention found favour with the Appellate Assistant Commissioner, and accordingly he deleted the additions of Rs. 1,50,000 representing accrued interest.
+In doing so the Appellate Assistant Commissioner followed "Commissioner of Wealth tax Bihar and Orissa vs Vysyaraju Badreenarayana Moorthy Raju (Orissa)(1), The Wealth Tax Officer appealed to the Appellate Tribunal and contended that accrued interest was liable to be included in the wealth tax assessments of the assessee.
+The Wealth Tax Officer sought support from a judgment of the Andhra Pradesh High Court in Vedreva Venkappa Rao vs Commissioner of Wealth tax(2) A.P.
+The Appellate Tribunal observed that the judgment of the Orissa High Court was binding on it, and accordingly by a consolidated order dated April 3, 1972, it dismissed the appeals.
+The Commissioner of Wealth Tax applied under sub section
+(1) of section 27 of the Wealth (1) (2) 309 Tax Act for a reference of the cases to this Court in view of the conflict of opinion between the Orissa High Court and the Andhra Pradesh High Court, and so these references have been made.
+The question can be disposed of shortly.
+Under section 3 of the Wealth Tax Act, wealth tax is charged for every assessment year in respect of the net wealth of the assessee on the corresponding valuation date.
+The expression "net wealth" is defined by cl.
+(m) of s.2 of the Act as "the amount by which the aggregate value . .
+Of all the assets, wherever located, belonging to the assessee on the valuation date. is in excess of the aggregate value of all the debts owed by the assessee on the valuation date. " According to the scheme of the Wealth Tax Act, the net wealth of an assessee has to be determined as it obtains on a particular date.
+That is the "valuation date".
+Clause (q) of s 2 defines the expression "valuation date" as follows: ; "(q) Valuation date, in relation to any year for which an assessment is to be made under this Act, means the last day of the previous year as defined in (Section 3) of the Income Tax Act, if an assessment were to be made under that Act for that year; Provided that (i) Where in the case of an assessee there are different previous years under the Income Tax Act for different sources of income, the valuation date for the purposes of this Act shall be the last day of the last of the previous years aforesaid, (ii) in the case of a person who is not an assessee within the meaning of the Income Tax Act, the valuation date for the purposes of this Act shall be the 31st day of March immediately preceding the assessment (z year; (iii)where an assessment is made in pursuance of section 19A, the valuation date shall be the same valuation date as would have been adopted in respect of the net wealth of the deceased if he were alive.
+" 310 The computation of the net wealth of an assessee calls for a determination of his assets and debts as on the valuation date.
+The definition embodied in the substantive part of cl.
+(q) of s.2 indicates that broadly Parliament has fixed upon the last day of the "previous year", as defined under the Income Tax Act, as the valuation date.
+The figure of net wealth of the assessee at the end of the "previous year" takes into account the financial activities of the assessee during that "previous year".
+His financial activities during that period determine how his net wealth on a particular valuation date differs from his net wealth on the immediately preceding valuation date.
+There is an obvious advantage in adopting as the valuation date the last day of a period which is also the relevant period under the Income Tax Act.
+The reasons for defining the valuation date in terms of the last day of the income tax "previous year" stop there.
+The system of accounting, mercantile or cash or hybrid, is of no relevance for the purpose of determining the assets of the assessee.
+That appears plainly from the definition or "net wealth" which speaks of "the aggregate value. of all the assets" belonging to the assessee on the valuation date.
+All the assets of the assessee, bar those expressly excepted by the statute, are to be taken into account, and it is immaterial whether the assessee employs one system of accounting or another.
+There is clear indication that the assets to be considered are not circumscribed by any consideration of the particular system of accounting adopted by the assessee.
+The assets are not confined to cash.
+Where the asset is an asset other than cash, its value is determined pursuant to sub section
+(I) of s.7 as the estimated price, which, in the opinion of the Wealth Tax Officer, the asset would fetch if sold in the open market on the valuation date.
+In other words, it would be the estimated open market value of the rights in the property which constitute the asset.
+When we speak of the value of a property, on a legal plane we refer to the value of the rights in that property.
+It is apparent that what accrues as a right also falls to be included within the assets of an assessee under the Wealth Tax Act.
+That being so, the conclusion is inescapable that even though the accounts of the assessee are maintained on cash basis interest due on accrual basis, though not realised, on the outstandings of the money lending business are liable to be included in the net wealth of the assessee.
+In this view of the matter, we approve of the opinion expressed by the Andhra Pradesh High Court in Vedrevu Venkappa Rao (supra) 311 and in Commissioner of Wealth Tax, A.P. I vs Pachigolla Narasimha Rao(1) and the Calcutta High Court in Dipti Kumar Basu vs Commissioner of Wealth Tax, West Bengal(2) and hold that the view taken by the Orissa High Court in Commissioner of Wealth tax vs Vysyaraju Badreenarayana Moorthy Raju (Orissa) (supra) and by the Karnataka High Court in A. T. Mirji vs Commissioner of Wealth Tax, Karnataka(3) cannot be accepted.
+In the result, the question is answered in the affirmative, in favour of the Revenue and against the assessee.
+There is no order as to costs.

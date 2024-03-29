@@ -1,0 +1,75 @@
+l Appeals Nos, 1761 of 1967.
+Appeal from the judgment and decree, dated the 14th April, 1964 of the Allahabad High Court in Income tax Reference No. 130 of 1960 and Civil Appeal No. 1762 of 1967.
+Appeal from the judgment and decree, dated May 5, 1964 of the Allahabad High Court in Income tax Reference No. 777 of 1961.
+538 B. Sen, B.D. Sharing and R.N. Sachthey, for the appellant (in both the appeals).
+G.C. Sharma, V.C. Rishi and P.K. Mukherjee, for the respondent (in C.A. No. 1761 of 1967).
+The Judgment of the Court was delivered by Grover, J.
+The common question which arises in these appeals by certificate, is whether speculative losses can be set off against profits from any other business activity under section 10 in spite of the first proviso to.
+section 24(1) of the Income Tax Act, 1922.
+The facts in C.A. 1761/67 in which the question in the above form was referred, the language of the question being somewhat different in the other appeal, may be stated.
+The assessee who is an individual derived income from three sources i.e., property, shares in joint stock companies and commission agency business and shares in partnership firms.
+The accounting year relevant to the assessment year 1953 54 was the period from October 20., 1951 to October 8, 1952.
+In the personal business of commission agency, the assessee returned a net profit of Rs. 2,761.
+In arriving at this figure the net share of loss of Rs. 11,075 from the firm of Kamta Prasad Raghunath Prasad in which the assessee was a partner, was Claimed.
+The Income Tax Officer did not go into the details but ignored the figure in the absence of information from the Income tax Officer assessing the aforesaid firm.
+Before the Appellate ASsistant Commissioner it was submitted that the actual share of loss was Rs. 13,232 and it included a sum of Rs. 8,669 representing loss suffered in speculative dealings in silver paid through the firm Kamta prasad Raghunath Prosad.
+The Appellate Assistant Commissioner, after examining the details of the loss, directed the Income Tax Officer to exclude a profit of Rs. 1,415 from the speculative transactions and to carry forward the net loss of Rs. 7,254 for setting it off against the income of the assessee from speculative dealings in subsequent years.
+Before the Appellate Tribunal there was no dispute about these figures.
+What was contended was that the loss of Rs. 7,254 should be set off against profit from other business.
+The Tribunal rejected this contention following the decision in Keshavlal Pramchand vs Commissioner of Income tax.
+Ahmedabad(1).
+Thereafter the assessee moved the Tribunal for making a reference to the High Court.
+The High Court did not accept the view in Keshavlal Pramchand 's(1) case which has been followed in several other decisions by other High Courts.
+Now certain provisions of the Act may be noticed before the case law is discussed.
+Section 6 gives the heads of income (1) 539 chargeable to income tax which are six in number.
+Section 7 deals with the first head "salaries"; Section 8 with the second head "interest on securities"; section 9 with "income from property" and section 10 provides for liability to tax under the head "profits and gains of business, profession or vocation" which is the fourth head given in section 6.
+It is unnecessary to go to the 5th and 6th heads.
+Section 24 provides that where any assessee sustains.
+a loss of profits or gains in any year under any of the heads mentioned in section 6, he shall be entitled to have the amount of the loss set off against his income, profits or gains under any other head in that year.
+In the year with which we are concerned in the present case there was a proviso which was, at that time, the second proviso but it became the first proviso after the enactment of the Taxation Laws (Extension to Jammu & Kashmir) Act 1954.
+This proviso, at the material time, stood as follows: "Provided further that in computing the profits and gains chargeable under the head 'Profits and gains of business, profession or vocation ', any loss sustained in speculative transactions which are in the nature of a business shah not be taken into account except to the extent of the amount of profits and gains, if any, in any other business consisting of speculative transactions".
+In Keshavlal Pramchand 's(1) case the assessee had suffered a loss in speculative business carried on by him in the year of account.
+His contention was that he was entitled to take this loss into account in arriving at the profits and gains of his business (of non speculative nature).
+Mr. Palkhiwala, who argued the case before the Bombay court, put forward the view that section 24( 1 ) read with proviso referred only to a case where the assessee was claiming the right to set off the loss which he had suffered under one head against a profit which he had earned in another head.
+The section therefore had no application when the assessee wanted to adjust or set off a loss against a profit under the same head.
+It was urged by him that the assessee in claiming to.
+set off his speculative loss against his business profits under the same head was not claiming the benefit of any right conferred by section 24(1) and therefore the proviso had no application.
+The argument was elaborated further by referring to the true nature and function of a .proviso which was to except or take out a particular portion from the field dealt with by the section.
+Chagla, C.J., who delivered the judgment of the Bombay Bench, had no difficulty in coming to the conclusion that on the language of the proviso itself and on the scheme of the Act the Legislature in enacting the so called proviso was enacting a substantive provision dealing with the mode of computing the profits and gains charge (1) 540 able under the head "profits and gains of business profession or vocation" and that the Legislature had provided that when profits and gains.
+were computed the loss sustained in a speculative transaction must not be taken into account except to the extent of the amount of profits and gains, if any, in any other business consisting of speculative transactions.
+The learned Chief Justice further referred to the mischief which was aimed at by the Legislature in enacting the proviso.
+In recent times businessmen were known to buy speculative losses in order to reduce their profits and the Legislature wanted to put an end to that mischief which could only be done by preventing the assessee from reducing his profits by speculative losses.
+Bombay decision was followed by the Madhya Pradesh High Court in Commissioner Income Tax, Nagpur vs Ram Gopal Kanhaiya Lal(1) as also by the Division Bench of the Punjab High Court in Manohar Lal Munshi Lal vs Commissioner of Income ' Tax, New Delhi(").
+The matter ultimately went to a Full Bench of the Punjab High Court in Commissioner of Income Tax vs Ram Swarup(") in which after reviewing the entire case law and examining the various aspects relevant to the questio,n the view exp.
+ressed by Chagla, C.J. in the Bombay case was accepted as correct.
+Similarly in Jummar Lal Surajkaran vs Commissioner of Income Tax(4), Hanuman Investment Company vs Commissioner of Income Tax(5), and Joseph ' John vs Commissioner of Income Tax(6), the considerations which prevailed in Keshavlal Pramchand 's(7) case were accepted as correct.
+It would appear that so far as this Court is concerned the matter now stands concluded by the following observations in Commissioner 07 Income ' Tax, Gujarat vs Kantilal Nathu Chand(8): "Section 24 is, thus, a provision laying clown the manner of computation of total income.
+The principal clause of section 24( 1 ) lays down that, if there.
+ben loss of profits or gains in any year under any of the heads mentioned in section 6, that loss has to be set off against the income, profits or gains of the assessee under any other head in that year.
+If this provision had stood by itself without any provisos, the result would.
+have been that all losses incurred by an assessee under any of the heads mentioned in section 6 would be adjusted against profits under all other heads, and then the total income.
+of the assessee would be worked out on that basis.
+The first ' proviso.
+to this.
+sub section, (1) (2) (3) (4) (5) (6) (7) (8) ; , 321.
+541 however, lays down an exception to this general rule contained in the principal clause.
+The exception relates to income from business sustained in speculative transactions and places the limitation that losses sustained in speculative transactions are not to be taken into account in computing the profits and gains chargeable under the head "Profits and gains of business, profession or vocation", except to the extent that they will be set off against profits and gains in any other business which itself consists of speculative transactions.
+The effect of the proviso is that if there are profits in speculative business, those profits are added to income under the other heads mentioned in section 6 for purposes of computing the total income of the assessee in order to determine the tax under section 23 of.
+the Act.
+On the other hand, losses in speculative business are not to be taken into account when computing the total income, except to the extent to which they can be set off against profits from other speculative business.
+The first proviso, thus, clearly limits the applicability of the principal clause of section 24 ( 1 ); and, when applied, it governs.
+the manner in which the total income of the assessee is to be corn .
+puted.
+In the case before us, the Income Tax Officer was clearly right in the assessment years 1958 .59 and 1959 60 in not setting off the losses in the speculative business against the income earned in those years either from property or from ready business in kappas".
+The learned counsel for the assessee sought to press the reasons which prevailed with the learned Judges of the High Court and has sought to characterise the above observation as obiter.
+It is neither necessary to.
+deal with the reasoning of the High Court nor can that reasoning stand in view of what has been laid down in Kantilal Nathu Chand 's(1) case by this Court which cannot be regarded as obiter becau 'se it has been clearly stated that the question of the applicability of the proviso with which we are concerned arose directly in that case in respect of the assessment years 1958 59 and 1959 60.
+The concluding portion of the passage extracted leaves.
+no room or doubt in this matter.
+Moreover we are of the opinion that where the language is quite clear and no other view is possible it is futile to go into the question whether the proviso to.
+section 24( 1 ) operates as a substantive provision or only by way of an exception to section 24( 1 ).
+The proviso says in unmistakable and unequivocal terms that any losses sustained in speculative transactions which are in the nature of a business shall not be taken into account except to the extent (1) ; 542 of the amount of profits or gains in any other business consisting of speculative transactions.
+This has to be read with Explanation (1) according to which where the speculative transactions carried on are of such a nature as to constitute a business the business shall be deemed to be distinct and separate from any other busi In the above view of the matter the answer to the questions referred in both the appeals will be in the negative, namely, against the assessee and in favour of the Department.
+The appeals are accordingly allowed with costs.
+There will be one hearing fee.
+V.P.S. Appeals allowed.

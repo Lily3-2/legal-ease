@@ -1,0 +1,67 @@
+Appeal No. 358 of 1958.
+645 Appeal by special leave from the judgment and order dated 8th March, 1956, of the former Bombay High Court in I.T.R. No. 55 of 1955.
+A. N. Kripal and D. Gupta, for the appellant.
+N. A. Palkhivala and B. P. Maheshwari, for the respondents.
+November 24.
+The Judgment of the Court was delivered by KAPUR, J.
+This is an appeal by special leave against the judgment and order of the High Court of Bombay in Income tax Reference No. 55 of 1955, in which two questions of law were stated for opinion and both were answered in favour of the assessee and against the Commissioner of Income tax who is the appellant before us and the assessee is the respondent.
+The facts of this case are these: The respondent is a registered firm carrying on business as commission agents in Bombay.
+For purposes of its business it borrowed money from time to time from Banks on joint promissory notes executed by it and by others with joint and several liability.
+On September 26, 1949, the respondent borrowed Rs. 1,00,000 from the Bank of India on a pronote executed jointly with one Kishorilal.
+Out of this amount a sum of Rs. 50,000 was taken by the respondent for purposes of its business and the rest by Kishorilal.
+Kishorilal however failed to meet his liability and became a bankrupt.
+The respondent had therefore to pay the Bank the whole amount, i.e., Rs. 1,00,000 with interest.
+Out of the amount taken by Kishorilal the respondent received in the accounting year, from the Official Assignee, a sum of Rs. 18,805 and claimed the balance, i.e., Rs. 31,740 as deduction.
+The accounting year was from August 26, 1949 to July 17, 1950, the assessment year being 1951 52.
+This claim was disallowed both by the Income tax Officer as well as the Appellate Assistant Commissioner.
+On Appeal to the Income tax Appellate Tribunal this sum was allowed ,as an allowable deduction under section 10(2)(xv) of the Income tax Act and as business loss.
+82 646 At the instance of the Commissioner a case was stated to the High Court of Bombay by the Income tax Appellate Tribunal.
+In the statement of the case which was agreed to by both parties the Tribunal said: "For the purpose of his business, he borrows from time to time money on joint and several liability from banks.
+The Commercial practice is to borrow money from banks on joint and several liability.
+An illustration will explain what we mean.
+A and B require Rs. 50,000 each.
+They find that the Bank would not advance Rs. 50,000 to each on his individual security.
+They however, find that the Bank would be prepared to advance Rupees one lach on their joint and several liability.
+They take Rupees one lac on joint and several liability and then divide the money equally between themselves.
+" It also found that the Banks advanced monies to some constituents on their personal security also but they had to pay a higher rate of interest than when the money was borrowed on joint and several responsibility; that Rs. 1,00,000 borrowed from the Bank was in accordance with the commercial practice of Bombay.
+On these facts the following two questions of law were referred to the High Court: "(1) Whether the assessee 's claim is sustainable under section 10(2)(xv) of the Act? (2) Whether the assessee 's claim that the loss was a business loss and, therefore, allowable as a deduction in computing the profits of the assessee 's business is sustainable under law?" Both these questions were answered in favour of the respondent and against the appellant.
+Counsel for the Commissioner challenged the findings of the Tribunal in regard to the existence of commercial practice in Bombay but this ground of attack is not available to him because not only did the Tribunal give this finding in its Order, but in the agreed statement of the case also this finding was repeated as is shown by the passage quoted above.
+The High Court also has proceeded on the basis of this commercial practice.
+In the judgment under appeal the learned Chief Justice said: 647 "The finding of the Tribunal is clear and explicit that what the assessee was doing was not something out of the ordinary, but in borrowing this money on joint and several liability he was following a practice which was established as a commercial practice.
+Therefore, the transaction was clearly in the course of the business and incidental to the business and it is this transaction which resulted in a loss to the assesses, he having to pay the liability of the surety.
+" Therefore this appeal has to be decided on the basis that a commercial practice of financing business by borrowing money on joint and several liability was established.
+It was argued on behalf of the appellant that this court in Madan Gopal Bagla vs Commissioner of Income Tax, West Bengal (1) had decided against the allowability of such losses.
+But the facts of that case when carefully scrutinised are distinguishable and the decision does not support the contentions of the appellant.
+No doubt certain features of that case and the present one are similar but they differ in essential features.
+In that case the assessee was a timber merchant who obtained a loan of Rs. 1 lac from the Bank of India on the joint security of himself and one Mamraj, which the assessee paid off.
+Mamraj also obtained a loan of Rs.
+I lac on the joint security of himself and the assessee.
+Mamraj became an insolvent and the assessee had to pay the whole of the amount borrowed with interest thereon.
+The assessee there received a certain amount of money by way of dividends from the Receiver and the balance he wrote off as bad debt in the assessment year and claimed it as an allowable deduction under section 10.
+The High Court there held that the debt could not be said to be a debt in respect of the business of the assessee as he was not carrying on the business of standing surety for other persons nor was he a money lender, he being simply a timber merchant; that it had not been established nor was it alleged that he was in the habit of standing surety for other persons "along with them for purposes of securing loans for their use and benefit" and even if money (1) ; 648 had been so borrowed and there had been a loss the loss would have been a capital loss and not a business loss to the assessee.
+This statement of the law was approved by this Court but there mutuality, as an essential ingredient of the custom established, was found to be lacking as is shown by the following passage from the judgment of the court.
+"The custom stated before the Appellate Assistant Commissioner was that persons carrying on business in Bombay used to borrow monies on joint security from the Banks in order to facilitate getting financial assistance from the Banks and that too at lower rates of interest.
+A businessman could procure financial assistance from the Banks on his own, but he would in that case have to pay a higher rate of interest.
+He would have to pay a lower rate of interest if he could procure as surety another business man, who would be approved by the Bank.
+This, however, did not mean that mutual accommodation by businessmen was necessarily an ingredient part of that custom.
+A could procure B, C or D to join him as surety in order to achieve this objective, but it did not necessarily follow that if A wanted to procure B, C or D to thus join him as surety he could only do so if he in his own turn joined B, C or D as surety in the loans which B, C or D procured in their turns from the Banks for financing their respective businesses.
+Unless that factor was established, the mere procurement by A of B, C or D as surety would not be sufficient to establish the custom sought to be relied upon by the appellant so as to make the transaction of his having joined Mumraj Rambhagat as surety in the loan procured by Mumraj Rambhagat from Imperial Bank of India, a transaction in the course of carrying on his own timber business and to make the loss in the transaction a trading loss or a bad debt of the timber business of the appellant.
+" Continuing at page 558 it was observed: "There were thus elements of mutuality and the essential ingredient in the carrying on of the money lending business, which were elements of the custom 649 proved in that case, both of which are wanting in the present case before us." Mr. Palkhivala for the respondent rightly argued that Madan Gopal Bagla 's case (1) was decided against the assessee because the custom of persons standing surety for each other for borrowing money and the element of mutuality which was an essential ingredient in the case of Commissioner of Income Tax, Madras vs section A. section Ramaswamy Chettiar (2) was not proved.
+In the latter case it was established that there was a well recognised custom amongst Chettiars of raising funds for their business of money lenders by the execution of joint pronotes and that if a loss was sustained by one of the executants having to pay the whole on account of inability of the other it was a deductible loss.
+The appellant also relied on a judgment of the Madras High Court in Commissioner of Income Tax vs section R. Subramanya Pillai (3).
+In that case the assessee was a book seller who from time to time jointly with another person borrowed money out of which he employed a portion in his business.
+One of such amounts borrowed was Rs. 16,200 out of which the assessee took Rs. 10,450 for his business needs and the other debtor took the balance.
+The latter became insolvent and the assessee had to pay the whole of the money borrowed and claimed it as allowable deduction under section 10(2)(xi) or section 10(2)(xv) of the Act or as business loss and it was hold that he was not entitled, because the loss sustained by the assessee was too remote from the business of book selling carried on by him and was not sufficiently connected with the trade and therefore fell outside the range of those amounts which could properly be brought into profit and loss account of the business.
+The decision in Commissioner of Income Tax vs section A. section Ramaswamy Chettiar (2) was there distinguished on the ground that the decision must be confined to its own peculiar facts and did not apply to business as the one in Subramanya Pillai 's Case (3).
+The following passage from (1) ; , (2) (3) 650 the judgment of Viswanatha Sastri, J., in that case is relevant: "But there the business was one of money lending and the Court found that according to the wellknown and well recognised mercantile custom of Nattukottai bankers, they were in the habit of raising 'funds which formed the stock in trade of their money lending business by the execution of joint promissory notes in favour of bankers.
+That was apparently the usual technique of obtaining credit adopted by the Nattukottai Chetti community money lenders.
+In the context this Court held that where a Nattukottai Chetti money lender paid off in their entirety the debts jointly due by him and another as a result of the latter 's inability to pay, the loss sustained as a result of this transaction was a loss of the moneylending business itself and therefore a deductible item in computing profits.
+" In the instant case it has been found that there was a well recognised commercial practice in Bombay of carrying on business by borrowing money from Banks on joint and several liability.
+It was also found that by so doing the borrower could borrow money at a lower rate of interest than he otherwise would have paid; that the respondent had, in accordance with the commercial practice, borrowed the money, the whole of which he had to return because the joint promisor Kishori Lal had become bankrupt; mutuality was also held proved.
+It cannot be said that the essential feature of the case now before us is in principle different from that of the Commissioner of Income tax vs Ramaswamy Chettiar (1).
+In both cases the finding is that there is mutuality and custom of borrowing money on joint pronotes for the carrying on of business.
+In our opinion in the circumstances proved in the present case, and on the facts established and on the findings given, the respondent was rightly held to be entitled to deduct the loss which was suffered by him in the transaction in dispute.
+Counsel for the assessee drew our attention to a (1) 651 Privy Council judgment Montreal Coke and Manufacturing Co. vs Minister of National Revenue (1) but that, case can have no application to the facts of the present case because it was found there as a fact that the assessees 's financial arrangements were quite distinct from the activities by which they earned their income and expenditure incurred in relation to the financing ' of their business was not expenditure in the earning of their income within the statute.
+It was then contended that the loss of the respondent was a 0capital loss and for this again reliance was placed on the judgment of this Court in Madan Gopal Bagla 's case (2 ) and particularly on the observation at page 559 where Bhagwati, J., quoted with approval the observations of the High Court in the judgment but as we have pointed out the facts of that case are distinguishable and what was said there has no application to the facts and circumstances proved in the present case.
+In our view the judgment of the High Court is right and we therefore dismiss this appeal with costs.
+Appeal dismissed.

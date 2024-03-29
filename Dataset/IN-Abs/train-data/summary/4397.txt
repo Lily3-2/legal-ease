@@ -1,0 +1,50 @@
+The respondent assessee an existing company under the had neither any share capital nor distributed any dividend to its members and its entire income was expended for fulfilment of its objects, which were the promotion, protection and development of trade, commerce and industry in India.
+During the assessment year 1962 63, the relevant accounting year for which the year ended December 31, 1961 the assessee submitted a return showing its total income as 'nil ' claiming that all its income was exempt under section 11(1)(a) read with Section 2(15) of the Income Tax Act.
+During the assessment year, the assessee held the Indian Trade Fair at New Delhi and derived receipts from rent for space allotted, temporary stalls and storage and realised deposit and advances from the participants for hotel accommodation.
+In the relevant accounting year, the Conference of the Afro Asian Organisation for Economic Cooperation, was sponsored by the assessee and for organising the Conference, the assessee received from the Government Rs. 3 lakhs as grant in aid and after meeting the expenses, was left with a balance of Rs. 2 lakhs.
+It also received income by sale of books, fee for arbitration etc.
+The balance sheet for the accounting year indicated that it had an excess of income over expenditure under the head 'income '.
+The contention of the assessee before the Income Tax Officer was that the activities carried on by the Federation were not were not motive of earning profits, but that they were carried on with the object of promotion, protection and development of trade, commerce and industry in India and abroad, and therefore the income derived by the assessee was exempt under section 11(1)(a).
+The Income Tax Officer, held that the decision of this Court in the Andhra Chamber of Commerce 's case [1965] I.S.C.R. 565 was no longer good law due to the addition of the words 'not involving the carrying on any activity for profit ' in the definition of 'charitable purpose ' in Section 2(15) of the Act which qualify the fourth head of charity viz. 'any other object of general public utility ' and, therefore, must be read subject to the additional statutory requirement that the 490 object of general public utility should not involve the carrying on of any activity for profit, and accordingly raised a demand.
+On appeal by the assessee, the Appellate Assistant Commissioner disagreed with the view of the Income Tax Officer and held that the activities carried on by the assessee were not profit oriented and, therefore, its income was exempt.
+The Department appealed to the Appellate Tribunal, and the Appellate Tribunal upheld the view of the Appellate Assistant Commissioner and held that the dominant object with which the Federation was constituted being a charitable purpose viz., promotion, protection and development of trade, commerce and industry, there being no motive to earn profits, it was not engaged in any activity in the nature of business or trade, and, if, any income arose from such activity, it was only incidental or ancillary to the dominant object for the welfare and common good of the country 's trade, commerce and industry.
+The Commissioner of Income Tax applied to the Appellate Tribunal to make a reference to the High Court under sub section (1) of section 256 of the Act, but in view of the conflict in the decisions of the High Courts on the construction of the expression 'charitable purpose ' as defined in section 2(15) of the Act the Tribunal made a reference to this Court under Section 257 .
+On the question whether the words 'not involving the carrying on of any activity for profit ' in the definition of 'charitable purpose ' contained in section 2(15) of the Act, govern the word 'advancement ' and not the words 'object of general public utility '.
+^ HELD: [By the Court] The reference must be answered against the Revenue and in favour of the assessee, in the view of the majority opinion in Addl.
+Commissioner of Income Tax vs Surat Art Silk Cloth Manufactures, [1980] I S.C.R. 77.
+[492 F] [Per A.P. Sen, J.] 1.
+The majority view in the Surat Art Silk case was that the condition that the purpose should not involve the carrying on of any activity for profit would be satisfied if profit making is not the real object.
+The theory of dominant or primary object of the trust, has, therefore, been treated to be the determining factor, even in regard to the fourth head of charity, viz. advancement of any other object of general public utility, so as to make the carrying on of business activity merely ancillary or incidental to the main object.
+This doctrine of dominant or primary object holds the field till there is a change of law.
+[496 C D, 497 F] 2.
+The majority decision had the effect of neutralising the radical changes brought about by Parliament in the system of taxation of income and profits of charities, with particular reference to "object of general public utility" to prevent tax evasion, by diversion of business profits to charities.
+It is the vagueness of the fourth head of charity "any other object of general public utility" that impelled 491 Parliament to insert the restrictive words "not involving the carrying on of any activity for profit".
+[496 G 497 A] 3.
+It was clearly inconsistent with the settled principles to hold that if the dominant or primary object of a trust was 'charity ' under the fourth head 'any other object of general public utility ', it was permissible for such an object of general public utility to augment its income by engaging in trading or commercial activities.[497 B] 4.
+When the Government did not accept the recommendation of the Direct Taxes Laws Committee in Chapter 2 for the deletion of the words "not involving the carrying on of any activity for profit" occurring in Section 2(15) of the Act, it was impermissible for the Court by a process of judicial construction to achieve the same result.
+[496 F] 5.
+In the instant case, activities of the assessee in regard to holding of the Indian Trade Fair and sponsoring of the Conference of the Afro Asian organisation in the relevant accounting year were for the advancement of the dominant object and purpose of the trust, viz. promotion, protection and development of trade, commerce and industry in India.
+The income derived from such activities was therefore exempt under section 11(1)(a) read with section 2(15) of the Act.
+[498 G 499 A] 6.
+There is a distinction between the "purpose" of a trust and the "power conferred upon the trustees" as incidental to the carrying out of the purpose.
+If the primary or dominant purpose of a trust or institute is charitable, any other object which is merely ancillary or incidental to the primary or dominant purpose, would not prevent the trust or the institution being a valid charity.
+[498 G, 499 A] [Per Venkataramiah, J.] 1.
+It is open to the Legislature to give encouragement to objects which it considers to be laudable by means of fiscal exemptions.
+At the same time, it takes care to enact fresh provisions from time to time to suppress any mischief which may have resulted from the misuse of existing law.
+Parliament deliberately stepped in by adding the words "not involving the carrying on of any activity for profit" in the definition of 'charitable purpose ' in section 2(15) of the Act, when the tax exemptions available to charitable and religious trusts came to be misused by some for the unworthy purposes of tax avoidance.
+The law had been so restructured to prevent allergy to taxation masquerading as charity.
+The law was thus designed by Parliament to prevent this misuse of tax exemption in the name of charity.
+[500 F H] 2.
+This Court has enlarged the meaning "charitable purpose" in Section 2(15) beyond what it legitimately should mean in the Surat Art Silk Cloth Manufacturers Association 's case.
+It has virtually wiped off the restrictive words "not involving the carrying on or any activity for profit" occurring in section 2(15), thereby defeating the very object and purpose of the legislation.
+It is not the function of a court of law to give the words a strained and unnatural meaning.
+Judicial attitudes cannot be formed in isolation from legislative processes, particularly, in connection with tax avoidance provisions.
+[500 D, 501A, 500E] 492 3.
+Modern legislation has changed in pattern re casting provisions of taxation with very wide language, while at the same time dealing in much more detail with some areas of law.
+Judges while responding to general trends of law, but also reacting to the form of modern tax legislation, must be prepared to take account of the context and purposes of the change brought about.[501 E] Greenberg vs Inland Revenue Commissioners [1972] A.C. 109 (HL) referred to.
+When the Government had not accepted the recommendation of the Direct Taxes Laws Committee in Chapter 2 for the deletion of the words "not involving the carrying on of any activity for profit", by suitable legislation, it was impermissible by a process of judicial construction to achieve the same result.
+[501 B] 5.
+People who are truly charitable do not think of the tax benefits while making charities.
+Even the poor who do not pay income tax can be charitable and their charities are made at great personal inconvenience.
+Charitable persons are not amongst the tax payers only.
+[502 H 503 A]

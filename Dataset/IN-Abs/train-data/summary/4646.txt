@@ -1,0 +1,43 @@
+The DGS&D, representing the Government of India, had entered into a contract with the appellant firm for supply of some timber.
+Clause 18 of the standard form of contract, under the head "Recovery of sums due", provided inter alia that whenever any claim for payment of a sum of money arose out of or under the contract against.
+the contractor, the purchaser shall be entitled to recover such sum by appropriating any sum then due or which at any time thereafter may become due to the contractor under any other contract with the purchaser.
+Clause 24 thereof provided for arbitration in the event of any dispute arising between the parties.
+The appellant failed to supply the timber.
+The DGS&D cancelled the contract, made risk purchases at extra cost and issued notice calling upon the appellant to pay the extra cost incurred and threatening to withhold the amount from the payments due under the pending bills of other contracts.
+The appellant moved a petition under section 33 of the alleging that there was no concluded contract in existence between the parties, containing any arbitration clause and praying for an injunction restraining the Union of India from appropriating, withholding or recovering the amount claimed from its other bills.
+The High Court held that under section 41 of the Act it could only grant an injunction restraining the Union of India from appropriating or recovering the amount of damages claimed from the other pending bills of the appellant, and rejected the prayer for grant of injunction restraining the Union of India from withholding payments of the other pending bills.
+Dismissing the appeal, ^ HELD: 1.
+Clause 18 of the standard form of contract confers ample power upon the Union of India to withhold the amount and no injunction 608 order could be passed restraining the Union of India from withholding the amount [623 B] (i) The golden rule of construction is that when the words of a statute are clear, plain and unambiguous, that is, they are reasonably susceptible to only one meaning, the Courts are bound to give effect to that meaning irrespective of the consequences. 'The duty of a judge is to expound and not to legislate a is fundamental rule.
+If this principle is applied to the interpretation of cl. 18 of the standard form of contract it would be clear that the clause unequivocally contemplates a claim for payment.
+It does not contemplate the amount due and, therefore, the heading of this clause which talks of only 'Recovery of sums due ' will not control cl. 18.
+Headings cannot be used to give a different effect to clear words in the section where there cannot be any doubt as to the ordinary meaning of the words.
+The clause gives wide powers to the Union of India to recover the amount claimed by appropriating any sum then due or which at any time thereafter may become due to the contractor under other contracts.
+[620 A G] (ii) Clause 18 was slightly differently worded earlier when it read 'whenever under this contract any sum of money is recoverable from and payable by the contractor '.
+But this formula was deliberately and advisedly altered when the present standard form was introduced by substituting the words 'whenever any claim for payment of a sum of money arises ' and this change in phraseology indicated that in order to attract the applicability of the present cl. 18, it was not necessary that there should be a sum of money due and payable by the contractor to the purchaser, but it was enough if there was a mere claim on the part of the purchaser for payment of a sum of money by the contractor irrespective of the fact whether such sum of money was presently due and payable or not.
+Even after the change in the language of cl 18 the Union of India cannot be injuncted from withholding the amount under other bills of the contractor.
+But it can certainly be injuncted from recovering or appropriating it to the damages claimed.
+[620 H 621A, G] Union of India vs Raman Iron Foundry, [1974] 3 S.C.R. 556 overruled.
+An injunction order restraining the Union of India from withholding the amount due to the contractor under other pending bills virtually amounts to a direction to pay the amount to the contractor appellant.
+Such an order was beyond the purview of cl.
+(b) of section 41 of the .
+[621 H 622 A] (i) Clause(b) of section 41 confers power on the court to pass orders in respect of any of the matters set out in the Second Schedule which inter alia includes `interim junction '.
+But this power to pass an order of injunction can only be excercised 'for the purpose of and in relation to arbitration proceedings ' before the Court.
+[61 5H] In the instant case the proceedings before the Court were pursuant to an application made under section 33 of the Act in which the appellant had taken the stand that there was no concluded contract between the parties containing an arbitration clause.
+Therefore, it is difficult to say that the 609 application for injunction moved by the appellant was for the purpose of and in relation to arbitration proceedings.
+That apart, the amount due to the appellant under the pending bills was not the subject matter of the present proceedings and, therefore, the injunction order restraining the respondent from withholding the amount due to the appellant under the pending bills in respect of other contracts could not be said to be for the purpose of and in relation to the present arbitration proceedings.
+[616 A, C, 617 A B] Union of India vs Raman Iron Foundry [1974] 3 S.C.R. 556, referred to.
+Mohan Meaken Breweries vs Union of India, A.I.R. 1975 Delhi 248, approved.
+(ii) The contention that cl.
+(a) of section 41 makes the Code of Civil Procedure applicable to all proceedings before the Court and to all appeals under the Act and, therefore, the appellant was entitled lo invoke o. 39 of the Code to get an injunction order even if the conditions of cl.
+(b) of section 41 were not satisfied cannot be accepted.
+Clause (a) of section 41 makes only the procedural rules of the Code applicable to the proceedings in court under the .
+This clause does not authorise the court to pass an order of injunction.
+If the above contention is accepted, appeals would lie under sections 96, 100 or 104 of the Code.
+But the Act itself provides for appeal under section 39.
+Besides, if cl, (a) of section 41 gave wide powers to pass all order of injunction, cl.
+(b) of section 41 would become otiose.
+[616 D F] (iii) If an order injuncted a party from withholding the amount due to the other side under pending bills in other contracts, the order necessarily means that the amount must be paid.
+It will be a contradiction in terms to say that a party is injuncted from withholding the amount and yet it can withhold the amount as of right.
+In any case if the injunction order is one which a party was not bound to comply with, the Court would he loath and reluctant to pass such an ineffective injunction order.
+In injunction order is passed only for the purpose of being carried out.
+[618 D E] Union of India vs Raman lron Foundry, [1974] 3 S.C.R. 556; observations to the contrary held inconsistent with the law laid down in the case.

@@ -1,0 +1,73 @@
+Appeal No. 144 of 1953.
+Appeal from the Judgment and Order dated the 28th November, 1951, of the High Court of Judicature at Calcutta in Reference No. 40 of 1950.
+Sukumar Mitra (section N. Mukherjee, with him) for the appellant.
+C. K. Daphtary, Solicitor General of India, (G. N. Joshi, with him) for the respondent.
+November 1.
+The Judgment of the Court was delivered by VENKATARAMA AYYAR J.
+This is an appeal from the judgment of the High Court of Calcutta on a reference under section 66(1) of the Income tax Act.
+The appellant is a Company which came into existence in 1870 as an unregistered association, and in 1906 it was registered under the provisions of the Indian Companies Act.
+Its business consists exclusively in granting terminable pensions or annuities dependent on human life in favour of the subscribers or their nominees.
+The dispute in this appeal relates to the assessment of the profits of the Company for income tax for the periods, 1943 1944, 1944 1945, 1945 1946 and 1946 1947.
+To follow the points in issue, it will be useful to refer to the statutory provisions bearing on the matter.
+Section 2(11) of the , defines "life insurance business" as meaning "the business of effecting contracts of insurance upon human life" and as including "the granting of annuities upon human life.
+" The business of the appellant Company would therefore be life insurance business as defined in section 2(11) of the .
+Under section 10(7) of the Indian Income tax Act, the profits and gains of any business of insurance are to be computed in accordance with the Rules in the Schedule to the Act.
+Rule 2 in the Schedule is as follows: " The profits and gains of life insurance business shall be taken to be either 824 (a)the gross external incomings of the preceding year from that business less the management expenses of that year, or (b)the annual average of the surplus arrived at by adjusting the surplus or deficit disclosed by the actuarial valuation for the last intervaluation period ending before the year for which the assessment is to be made ' so as to exclude from it any surplus or deficit included therein which was made in any earlier intervaluation period and any expenditure which may under section 10 of this Act be allowed for in computing the profits and gains of a business, whichever is the greater.
+"Rule 5(ii) defines "gross external incomings" as including profits on the sale or the granting of annuities.
+These Rules came into force in 1939.
+In 1945 the assessment of the profits of the appellant Company for the years 1943 1944, 1944 1945 and 19451946 was taken up by the Income tax Officer.
+Under Rule 2, what the Income tax Officer had to do was to compute the profits of the Company under the two heads (a) and (b) in that Rule and to adopt whichever was higher as assessable profits.
+What he actually did however is uncertain, because the orders of assessment themselves have not been exhibited as part of the record.
+From the order of the Tribunal dated 5th March, 1949, it appears that the Income tax Officer firstly determined the profits under Rule 2(b) on the basis of actuarial valuation after making certain adjustments; and secondly on the basis of the figure arrived at under Rule 2(b), he worked out the profits under Rule 2(a) by making further adjustments.
+These orders were made on 14th July, 1945.
+The company preferred appeals against them to the Appellate Assistant Commissioner, who held by his order dated 30th November, 1945, that the annuity business contemplated by Rule 5(ii) was "purely annuity business", that the business carried on by the Company was "an admixture between an annuity and life insurance", and that there had been no adequate investigation by the Income tax Officer of the nature of the business of the Company.
+He 825 accordingly remanded the case for further enquiry and for passing fresh orders of assessment.
+By the time the matters came up for further enquiry before the Income tax Officer in pursuance of the order of remand, the assessment of the profits of the Company for the year 1946 1947 had also to be made.
+By order dated 23rd December, 1946, the Income tax Officer determined the assessable profits of the Company for all the four years.
+He held that there was no element of insurance in the business of the Company, and that the computation should be made under Rule 2(a).
+Then he proceeded to assess the profits under that Rule precisely in the manner adopted by him in his order dated 14th July, 1945.
+He first took the annual adjusted surplus calculated according to the actuarial valuation under Rule 2(b) and after making certain adjustments, adopted it as the figure under Rule 2(a).
+These orders were clearly erroneous.
+The statement that there was no element of life insurance in the policies was rightly hold to be erroneous by the Tribunal and has not been sought to be supported.
+If the annuity business of the Company was not life insurance business, then even Rule 2(a) would have no application.
+The Income tax Officer was likewise in error in adopting the figures reached under Rule 2(b) as the basis for computing the profits under Rule 2(a) without an independent enquiry into the materials requisite under that Rule.
+The Company took up the matter in appeal to the Appellate Assistant Commissioner, who by his order dated 26th September, 1947, held that the annuity business of the appellant was life insurance business, and that the profits should be computed under Rule 2.
+He further held that in the absence of a profit and loss ,statement for the previous year, the Income tax Officer could only act on the materials furnished by the actuarial valuation as a guide for computation under Rule 2(a).
+He therefore confirmed the orders of assessment.
+The Company then appealed to the Tribunal.
+By its order dated 5th March, 1949, the Tribunal held that the business of the Company was "in a way" insurance, 826 and that computation of the profits should be made in accordance with Rule 2, after determining the profits both under Rule 2(a) and Rule 2(b).
+It took exception to the modus adopted by the Income tax Officer in ,computing the profits under Rule 2(a), and observed that he should have made independent enquiry under Rule 2(a), and determined the profits and not merely adopted the figures computed under Rule 2(b) as the basis for computing the profits under Rule 2(a).
+The Tribunal accordingly remanded the matter to the Income tax Officer for further enquiry for determining the profits in terms of Rule 2(a).
+Dissatisfied with this order, the respondent applied for reference under section 66(1) of the Income tax Act, and on that application, the following questions were referred to the decision of the High Court: 1.
+" Whether in the facts and circumstances of the case the business of the assessee Company consisted wholly of annuity business or whether it contained some elements of ordinary life insurance business as distinct from annuity business.
+Whether the Income tax Officer was justified in making an estimate for calculations under Rule 2(a) of the Schedule attached to section 10(7) of the Income tax Act.
+" The reference was heard by Chakravarti and section R. Das Gupta JJ.
+They held that the first question did not arise on the order of the Tribunal, but all the same expressed their opinion thereon in the following terms : " Its business is *holly a business of granting annuities on human life, and no part of its business is ordinary life insurance business.
+" As we are not concerned with this matter in this appeal, there is no need to further refer to it.
+On the second question, they observed that business in annuities dependent on life as contrasted with "annuities certain" would be insurance business as defined in section 2(11) of the Act, and that the profits of that business being "gross external incomings" as defined in Rule 5(ii) must be determined under Rule 2(a).
+Dealing next with the objection of the appellant that there had been no proper determination of the 827 profits under Rule 2(a), they held that in the absence of profit and loss statements for the previous years and other materials the Income tax Officer had no course open to him except to adopt the figures computed under Rule 2(b) as a basis for computation under Rule 2(a).
+The second question was accordingly, answered in the affirmative.
+It is against this decision that the present appeal has been preferred on a certificate granted under section 66A (2).
+Mr. Mitra for the appellant does not dispute the position that the business of the Company on annuity policies dependent on human life is insurance business as defined in section 2(11), and that the profits of the business should therefore be computed in accordance with Rule 2 in the Schedule to the Income tax Act.
+His contention is that the Income tax Officer had failed to make the computation in accordance with Rule 2(a), and that the Tribunal was right in remanding the matter for a correct computation of the profits in accordance with that Rule.
+This contention must, in our opinion, succeed.
+Under Rule 2, the Income tax Officer has to determine under clause (a) what the gross external incomings of the previous year were, and deduct out of them the managing expenses for that year.
+He has also to find out in terms of clause (b) the annual average surplus on the basis of actuarial valuation in the manner prescribed therein.
+He has then to adopt whichever is higher as the assessable profits of the year.
+Now the complaint of the appellant is that while a computation was made under clause (b) no independent computation was made under clause (a), and that therefore the profits had not been determined as required by the Rules.
+It is a fact that no independent computation has been made under Rule 2(a), and therefore there has been no compliance with the Rule.
+The learned Judges declined to uphold this objection on the ground that the Company did not place any materials before the Income tax Officer so as to enable him to make a determination under Rule 2(a), and that in the absence of any materials the Income tax Officer was justified in acting on the actuarial report for computing the profits even under Rule 2(a).
+828 The argument of the appellant is that having regard to the stand taken by either side at the stage of investigation and to the opinion expressed by the Income tax Officer that there was no element of insurance in the annuity business of the Company, the true position under the Rules had been missed by all of them, with the result that there was no attempt made to compute the profits in terms of the provisions of Rule 2(a), that the appellant had not wilfully failed to produce any evidence, and that the observation of the learned Judges that no profit and loss statement had been produced was based on a misapprehension, as no such statement had to be prepared by an Insurance Company.
+We must now turn to the statement of the case by the Tribunal to see what had really happened before the Income tax Officer, for the last word on questions of fact is with it, and that is binding on the Courts.
+Neither in the statement of the case by the Tribunal, nor in its order of remand is there any finding that the requisite materials had been withheld by the appellant.
+The only statement bearing on this question in the order of the Tribunal is as follows: " . the Departmental Representative admitted before us that the calculations purported to have been made under Rule 2(a) were not in accordance with the requirements of Rule 2(a), but it was explained that as the information necessary for determining income under Rule 2(a) was not available, an estimate was made and the income determined under Rule 2(b) was adopted for determining the income under Rule 2(a).
+" What is referred to in this passage is only a statement of the Departmental Representative and not a finding.
+On the other hand, the whole tenor of the judgment of the Tribunal is that there had been no determination of the profits under Rule 2(a) by reason of the erroneous view taken by the Income tax Officer as to the true nature of the business of the Company.
+If there had been a finding by the Tribunal that the requisite materials had been called for and withheld by the appellant, the decision of the High Court would be unassailable, and, indeed, that was the only one that 829 could have been reached.
+But in the absence of such a finding, we are unable to see any ground on which the order of the Tribunal could be upset in a reference under section 66(1).
+When once it is found that there was no proper determination of the profits as required: under Rule 2(a) and that was indeed conceded and there was no justification for it such as the High Court thought there was, the only order that could properly be made was to remand the case for further enquiry and fresh disposal in accordance with law.
+That was the order which was passed by the Tribunal, and that, in our opinion, was right.
+This appeal will accordingly be allowed, and the second question referred by the Tribunal answered in the negative.
+The result of this will be that the Income tax Officer will proceed to enquire into the profits of the appellant Company for the years in question in accordance with the requirements of Rule 2.
+Under the circumstances, we direct that the parties do bear their respective costs both here and in the High Court.
+Appeal allowed.

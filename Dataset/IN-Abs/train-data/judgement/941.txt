@@ -1,0 +1,75 @@
+Appeal No. 231/1955.
+Appeal from the Judgment and Decree dated February 16, 1954, of the Patna High Court in Title Suit No. 105/1953.
+446 N. C. Chatterjee, Sanjeev Choudhuri and Ganpat Rai, for the appellant.
+C. K. Daphtary, Solicitor General of India, P. K. Chatterjee and T. M. Sen, for respondent No. 1.
+* Lal Narayan Sinha, Bajrang Sahai and R. C. Prasad, for respondent No. 2. 1960.
+August 31.
+The Judgment of the Court was delivered by WANCHOO J.
+This is an appeal from a decree of the Patna High Court.
+The appellant is a Public Limited Company with its registered office at Calcutta.
+A mining lease was granted to it by the Raja of Ramgarh on December 29, 1947, for a period of 999 years in respect of 3026 villages situate within the Ramgarh Estate and the appellant was put in possession thereof.
+On February 1, 1950, the appellant granted a sub lease of two of the villages comprised in its grant to one Bhagat Singh for a term of 15 years.
+In the meantime the Mines and Minerals (Regulation and Development) Act (LIII of 1948), (hereinafter called the Act), had come into force along with the Mineral Concession Rules, 1949 (hereinafter called the Rules), in the area in which the two villages lay.
+Bhagat Singh then applied to the Deputy Commissioner, Hazaribagh, for the grant of a certificate of approval under the Rules.
+Thereupon the Deputy Commissioner, taking the view that the sub lease granted was in contravention of the Act and the Rules, filed a complaint on September 25, 1951, before a magistrate against two directors and the secretary of the appellant charging them with the breach of r. 45 of the Rules and also rr.
+47 and 49 (now r. 51) read with r. 51 (now r. 53) and section 9 of the Act.
+While the criminal case was going on, the appellant filed a suit challenging the validity and constitutionality of the Act and the Rules.
+A number of grounds were taken in support of this challenge but it is not necessary now to set out all of them, as learned counsel for the appellant has confined his arguments only to two points, namely, (i) a sub lease is not covered by the definition of the term ' mining lease ' in section 3(d) of the 447 Act and therefore the Act and the Rules do not apply to a sub lease at all, and (ii) as these Rules were made under sections 5 and 6 of the Act and not under section 7 they have no application to a sub lease granted by a lessor, even after the coming into force of the Act and the Rules, where the lessor 's own lease was of a date anterior to the coming into force of the Act and the Rules.
+The suit was resisted by the respondents and their defence was that the term ' mining lease ' included a sub lease and that the Rules framed under Bs.
+5 and 6 of the Act were applicable to all sub leases granted after the Act and the Rules had come into force.
+The High Court repelled the contentions raised by the appellant against the validity and constitutionality of the Act and the Rules.
+It further held that the term 'mining lease ' as defined in section 3(d) of the Act included a sub lease and therefore the Act and the Rules applied to sub leases granted after the Act and the Rules came into force and it was immaterial that the lease granted to the appellant was anterior in time to the coming into force of the Act and the Rules.
+On this view, the suit was dismissed.
+Thereupon the appellant applied for a certificate which was granted and that is how the matter has come up before us.
+The main question that falls for consideration is whether the term 'mining lease ' as defined in section 3(d) of the Act includes a sub lease.
+Clause (d) of section 3 is in these terms: " mining lease ' means a lease granted for the purpose of searching for, winning, working, getting, making merchantable, carrying away, or disposing of mineral oils or for purposes connected therewith, and includes an exploring or a prospecting licence; ".
+There is no specific mention of a sub lease in it.
+But if one takes the plain meaning of the words used in section 3(d), it is clear that the term 'mining lease ' means any kind of lease granted for the purpose of searching for, winning, working, getting, making merchantable, 448 carrying away or disposing of minerals or for purposes connected therewith.
+It is significant that the definition does not require that the lessor must be the proprietor; and so on a fair reading it would include a lease executed by the proprietor as much as a lease executed by the lessee from such a proprietor.
+If we turn to the definition of 'lease ' in section 105 of the , we find that a lease of immovable property is a transfer of a right to enjoy such property made for a certain time, express or implied or in perpetuity in consideration of a price paid or promised, or of money, a share of crops, service or any other thing of value to be rendered periodically or on specified occasions to the transferor by the transferee who accepts the transfer on such terms.
+What a lease therefore requires is a transferor and a transferee and a transfer of immovable property on the terms and conditions mentioned in section 105.
+How the transferor gets his title to make a lease is immaterial so long as the transaction is of the nature defined in section 105.
+Applying therefore the plain words of section 3(d) of the Act and the definition of lease as contained in section 105 of the , it is perfectly clear that there is a transferor in this case, (namely, the appellant) and a transferee (namely, Bhagat Singh) who has accepted the transfer; the transaction is with respect to immovable property and creates a right to enjoy such property for a certain term and for consideration on the conditions mentioned in it.
+Though, therefore, the document may be termed a sub lease in view of the fact that the transferor is not the owner of the property transfer red but is itself a lessee, the transaction between the appellant and Bhagat Singh is nothing but a mining lease.
+The terms ' sub lease ', ' under lease ' and "derivative lease ' are used conveniently to indicate not only that the transfer is a lease but also that the transferor is not the owner of the property but is a lessee ; but the transfer as between a lessee and a sub lessee is nonetheless a lease provided it satisfies the definition of section 105.
+We may add that Ch.
+V of the , which deals with leases of immovable 449 property has nowhere made any distinction between a lease and a sub lease and all the provisions of that Chapter which apply to a lease also apply to a sublease.
+It is only when dealing with the rights and liabilities of the lessee that section 108(j) of the lays down that the lessee may transfer absolutely or by way of mortgage or sub lease the whole or any part of his interest in the property, and that is where one finds mention of a sub lease, namely, that it is a lease by a person who is himself a lessee.
+But the fact that the lessor is himself a lessee and the transaction between him and the person in whose favour he makes the transfer by way of lease is called a sub lease does not in any way change the nature of the transfer as between them.
+Therefore on the plain words of section 3(d) read with section 105 of the there can be no doubt that the term 'mining lease ' includes a sub lease. ' Learned counsel for the appellant referred in this connection to a number of statutes wherein a sub lease has been expressly stated to be included in the term 'lease '.
+In the Mines and Minerals (Regulation and Development) Act, LXVII of 1957, which has replaced the Act, the term 'mining lease ' has been defined in section 3(c) as meaning a lease granted for the purpose of undertaking mining operations and includes a sublease.
+The 1957 Act was enacted after the judgment of the High Court in this case and the legislature apparently thought it fit ex abundanti cautela to say that a sub lease is included within the term ' mining lease '.
+In the corresponding English Act also as well as the English Law of Property, 1925, a lease has been defined to include a sub lease.
+The fact however that in some laws a lease is defined to include a sub.
+lease, does not mean that a lease cannot otherwise include a sub lease.
+An example to the contrary is the , where the definition of the word 1 lease ' clearly includes a sub lease.
+Learned counsel for the appellant also relied on certain decisions in which it was held that a lease did not include a sub lease.
+Those decisions, however, turn on the particular terms of the enactment there under 450 consideration and are of no assistance in determining the question whether the term 'mining lease ' in the Act includes a mining sub lease.
+Ordinarily, a lease will include a sub lease unless there is anything to the contrary in the particular law.
+We may in this connection refer to the observations of Jessel, M. R., in Camberwell and South London Building Society vs Holloway (1) at p. 759: " The word `lease ' in law is a well known legal term of well defined import.
+No lawyer has ever suggested that the title of the lessor makes any difference in the description of the instrument, whether the lease is granted by a freeholder or a copyholder with the licence of the Lord or by a man who himself is a leaseholder.
+It being well granted for a term of years it is called a lease.
+It is quite true that where the grantor of the lease holds for a term, the second instrument is called either an under lease or a derivative lease, but it is still a lease. . .".
+We see nothing in the Act to indicate that the term ' mining lease ' as defined in a. 3(d) does not include a mining sub lease.
+On the other hand, looking to the purpose and object with which the Act was passed, it seems to us quite clear that a sub lease must be included within the term 'mining lease ' as it obviously is within the plain words of section 3 (d).
+That the Act was passed in the public interest is shown by the fact that it provides for the regulation of mines and oil fields and for the development of minerals.
+The intention was that the mineral wealth of the country should be conserved and should be worked properly without waste and by persons qualified in that kind of work.
+With that object in view section 5 inter alia provides for making rules as to the conditions on which mining leases may be granted and the maximum or minimum area and the period 'for which such lease may be granted as also the terms on which leases in respect of contiguous areas may be amalgamated, and the fixing of the maximum and minimum rent payable by a lessee (1) , 759 451 whether the mine is worked or not.
+Section 6 provides for framing of rules for the conservation and development of minerals, the manner in which any mineral or any area as respects which the grant of mining lease is prohibited may be developed and the development of any mineral resources in any area by prescribing or regulating the use of engines, machinery or other equipment, and so on.
+These provisions for the conservation, development and regulation of mining areas and minerals would be more or less completely frustrated if a mining sub lease was not included in the definition of the term 'mining lease ', for then all that would be necessary for a per.
+son who wanted to avoid the law would be to interpose an intermediary between himself and the owner and get a sub lease from him which would be free from the regulatory control of the Act and the Rules. 'We are therefore of opinion that looking at the plain words of section 3(d) and the object and the purpose for which the Act was passed, it is clear that a mining sub lease is included within the definition of the term 'mining lease ' and there is nothing in the Act which militates against this.
+We therefore hold that a mining sub lease made after the coming into force of the Act and the Rules is included in the term 'mining lease ' as defined in section 3 (d) and is subject to the Act and the Rules.
+The argument in this connection is that a. 4 of the Act provides that no mining lease shall be granted after the commencement of the Act otherwise than in accordance with the rules framed under the Act and any mining lease granted otherwise shall be void and of 'no effect.
+Sections 5 and 6 give power to the Central Government to make rules for purposes already set out above and refer to mining leases granted under section 4 Then comes section 7, which lays down that the Central Government may by notification in the official gazette make rules for the purpose of modifying or altering the terms and conditions of any mining lease 58 452 granted prior to the commencement of the Act so as to bring such lease into conformity with the rules framed under Be.
+5 and 6.
+It is urged that where a mining lease has been granted before the Act and the Rules came into force, it is only the rules framed under section 7 which will affect any sub lease granted by such a lessee even though the sub lease is after the date on which the Act and the Rules came into force.
+Section 7 in our opinion was enacted for an entirely different purpose, as sub section
+(2) thereof will show.
+It is however not necessary to go into this matter further, for once it is held that a, sub lease is included in the term 'mining lease ', the rules made under sections 5 and 6 would apply to such a sub lease, if it is made after the Act and the Rules came into force.
+In the present case, the sub lease was granted after the Act and the Rules came into force in the area with which the sub lease is concerned and therefore the sub lease would be governed by the Act and the Rules.
+There is no question in this case of modifying or altering the terms and conditions of any mining lease granted prior to the commencement of the Act, for the Act and the Rules are being enforced with respect to a sub lease which is a mining lease, within the definition of that term in section 3(d), made 'after the Act and the Rules came into force.
+No change is being made by the Rules in the terms and conditions of the mining lease granted to the appellant and all that has happened is that the appellant 's directors and secretary, are being prosecuted for granting a sub lease (which is a mining lease) against the provisions of the Act and the Rules after the Act came into force.
+There is no force therefore in this contention of the appellant and it must be repelled.
+There is no force in this appeal and it is hereby dismissed with costs.
+, One set of hearing costs only.
+Appeal dismissed.

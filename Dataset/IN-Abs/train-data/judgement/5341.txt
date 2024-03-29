@@ -1,0 +1,78 @@
+Appeal No. 74 of 1975.
+From the Judgment and Order dated 9.11.
+1973 of the Allahabad High.
+Court in L.T. Ref.
+No. 722 of 1971.
+S.C. Manchanda, Ms. A. Subhashini and M.N. Tandon for the Appellant.
+J.P. Goyal, Rajesh, Malt Ram Bidwar.
+and D.P. Mukherjee for the Respondent.
+The Judgment of the Court was delivered by RANGANATH MISRA, J.
+This appeal is by special leave and the judgment of the Allahabad High Court on a reference under Section 256(1) of the Income Tax Act.
+1961 (hereinaf ter referred to as 'the Act ') is assailed by the Revenue.
+The relevant assessment year is 1965 66 corresponding to the previous year ending on 31.12.
+In its return the assessee, a pri 1161 vate limited company.
+disclosed capital gains of Rs.3.10,200 but claimed set off of capital loss of Rs.3.17,500 sustained by it during the assessment year 1957 58 over sale of shares to three associate concerns.
+It was maintained by the asses see that the loss was sustained in the previous year rele vant to the assessment year 1957 58 and the same should be set off against the capital gains in the assessment year in question.
+The Income tax Officer disallowed the claim for set off on the footing that when in the assessment year 1957 58 the loss was claimed it was excluded in the computa tion of income as capital loss and the Appellate Assistant Commissioner while disposing of the assessee 's appeal had stated that it was a notional capital loss.
+As no further appeal was carried by the assessee, with the first appellate order the matter had become final.
+The assessee challenged the rejection of its claim of set off before the Appellate Assistant Commissioner and he dismissed the appeal by holding that there was no genuine loss; it was essentially notional in nature and that the claim for set off to be admissible had to be notified by the Income tax Officer under Section 24(3) of the 1922 Act to the assessee by an order in writing.
+That having not been done, the claim was not admissible.
+Thereupon the assessee went before the Appellate Tribunal and reiterated its claim.
+The Tribunal came to the .conclusion that the assessee was entitled to the benefit of set off of loss provided it satisfied that its capital loss was computed under the old Act.
+In its view as the assessee had filed its return show ing the loss and the Income tax Officer neither computed the loss nor passed an adverse order, the Income tax Officer was not entitled to take advantage of his own failure and reject the assessee 's claim of carry forward and set off of loss on the ground that loss had not been determined as required under section 24(3) of the Income tax Act, 1922.
+The Tribu nal further found that the Income tax Officer had clearly disallowed the assessee 's claim of revenue loss by holding that it was a capital loss.
+It found that the Appellate Assistant Commissioner had no justification to hold that the claim of loss was not genuine while disposing of the appeal for the assessment year 1957 58 and ultimately allowed the assessee 's claim.
+At the instance of the Revenue four ques tions were referred for opinion of the High Court.
+Whether on the facts and in the circum stances of the case, the Income tax Officer 's order for the assessment year 1957 58 had not merged in the Appellate Assistant Commission er 's order in which the Appellate Assistant Commissioner had given a clear finding that the loss was notional? 1162 2.
+If the answer to the above question is in the negative, whether any loss could be said to have been determined for the assessment year 1957 58, which could be carried forward to subsequent years? 3.
+Whether in view of the provisions of Sec tion 80 of the Income tax Act, 1961, the loss claimed for the assessment year 1957 58 could be set off against the income determined for the assessment year 1965 66? 4.
+Whether the Tribunal was justified in law in holding that the provisions in Section 24(3) regarding intimation of losses deter mined by the Income tax Officer do not.
+apply to the loss falling under the head 'capital '? The High Court found that the Income tax Officer in the assessment order for 1957 58 had mentioned: "Net loss as per profit and loss account adjust Rs.3, 17,205.
+(i) Loss on sale of investment being capital : Rs.3, 17,500 00 (ii) Income tax :Rs. 204 00 Total : Rs.3, 17,704 00 Income :Rs. 499 00" It is true that in appeal the Appellate Assistant Com missioner had held: "A perusal of the assessment records show that the appellant held 2,500 ordinary shares in M/s. B.R. Ltd. These shares were held on investment account and were not stock in trade of the Company.
+M/s. B.R. Ltd. is an associat ed concern and the shares were sold to allied concerns and a loss of Rs.3, 17,500 was worked out.
+Firstly, the shares were investment shares.
+Secondly, the price for which the shares were transferred to another associated concern was a notional price.
+The management just transferred the shares held by one compa ny to another company 1163 under their control and management.
+Of course, the transfer was not a trading activity.
+In these circumstances, I hold that the Income tax Officer has rightly disallowed the loss claimed, the same being notional capital loss.
+" The High Court found that both the Income tax Officer as also the Appellate Assistant Commissioner had found that the loss was a capital loss.
+The High Court fur:her found: "In our opinion this Section (Section 80 of the 1961 Act) cannot apply to a case where in law a return could not have been filed under Section 139.
+That is to say in relation to assessment years prior to the coming into force of the Income tax Act, 1961 a return could not possibly have been filed under Section 139 because in these years this Sec tion was not on the Statute Book.
+But if Section 80 is construed to mean that a return filed under the Income tax Act 1922 is also within its purview then in our opinion the requirement of this Section was equally ful filled because the assessee has for the as sessment year 1957 58 filed a return of loss which loss had been determined by the Income tax Officer in the assessment order.
+" The High Court took the view that in the order for assessment year 1957 58.
+the Appellate Assistant Commission er has referred to the claims of loss as notional when he really meant that it was an estimate.
+It agreed with the conclusion of the Tribunal and found against the Revenue.
+Section 24 of the 1922 Act which applied to the assess ment year 1957 58 as far as relevant provided: "(1) Where any assessee sustains a loss of profits or gains in any year under any of the heads mentioned in Section 6, he shall be entitled to have the amount of the loss set off against his income, profits or gains under any other head in that year . . " (2A) Notwithstanding anything contained in sub section (1), where the loss sustained is a loss falling under the head 'capital gains '.
+such loss shall not be set off except against any profits and gains falling under that head." 1164 (2B) Where an assessee sustains a loss such as is referred to in sub section (2A) and the loss cannot be wholly set off in accordance with the provisions of that sub section, the portion not so set off shall be carried for ward to the following year and set off against capital gains for that year, and if it cannot be so set off, the amount thereof not so set off shall be carried forward to the following year and so on.
+however, that no loss shall be carried forward for more than eight years . . . . . . . (3) "When, in the course of the assessment of the total income of any assessee.
+it is estab lished that a loss of profits or gains has taken place which he is entitled to have set off under the provisions of this section, the Income tax Officer shall notify to the asses see by order in writing the amount of the loss as computed by him for the purposes of this section.
+" The High Court has found that the Income tax Officer did compute the amount by specifying it in his assessment order.
+When the assessee had made the claim and he took note of it.
+his failure to comply strictly with the requirement of sub section (3) of section 24 should not be permitted to be taken advantage of by the Revenue, nor should it be used to the prejudice of the assessee.
+Since set off has been claimed in the assessment year 1965 66 to which the Act of 1961 applied, it is necessary to turn attention to the relevant provisions thereof and they are in sections 74 and 80.
+For convenience they are extract ed: "Section 74: (1)(a) Where in respect of any assessment year.
+the net result of the compu tation under the head "capital gains" is a loss such loss shall.
+subject to the other provisions of this Chapter.
+be dealt with as follows: "(i) such portion of the net loss (relating to short term capital/assets as cannot be or is not wholly set off against income under any head in accordance with the provisions of section 71 shall be carried forward to the following assessment year and set off against the capital gains, if any, relating to short term capital assets assessable for that as sessment year.
+and, if it cannot be so set off, the amount thereof not so set off shall be carried forward to the following assessment year and so on.
+" 1165 "(ii) such portion of the net loss as relates to capital assets other than short term capi tal assets shall be carried forward to the following assessment year and set off against the capital gains.
+if any.
+relating to capital assets other than short term capital assets assessable for that assessment year and.
+if it cannot be so set off.
+the amount thereof not so set off shall be carried forward to the following assessment year and so on: Provided that where.
+in the case of any assessee not being a company.
+the net loss computed in respect of such capital assets for any assessment year does not exceed five thousand rupees.
+it shall not be carried forward under this section." "(b) Notwithstanding anything contained in the Indian Income tax Act. 1922 (11) of 1922), any loss computed under the head 'capital gains ' in respect of the assessment year.commencing on the 1st day of April. 1961.
+or any earlier assessment year which is car ried forward in accordance with the provisions of sub section (2B) of section 24 of that Act.
+shall be dealt with in the assessment year commencing on the 1st day of April.
+or any subsequent assessment year as follows: (i) in so far as it relates to short term capital assets, it shall be carried forward and set off in accordance with the provisions of sub clause (i) of clause (a) and sub sec tion (2): and (ii) in so far as it relates to capital assets other than short term capital assets.
+it shall be carried forward and set off in accordance with the provisions of sub clause (ii) of clause (a) and sub section (2)." "(2)(a) No loss referred to in sub section (i) of clause (a) of sub section (1) or sub clause (i) or sub clause (ii) of clause (b) of that sub section shall be carried forward under this section for more than eight assessment years immediately succeeding the assessment year for which the loss was first computed under the Act or as the case may be.
+the Indian Income tax Act.
+1922 ( 11 of 1922).
+1166 "(b) No loss referred to in sub clause (ii)of clause (a) of sub section (1) shall be carried forward under this section for more than four assessment years immediate ly succeeding the assessment year for which the loss was first computed under the Act," "Section 80: Notwithstanding anything contained in this Chapter, no loss which has not been determined in pursuance of a return filed under Section 139 shall be carried for ward and set off under sub section (1) of Section 72 or sub section (2) of Section 73 or sub section (1) of Section 74 or sub section (3) of Section 74A." Reading the provisions of Section 74(1)(b} and Section 80 together.
+we agree with the submission advanced on Behalf of the assessee that the benefit conferred under Section 24 of 1922 Act continued to be given effect to under the 1961 Act and notwithstanding the wordings of section 80 of the latter Act, the High Court was Fight in holding that the claim of set off was admissible in our view '.
+on a bare analysis of these provisions, and without reference to anything more, this appeal can be disposed of.
+We find that the High Court reached the correct conclusion and there is no merit in the appeal.
+Accordingly.
+it is dismissed with costs.
+P.S.S. Appeal dismissed.

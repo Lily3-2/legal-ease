@@ -1,0 +1,38 @@
+Under section 2(6A)(e), Income Tax Act, 1922, dividend includes any payment by a company, not being a company in which the public are substantially interested within the meaning of section 23A, of any sum by way of advance to a share holder to the extent to which the company possesses accumu lated profits.
+The appellant assessee was a shareholder in a company in which the public were not substantially interested within the meaning of section 23A.
+He had withdrawn some amounts from the company 's account.
+The company had been allowed devel opment rebate under section 10(2)(vi b) and that amount was debited in the profit and loss account of the company for the accounting year leaving a small balance of profit in the profit and loss account.
+The Appellate Assistant Commis sioner treated the entire sum, that is, the amount allowed as development rebate and the amount of balance in the profit and loss account, as the amount of accumulated prof its possessed by the company.
+Treating the withdrawals by the appellant as advances by the company to him and finding the highest amount of advance to the assessee to be within the total figure of accumulated profits as arrived at by him, he directed the addition of the advance to the asses see 's income as dividend under section 2(6A)(e) of the Act.
+The Tribunal held that the development rebate was not liable to be treated as accumulated profits; but, on reference.
+the High Court substantially confirmed the order of the Appel late Assistant Commissioner.
+On the question whether the development rebate could be treated as accumulated profits in the hands of the company under section 2(6A)(e), the appellant contended that the develop ment rebate, being identical with initial depreciation is in the nature of depreciation allowance, and since it is de ductible from the assessable profits of the company, it is also a type of outgoing expenditure or out of pocket cost, and was therefore, deductible from the company 's commercial profits.
+Dismissing the appeal, HELD: The development rebate reserve created by the company, although it does not form part of the assessable profits, undoubtedly forms part of the commercial profits and hence constituted accumulated profits of the company. within the meaning of section 2(6A)(e).
+[648D] (1) The term 'profits ' in taxation law varies in its meaning according to the context.
+The expression 'accumu lated profits ' occurring in section 2(6A) means profits in the commercial sense that is profits in the real and true sense of the term and not assessable or taxable profits.
+[642E] E.D. Sassoon & Company Ltd. and Others vs Commissioner of Income tax, Bombay City at page 46, Commission er of Income taX, Bombay vs Ahmedbhai Umarbhai.
+& Co., Bombay 18 ITR 472 at 502, Commissioner of Income tax.
+Bombay City vs Bipinchandra Maganlal & Co. Ltd. and Gobaid Motor Service (P) Ltd. vs Commissioner of Income tax, Madras followed.
+(2) Although they are not identical and differ in some material particulars, initial depreciation and development rebate are similar in nature as both are by 639 way of incentive for installation of new machinery or plant.
+But the initial depreciation or the development rebate is not a recurring allowance for the subsequent years like the normal depreciation allowance provided in section 10(2)(vi) or the additional depreciation provided in section 10(2)(vi a).
+The normal depreciation and the additional depreciation are permitted to be deducted from the written down value.
+But the amount of the initial depreciation is not deductible in determining the written down value.
+[644D E] (3) Normal depreciation reserve of the company may not form part of the accumulated past profits as held in Commis sioner of Income tax, Bombay vs Viramgam .Mills Co. Ltd. But since the initial depreciation or the devel opment rebate cannot be equated with normal depreciation, it is not a deductible item of cost or expenditure in.
+arriving at the commercial profits.
+The initial depreciation or the development rebate is not allowed as an extra deductible allowance of business expenses for meeting the costs of replacement in future years, but they are meant merely to reduce the tax liability of the assessee for the year of installation only, in order to give him an incentive to instal new machinery or plant [645D F] (4) The purpose of section 2(6A) is to include within the term 'dividend ', for the purpose of taxation, certain dis tributions or payments as deemed dividend.
+Section 2(6A)(c) provides that 'dividend ' includes any distribution to the shareholders liquidation to the extent to which the distri bution is attributable to accumulated profits.
+In Tea Estate India Pvt. Ltd. vs C.I.T., W. Bengal it was held that accumulated profits in cl.
+(c) include devel opment Tebate.
+If for the purpose of distribution the amount of development rebate could form part of the accumu lated profits of the company, a fortiori, it would be so far the purpose of cl.
+(e) also.
+[646B; 645G] (5) The use of the expression 'whether capitalised or not ', as qualifying the expression 'accumulated profits ' in cls.
+(a) to (d), but not in cl.
+(e), shows that the legisla ture does not intend to rope in capitalised profits in el.
+That is, to the extent the profits have been capita lised in accordance with the law and its Articles of Associ ation, a company cannot be said to possess any accumulated profits.
+But in the present case, the accumulated profits of the company were never capitalised.
+Merely transferring the sum to the development reserve account by debiting it to the profit and loss account did not amount to capitalisation of profits.
+The nature of the assets did not change out continued to remain as profits.
+[646E G; 647A B] Ann Bouch and William Bouch vs William Bouch Sprou (12 Appeal Cases, 385 applied.
+Commissioner of Income tax, Madras vs
+K. Srinivasan and others approved.
+Sheth Haridas Achratlal vs Commissioner of Income tax, Bombay North, Kutch and Saurashtra, Baroda referred to.

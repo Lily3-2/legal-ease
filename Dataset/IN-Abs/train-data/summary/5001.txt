@@ -1,0 +1,38 @@
+The appellant, a registered dealer under the Bengal Finance (Sales Tax) Act 1941 as applied to the Union Territory of Delhi (for short, the State Act) used to purchase Cotton yarn and sell it to registered dealers, unregistered dealers and consumers.
+He submitted his return of turnover under the State Act for the assessment year 1968 69 and claimed exemption in respect of the turnover of sales of cotton thread on the ground that it was an exempted item under Entry 21 of the Second Schedule.
+The Sales Tax Officer held that the sales were liable to tax as the same were effected in respect of cotton yarn.
+The appellant ultimately went in revision to the Financial Commissioner who proceeding on the basis that the sales were in respect of cotton yarn, which was a declared item under s.14 of the Central Sales Tax Act allowed the revision petition holding that they could not be subjected to sales tax because one of the conditions prescribed by s.15 of that Act had not been complied with, that is to say, the law had omitted to prescribe the single point at which the levy could alone be imposed.
+Aggrieved by the order of the Financial Commissioner, the Revenue filed a writ petition in the High Court which, relying on the construction placed by it on sub clause (ii) of cl.(a) of s.5 in Fitwell Engineers v Financial Commissioner Delhi Admn (1975) 35 S.T.C. 66, allowed the petition holding that the single point in a series of sales is the sale made by the last registered dealer among successive dealers when he sold the goods to an unauthorised dealer or consumer.
+Hence this Appeal.
+Allowing the Appeal, ^ HELD: 1.
+The components which enter into the concept of a tax are well known.
+The first is the character of the imposition known by its nature which prescribes the taxable event attracting the levy, the second is a clear indication of the person on whom the levy is imposed and who is obliged to pay the tax, the third is the rate at which the tax is imposed, and the fourth is the measure or value to which the rate will be applied for computing the tax liability.
+If 986 these components are not clearly and definitely ascertainable it is difficult to say that the levy exists in point of law.
+Any uncertainty or vagueness in the legislative scheme defining any of those components of the levy will be fatal to its validity.
+[900D E] 2.
+Where the turnover of goods declared to be of special importance in inter State trade or commerce under section 14 of the Central Sales Tax Act is subjected to sales tax law of a State, section 15 prescribes the maximum rate at which such tax may be imposed and requires that such tax shall not be levied at more than one point.
+The two conditions have been imposed in order to ensure that Inter State trade or commerce in such goods is not hampered by heavy taxation within the State occasioned by an excessive rate of tax or by multpoint taxation.
+Section 15 enacts restrictions and conditions which are essential to the validity of an impost by the State on such goods.
+If either of the two conditions are not satisfied, the impost will be invaid Now in order that tax should not be levied at more than one stage it is imperative that the sales tax law of the State should specify either expressly or b y necessary implication the single point at which the tax may be levied Alternatively, it may be empower a statutory authority to prescribe such single point for the purpose.
+Where such point is not prescribed, either by the statute or by the statutory delegate, no compliance is possible with section 15.
+The single point at which the tax may be imposed must be a definite ascertainable point so that both the dealer and the sales tax authorities may know clearly the point at which the tax is to be levied.
+[989G H: 900A C] 3.
+On the construction which found favour with this Court in Polestar Electronic (P) Ltd vs Addl.
+Commissioner, Sales Tax & Anr., (1978) 41 section T. C. 409 it is apparent that no support can be found for the proposition that sub cl.
+(ii) of cl.
+(a) of sub section
+(2) of s.5 of the State Act implies that the single point of taxation is Fixed by the State, Act at the resale by a registered dealer to an unregistered dealer or to a consumer.
+As that is the reasoning on which the High Court has proceeded in The judgment under appeal, it must be held that the basis underlying the decision of the High Court cannot be accepted.
+[992F G] Fitwell Engineers vs Financial Commissioner, Delhi Administration, Delhi and another, (1975) 35 section T. C. 66 over ruled.
+It is well settled that when the language of the statute is clear and admits of no ambiguity, recourse to the Statement of Objects and Reasons for the purpose of construing a statutory provision is not permissible Section SA Of the State Act clearly empowers the Chief Commissioner to specify the single point in a series of sales at which single point taxation may be levied.
+The widest amplitude of power has been conferred on the Chief Commissioner in the matter of selecting the point for taxation in a series of sales and, if that is so, clearly do single point can be spelled out, even by implication, from the provision of sub cl.
+(ii) of cl.
+(a) of sub section
+(2) of s.5.
+For to do so would mean either accepting an inconsistency between the two provisions or narrowing down correspondingly the scope of section 5 A.
+No such notification has been placed before 987 the Court which could relate to the assessment year under consideration.
+There fore a vital prerequisite of section 15 of the Central Sales Tax Act, namely, that the tax shall not be levied at more than one stage, has not been satisfied in respect of the turnover of cotton yarn, and accordingly the assessment complained of is liable to be quashed.
+[993BG] Polestar Electronic (P) Ltd. vs Additional Commissioner, Sales Tax and Another.
+(1978) 41 section T. C. 409.
+followed.
+Bhawani Cotton Mills Ltd. vs The State of Punjab and Another, (1967) 20 section T. C. 290 & Rattan Lal and Co. vs The Assessing Authority and Another (1970 25 section T. C. 136, referred to.

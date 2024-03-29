@@ -1,0 +1,83 @@
+Civil Appeal No. 144 of 1960.
+Appeal by special leave from the judgment and order dated July 26, 1957, of the Madhya Pradesh High Court in Civil Revision No. 966 of 1955.
+B. R. L. Iyengar and K. P. Bhatt, for the appellant.
+G. section Pathak, section N. Andley, Rameshwar Nath and P. L. Vohra, for the respondents.
+November 16.
+The Judgment of the Court was delivered by SARKAR, J.
+In this case an arbitration agreement had been filed in court under section 20 of the , and an order of reference made thereon.
+The arbitrator in due course entered 477 upon the reference and made and filed his award in court on July 14, 1955.
+The award concerned partition of certain properties between the wife and children of one Bhairon Bux.
+The award was however unstamped and unregistered.
+An objection was taken to a judgment being passed on such an award.
+On such objection, the trial court passed an order remitting the award to the arbitrator for re submitting it to the court on a duly stamped paper and after getting it registered.
+Against this order the High Court at Nagpur was moved in revision.
+The learned Single Judge hearing the revision application took the view that the award required to be stamped.
+But he felt that it could not be remitted to the arbitrator under section 16 of the , which is the only provision under which an award can be remitted to an arbitrator.
+It appears that there was an earlier judgment of the Nagpur High Court in the case of Ramkumar vs Kushalchand (1) in which it had been held that where the award was unstamped it could under paragraph 14 of Schedule I to the Code of Civil Procedure be remitted to the arbitrator with a direction to re write it on a stamped paper and re submit it to court.
+The provisions of that paragraph of the Code have now been substantially reproduced in section 16 of the .
+The trial Judge had based himself on this earlier judgment of the High Court.
+The learned Single Judge was apparently not satisfied with the correctness of the decision in Ramkumar 's case (1) and he referred three questions for decision by a larger bench of that High Court.
+The questions referred were: (a) Is the award made on a reference by the Court on an application under section 478 20 of the chargeable to stamp duty? (b) Is such an award compulsorily registerable when it relates to partition of immovable property of the value of one hundred rupees and upwards? (c) Has the Court powers under section 16(1) (c) of the of 1940 or otherwise to remit an award to the arbitrator or umpire to get it stamped and/or registered? The matter was thereupon heard by a Division Bench of the High Court constituted by two learned Judges.
+Before them it was agreed by both the parties that the award required to be stamped.
+This disposed of the first question.
+The learned Judges felt that it was not necessary at that stage of the proceeding to answer the second question, namely, whether the award required registration.
+In the result they only answered the third question as to whether an award could be remitted under section 16 (1) (c) of the to the arbitrator to get it stamped and they answered that question in the affirmative.
+They held that a want of stamp would be an illegality apparent on the face of the award and therefore the case would fall under section 16(1)(c) of the .
+They also held, following the case of Lakhmichand vs Kalloolal (1), that the copying of the award on a stamped paper was purely ministerial, and making of an award did not deprive the arbitrator of the authority to copy an award on the requisite stamp paper.
+They approved of the decision in Ramkumar vs Kushalchand (1).
+The present appeal is against this judgment of the Division Bench.
+The only question argued at the bar was whether the answer of the Division Bench to the third question was correct.
+479 Now section 16(1)(c) of the Act is in these terms: section 16 (1): The Court may from time to time remit the award or any matter referred to arbitration to the arbitrators or umpire for reconsideration upon such terms as it thinks fit . . . . . . . (c) where an objection to the legality of the award is apparent upon the face of it.
+We think that the Division Bench of the High Court was clearly in error.
+Under section 16 of the an award can be remitted to the arbitrators only for reconsideration.
+When it is remitted for re writing it on a stamped paper, it is not remitted for reconsideration.
+Reconsideration by the arbitrators necessarily imports fresh consideration of matters already considered by them.
+Now they can only consider and give a decision upon matters which are referred to them under the arbitration agreement.
+It follows that the reconsideration can only be as to the merits of the award.
+They reconsider nothing when they re write the award on a stamped paper.
+We think the matter was correctly put by Mitter, J., in Nani Bala Saha vs Ram Gopal Saha (1) in the following observation: "That cl.
+(c) means this and nothing more: namely, that where the court finds an error of law in the award itself or in some document actually incorporated thereto on which the arbitrator had based his award, that is to say, finds the statement of some erroneous legal proposition which is the basis of the award, it can remit the award to the arbitrator for reconsideration" and "Want of registration is a defect dehors the award or the decision of 480 the arbitrator, and so in our judgment is not covered by cl.
+(c) of section 16 (1), of 1940".
+What was said there about a want of registration is clearly equally applicable to a want of stamp.
+Mr. Pathak appearing for the respondent contended that under section 14 (1) of the it was clearly the duty of the arbitrator to inform the parties of the amount of stamp duty payable on the award.
+Section 14 (1) is in these terms: Section 14 (1) When the arbitrators or umpire have made their award, they shall sign it and shall give notice in writing to the parties of the making and signing thereof and of the amount of fees and charges payable in respect of the arbitration and award.
+We are unable to see how this section can provide the basis for the order made in this case.
+It only says that the arbitrators shall inform the parties of the fees and charges payable.
+Even assuming that the word 'charges ' includes duty payable for the stamp to be affixed to the award, at best, this section would support an order directing the arbitrators to supply this information.
+It would not justify an order requiring the arbitrators to inscribe the award afresh on a stamped paper and re submit it to court.
+As at present advised, we have grave doubts if the fees and charges mentioned in section 14 (1) include the stamp duty payable on the award.
+Section 17 of the Stamp Act requires that stamping should be at the time of execution.
+Under section 14 (1) of the it is only after the singing of the award that is its execution, that the arbitrators are required to supply the information about the fees and charges.
+It is, of course, no part of the duty of the arbitrators under the Act or otherwise to find the costs of stamp themselves.
+Therefore 481 it is difficult to appreciate how the word `charges ' mentioned in this section includes stamp.
+But on this question it is not necessary for us to express any final opinion in this case.
+Mr. Pathak contened that even if the case did not come within section 16 (1) (c) of the , the order in the present case can be supported under section 151 of the Code of Civil Procedure which preserves the inherent power of a court to make such orders as may be necessary for the ends of justice.
+It is true that section 41 of the makes the provisions of the code of Civil Procedure applicable to proceedings before a court under the .
+But it is well known that after making his award the arbitrator is functus officio.
+To cite one authority for this proposition we may quote the observations of Mellish, L. J., in Mordue vs Palmer(1).
+"I think the result of the cases at law is that when an arbitrator has signed a document as and for his award, he is functus officio, and he cannot of his own authority remedy any mistake." In the present case, ex hypothesi, the award has already been made and the arbitrator has therefore become functus officio.
+It is that award which requires stamp.
+Section 151 of the Code cannot give the court power to direct the arbitrator to make a fresh award; that would be against well established principles of the law of arbitration.
+It would again be useless to have another copy of the award prepared and stamped for the copy would not be the award and no action in a court can be taken on it.
+The order cannot therefore be supported by section 151 of the Code.
+It is of some interest to read here the following passage from Russel on Arbitration 14th Ed., p. 325.
+482 "The usual practice in preparing an award is to have two copies made of it.
+One the arbitrator signs, which then becomes then the original award, and this is delivered to the party who takes up the award.
+The other copy is available for the other parties if they apply for it." "The original award, before it is available for any purpose whatsoever, must be duly stamped, but there is no obligation upon the arbitrator to stamp it, and he does not usually do so.
+" We should observe here that the last paragraph in the aforesaid quotation does not appear in the 16th edition of Russel 's work.
+Perhaps this is because in England an award is no more required to be stamped by virtue of section 35 Sched.
+8, of the Finance Act, 1949, which was passed after the 14th edition was published.
+Lastly, Mr. Pathak tried to support the order under sections 13 (d) and 15 (b) and (c) of the .
+A bare perusal of the provisions mentioned would show that the order made in this case cannot be based on any of them.
+Section 13 (d) deals with correction of clerical mistakes or accidental slips in the award, neither of which we think an omission to stamp is.
+Further more, section 13 is only an enabling section giving certain powers to the arbitrator.
+The arbitrator cannot be compelled to exercise these powers.
+Section 15 deals with a court 's power to modify or correct an award.
+In the present case, the Court did not purport to exercise that power.
+We, therefore, think that the Division Bench was in error in thinking that an order could be made remitting the award to the arbitrator with a direction to re write it on a stamped paper and resubmit it to court.
+That is the only point that we decide in this case.
+483 In the result this appeal is allowed.
+The orders of the Courts below remitting the award are set aside.
+The appellant will get the cost throughout.
+Nothing that we have said in this judgment will affect the right of the parties to take such steps, if any are available to them at law, for curing the defect arising from the award being on an unstamped paper.
+Appeal allowed.

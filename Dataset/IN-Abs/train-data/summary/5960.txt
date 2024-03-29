@@ -1,0 +1,28 @@
+The appellant assessee, a body of individuals, purchased two pieces of land in the year 1966.
+In 1970 it granted a mining lease to a private company (an allied concern) to extract clay for a period of ten years at a premium of Rs. 5 lakhs in addition to payment of royalty.
+The Income tax Officer construed the lease deed as transferring a lease hold interest in the land in favour of the company and came to the conclusion that the transfer was assessable to capital gains tax.
+For the purpose of comput ing the extent of tax, the Income tax Officer valued the lease hold interest at 5/8th of the sale price of the entire land, computed the cost at acquisition of the lease hold interest say Rs. 17,040, and after deducting this sum from the sale consideration of Rs.5 lakhs, determined a sum of Rs.4,82,960 as long term capital gains.
+Being aggrieved by the aforesaid order of the Income tax Officer the assessee preferred an appeal to the Appellate Assistant Commissioner.
+The Appellate Assistant Commissioner confirmed the assessment but allowed deduction on the entire price of the land on the ground that the cost for the pur pose of ascertaining the capital gains would be the total price of the land paid by assessee.
+Not being satisfied, the assessee preferred an appeal to the Income tax Appellate Tribunal which confirmed the order of the Appellate Commissioner and dismissed the appeal.
+The High Court on a reference held that the right conferred on 597 the lessee under the lease deed was also a capital asset in the hands of the assessee lessor, and that there was a transfer of capital asset for a consideration of Rs.5 lakhs.
+The High Court accordingly answered the reference against the assessee, .but granted a certificate under section 261 of the Act to appeal to this Court.
+On behalf of the assessee appellant it was contended: (1) that conceptually there is no 'cost of acquisition ' which is attributable to the right of limited enjoyment transferred by the grant of the lease, and (2) relying on the decision of this Court in C.I. T. vs B.C. Srinivas Sherry, ; SC it was submitted that since the cost of acquisition of the right granted under the lease cannot be determined the computation provisions under the Act cannot apply at all, and as such section 45 of the Act is not attracted.
+On the question: whether the grant of a mining lease for a period of ten years by the assessee can give rise to a capital gain taxable under section 45 of the Income tax Act, 1961.
+Dismissing the appeal, the Court, HELD: 1(a) Section 2(14) of the Income Tax Act defines "capital asset" as "property of any kind held by an asses see.
+" What is parted with in the instant case, under the terms of the deed is the right to exploit the land by ex tracting clay which right directly flows from the ownership of the land.
+The said right evaluated in terms of money forms part of the cost of acquiring the land.
+[601C D] 1(b).
+If a transfer of a capital asset in section 45 of the Act includes grant of a mining lease for any period, then obviously, the "cost of acquisition" of the land would include the "cost of acquisition" of the mining right under the lease.
+The grant of a lease being a transfer of an asset, there is no escape from the conclusion that there is a live nexus between the "cost of acquisition" of the land and the right granted under the lease.
+[601G H; 602A] In the instant case, the amount of Rs.27,260 paid by the assessee was not only the cost of acquiring the land but also acquiring a bundle of rights in the said land including the right to grant lease.
+[602A] 1(c) The apportionment of the cost of acquisition is a question of fact to be determined by the Income tax Officer in each case on the basis of evidence.
+The determination of the cost of the right to excavate 598 clay in the land in terms of money may be difficult but is nonetheless of a money value and the best valuation possible must be made.
+In the instant came, the Income tax Officer worked out the cost of the lease held interest by adopting the 5/8th ratio, though the Appellate Assistant Commissioner gave the benefit to the assessee of the full price of the land paid by him.
+[602B D] 1(d) Once the cost of lease hold right is determined than there is no difficulty in making apportionment.
+[602E] Gold Coast Selection Trust.
+Ltd. vs Inspector of Taxes, (supp); Traders and Mining Ltd. vs
+C.I.T., ; R.K. Palshikar (HUF) vs Commissioner of Income Tax, M.P. Nagpur, ; , referred to.
+2(a) The value of lease hold rights in the cost of acquisition of land being determinable the computation provision under the Act are applicable, and section 45 would he attracted.
+[602E F] 2(b) The date of acquisition of the right to grant lease has to be the same as the date of acquiring the free hold rights.
+[603B] C.I.T. vs B.C. Srinivas Shetty, ; distinguished.

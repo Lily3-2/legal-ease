@@ -1,0 +1,155 @@
+Appeal No. 145 of 1963.
+Appeal from the judgment and order dated November 16.
+1959, of the Madras High Court in Case Reference No. 82 of 1956.
+section K. Kapur and R. N. Sachthey, for the appellant.
+section Swaminathan and R. Gopalakrishnan, for the respondent.
+847 section T. Desai, J. B. Dadachanji, O. C. Mathur and Ravinder Narain, for the intervenor.
+April 24, 1964.
+The judgment Of SUBBA RAo and SIKRI In, JJ. was delivered by SIKRI J. SHAH J. delivered a dissenting Opinion.
+SIKRI, J. This is an appeal by the Commissioner of Income Tax, Madras, against the judgment of the High Court, dated November 16, 1959, on a certificate granted by the High Court under section 66A(2) of the Indian Income Tax Act, 1922.
+The respondent, Mir Mohd. Ali, hereinafter referred to as the assessee, is a bus owner and transport operator at Vel lore, North Arcot District.
+He had a fleet of buses, and during the year of account ending with March 31, 1950 (relevant to assessment year 1950 51) he replaced the petrol engines in two of his buses (MDJ 583 and MDJ 723) by new Diesel engines, incurring an expenditure of Rs. 18,544/in this connection.
+Before the Income Tax Officer, apart from claiming normal depreciation under the first Paragraph of cl.
+(vi) of section 10(2), he also claimed depreciation under the second paragraph of cl.
+(vi) and cl.
+(via) of the Indian Income Tax Act, 1922.
+The Income Tax Officer only allowed 25 per cent depreciation under the first paragraph of cl.
+The assessee appealed unsuccessfully to the Appellate Assistant Commissioner on this point.
+There were other points involved in the appeal but as we are not concerned with them in this appeal, they are not being mentioned.
+On further appeal, the Appellate Tribunal held that "the assessee is not entitled to extra depreciation under section 10(2) (vi) or section 10(2)(via) because however important the engine might be for running of a motor, it is after all part of an equipment and it cannot by itself become "machinery" for the purpose of claiming extra depreciation, as envisaged in these sub sections.
+We have to hold that the "installation of the new engines is only a capital addition, for the above reasons the assessee was rightly refused the extra depreciation he claims".
+The Income Tax Appellate Tribunal, on the application of the assessee, referred the following question to the High Court: "Whether extra depreciation is admissible under the provisions of section 10(2)(via) of the Income Tax Act, in respect of a diesel oil engine fitted to a motor vehicle in replacement of the existing engine.
+" We may mention that another question regarding disallowance of interest had also been referred to the High Court but we are not concerned with that in the present appeal.
+848 As the High Court felt that there had been an accidental slip in framing the question, it amended the question as and the amended question reads: "Whether extra depreciation is admissible under the provisions of section 10(2)(vi) and section 10(2)(via) of the Income Tax Act in respect of the diesel oil engines fitted to the motor vehicles in replacement of the existing engines".
+The High Court answered this question in the affirmative i.e., in favour of the assessee.
+The Commissioner of Income Tax, on obtaining a certificate under section 66A(2) of the Income Tax Act, has filed this appeal.
+Before attempting to answer the question, it is necessary to set out the relevant provisions of the Income Tax Act.
+The relevant provisions, as in force at the relevant time, were: section 10(2) Such profits or gains shall be computed after making the following allowances, namely (iv)in respect of insurance against risk of damage or destruction of buildings, machinery, plant, furniture, stocks or stores, used for the purposes of the business, profession or vocation, the amount of any premium paid; (v) in respect of current repairs to such buildings, machinery, plant or furniture, the amount paid on account thereof; (vi)in respect of depreciation of such buildings, machinery, plant, or furniture being the property of the assessee, a sum equivalent, where the assets are ships other than ships ordinarily plying on inland waters, to such percentage on the original cost thereof to the assessee as may in any case or class of cases be prescribed and in any other case, to such percentage on the written down value thereof as may in any case or class of cases be prescribed; and where the buildings have been newly erected, or the machinery or plant being new has been installed, after the 31st day of March, 1945, a further sum (which shall however not be deductible in determining the written down value for the purposes of this clause) in respect of the year of erection or installation equivalent, (a) in the case of buildings the erection of which is begun and completed between the 1st day 849 of April 1946 and the 31st day of March 1952 (both dates inclusive), to fifteen per cent of the cost thereof to the assessee; (b) in the case of other buildings, to ten per cent of the cost thereof to the assessee; (c) in the case of machinery or plant, to twenty per cent of the cost thereof to the assessee: Provided that (via) in respect of depreciation of buildings newly erected, or of machinery or plant being new which has been installed, after the 31st day of March, 1948, a further sum (which shall be deductible in determining the written down value) equal to the amount admissible under clause (vi) (exclusive of the extra allowance for double or multiple shift working of the machinery or plant and the initial depreciation allowance admissible under that clause for the first year of erection of the building or the installation of the machinery or plant) in the assessments for such of the five years commencing on the 1st day of April, 1949, and ending with the 31st day of March, 1954: Provided that where, in respect of such machinery or plant, the assessee establishes that the market value of similar machinery or plant on the 31st day of March, 1953, is lower than the original cost, then, subject to the provisions of clause (vi), there shall be made in the assessment for the year commencing next after that date a further allowance (which shall be deductible in determining the written down value) of an amount by which the written down value of the machinery or plant as on that date (without deduction of the initial depreciation admissible in the first year) would have exceeded the corresponding written down value thereof as on the same date if the market price of the machinery or plant had been taken as the actual cost of the assessee; (vii)in respect of any such building, machinery or plant which has been sold or discarded or demolished or destroyed, the amount by which the written down value thereof exceeds the amount 850 for which the building, machinery or plant, as the case may be, is actually sold or its scrap value: Provided that (5) In sub section (2) . . `plant ' includes vehicles, books, scientific apparatus and surgical equipment purchased for the purpose of the business, profession or vocation. ." The point at issue before us has been considered by three High Courts.
+The Bombay and Andhra Pradesh High Courts have held against the assessee while in the judgment under appeal, the Madras High Court has held in favour of the assessee.
+The High Court of Andhra Pradesh, in the case of B. Srikantiah vs Commissioner of Income Tax Andhra Pradesh(1), followed the Bombay case and expressly dissented from the Madras case.
+In the judgment under appeal (reported as Mr. Mohd. Ali vs Commissioner of Income Tax, Madras(2), the High Court arrived at the conclusion by the following steps: (a)Machinery must be given the same meaning with reference to each of the statutory provisions, in section 10(2)(vi) and section 10(2)(via); (b) A diesel engine is machinery by the test laid down in the case of Corporation of Calcutta vs Chairman, Cossipore and Chitpore Municipality(3); (c) Machinery does not cease to be machinery merely because it has to be used in conjunction with one or more machines.
+Nor does it cease to be machinery merely because it is, for instance, installed as part of a manufacturing or industrial plant; (d) The statutory provision for depreciation is in the alternative.
+Whether it is plant or whether it is machinery without its being itself a plant, the assessee is entitled to claim the statutory allowance for depreciation.
+The question then is: Which is the correct view? First, the history of para two of cl.
+(vi) may be noticed.
+The object of the Income Tax (Amendment) Act, 1946 (VIII of 1946), which first inserted the provisions regarding extra depreciation, was to encourage the modernisation and re habilitation of industry and trade.
+The Second World War (2) (3) 190. 851 had ended recently and during the long war machinery and plant had not only not been replaced or modernised but had been subjected to excessive wear and tear and needed rehabilitation.
+During the War, there had also been great,,, advance in technology.
+It is then pertinent to point out that the word 'machinery ' occurs in cls.
+(iv), (v), (vi) and (via) of section 10(2).
+Prima facie the same meaning must be given to the word ,machinery ' in all these clauses.
+If a machine is machinery for purposes of giving an allowance in respect of insurance or for repairs or in respect of normal depreciation or for the purpose of para one of cl.
+(vi), it must also be machinery for the purpose of second para of cl.
+(vi) and cl.
+(via).
+But it is said that the scheme of para two of cl.
+(vi) and cl.
+(via) is different from that of para one of cl.
+(vi) inasmuch as before it can qualify for extra depreciation, the machinery must be new and must be installed, and the rate of depreciation is provided in the Act itself.
+Keeping in view this scheme, it is urged that the word 'machinery ' must be given a restricted meaning in para two of cl.
+(vi) and cl.
+(via), and the meaning suggested is that it must be a "self contained unit capable of being put to use in the business, profession or vocation for the benefit of which it was installed".
+That this is the true meaning, it is further said, is evidenced by the definition of the word 'plant ' in section 10(5).
+It is argued that this definition indicates that for purposes of para two of cl.
+(vi) and cl.
+(via), 'plant ', including a vehicle should be viewed as a unit and component parts thereof are excluded from its purview, and 'machinery ' should also be considered in the same light.
+Let us now examine these contentions.
+First, we do not think that there is anything in the scheme of the second para ,of cl.
+(vi) and cl.
+(via) that throws any light on the construction of the word 'machinery ' in these clauses.
+It is true that the machinery must be new and it must be installed and the rate of allowance is prescribed in the Act itself.
+But the requirement that the machinery must be new does not tell us what is 'machinery '.
+Assuming for the present that a diesel engine is machinery, if an assessee buys and instals a secondhand diesel engine, he will not be given the extra allowance under the second para of cl.
+(vi), and the ground would be that the engine is not new and not that because it is second hand, it is not machinery.
+Similarly, if it is purchased but not installed, the ground of refusal would be that it has not been installed and not that because it has not been installed it has ceased to be machinery.
+Suppose a new machinery is purchased but not installed, it would not qualify for extra depreciation on the ground that it has not been 852 installed and not because it has ceased to be machinery due to its non installation.
+The fact that the rate of depreciation is provided for in the Act has also no bearing on the question of the construction of the word 'machinery '.
+This fact only indicates that the legislature had made up its mind as to the extent of encouragement to be given to industry and, therefore, it did not consider it necessary to delegate this to the rule making authority.
+The definition of the word 'plant ' in section 10(5) equally does not throw any light on the meaning of the word 'machinery '.
+The word 'plant ' is of wide import, but even so it may be argued that vehicles, books, scientific apparatus and surgical equipment are not 'plant ' in all businesses, pro fessions and vocations.
+The legislature settled this possible controversy, but without throwing any light on the true meaning of the word 'machinery '.
+What then is the test for determining whether a mechanical contrivance is machinery for the purposes of second para of cl.
+(vi) and cl.
+(via)? The Privy Council in the case of Corporation of Calcutta vs Chairman, Cossipore and Chitpore Municipality(1) hazarded the following definition of `machinery ': "The word 'machinery ', when used in ordinary language prima facie, means some mechanical contrivances which, by themselves or in combination with one or more other mechanical contrivances,.
+by the combined movement and inter dependent operation of their respective parts generate power, or evoke, modify, apply or direct natural forces with the object in each case of effecting so definite and specific a result.
+" They had already observed that the word 'machinery ' must mean more than a collection of ordinary tools.
+The Privy Council case was not a tax case but prima facie the ordinary meaning of the word 'machinery ' and the word machinery ' is an ordinary and not a technical word must, unless there is something in the context, prevail in the Indian Income Tax Act also.
+According to the above definition, a diesel engine is clearly 'machinery '.
+Indeed, r. 8 of the Income Tax Rules treats aero engines separately from aircraft.
+It is true that this rule cannot be used to interpret the clauses in the Act but it does show that components of an aircraft, which are machinery, can be treated separately.
+(1) Cal.
+190 853 Further, when the assessee purchased the diesel engines, they were not 'plant ' or part of a plant, because they had not been installed in any vehicle.
+They were, according to the definition given by the Privy Council, machinery.
+They, were not yet part of a plant, and, according to the Act, 20 ' per cent of the cost thereof was allowable to the assessee.
+All the conditions required by the Act are satisfied.
+If we look at the point of time of purchase and installation, what was purchased and installed was machinery.
+The learned counsel next contended that the assessee is not entitled to extra depreciation because a diesel engine cannot be said to be installed.
+He urges that the word 'installed ' is wholly inappropriate to cover the fixing of a diesel engine in a motor vehicle.
+We are of the opinion that there is no force in this contention.
+As observed by the Bombay High Court in the case of Commissioner of Income Tax vs Saraspur Mills Ltd.(1) the expression 'installed ' did not necessarily mean 'fixed in position ' but was also used in the sense of 'inducted or introduced ' , or to use the language of the Madras High Court in the case of Commissioner of Income Tax, Madras vs Sri Ram Vilas Services (Pvt) Ltd.(2), installed would certainly mean 'to place an apparatus in position for service or use '.
+We are of the opinion that when an engine is fixed in a vehicle it is installed within the meaning of the expression in cls.
+(vi) and (via).
+Accordingly, we hold that the High Court was correct in answering the question referred to it in the affirmative.
+The appeal, therefore fails and is dismissed with costs.
+SHAH, J. I am unable to hold that the respondent is entitled to the allowance under section 10(2)(vi) paragraph 2, in respect of the diesel engines claimed by him.
+Section 10 of the Indian Income tax Act provides that tax shall be payable on the profits and gains of an assessee under the head 'profits and gain of business, profession or vocation".
+By sub section
+(2) in the computation of taxable pro fits certain allowances prescribed therein are permissible.
+We are primarily concerned in this appeal with the initial allowance permissible under the second paragraph of cl.
+(vi) of sub section
+But cls.
+(iv), (v), (vi), (vi)(a) and (vii) are inter related and it may be necessary briefly to refer to those provisions By cl.
+(iv) allowance for premium paid in respect of insurance against risk of damage or destruction of buildings, machinery, plant, furniture, stocks or stores, used for the purposes of the business, profession or vocation is admissible.
+Under cl.
+(v) an amount paid on account of any current repairs to such buildings, machinery, plant or furniture is (1), ( 2 ) 854 an admissible allowance.
+Clause (vi) recognises by the first paragraph a right to normal depreciation of a percentage on the prescribed valuation of such buildings.
+machinery, plant or furniture, which are the property of the assessees.
+The second paragraph at the material time stood as follows: "and where the buildings have been newly erected, or the machinery or plant being new has been installed, after the 31st day of March, 1945, a further sum (which shall however not be deductible in determining the written down value for the purposes of this clause) in respect of the year of erection or installation equivalent, etc.
+" Clause (vi)(a) which was inserted by Act 67 of 1949 permit ted a further depreciation allowance In respect of buildings newly erected or of machinery or plant being new which had been erected or installed after March 31, 1948, in not more than five successive assessments, for the financial years next following the previous year in which such buildings were erected, or machinery or plant installed.
+Clause (vii) permitted as an allowance the difference between the written down value and the sale price or scrap value of such buildings, machinery or plant which had been sold, discarded, demolished or destroyed.
+All these clauses dealt with allowances in respect of assets of the specified description and used for the purpose of business, profession or vocation.
+The depreciation allow ance permitted under the first paragraph of cl.
+(vi) which may be called the normal allowance is in respect of all buildings, machinery, plant and furniture of the assessee used for the purpose of his business.
+By the second paragraph of cl.
+(vi) an initial allowance in the year in which buildings have been newly erected or the machinery or plant being new has been installed after March 31, 1945, is allowable.
+Use of the definite article "the" in the second paragraph indicates that the buildings, machinery or plant referred to in that paragraph must also be used for the purpose of the business, profession or vocation of the assessee.
+However to qualify for the initial allowance under paragraph two, the buildings must be newly erected or the machinery or plant being new must have been installed, after March 31, 1945.
+Two rival views are pressed upon us in support of the respective cases of the Commissioner and the assessee as to the meaning of the second paragraph.
+The Commissioner contends that the buildings, machinery or plant for which the initial allowance is admissible must be a self contained unit capable of being put to use in the business, profession or vocation for the benefit of which it is erected or installed.
+It is submitted that the second paragraph of cl.
+(vi) was en 855 acted with the object of giving a fillip to industry which had been starved during the war years of new machinery and building activity.
+But the buildings, machinery, or plant to qualify for the initial allowances were not intended to be in the nature of replacement, addition, or repair to existing units: they had to be buildings newly erected or machinery or plant being new installed.
+On behalf of the assessee it was contended that the Legislature has not put any restriction of the nature suggested on behalf of the Commissioner and, therefore, any building or a part thereof newly erected or any new machinery or plant or a part thereof installed,.
+qualified for the benefit of the initial allowance.
+The question to be decided is one about the intention of the Legislature.
+Can it be said that when to an existing building a room even a floor is added, that the additional construction is a building newly erected? In my view, that does not appear to be the intention.
+Such an addition to an existing structure, becomes a part of the structure, and cannot be said to be a building newly erected.
+If every alteration or addition in an existing building is covered by the second paragraph of cl.
+(vi) mere repairs falling within the words of cl.
+(vi) may also qualify for initial allowance.
+If a mere addition to a building cannot be regarded as such an erection as is contemplated by the second paragraph of cf.
+(vi), it would be difficult to hold that the machinery or plant would include part of machinery or plant.
+Counsel for the assessee concedes that replacement of a petrol engine by a diesel engine in a motor transport vehi cle is not installation of plant.
+The question is whether it is installation of machine.
+In my view replacement of a petrol engine by a new diesel engine in a motor car cannot be said to be installation of machinery within the meaning of the relevant clause.
+To be installed the machinery being new must for the purpose of the business be brought into service as a self contained unit.
+If the argument of the assessee is sound, every bolt, nut, rod or flywheel which constitute a part of machinery would qualify for the initial allowance and the difference between the allowance for repairs and initial allowance may be obliterated.
+Counsel for the assessee also did not, as I understood him, contend that replacement of a mere part of machinery was installation of machinery within the meaning of the second paragraph of cl.
+The Legislature has not given any definition for that expression, and the expression "machinery" is otherwise somewhat difficult to define.
+The Judicial Committee in Corporation of Calcutta vs Cossipore and Chitpore Municipality(1) when it was called upon to consider whether a tank supported on (1) L. R. 48 I.A. 435.
+856 columns, and which could be filled by pumping from a re servoir belonging to the Corporation could be regarded as machinery within the meaning of the Bengal Municipal Act, 1884, observed at p. 445: "If their Lordships were obliged to run the hazard of the attempt (to define machinery) they would be inclined to say that the word 'machinery ' when used in ordinary language, prima facie means some mechanical contrivances which, by themselves or in combination with one or more other mechanical contrivance, by the combined movement and inter dependent operation of their respective parts generate power, or evoke, modify, apply or direct natural forces with the object in each case of effecting so definite and specific a result.
+" But we are not called upon in this case to decide whether a diesel engine is in the abstract machinery: the question is whether a diesel engine, which is used for replacing a pet rol engine, in a vehicle used by a transport operator for the purpose of his business is machinery installed within the meaning of section 10(2)(vi) paragraph 2.
+Whether "machinery" is some contrivance for supplying motive power to another contrivance which directly produces an article or is a mechanical contrivance which produces or assists in the production of an article, it would be difficult to regard introduction of a mere part, which has no independent use in the business conducted by the assessee, as machinery installed for the purpose of the second paragraph of cl.
+The Legislature has provided for the normal depreciation by paragraph 1 of cl.
+(vi) and in respect of newly installed machinery it has provided for the initial allowance, the object being to induce industrialists to start new industries or to extend their existing industries by erecting new buildings, or installing new machinery or plant.
+A diesel engine by itself may undoubtedly be used in a business other than that of a transport operator, for instance, for working a pump to draw underground water and may for that purpose be regarded as a self contained unit.
+But that is not decisive of the question whether in the business of a transport operator a diesel engine used to replace a petrol engine may be regarded as machinery installed.
+Machinery installed within the meaning of paragraph 2 of section 10(2)(vi) is qualified by the expression "used for the purposes of the business", and therefore unless as a self contained unit the machinery is used for the purposes of the business, initial depreciation would not be admissible in respect thereof.
+That it may be capable of being used in another 857 business by the same or another assessee as a self contained unit is irrelevant in considering its admissibility for initial allowance in the business in which it is actually used.
+It would be fruitless to refer to the schedule under rule 8 of the Income tax Rules for computing the allowance in res pect of the depreciation under section 10(2)(vi).
+The schedule catalogues different items in respect of which depreciation is admissible at the rates prescribed.
+But whether a particular item is admissible for initial allowance in the second paragraph must depend upon two factors (i) that it is in respect of the year of erection or installation that the initial allowance is permissible; and (ii) the building or the machinery is used for the purposes of the business.
+If it is a predicate of admissibility to initial allowance that the machinery must be new and a self contained unit in the particular business in the carrying on of which the initial allowance is claimed, the fact that in certain conditions that machinery may be regarded as self contained for the purpose of another business in which it is used, would furnish no guide in ascertaining whether initial allowance is permissible as a deduction in the assessment of taxable income of the business in which it is actually used.
+In my view the appeal should be allowed and the question referred for opinion should be answered in the negative.
+ORDER In accordance with the opinion of the majority the appeal is dismissed with costs.
+Appeal dismissed.

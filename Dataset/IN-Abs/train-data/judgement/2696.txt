@@ -1,0 +1,64 @@
+il Appeal No. 1655 of 1968.
+Appeal by special leave from the judgment and order dated December 20, 1967 of the Mysore High Court in Regular Second Appeal No. 811 of 1965.
+A. K. Sen, Shyamala Pappu and Vineet Kumar, for the appellant.
+S.V. Gupte, Janendra Lal, B.R. Agarwala and Kumar M. Mehta, for the respondent.
+The Judgment of the Court was delivered by Grover, J.
+This is an appeal by special leave from a judgment of the Mysore High Court in which the question involved is whether an option given to a lessee to get the lease,, which is initially for a period of 10 years, renewed after every 10 years is hit by the rule of perpetuity and is void.
+The respondent entered into a deed of lease on October 26, 1951 with the appellant in respect of premises Nos. 8 & 9, Mahatma Gandhi Road, (South Parade), Civil Station, Bangalore.
+It was stipulated that the lease would be for a period of 10 years in the first instance with effect from November 1, 1961 "with ,an option to the lessee to renew the same as long as desired as provided".
+Clauses 9 and 10 which are material may be reproduced: "9.
+The lessee shall have the right to renew the lease of the scheduled premises at the end of the present period of ten years herein secured on the same rental of Rs. 450/ per month, for a similar period and for further similar periods thereafter on the same terms and conditions as are set forth herein; and the Lessee shall be permitted and shall have the right to remain in occupation of the premises on the same terms and conditions for any further periods of ten years as long as they desire to do so.
+The Lessor shall not raise any objection whatsoever to the Lessee exercising his option to renew the lease for any further periods of ten years on the same terms and conditions as long as they desire to be in 142 occupation, provided that the Lessee shah not have the right to transfer the lease or alienate any right thereunder. ' ' It appears that before the expiry of the period of ten years from the date of the commencement of the lease the lessee wrote to the lessor informing him of the intention to exercise the option given to the lessee under the deed of lease to get the same renewed on the same terms and conditions as before for a period of ten years from November 1, 1961.
+The lessor did not comply with the request.
+After serving a notice the lessee filed a suit for specific performance of the covenant in the lease for renewal.
+It was prayed that the lessor be directed to execute a registered deed to lease in favour of the lessee and if he failed to do so the court should execute a deed in his favour.
+The lessor pleaded, inter alia, that the condition relating to renewal was hit the rule against perpetuity.
+Certain other pleas were taken with which we are not concerned.
+The trial court decreed the suit.
+The first appellate court and the High Court affirmed the decree.
+The rule against perpetuity is embodied in section 14 of the Transfer of Property Act, hereinafter called the Act.
+According to it no transfer of property can operate to create an interest which is to take effect after the lifetime of one or more persons living at the date of such transfer and the minority of some person who shall be in existence at the expiration of that period and to whom, if he attains full age, the interest created is to belong.
+It is well known that the rule against perpetuity is rounded on the principle that the liberty of alienation "shall not be exercised to its own destruction and that all contrivances shall be void which tend to create a perpetuity or place property for ever out of the reach of the exercise of the power of alienation".
+The words "transfer of property" have been defined by section 5 of the Act to mean an act by which a living person conveys property in present or in future to one or more other living persons etc.
+The words "living persons" include a Company or association or body of individuals.
+Section 105 of the Act defines "lease".
+A lease of immovable property is a transfer of a right to enjoy such property made for a certain time express or implied or in perpetuity in consideration of a price paid or promised or of money, a share of crops, service or any other thing of value.
+A lease is not a mere contract but it is a transfer of an interest in land and creates a right in rem.
+Owing to the provisions of section 105 a lease in perpetuity can be created but even then an interest still remains in the lessor which is called a reversion.
+It is not disputed on behalf of the appellant that a lease in perpetuity could have been created but the lease in the present case 143 was not of that kind and was for a period of ten years only in the first instance.
+It is said that the mischief is created by the clauses relating to renewal which are covenants that run with the land.
+It is pointed out that on a correct construction of the renewal clauses the rule of perpetuity contained in section 14 would be immediately attracted.
+We are unable to agree.
+Section 14 is applicable only where there is transfer of property.
+Even if creation of a lease hold interest is a transfer of a right in property and would fall within the expression "transfer of property" the transfer was for a period of ten years only by means of the indenture Exh.
+The stipulation relating to the renewal could not be regarded as transferring property or any rights therein.
+In Ganesh Sonar vs Purnendu Narayan Singha & Ors.(1) in the case of lease of land an option had been given to the lessor determine the lease and take possession of the lease hold land under specified conditions.
+The question was whether such a covenant would fall within the rule laid down in the English case Woodall vs Clifton(2) in which it was held that a proviso in a lease giving an option to the lessor to purchase the fee simple of the land at a certain rate was invalid as infringing the rule against perpetuity.
+The Patna High Court distinguished the English decision quite rightly on the ground that after the counting into force of the Act a contract for the sale of immovable property did not itself create an interest in such property as was the case under the English law.
+According to the Patna decision the option given by the lessee to the lessor to resume the lease hold land was merely a personal covenant and was not a covenant which created an interest in land and so.
+the rule against perpetuity contained in section 14 of the Act was not applicable.
+The same principle would govern the present case.
+The clauses containing the option to get the lease renewed on the expiry of each term of ten years can by no means be regarded as creating an interest in property of the nature that would fall within the ambit of section 14.
+Even under the English law the court would give effect to a covenant for perpetual renewal so long as the invention is clear and it will not be open to objection on the ground of perpetuity; see Halsbury 's Laws of England, 3rd Edn.
+23, p 627.
+In Muller vs Traf Jword(3) it was held that the covenant in a lease for renewal was not strictly a covenant for renewal.
+But Farwell, J., proceeded to observe that a covenant to renew had been held for at.
+least two centuries to be a covenant running with the land.
+If so, then no question of perpetuity would arise.
+It appears that in England whatever might have been the reason, the objection of perpetuity had never been taken to cases (1) (1962) Patna 201.
+(2) (3)(1901) 1 Ch.
+54. of covenants for renewal.
+The following observations of Farwell, J., which were quoted with approval by Lord Evershed, M.R. in Weg Motors Ltd. vs Hales & Others(1) are note worthy: "But now I will assume that this is a covenant for renewal running with the land; it is then in my opinion free from any taint of perpetuity because it is annexed to the land.
+See Rogers vs Hosegood, The equitable rule that the burden of a covenant runs with the land is to be found in section 40 of the Act.
+This section reads: 40.
+"Where for the more beneficial enjoyment of his own immoveable property, a third person, has, independently of any interest in the immoveable property of another or of any easement thereon, a right to restrain the enjoyment in a particular manner of the latter property, or where a third person is entitled to the benefit of an obligation arising out of contract, and annexed to the ownership of immoveable property, but not amounting to an interest therein or easement thereon, such right or obligation may be enforced against a transferee with notice thereof or a gratuitous transferee of the property affected thereby, but not against a transferee for consideration and without notice of the right or obligation nor against such property in his hands." As pointed out in Mulla 's Transfer of Property Act, 5th Edn.
+at page 194, section 40 expressly says that the right of the covenantee not an interest in the land bound by the covenant nor an easement.
+It is not an interest because the Act does not recognise equitable estates and it cannot be said as Sir George Jessal said in London & South Western Rly.
+vs Gomm(2) that if a covenant "binds the land it creates an equitable interest in the land.
+" The expression "covenant runs with the land" has been taken from the English law of real property.
+It is an exception to the general rule that all covenants are personal.
+Even on the footing that the clauses relating to renewal in the lease, in the present case, contain covenants running with the land the rule against perpetuity contained in section 14 of the Act would not be applicable as no interest in property has been created of the nature contemplated by that provision.
+For the above reasons the appeal fails and it is dismissed with costs.
+G.C. Appeal dismissed.
+(1) ,188.
+(2) , 580.

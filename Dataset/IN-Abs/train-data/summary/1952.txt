@@ -1,0 +1,31 @@
+As the dividend declared to be distributed by the respondentcompany at its General Body Meeting was below 60 per cent of the profits available for distribution, the Income Tax Officer, with the previous approval of the Inspecting Assistant Commissioner, passed an order under section 23 A of the Income Tax Act directing that a certain higher amount shall be deemed to have been distributed as dividends as on the date of the annual general meeting of the Company.
+He found that, having regard to the profits earned in the earlier years and the capital and taxation reserves, payment of larger dividend would not be unreasonable.
+This was affirmed, on assessees appeals by the Appellate Assistant Commissioner, and the Income tax Appellate Tribunal.
+The Tribunal referred the question to the High Court under sec.
+66(1) of the Act, which concluded that having regard to the smallness of the profits, the order of the Income tax Officer was not justified and answered the question in the assessee 's favour.
+In appeal by certificate.
+HELD: Section 23A of the Income tax Act is in the nature of a penal provision.
+In the circumstances mentioned therein, the entire undistributed portion of the assessable income of the company is deemed to be distributed as dividends.
+Therefore, the Revenue has strictly to comply with the conditions laid down thereunder.
+The burden therefore, was upon the Revenue to prove that the conditions laid down thereunder were satisfied, before the order was made.
+Thomas Fattorini (Lancashire) Ltd. vs Inland Revenue Commis sion applied.
+In the present case the Revenue failed to discharge the said burden: indeed, the facts established stamp the order of the Income tax Officer as unreasonable. [446F, G] Though the object of the section is to prevent evasion of tax, the provision must be worked not from the stand Point of the tax collector but from that of a businessman.
+The reasonableness or the unreasonableness of the amount distributed as dividends is judged by business considerations, such as the previous losses, the present profits, the availability of surplus money and the reasonable requirements of the future and similar others.
+It is neither possible nor advisable to lay down any decisive tests for the guidance of the Income tax Officer.
+It depends upon the facts of each case.
+The only guidance is his capacity to put himself in the position of a prudent businessman.
+It is difficult to say that the Income tax Officer cannot take into consideration any circumstances other than losses and smallness of profits.
+This argument ignores the expression "having regard to" that precedes the said words in section 23A of the Act.
+[444B E] 440 Commissioner of Income tax vs Williamson Diamond Ltd. L.R. , applied.
+Sir Kasturchand Ltd. vs Commissioner of Income tax, Bombay City, , referred to.
+The words "smallness of profit" in section 23A of the Act refer to actual accounting profits in comparison with the assessable profits of the year.
+The two concepts "accounting profits" and "assessable profits" are distinct.
+In arriving at the assessable profits the Income tax Officer may disallow many expenses actually incurred by the assessee; and in computing his income he may include many items on notional basis.
+But the commercial or accounting profits are the actual profits earned by an assessee calculated on commercial principles.
+[445F H.] Commissioner of Income tax, Bombay City vs Bipinchandra Maganlal and Co. Ltd. (1961)41 I.T.R. 296, followed.
+In a case where an Income tax Officer takes action under section 23A of the Act before the tax for the relevant period is assessed, only the estimated tax can be deducted; but, there is no reason why, when the tax had already been assessed before he takes action under this section.
+the estimated tax and not the real tax shall be deducted therefrom.
+[445H 446B] There is no provision in the Income tax Act which makes the Balance Sheet final for the purpose of section 23A of the Act or even for the assessment.
+It no doubt affords a prima facie proof of the financial position of the company on the date when the dividend was declared.
+But nothing prevents the parties in a suitable case to establish by cogent evidence that certain items were, either by mistake or by design, inflated or deflated or that there were some omissions.
+[446B D]

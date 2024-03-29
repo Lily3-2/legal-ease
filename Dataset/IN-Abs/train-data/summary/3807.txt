@@ -1,0 +1,38 @@
+Under section 2(6A)(e).of the Indian Income tax Act, 1922, the term dividend includes any payment by a company not being a company in which the public are substantially interested within the meaning of section 23A of any sum (whether as representing a part of the assets of the company or otherwise) by way of advance or loan to a shareholder or any payment by any such company on behalf or for the individual benefit of a shareholder to the extent to which the company in either case possesses accumulated profits.
+According to section 12(1A) of the Act, income from other sources includes dividends.
+Sub section (lB) of section 12 provides any payment by a company to a shareholder by way of advance or loan which would have been treated as dividend within the meaning of section 2(6A)(e) in any previous year relevant to any assess ment year prior to the assessment year ending on the 31st day of March, 1956 had that clause been in force in that year, shall be treated as a dividend received by him in the previous year relevant to the assessment year ending on the 31st day of March, 1956, if such loan or advance remained outstanding on the first day of such previous year.
+The provisions of section 2(6A)(e) and section 12(lB) had been borrowed and adopted with certain alterations from section 108(2) of the Commonwealth Income Tax Assessment Act of Australia the last limb of which provided that payment to a shareholder by way of advance or loan was to be treated as dividend paid by the company on the last day of the year of income of the company in which payment was made.
+The appellant assessee was a shareholder and Managing Director of a Private Ltd. Company.
+In the calendar year 1956 (assessment year 195758), the assessee withdrew in cash from the company a sum of Rs. 4.97 lakhs, which was less than the accumulated profits of the company.
+Before the end of the year, the assessee repaid the whole amount.
+Deduct ing a sum of Rs. 1.59 lakhs which was credited to the asses see 's account by way of dividend in the company 's books, the Income tax Officer treated the balance of Rs. 2.72 lakhs as dividend income in the ,assessee 's hands and grossed up the amount under section 16(2).
+appeal, the Accountant Member of the Appellate Tribunal held that any payment made as envisaged in section 2(6A)(e) became dividend and must be treated as the assessee 's income and no subsequent repayment could take it out of the mischief of the provision.
+The Judicial Member on the other band held that since total income of the asses see during the relevant previous year could be computed and assessed only at the end of that year any advance or loan taken during the interim periods of the previous year would have to.
+be ignored.
+On reference the President agreed with the Accountant Member.
+The High Court answered the reference in favour of the Revenue.
+698 were taken and (ii) the last limb of section 108(1) of the Aus tralian Act should be read into the Indian Act because what was explicit in.
+section 108(1) of the Australian Act is implicit in section 2(6A),(e) and section 12(lB) of the Indian Act.
+Dismissing the appeal, HELD: The fiction created by section 2(6A)(e) read with section 12(lB) of the Act is attracted as soon as all the conditions necessary for its application exist in a case.
+[707 C] 1.
+In Navnit Lal C. Javeri vs
+K.K. Sen, Appellate Assist ant Commissioner Income tax ; , this Court held that the combined effect of these two provisions is that three kinds of payments made to a shareholder of a company are treated as taxable dividend to the extent of the accumulated profits held by the company, namely, payments made to the shareholder by way of advance or loan, pay ments made on his behalf and payments made for his individu al benefit.
+The five conditions to be satisfied are: (i) The company must be one in which the public are not substan tially interested within the meaning of section 23A; (ii) The borrower must be a shareholder at the date when the loan was advanced; (iii) The loan advanced can be deemed to be divi dend only to the extent of the accumulated profit on the date of the loan; (iv) The loan must not have been advanced by the company is the ordinary course of its business and (v) The loan must have remained outstanding at the com mencement of the shareholder 's previous year in relation to the assessment year 1955 56.
+[707 D G] In the instant case the company was a controlled company within the meaning of section 23A; the assessee was its share holder; the company possessed "accumulated profits" in excess of the amount paid to the assessee during the previ ous years; and the company 's business was not money lending.
+The last condition was not applicable because it was a transitory provision applicable to the assessment year 1955 56 only while the assessment year in this case was 1957 58.
+[708 A] 2.
+(a) The language of sections 2(6A)(e) and 12(lB) is clear and unambiguous.
+There is no scope for importing into the statute words which are not there.
+Such importation would be not to construe it but to amend the statute.
+Even if there be a casus omissus, the defect can be remedied only by legislation and not by judicial interpretation.
+[708 H] (b) No justification to depart from the normal rule of construction according to which the intention of the legislature is primarily to be gathered from the words used in the statute has been made out.
+(c) The Indian Legislature has deliberately omitted to use in sections 2(6A)(e) and 12(lB) words analogous to those in the last limb of section 108(1) of the Australian Act.
+When sections 2(6A)(e) and 12(lB) were inserted by Finance Act, 1955, Parliament must have been aware of the provision contained in section 108 of the Australian Act.
+In spite of such aware ness, Parliament has not thought it fit to borrow the whole hog what is said in section 108(1) no far as the last limb of that section is concerned.
+Our Parliament imported only a very restricted version, and incorporated the same as the 5th condition in section 12(lB) to the effect, that the payment deemed as dividend shall be treated as dividend received by him in the previous year relevant to the assessment year ending on the 31st March, 1956 if such loan or advance remained outstanding on the last day of such previous year The word "such" prefixed to the previous year shows that the application of this clause is confined to the assessment year ending on 31st March, 1956.
+[709 C D] In the instant case the assessment year did not end on 31st March, 1956 which showed that the Legislature has deliberately not made the subsistence of the loan or advance or its being outstanding on the last date of the previous year relevant to the assessment year, a prerequisite for raising the statutory fiction.
+In other words, even if the loan or advance ceased to, be 699 outstanding at the end of the previous year, it could still be deemed as dividend if the other four conditions factually existed to the extent of the accumulated profits possessed by the company.
+[709 E F] (d) Under section 3 which is the charging section, the previ ous year is the unit of time on which the assessment is based.
+As the taxability of income is related to its re ceipt or accrual in the previous year, the moment dividend is received whether, actual or deemed, income taxable under the residuary head, "income from other sources", arises.
+The charge being on accrual or receipt, the statutory fic tion created by sections 2(6A)(e) and section 12(lB) would come into operation at the time of payment by way of advance or loan provided the other conditions are satisfied.
+[709 G H]

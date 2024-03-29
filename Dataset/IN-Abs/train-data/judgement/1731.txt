@@ -1,0 +1,275 @@
+Appeal No. 130 of 1962.
+Appeal by special leave from the Judgment and decree dated March 17, 1959, of the Allahabad High Court in Misc.
+Writ Petition No. 280 of 1958.
+K. N. Rajagopal Sastri and R. N. Sachthey, for the appellant Bishan Narain, G. C. Sharma, O.C. Mathur, J. B. Dadachanji and Ravinder Narain, for the respondent.
+A. V. Vishwanatha Sastri, D. N. Mukherjee and B. N. Ghosh, for the intervener.
+January 29, 1964. 'Me Judgment of B. P. Sinha C.J., K.Subba Rao and N. Rajagopala Ayyangar JJ., was delivered by Subba Rao J.
+The dissenting opinion of Raghubar Dayal and Mudholkar JJ., was delivered by Mudholkar J. SUBBA RAo J.
+This appeal by special leave raises the question of the construction of the proviso to sub section
+(3) of section 34 of the Indian Income tax Act, 1922, as amended by Act 25 of 1933, hereinafter called the Act.
+The facts lie in a small compass and they are as follows: The respondent is a firm carrying on business in different lines.
+It was assessed to income tax under section 23 (4) of the Act for the assessment year 1949 50 on the ground that the notice issued under sub sections
+(2) and (4) of section 22 of the Act had not been complied with.
+On September 27, 1955, the said assessment was cancelled under section 27 of the Act.
+But before the said cancellation, it was found that an interest income of Rs. 88,737 in the shape of U.P. Encumbered Estates Act Bonds received by him in discharge of 415 the debts due from third parties had escaped assessment as the assessee failed to disclose the same.
+The Income tax Officer issued a notice under section 34 (1) (a) of the Act for the assessment year 1949 50 on the ground that the said sum of Rs. 88,737 had escaped assessment in the said assessment year.
+After the assessment of that year was set aside under section 27 of the Act, the Income tax Officer, ignoring the notice issued by him under section 34 (1)(a) of the Act, included that amount in the fresh assessment made by him.
+The assessee preferred an appeal against that order and that was disposed of by the Appellate Assistant Commissioner on December 4, 1957.
+The Appellate Assistant Commissioner in his order held that the bonds were received by the assessee in the previous accounting year and, therefore, directed that the sum representing interest on the bonds should be, deleted from the assessment for the year ending 1949 50 and included in the assessment for the year ending 1948 49.
+pursuant to the direction given by the Appellate Assistant Commissioner the Income tax Officer initiated proceedings under section 34(1) of the Act in respect of the assessment year 1948 49.
+The notice issued under that section was served on the respondent on December 5, 1957.
+The assessee filed a petition under article 226 of the Constitution in the High Court of Judicature at Allahabad for quashing the said proceedings, mainly on the ground that the proceedings were initiated beyond the time prescribed by section 34 of the Act.
+The High Court accepted the contention and quashed the proceedings initiated by the Income tax Officer.
+Hence the appeal.
+The proceedings would be in time, if the second proviso to section 34(3) of the Act could be invoked.
+The question, therefore, is what is the true meaning of the terms of the second proviso to section 34(3) of the Act,.
+It reads: "Provided further that nothing in this section limiting the time within which any action may be taken, or any order, assessment or re assessment may be made, shall apply to a re assessment made under section 27 or to an assessment or re assessment made on the assessee or any person in consequence of or to give effect to any 416 finding or direction contained in an order under section 31, section 33, section 33A, section 33B. section 66 or section 66A." Prima facie this proviso lifts the ban of limitation imposed by the other provisions of the section in the matter of taking an action in respect of or making an order of assessment or re assessment falling within the scope of the said proviso.
+The scope of the proviso is confined to an assessment or re assessment made on the assessee or any person in consequence of an order to give effect to any finding or direction contained in any order made under section 31 i.e., in an appeal before the Assistant Appellate Commissioner, under section 33 i.e., in an appeal before the Tribunal, under section 33A i.e., in a revision before the Commissioner, under section 33B i.e. in a revision before the Commissioner against an order of the Income tax Officer, and under sections 66 and 66A i.e., in a reference to the High Court and appeal against the High Court 's order to the Supreme Court.
+Learned counsel for the appellant contends that the scope of the proviso is only confined to the assessment of the year that is the subject matter of the appeal or the revision, as the case may be.
+Learned counsel for the Department argues that the comprehensive phraseology used in the proviso takes in its broad sweep any finding given by the appropriate authority necessary for the disposal of the appeal or the revision, as the case may be, and to any direction given by the said authority to effectuate its finding and that the said finding or direction may be in respect of any year or any person.
+As the phraseology used in the proviso is not clear or unambiguous, the question raised cannot be satisfactorily resolved without having a precise appreciation of a brief history of section 34 of the Act culminating in the enactment of the proviso in the present form.
+Under section 3 of the Act, income tax for any year shall be charged in respect of the total income of the previous year of every assessee.
+Notice under section 22 calling for return of income is the first step in the assessment proceedings.
+Two types of notices are mentioned in that section, namely, (i) the public notice and (ii) the individual notice. 'Me public notice shall be, issued on or before the 1st May of each year and the individual notice may be issued at any 417 time in the course of the assessment year.
+Income tax proceedings, therefore, for a particular assessment year have to be initiated in the course of that year.
+But there may be cases of escaped assessment or under assessment.
+Section 34 empowers the Income tax Officer to take proceedings under that section both in respect of concealed income and also in bona fide cases where the income has escaped assessment or full assessment.
+Section 34(1) (a) provides for the initiation of assessment proceedings in respect of concealed income and section 34(1) (b) for other escaped income, Section 34(1) has been amended from time to time.
+Under the said section, as it originally stood, the Income tax Officer was empowered to initiate proceedings at any time within one year of the end of the year in respect whereof the income escaped assessment.
+By Act 7 of 1939 that section was amended and eight years ' limitation from the end of the year was prescribed in respect of concealed income and a limitation of four years for other escaped income.
+Under Act 48 of 1948, the same periods of limitation were retained, but certain conditions were imposed.
+By the Finance Act of 1956, it was enacted that in the case of concealed income the proceedings could be initiated at any time within 4 years of the end of the relevant assessment year.
+Though no period of limitation was prescribed in respect of concealed income, three conditions were imposed, namely, (i) that an Income tax Officer shall not issue a notice for any year prior to the year ending on March 31, 1941, (ii) that if the escaped income was less than rupees one lakh, he shall not issue a notice if 8 years have elapsed after the expiry of the relevant assessment year, and (iii) that unless he has recorded his reasons and unless the Central Board of Revenue in any case falling under cl.
+(2) of the proviso and in any other case, the Commissioner, is satisfied that for such reasons as recorded it is a fit case for the issue of a notice.
+Before 1939, there was no period of limitation for com pleting the assessment once it had been initiated within the prescribed period of limitation.
+But Act 7 of 1939 for the first time introduced cl.
+(2) in section 34 whereunder "no order of assessment under section 23 or of assessment or re assessment under sub section (1) of this section shall be made after the 134 159 section C. 27 418 expiry, in any case to which (c) of sub section (1) of sec tion 28 applies, of eight years, and in any other case, of four years from the end of the year in which the income, profits or gains were first assessable".
+Section 28 (1) (c) dealt with a case of an assessee concealing the particulars of his income or deliberately furnishing inaccurate particulars of his income.
+Act 23 of 1941 inserted a proviso in section 34(2) providing that "nothing contained in this sub section shall apply to a re assessment made in pursuance of an order under section 31, section 33, section 66 or section 66 A", i.e., provisions relating to appeals, revisions and references: that is to say, if the assessment made by the Income tax Officer was set aside and a re assessment was directed to be made, the said periods of limitation would not apply to such reassessment.
+Act 48 of 1948 introduced sub section
+(3) in section 34 in substitution of sub section (2) thereof.
+Under that sub section the period of limitation prescribed by sub section
+(2) was retained, and the proviso to section 34(2) before the amendment was made the second.
+proviso, with some modifications, to the amended sub section
+While the scope of the previous proviso was confined only to the completion of re assessment proceedings, the scope of the amended proviso is much wider in that it exempts the subject matter of that proviso from the operation, of the period of limitation prescribed by the section; that is to say, it gives full scope to the operation of the substantive part of the section unhampered by the periods of limitation prescribed by sub sections
+(1), (2) and (3) of section 34 of the Act.
+While the previous proviso lifted the ban only in regard to the period of limitation prescribed for the completion of the assessment, the new proviso lifted the ban even in respect of the initiation of proceedings under section 34 (1) of the Act.
+It follows that if a matter fell within the terms of the proviso, there would be no period of limitation for initiating an action or making an assessment or reassessment in respect of that matter.
+Briefly stated, the said proviso is a proviso to the entire section 34.
+We shall consider the scope of the proviso at a later stage of our judgment.
+Then came the Finance Act of 1956.
+It amended section 34 (1) and introduced a proviso to the said sub section, which we have noticed earlier.
+That proviso, while removing the period of limitation in respect of concealed income, imposed 419 some conditions in respect thereof, but the four year period of limitation in respect of other escaped income was retained.
+We are not concerned in this appeal with the subsequent amendments.
+The history of the section gives us the following background to the proviso under consideration.
+Broadly stated, under section 34, as it existed in 1956, (i) there was no time limit for initiating proceedings under section 34(1) in respect of con cealed income, but such initiation could be made only sub ject to the conditions laid down in the proviso to section 34(i); (ii) in the case of other escaped income, the proceedings could not be initiated after the expiry of 4 years from the end of the relevant assessment year; (iii) the assessment proceedings once commenced shall be completed within the period of limitation prescribed under section 34(3); and (iv) to a case to which the proviso to section 34(3) applies, there is no period of limitation either for initiating the proceedings under section 34 or for completing the assessment commenced either under section 23 or under section 34(1).
+With this background let us give a closer look to the relevant terms of the proviso.
+The first part of the proviso released the operation of the proviso from the restriction imposed by section 34 only in respect of the time limit within which any action may be taken or any order of assessment or re assessment may by made.
+It means that the proviso continues to be subject to the other restrictions imposed under the section and it cannot override the said provisions in that regard.
+Under the proviso, the period of limitation will not apply to a re assessment made under section 27 or to an assessment or re assessment made on the assessee or any person in consequence of or to give effect to any finding or direction contained in an order under section 31, section 33, section 33B, section 66 or section 66A of the Act.
+It was not contended, nor was it possible to contend, that by reason of the reference to the said provisions the powers and jurisdiction conferred on the respective.
+authorities, tribunals or courts referred to therein were enlarged or modified by a ' reference in the proviso or that the proviso could be read or construed as amending those sections conferring on those bodies wider or different powers or jurisdiction.
+Learned counsel for the department expressly disclaimed any such submission.
+Therefore, the scope of the proviso cannot ordinarily exceed the scope of the jurisdiction conferred on an authority under the said provisions.
+It is not, and cannot be, disputed that under the Income Lax Act, year is the unit of assessment.
+The Judicial Committee in Commissioner of Income tax vs section M. Chitnavis(1) pointed out : "For the purpose of computing the yearly profits and gains, each year is a separate self contained period, time, in regard to which profits earned or losses sustained before its commencement are irrelevant." This Court in Sir Kikabhai Premchand vs Commissioner of Income tax (Central), Bombay(1) accepted this legal position when it said: ". . for income tax purposes, each year is a self contained accounting period and we can only take into consideration income, profits and gains made in that year and are not concerned with potential profits which may be made in.
+another year any more than we are with losses which may occur in the future.
+" Indeed, the decision of an Income tax Officer given in a particular year does not operate as res judicata in the matter of assessment of the subsequent years.
+The jurisdiction of the tribunals in the hierarchy created by the Act is no higher than that of the Income tax Officer.
+It is also confined to the year of assessment.
+Under section 27 of the Act, the Incometax Officer cancels the best judgment assessments made by him if the assessee shows that he was prevented by sufficient cause from making the returns under section 22 of the Act.
+Section 31 prescribes the mode of disposal by an Assistant Appellate Commissioner of an appeal preferred to him: the appeal before him is certainly confined to an assessment year; after hearing the appeal, he can either confirm, reduce, enhance or annul the assessment; he can set aside the (1)(1932) L. R. 59 I. A. 290. 297.
+(2) , 222.
+421 assessment and direct the Income tax Officer to make a fresh assessment.
+The various sub sections of that section describe in detail the orders or directions that can be made or issued by him in respect of various matters; but, no power is conferred on him to make an order or issue directions in respect of an assessment of a year which was not the subject matter of the appeal.
+It may, therefore, be held on a construction of the provisions of section 31, that the jurisdiction of the Appellate Assistant Commissioner is strictly confined to the assessment orders of a particular year under appeal.
+Section 33, inter alia, deals with an appeal to the Tribunal against the order of the Appellate Assistant Commissioner under section 31; and section 33B confers power of revision on the Commissioner against an order of the Income tax Officer.
+The jurisdiction of the Appellate Tribunal or the Revisional Tribunal, as the provisions indicate, is confined only to the subject matter which is under appeal or revision.
+The jurisdiction of the High Court or the Supreme Court under section 66 or section 66B, as the case may be, is far more limited and it is confined only to the questions referred to them.
+Obviously the questions referred by the Tribunal cannot exceed its jurisdiction.
+It is, therefore, manifest that assessment or re assessmentmade under the said sections or pursuant to the orders ordirections made thereunder must necessarily relate to the assessment of the year under review, revision or appeal, as the case may be.
+It is important to remember that the proviso does not confer any fresh power upon the Income tax Officer to make assessments in respect of escaped incomes without any time limit.
+It only lifts the ban of limitation in respect of certain assessments made under certain provisions of the Act and the lifting of the ban cannot be so construed as to increase the jurisdiction of the Tribunals under the relevant sections.
+The lifting of the ban was only to give effect to the orders that may be made by the appellate, revisional or reviewing tribunal within the scope of its jurisdiction.
+If the intention was to remove the period of limitation in respect of any assessment against any person, the proviso would not have been added as a proviso to sub section
+(3) of section 34, which deals with completion of an assessment, but would have been added to sub section
+(1) thereof.
+422 Now, let us scrutinize the expressions on which strong reliance is placed for the contrary conclusion.
+The words relied upon are "section limiting the time", ",any person", "in consequence of or to give effect to any finding or direction".
+Pointing out that before the amendment the word "subsection was in the proviso but it was replaced by the expression "section", it is contended that this particular amendment will be otiose if it is confined to the assessment year under appeal, for it is said that under no circumstances the Income tax Officer would have to initiate proceedings for the said year pursuant to an order made by an Appellate Assistant Commissioner.
+This contention is obviously untenable.
+The Appellate Assistant Commissioner or the Appellate Tribunal may set aside the notice itself for one reason or other and in that event the Income tax Officer may have to initiate the proceedings once again in which case section 34(1) will be attracted.
+The expression "finding or direction", the argument proceeds, is wide enough to take in at any rate a finding that is necessary to dispose of the appeal or directions which Appellate Assistant Commissioners have in practice been issuing in respect of assessments of the years other than those before them in appeal.
+What does the expression "finding" in the proviso to sub section
+(3) of section 34 of the Act mean? "Finding" has not been defined in the Income tax Act.
+Order XX, r. 5 of the Code of Civil Procedure reads: "In suits in which issues have been framed, the Court shall state its finding or decision, with the reasons therefor, upon each separate issue, unless the finding upon any one or more of the issues is sufficient for the decision of the suit." Under this Order, a "finding" is, therefore, a decision on an issue framed in a suit.
+The second part of the rule shows that such a finding shall be one which by its own force or in combination with findings on other issues should lead to the decision of the suit itself.
+That is to say, the finding shall be one which is necessary for the disposal of the suit.
+The scope of the meaning of the expression "finding" is considered by a Division Bench of the Allahabad High Court in 423 Pt.
+Hazari Lal vs Income tax Officer, Kanpur(1) There, the learned Judges pointed out: "The word "finding ', interpreted in the sense indicated by us above, will only cover material questions which arise in a particular case for decision by the authority hearing the case or the appeal which, being necessary for passing the final order or giving the, final decision in the appeal, has been the subject of controversy between the interested parties or on which the parties concerned have been given a hearing.
+" We agree with this definition of "finding".
+But a Full Bench of the same High Court in Lakshman Prakash vs Commissioner of Income tax, U.P. (2) construed the word "finding" in a rather comprehensive way.
+Desai, C.J., speaking for the Court, observed: "A finding is nothing but what one finds or decides and a decision on a question even though not absolutely necessary or not called for is a finding.
+" If that be the correct meaning, any finding on an irrelevant or extraneous matter would be a finding.
+That certainly cannot be the intention of the Legislature.
+The Madras High Court also in A. section Khader Ismail vs Income tax Officer, Salem(3) gave a very wide interpretation to that word, though it did not go so far as the Full Bench of the Allaha bad High Court.
+Ramachandra Iyer J., as he then was, speaking for the Court, observed that the word "finding" in the proviso must be given a wide significance so as to include not only findings necessary for the disposal of the appeal but also findings which were incidental to it.
+With respect, this interpretation also is inconsistent with the well known meaning of that expression in the legal terminology.
+Indeed, learned counsel for the respondent himself will not go so far, for he concedes that the expression "finding" cannot be (1) (196O) , 272 (2) (1963) 48 I. T. R. 705, 718.
+(3) 424 any incidental finding, but says that it must be a conclusion on a material question necessary for the disposal of the appeal, though it need not necessarily conclude the appeal.
+This concession does not materially differ from the definition we have given, but the difference lies in the application of that definition to the finding given in the present case.
+A "finding", therefore, can be only that which is necessary for the disposal of an appeal in respect of an assessment of a particular year.
+The Appellate Assistant Commissioner may hold, on the evidence, that the income shown by the assessee is not the income for the relevant year and thereby exclude that income from the assessment of the year under appeal.
+The finding in that context is that that income does not belong to the relevant year.
+He may incidentally find that the income belongs to another year, but that is not a finding necessary for the disposal of an appeal in respect of the year of assessment in question.
+The expression "direction" cannot be construed in vacuum, but must be collated to the directions which the Appellate Assistant Commissioner can give under section 31.
+Under that section he can give directions, inter alia, under section 31 (3) (b), (c) or (e) or section 31 (4).
+The expression "directions" in the proviso could only refer to the directions which the Appellate Assistant Commissioner or other tribunals can issue under the powers conferred on him or them under the respective sections.
+Therefore, the ex pression "finding" as well as the expression "direction" can be given full meaning, namely, that the finding is a finding necessary for giving relief in respect of the assessment of the year in question and the direction is a direction which the appellate or revisional authority, as the case may be, is, empowered to give under the sections mentioned therein.
+The words "in consequence of or to give effect to" do not create any difficulty, for they have to be collated with, and cannot enlarge, the scope of the finding or direction under the proviso.
+If the scope is limited as aforesaid, the said words also must be related to the scope of the findings and directions.
+The words "any person ', it is said, conclude the matter in favour of the Department.
+The expression "any person"in its widest connotation may take in any person whether connected or not with the assessee, whose income for any 425 year has escaped assessment; but this construction cannot be accepted, for the said expression is necessarily Circumscribed by the scope of the subject matter of the appeal or revision, as the case may be.
+That is to say, that person must be one who would be liable to be assessed for the whole or a part of the income that went into the assesment of the year under appeal or revision.
+If so construed, we must turn to section 31 to ascertain who is that person other than the appealing assessee who can be liable to be assessed for the income of the said assessment year.
+A combined eading of section 30(1) and section 31(3) of the Act indicates the cases where persons other than the appealing assessees might be affected by orders passed by the Appellate Commissioner.
+Modification or setting aside of assessment made on a firm, joint Hindu family, association of persons, for a particular year may affect the assessment for the said year on a partner or partners of the firm, member or members of the Hindu undivided family or the individual, as the case may be.
+lit such cases though the latter are not eo nomine parties to the appeal, their assessments depend upon the assessments on the former.
+The said instances are only illustrative.
+It is not necessary to pursue the matter further.
+We would, therefore, hold that the expression "any person" in the setting in which it appears must be confined to a person intimately connected in the aforesaid sense with the assessment of the year under appeal.
+We shall now briefly touch upon the conflict of decisions on the question.
+The Full Bench of the Allahabad ' High Court in Lakshman Prakash 's case(1) overruled the decision of the Division Bench in Pt.
+Hazari Lal 's case (2).
+A Division Bench of the Madras High Court consisting of Rajagopalan and Balakrishna Ayyar JJ., in Simrathmull vs Additional Income tax Officer, Ootacamund(3), took the same view as the Full Bench of the Allahabad High Court in Lakshman Prakash 's case(4).
+But a Division Bench of the Calcutta High Court, consisting of Bose C.J., and Mookerjee J., in Brindaban Chandra Basak vs Income tax Officer(4), though it had not finally expressed any opinion (1) , 718.
+(2) , 272.
+(3) (4) 426 on that, was inclined to accept the view expressed by the Division Bench of the Allahabad High Court in Pt.
+Hazari Lal 's case(1).
+We have gone through the decisions carefully.
+For the reasons given by us, we agree with the view expressed by the Division Bench of the Allahabad High Court in Pt.
+Hazari Lal 's case(2) on the interpretation of the proviso to sub section
+(3) of section 34 of the Act.
+In the result, we hold that the said provision would not save the time limit prescribed under sub s ' (1) of section 34 of the Act in respect of an escaped assessment of a year other than that which is the subject matter of the appeal or the revision, as the case may be.
+It follows that the notice under section 34(1) (a) of the Act issued in the present case was clearly barred by limitation.
+In this view no other question arises for our consideration.
+In the result, the appeal fails and is dismissed with costs.
+MUDHOLKAR J. This is an appeal by special leave from the judgment of the Allahabad High Court in the writ petition under article 226 of the Constitution quashing a notice under section 34(1) of the Indian Income tax Act, 1922 issued by the appellant, Income tax Officer, A Ward Sitapur on December 5, 1957 against respondent No. 4.
+The relevant facts are briefly these: For the assessment year 1949 50, correspondiria to Samvat year 2005, the appellant made an ex parte assessment under section 23(4) of the Act on November 13, 1953 which he later set aside under section 27 of the Act.
+Before that he had issued a notice to the respondent firm under section 314(1) (a) of the Act in respect of the same assessment year on the ground that a sum of Rs. 88,737 representing interest alleged to have been earned by the firm during that year had escaped assessment in the assessment made under section 23(14).
+After, however, fresh proceedings were taken under section 23 (3) by the appellant consequent upon his order under section 27, he proceeded to include in the assessment a sum of Rs. 88,737 which was alleged to have escaped assessment in the notice earlier issued under section 34(1) (a) and made an assessment (1) (1963)48I.T.R.705,718.
+427 order on January 31, 1957.
+Against this order the respon dent preferred an appeal before the Appellate Assistant Commissioner in which he urged two main grounds and the one accepted by the Appellate Assistant Commissioner was that the aforesaid amount of interest was received by the firm in the accounting period of the previous assessment year and not in that of the assessment year 1949 50.
+Upon this view, the Appellate Assistant Commissioner reduced the assessment and observed as follows in his order : "I, therefore, hold that the amount in dispute should be deleted from the assessment for 1949 50 and that, instead, the Income tax Officer should take steps to assess the wnount for the assessment year 1948 49." Treating this as a direction or finding of the Appellate Authority, the appellant issued the impugned notice dated December 5, 1957 under section 34(1) (a).
+The respondent immediately moved the High Court for quashing the aforesaid notice.
+The High Court quashed the notice on the ground that it was issued by the appellant beyond the ordinary period of limitation, overruling the appellant 's contention that no period of limitation governed the notice inas much as the second proviso to section 34(3) of the Act was attracted to the facts of the case.
+The High Court in doing so purported to follow its own decision in Pt.
+Hazari Lal vs The Income tax Officer, Disti.
+II, Kanpur(1).
+Briefly stated, the view taken by the High Court is that the only direction which the Appellate Assistant Commissioner can competently give is one which is covered by section 31 of the Act and that since the appeal before him was confined to a particular assessment year, the direction must also be necessarily limited to a matter falling within that year.
+The High Court further held that if the direction be treated as based on a finding recorded by the Appellate Assistant Commissioner, that finding will have to be disregarded when applying the proviso.
+The correctness of the view taken by the High Court is challenged before us on behalf of the appellant.
+(1) Civil Misc.
+2227 of 1956.
+428 The relevant part of section 34(3) and the second proviso thereto run thus: "No order of assessment or reassessment, other than an order of assessment under section 23 to which clause (c) of sub section (1) of section 28 applies or an order of assessment or reassessment in cases falling within clause (a) of subsection (1) or sub section (1A) of this section shall be made after the expiry of four years from the end of the year in which the income, profits or gains were first assessable: Provided further that nothing contained in this section limiting the time within which any action may be taken or any order, assessment or reassessment may be made shall apply to a reassessment made under section 27 or to an assessment or reassessment made on the assessee or any per son in consequence of or to give effect to any finding or direction contained in an order under section 31, section 33, section 33A, section 33B, section 66 or section 66A." This is how the provision stands as from April 1, 1956 and it is not disputed before us that it is the amended provision which would apply to the present case.
+What is, however, contended on behalf of the respondent is that the only issue before an Income tax Officer in every case being the assessment for a particular year and no other year, the direction or finding contemplated by the second proviso which the Appellate Authority could make must necessarily be limited to that year alone.
+The alternative contention is that if the second proviso is so construed as to permit of a direction or finding being made with respect to any other year, it is ultra vires being violative of article 14 of the Constitution.
+It was further contended that since the amount in this case is below one lakh of rupees, the second proviso will not apply.
+As regards the last point we may advert to our judgment delivered today in K. C. Thomas, First Income tax Officer, Bombay vs Vasant Hiralal Shah(1) in which we have (1) ; 429 negatived a similar contention.
+For the reasons given there, we reject the argument of learned counsel for the respondent.
+Coming to the first contention of the respondent, it is no doubt true that the whole scheme of the Income tax Act is to confine the assessment pursuant to the notice given under section 22 to a particular year and particular year alone and in the proceeding before him he is bound to confine himself to the income of that year.
+If income in previous years has escaped assessment, he has no power to bring it to assessment along with the income of a subsequent year.
+The only power which he has for bringing such income to assessment is to resort to the provisions of section 34(1) and issue a separate notice with respect to it to the assessee and the Appellate Assistant Commissioner of Income tax hear ing an appeal from an order of assessment made by the Income tax Officer is in no better position in this matter than the Income tax Officer.
+All that is perfectly true.
+But the question which we have to consider is whether the wide language employed by the legislature in enacting the second proviso should not be given its natural meaning.
+This proviso removes the bar of limitation enacted by section 34(1) and its first two provisos not only with respect to the assessee but with respect to "any person" in certain circumstances.
+No doubt, this Court has recently held in section C. Prashar & Anr.
+vs Vasantsen Dwarkadas & ors.(1) that the proviso in so far as it removes the bar of limitation with respect to persons other than the assessee, is invalid as it infringes the provisions of article 14 of the Constitution.
+That, however, is a question apart.
+What we have to consider is the legislative intent, and for ascertaining it, it is legitimate to look also at that part of the enactment which has been held to be invalid.
+By permitting the Appellate Authority to make a finding or give a direction with respect to a person other than the assessee the Legislature has made it abundantly clear that for bringing escaped income to assessment the bar ,of limitation would not apply provided there is a finding or direction of the Appellate Authority that a particular item ,of income had escaped assessment and may, therefore, be brought to assessment.
+Under the operative portion of section 34(1), the Income tax Officer is empowered to give notice (1) [1964] 1 S.C.R. 29. 430 to an assessee in respect of escaped assessment.
+He can issue such notice under cl.
+(a) thereof where income has escaped assessment due to any conduct on the part of the assessee and in such a case he can issue a notice at any time.
+Certain restrictions, however, have been placed upon his power by the first proviso to sub section
+(1) of section 34, one of which is the period of limitation of eight years with respect to income of less than a lakh of rupees.
+The second proviso to sub section
+(3) is a proviso to the whole of section 34 and would consequently apply to a case falling under section 34(1) (a).
+The restrictions placed by the enacting provisions of section 34(3) would not, as made clear in the second proviso, apply to such a case.
+Thus, the proviso in terms says that when a notice is issued under section 34(1) (a), no question of limitation would arise when such notice is issued in pursuance of a direction or finding of an appellate authority.
+Since the proceeding in pursuance of a notice under section 34 is necessarily independent of the assessment proceedings under section 22 with respect to a particular year, the proviso in question need not be so interpreted as to be limited to a direction made by the Appellate Authority while dealing with an appeal for that particular year.
+The fact that certain income has escaped assessment may come to the notice of an Appellate Authority in any case and it clearly appears to be the intention of the Legislature to require an Income tax Officer to take cognizance of it in the circumstances stated in the proviso.
+It is, however, contended that the power of the Appellate Authority to make a direction or finding in any appeal be fore it is confined to matters specified in section 31 and that upon a proper construction of that provision, a direction or finding with respect to income of any particular year other than the one with respect to which there is an appeal before it, cannot be competently made by the Appellate Authority.
+In support of this contention reliance is placed up on the decisions in Kamlapat Motilal vs Income tax Officer and anr.(1), Hiralal Amritlal Shah vs K. C. Thomas, Income tax Officer, Bombay (2) ; Pt.
+Hazari Lal vs Income tax Officer, Dist.
+II Kanpur(3); Brindaban Chandra Basak vs Income tax (1) (2) (3) (196O) 431 Officer(1).
+In the first of these cases the learned judges have observed : "In our opinion the powers of the Appellate Tribunal under section 3 3 (4) are limited to the passing of such order as it thinks fit to make in the proceedings which are then before it on appeal, and in our judgment it has no power under this section to pass an order or give directions with reference to the proceedings of an earlier year which are concluded.
+" We may point out that section 33 (4) only refers to a finding or direction made by an Appellate Authority and does not itself confer any power on an Appellate Authority to make a finding or direction.
+Indeed, section 34 deals with entirely a different aspect, that of empowering an Income tax Officer to bring to assessment escaped income, and ha(; no concern with the powers of an Appellate Authority.
+The provisions which deals with the powers of an Appellate Authority is section 31 and it is with that provision that we must concern ourselves primarily.
+The next case is not strictly relevant to this point.
+But the third one which is again a decision of the Allahabad High Court has proceeded to construe section 31 of the Act and we, therefore, have to consider it.
+After observing that the scope of the orders which can be passed by the Appellate Authority under section 31 the learned Judges have observed: "The very fact that the Appellate Assistant Commissioner of Income tax, when making an order under section 31, is dealing with an appeal filed by an assessee in respect of an assessment order indicates the scope of his jurisdiction to give findings and to make consequential orders: The various orders, which an Appellate Assistant Commissioner of Income tax can make, are detailed in section 31(3) though there is no detailed provision about the findings which he can record.
+It appears to us, however, that, (1) 432 from the very nature of the jurisdiction which an Appellate Assistant Commissioner of Incometax exercises, it must follow that his power of recording findings is limited to matters which he is called upon to decide when passing an order in appeal in conformity with the details laid down in section 31(3).
+Any order passed by him, which is beyond the scope of section 31(3), would be an order without jurisdiction and, similarly, any finding recorded by him, which is not necessary for the purpose of making an order covered by section 31(3), would be a finding without jurisdiction.
+Further ' when applying the second proviso to section 34(3) of the Income tax Act, the Income tax Officer is only competent to take into account orders which are in conformity with the provisions of section 31(3) and findings which are necessary for passing those orders.
+Orders, which are outside the scope of section 31(3) or findings which are not at all necessary for making such orders, cannot be taken into account by the Income tax Officer for the purpose of relying on the second proviso to section 34(3) which we are now considering." (p. 271) The learned Judges have proceeded to hold that the word "finding" must be given the same meaning as that in the Code of Civil Procedure, that is.
+a decision of the Court.
+In other words, they seem to hold that a finding means only the final conclusion in the case.
+In support of this conclusion they placed reliance upon section C. Prashar vs Vasantsen Dwarkadas(1).
+Section 31(3) of the Act confers certain express powers upon the Appellate Authority, one of which is to 'confirm.
+reduce, enhance or annul the assessment.
+This power can be exercised only after the Appellate Authority arrives at some conclusions on facts.
+Thus, if an assessee wants to be exonerated from tax with respect to a particular item of (1) 433 income and sets out the grounds on which he bases his claim for exoneration the Appellate Authority has to consider them and arrive at its findings with regard to them before it can reduce or annul the assessment.
+It would follow, therefore, that the power to confirm, reduce, enhance or annul an assessment is implicit in the power of giving findings on the grounds on which a claim is made for one or the other of these results by the department or the assesee.
+No express mention of such power was required in section 31(3).
+When an appeal is before an Appellate Authority the whole matter is at large before it and, therefore, when a, specific case is put before it by an assessee it has both the power as well as the duty to give its finding thereon.
+The ground given by the assessee for claiming a reduction or annulment of assessment may well be that the income upon which he has been assessed was not earned in the accounting period of the year to which the assessment pertains but in respect of a specified earlier or later year.
+The Appellate Authority is entitled to go into the whole question and come to a finding one way 'or the other, whether the income was earned in the year in which it was alleged by the assessee to have been earned or in the year with respect to which he has been assessed by the Income tax Officer.
+To give a finding on this question would be obligatory upon the Appellate Authority and his duty to give a finding must necessarily be referable to the provisions of section 31(3).
+We cannot accept the view of the Allahabad High Court that the word "finding" occurring in section 34(3) is susceptible of only one meaning, and that is that ascertainable from the Code of Civil Procedure.
+The finding of a tribunal is its conclusion on a point agitated before it and for a conclusion to amount to a finding it is not necessary that it should be the final and ultimate conclusion.
+We are, therefore, unable to accept the view taken by the Allahabad High Court.
+The last mentioned case does not decide the matter finally.
+But there the learned Judges have expressed a preference for the view taken by the Allahabad High Court as against that taken by the Madras High Court in K. Simrathmull vs Additional Income tax Officer, Ootacamund(1).
+In that case a similar argument to that urged before us and before the (1)(1959) 134 159 section C.28. 434 Allahabad High Court was advanced.
+Dealing with it the learned Judges have observed: "To support this argument no authority was cited and it appear to us to be completely untenable.
+When an assessment is made and either the Department or the assessee appeals, the whole matter would be before the Assistant Commissioner, and, no express provision would be necessary to enable him to give directions in respect of a matter already before him.
+This would apply also to the Commissioner and the Income tax Appellate Tribunal." (p. 47) They then explained the reason for an express provision like the one contained in section 34(3) by saying that it was necessary to have such provision so as to enable the Income tax Officer to take action in pursuance of a finding recorded or direction given by an Apellate Authority.
+Finally they observed: "To construe the proviso in the manner in which Mr. Subbarya Aiyar invited us to do would be to make that proviso otiose.
+" With these observations we concur.
+This decision has been followed by the Bombay High Court in, General Construction and Supply Co., vs Income tax Officer (8th) C. Ward, Bombay(1).
+The same High Court has reaffirmed the view taken in Simrathmull 's case(1) in A. section Khader Ismail vs Income tax Officer, Salem(2) and held that the word "finding" in the proviso to section 34(3) must be given a wide significance so as to include not only findings necessary for the disposal of the appeal but also findings which are incidental to it and would include its conclusion as to whether the income in question in the appeal was not received during the, year to which the appeal relates.
+Upon this view the High Court held that if in pursuance of such a finding, the Income tax Officer proceeds to investigate afresh as to in which year the income was received, the action of the Income ,ax Officer (1) (2) (3) 435 would still be the result of or the logical consequence of the finding arrived at for the purpose of the disposal of the appeal and the proviso to section 34(3) would apply to such a case.
+The view taken by the High Court is in our judgment correct.
+Thus in our view upon a construction of the relevant provisions we have no doubt that the notice was not in contravention of the provisions of section 34 of the Income tax Act and could not be quashed on that ground.
+The question then remains whether the second proviso below section 34(3) is bad as offending article 14 of the Constitution.
+In support of this contention reliance is placed by Mr. Bishan Narain for the respondent on the decisions of this Court in Suraj Mall Mohata & Co. vs A. V. Visvanatha Sastri & anr.
+(1) and section C. Prashar & anr.
+vs Vasantsen Dwarkadas & ors.
+In the first case it was held that both section 34 of the Income tax Act and sub section
+(4) of section 5 of the Taxation on Income (Investigation Commission) Act, 1947, deal with all persons who have similar characteristics and similar properties, that the procedure prescribed in the later Act is substantially more prejudicial and more drastic to the assessee than the procedure under the former Act and that, therefore, sub section
+(4) of section 5 of the former Act in so far as it affects the persons proceeded against thereunder is void as offending the provisions of article 14 of the Constitution.
+On the analogy of this case learned counsel contends that the second proviso to section 34(3) enabling a notice to issue only to an assessee in respect of escaped income without limit of time on the ground that an Appellate Authority has made a finding or direction in the proceeding before it makes a discrimination against such an assessee because it does not lift the bar of limitation with regard to other assessees, similarly situate, but with regard to whom no finding has been made or direction given by an Appellate Authority.
+No doubt, persons whose income have escaped assessment, and the fact that they have escaped assessment has not been discovered till after the lapse of eight years from the year in which they could have been assessed to tax on such (1) ; (2) [1964] I section C. R. 29.
+436 income, can be placed in one class.
+But surely it does not follow that even in that class there can be no further classification.
+The legislature in enacting the particular provision has made a further or a sub classification by puttinunder one head those whose assessments have come up for scrutiny before an Appellate Authority and with respect to whose escaped assessment a judicial finding or direction is made by the Appellate Authority and under another head other assessees whose escaped income was not detected by the Appellate Authority and with respect to which no judicial finding or direction was, therefore, made by such authority.
+There is a real difference between the two categories of assessees.
+Prima facie there is reasonable basis for the sub classification and the grounds on which it is made, that is, discovery by a higher Income tax Authority and a judicial finding or direction made with respect to the fact by it.
+These grounds have a rational relationship with the object which was intended to be achieved by the law.
+that is.
+to detect and brine to assessment the escaped income.
+(See for example A. Thangal Kunju Musaliar vs M. Venkitachalam Potti & anr.
+(1) where a further classification of war porfiteers into those who had evaded substantial amount of income tax and those whose evasion was not of a substantial amount was upheld.) We can find nothing in the decision upon which reliance is placed which runs counter to our view.
+On the other hand we find ample support from the decision in Balaji vs Income.
+tax Officer, Special Investigation Circle (2) where it has been pointed out that the two tests of permissible classification under article 14 are (a) that the classification must be founded on an intelligible differentia and (b) that the differentia must be reasonably connected with the object of the legisla tion, and that where they are satisfied by a statute.
+it does not violate article 14 of the Constitution.
+As regards the other decision relied upon, it is sufficient to point out that the majority of the learned Judges have only struck down that part of the proviso which enables a notice to issue "to any person" on the ground that it is violative of article 14.
+The precise question which we have before us does not appear to have been the subject of decision in that case.
+We (1) ; (2) ; 437 are, therefore, unable to accept the contention of learned counsel.
+For the foregoing reasons we allow the appeal and quash the writ of certiorari issued by the High Court.
+It may be mentioned that in the absence of a stay of proceedings by the High Court the Income tax Officer has actually made an assessment in pursuance of the impugned notice.
+That assessment willstand unless it is modified or annulled in any proceeding permitted by law.
+Costs of the appeal and the petition before the High Court will be borne by the respondent.
+ORDER BY COURT In view of the judgment of the majority, the appeal fails and is dismissed with costs.

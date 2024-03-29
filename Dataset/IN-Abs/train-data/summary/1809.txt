@@ -1,0 +1,17 @@
+A certain sum of money was received by the assessee as payment of compensation for the loss sustained by him in respect of a supply during the previous accounting year.
+The .Income tax Officer included the amount in the assessment year it was received.
+Appeals to the Appellate Assistant ComMissioner and to the Income tax Tribunal were unsuccessful.
+But on a reference, the High Court held that though in fact the right to receive the amount did not accrue during the accounting year of the contract, it should be deemed to have related to the year of contract in respect whereof the amount was paid.
+On appeal by certificate, Held: (i) The decision of the High Court was deflected by its reliance on English decisions delivered under circumstances peculiar to that country and on the construction of provisions which were not in pari materia with the provisions obtaining in India.
+The provisions of the Indian Income tax Act shall be construed on their own terms without drawing any analogy from English statutes whose terms may superficially appear to be similar but on a deeper scrutiny may reveal differences not only in the wording but also in the meaning a particular expression has acquired in the context of the development of law in that country.
+Commissioner of Income tax vs Vazir Sultan & Sons, [1959] Supp. 2 S.C.R., 375, followed;.
+(ii) under the definition accepted by this Court of the word "accrue" or "arise" in section 4(1)(b)(i) of the Indian Incometax Act, an income accrues or arises when the assessee acquires ,a right to receive the same.
+section D. Sassoon and Co. Ltd. vs Commissioner of Income tax, Bombay City, ; , followed.
+Rogers Pyatt Shellack & Co. vs Secretary of State for India Cal. 1, approved.
+When an Income tax Officer proceeds to include a particular income in the assessment, he should ask himself, inter alia, two questions, namely (i) what is the system of accountancy adopted by the assessee? and (ii) if it is mercantile system of accountancy, subject to the deemed provisions when has the right to receive that amount accrued? If he comes to the conclusion that such a right accrued or arose to the assessee in a particular accounting year, he shall include the said income in the assessment of the succeeding assessment year.
+No power is conferred on the Income tax Officer under the Act, to relate 768 back an income that accrued or arose in a later year to an earlier year on the ground that the said income arose out of an earlier transaction.
+(iii) The meaning of the word "accrue" or "arise" in section 4(1)(b)(i) of the Indian Income tax Act cannot be extended so as to take in amounts received by the assessee in a later year, though the receipt was not an the basis of the right accrued in the earlier year.
+Such amounts are in law received by the assessee only in the year when they are paid.
+J. P. Hall & Co. v Commissioner of Inland Revenue, and Severns (H. M. Inspector of Taxes) vs Dadawall, (1954).
+, referred to.
+Commissioner of Income tax, U.P. vs P. V. Kalicharan Jagannath, , approved.

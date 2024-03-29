@@ -1,0 +1,34 @@
+The assessee was a share holder in a private limited company whose ordinary business was not money lending business.
+He took a loan amounting to over Rs. 4 lakhs from a company.
+The Income tax Officer computed the assessee 's income at Rs. 3 lakhs and odd, under section 12(1B) read with section 2 (6A) (e) of the Income tax Act, 1922.
+That amount included a sum of over Rs. 2 lakhs representing the accumulated profits of the company.
+The assessee 's share in the accumulated profits, if distributed as dividend, would be an amount proportionate to the number of shares held by him.
+He therefore contended, that the balance of the accumulated profits was not his income and that the Legislature was not competent to enact the two sections according to which that amount was also treated as his income.
+His writ petition in the High Court challenging.
+the constitutional validity of the two sections was dismissed.
+He appealed to the Supreme Court.
+HELD (Per Gajendragadkar, C. J., Wanchoo, Hidayatullah and Mudholkar JJ.) : (i) The sections are not beyond the legislative competence of Parliament.
+The companies to which section 12(1B) applies are companies in which at least 75% of the voting power lies in the hands of persons other than the public.
+They are controlled by a group of persons allied together and having the same interest.
+The controlling group can determine whether the profits made by the company should be distributed as dividends or not.
+When they deliberately refused to distribute the accumulated profits as dividends but adopted the device of advancing the profits by way of loan to one of the shareholders, it was with the object of evading the payment of tax by the company on the accumulated profits.
+Section 12(1B) provides that if a controlled company adopts the device of making a loan to one of its shareholders, he will be deemed to have received the amount out of the accumulated profits as dividend and would be liable to pay tax on his income.
+The word "income" in Entry 82 in List I of the 7th Schedule to the Constitution must receive a wide interpretation depending on the facts of each case.
+Having regard to the fact that the Legislature was aware of the devices to evade tax, it would be within its competence to devise a fiction for treating an ostensible loan as the receipt of the dividend.
+[919 A H. 920 H; 921 C D] (ii) The absence of a provision enabling the income tax officer to consider in each case whether the loan was genuine or the result of a device does not make the section go beyond the competence of the Legislature.
+[921 D E] If the Legislature thought that in almost every case the advances or loans were the result of a device to evade tax, it would be competent to 910 it to prescribe a fiction and hold that in cases of such advances or loans, tax should be recovered from the shareholder on the basis that he had received a dividend.
+[921 G H] (iii) Section 12(lB) does,not impose an unreasonable restriction on the appellant 's fundamental rights under article 19(1) (f) and (g) of the Constitution.
+[922 A] The section does not affect the appellant 's right to borrow money.
+There is no element of unfairness, because the other shareholders have deliberately agreed to make the loan or the advance and the shareholder to whom the loan is advanced deliberately takes it with a view to assist the company to evade the payment of tax and to have the benefit of the use of the amount subject to the payment of interest.
+The company receives interest, the shareholder enjoys the use of the money and in the process the payment of tax is evaded.
+Further, past transactions were excluded from the operation of the sections by the issue of a circular by the Central Board of Revenue.
+[922 B F] Per Raghubar Dayal J. (dissenting) : (i) Sections 2(6A) (e) and 12(lB) of the Income tax Act, 1922 as they stood in 1955 are void.
+[923 B] It is not open 'to the Legislature to describe any payment of money by a company to a shareholder by the word "dividend" and then provide that such payment will come within the expression "income" in item 82, List I of Schedule 7.
+The definition of dividend must have a rational connection with concept of dividend in the context of the profits of the company and its distribution amongst the shareholders.
+The essence of an amount paid as dividend is that it has to represent the proportionate amount a particular shareholder is to get on the basis of the shares held by him out of the profits of the company set apart for payment of dividend to shareholders.
+Any ad hoc payment of money to a shareholder as advance or loan unrelated to his share in the accumulated profits cannot rationally come within the expression dividend.
+[926 E H] (ii) The provisions of the impugned sections impose unreasonable restrictions on the fundamental right to hold property under article 19(1)(f) of the Constitution.
+[928 E] If any enactment provides that certain profits of the company, though not distributed as dividend, be treated as used for the payment of dividends it should necessarily follow that a particular shareholder be deemed to have received a proportionate amount of such profits.
+It would be unreasonable to provide that a particular shareholder should be deemed to have received an amount in excess of his proportionate share as dividend.
+It is unreasonable that a particular shareholder who receives a loan or advance from a company be deemed to have received that entire amount as dividend when his proportionate share would be much less.
+[928 B E] Navinchandra Mafatlal vs Commissioner of Income tax, Bombay City, [1955] 1 S.C.R. 829, Sardar Baldev Singh vs Commissioner of Income tar, Delhi and Agra [1961] 1 S.C.R. 482 and Balaji vs Income tax Officer, Special Investigation Circle, ; , referred to.

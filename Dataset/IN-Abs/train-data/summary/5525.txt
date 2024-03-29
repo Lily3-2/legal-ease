@@ -1,0 +1,25 @@
+% An electricity meter with three phases installed by appellant No. 1 for running an oil mill owned by the respondent was burnt.
+This was brought to the notice of appellant No. 4.
+The respondent was directed to deposit a certain amount towards price of the meter and the meter connection charges, which the respondent complied, but the meter was not installed, nor electric supply connection restored.
+The respondent requested appellant No. 1 to restore electric supply by installation of another meter.
+However, appellant No. 1 sent a letter dated 4.3.1983 calling upon respondent to pay a sum of Rs.12,346.10 as per the attached supplementary bill dated 2.3.1983, prepared on the basis that the meter was not recording actual energy supplied and consumed, as it was running on two phases, since one of the three phases was not working, and threatening disconnection of supply without notice, for non payment.
+The respondent filed a writ petition in the High Court challenging the legality of the aforesaid letter and the supplementary bill.
+On behalf of the appellants, it was contended that when the power connection was checked by an Assistant Engineer of the Board, it was found that out of three phases, one phase was not working, and body seal of the meter was intact and, therefore, respondent was informed that the bill should be revised due to non working of one phase.
+It was alleged that respondent got the meter burnt, since it did not burn ordinarily, and the body seal of the meter was broken, and the meter tampered with subsequently in order to avoid any liability.
+The High Court held that since the dispute, was as to whether the meter was or was not correct it had to be decided by the Electrical 891 Inspector, under sub section (6) of section 26 of the and so long as it was not decided, appellant No. 1 was not competent to prepare the supplementary bill or revised bill, and quashed the letter dated 4.3.83 and supplementary bill of 2.3.83, as illegal.
+In the appeal by special leave it was urged on behalf of the appellants that the respondent committed fraud in breaking the body seal of the meter and running the same, and as such, the dispute did not attract the provisions of section 26(6) of the Act and the dispute could not be decided by the Electrical Inspector.
+Dismising the appeal, ^ HELD: Under sub section (6) of section 26 of the , it is only the dispute as to whether any meter referred to in sub section (1) is/is not correct or it is inherently defective or faulty, not recording correctly the electricity consumed, which can be decided by the Electrical Inspector.
+[896A B] It is also evident from the said provision that till the decision is made, no supplementary bill can be prepared by the Board, estimating the energy supplied to the consumer, as the Board is not empowered by the Act to do so.
+[896C D] A dispute regarding the commission of fraud in tampering with the meter and breaking the body seal is one outside the ambit of section 26(6) of the Act.
+An Electrical Inspector has no jurisdiction to decide such cases of fraud.
+[895H; 896A] In the instant case, it appears from the report of the Assistant Engineer of the State Electricity Board that one phase of the meter was not working at all; so, there is undoubtedly a dispute as to whether the meter in question is a correct one or a faulty one.
+This dispute, therefore, squarely falls within the provisions of the Act, and it has been rightly held by the High Court that it is the Electrical Inspector, who alone is empowered to decide the dispute.
+If the Electrical Inspector comes to the finding that the, meter is faulty and due to some defect it has not registered the actual consumption of electrical energy, then the Inspector will estimate the amount of energy consumed and will fix the amount to he paid in respect of such energy consumed within a period not exceeding six months.
+The appellant No. 1 is not competent, pending the determination of this dispute by the Electrical Inspector, to issue the impugned notice threatening disconnection of supply of electricity 892 for non payment of supplementary bill prepared and sent by it.
+The A Board is also not competent to prepare and send a supplementary bill in respect of energy consumed by the respondent from the one phase which stopped functioning and did not record any consumption of energy.
+[896B C; 897F H; 898A B] It appears from the report of the Executive Engineer dated 17th February, 1983 that the body seal of the meter was intact at the time of inspection.
+He only found that the meter which was installed was closed on one phase.
+Therefore, there is no question of fraud in breaking the body seal of the meter.
+The story of so called fraud was an after thought, and was not raised at any stage prior to the filing of the return in the High Court.
+[894E F] Gadag Betgiri, Municipal Borough, Gadag vs The Electrical Inspector, Government Electrical Inspectorate, Government of Mysore, AIR and M. P. Electricity Board Jabalpur and another vs Chhanganlal, AIR 1981 M.P. 170 approved.
+Abdul Razak vs M.P. Electricity Board, [1982] M.P.L.J. 22 overruled.

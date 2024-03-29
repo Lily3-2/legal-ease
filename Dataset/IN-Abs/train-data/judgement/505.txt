@@ -1,0 +1,213 @@
+Appeal No. 161 of 1954.
+Appeal from the judgment and order dated, May 18, 1953, of the Calcutta High Court in Income tax Reference No. 72 of 1951.
+N. A. Palkhivala, P. D. Himatsingka, J. B. Dadachanji, section N. Andley Rameshwar Nath and P. L. Vohra, for the appellant.
+G. N. Joshi and R. H. Dhebar, for the respondent.
+May 23.
+The Judgment of the Court was delivered by KAPUR J.
+This appeal brought on a certificate of the High Court raises a point of far reaching consequence as to the interpretation of sections 8, 10 and 24(2) of the Indian Income tax Act (hereinafter termed the Act).
+The assessee (who is the appellant before us) claims that in the computation of its profits for the assessment year under review (1945 46), it is entitled to set off the carried over loss of the previous year against the profits of the year of assessment under section 24(2) of the Act.
+The assessee is a Bank carrying on banking business.
+For the assessment year its assessable income was computed by the Income Tax Officer at Rs. 14,95,826 "by splitting up" its income into 2 heads . . . . "interest on securities" and . . . . business income ".
+" Interest on securities" in the year of assessment was Rs. 23,62,815 and under the head " business income " there was a 81 loss of Rs. 8,86,972.
+After making the necessary adjust ments and deducting the business loss from " Interest on securities ", the net income was determined at Rs. 14,95,826.
+In the previous year there was a loss of Rs. 3,21,929 which was computed by setting off the business loss against "interest on securities ".
+Before the Income tax Officer the assessee made its claim on the basis that it was a part of " the business of the Bank to deal in securities. . . . . . and " that no distinction should be made between income from securities and income from business for the purpose of set off under section 24 ".
+It also claimed that it carried on only one business, namely banking as defined by section 277F of the Indian Companies Act in the ' course of which the " Bank has to receive money on deposits and invest such deposits in securities, loans and advances " and therefore holdings of securities by it could not be treated as its separate business.
+The Income tax Officer was of the opinion that, as there was a loss under the head " business " its claim could; not be sustained and hence it could not be set off under section 24(2) of the Act.
+On appeal to the Assistant Commissioner of Income tax it was again contended that the assessee was a dealer in securities and that the two heads of income, " Interest on securities " and " profits and gains " in banking business could not be treated separately and were part of the same business of the assessee and therefore it could claim a set off under section 24(2) of the Act.
+But this contention was repelled.
+The matter was then taken to the Income tax Appellate Tribunal where again the contention was repeated that the business of the assessee could not be split up into two heads under " interest on securities " and banking business".
+The Tribunal, however, held: " Reading sections 6, 8 and 10 it appears to us that the legislature wanted to keep the income from the two sources as separate.
+We are therefore of the opinion that the Income tax Officer was right in splitting up the income of the appellant into two heads and in refusing the set off of the business loss brought forward 11 82 from last year against income from Govt.
+securities earned this year.
+" It therefore did not allow the loss of the previous year to be set off against the computed profits of the assessment year.
+The assessee thereupon asked for a case to be stated to the High Court and inter alia raised two questions; (1) Whether interest on securities was a part of Bank 's income from business carried on by it.
+(2) Whether the assessee was entitled to set off the carried over loss of the previous year against income during the assessment year.
+The assessee contended that it was carrying on banking business in various towns in India, that " in the usual course of its business it invests moneys in Securities and receives interest thereon " and therefore it claimed that the loss of Rs. 3,21,929, carried forward from the previous year could be set off under section 24(2) of the Act.
+The Tribunal stated the case and sought the opinion of the High Court on the following three questions; (1) " Whether on the facts and in the circumstances of this case, the assessee was entitled to set off the business loss of Rs. 3,21,929 brought forward from the preceding year against this year 's income from interest on securities held by the assessee.
+(2) Whether on the facts and in the circumstances of this case the assessee was entitled under section 8 to deduct any part of the administrative expenses out of the income from interest on securities.
+(3) Whether in the circumstances of this case, the assessee was entitled under the first proviso to section 8 of the Income tax Act to deduct any interest on money borrowed and utilised for investment in tax free securities.
+" The High Court answered all the questions in the negative.
+The learned Chief Justice during the course of his judgment said: 83 " It appears to me, therefore, that because the several heads under section 6 in the Indian Act are mutually exclusive and because under any Income tax Law, an item coming under an exclusive head cannot in any circumstances be charged under another head and also because the interest on securities in the hands of a banker cannot be treated as business income on the principles explained by Mr. Justice Rowlatt, I must hold that the contention of the asesssee. . . . . . must be rejected.
+" We had the benefit of a full and able argument from counsel on both sides.
+Counsel for the appellant has raised three points: (1)That sections 8 and 10 of the Act should be so read that "interest on securities", in cases where the true nature and character of the securities in the hands of an assessee is one of trading assets, would be excluded from the scope of section 8 and would fall under the head "business" within section 10 of the Act and alternatively even if sections 8 and 10 are read as specific heads then section 10, being more appropriate, should be applied to the facts of the present case ; (2)If sections 8 and 10 are equally applicable the assessee has the option to be taxed under that head which imposes a lighter burden on him; and (3)Lastly he contended that even if the heads of income were to be taken as mutually exclusive so that the "interest on securities" falls under section 8 and "business" under section 10 of the Act, the assessee would be entitled to a set off under section 24 (2) because "interest on securities" and "profits and gains" from business result from different operations of the same business, the two being different forms of the same business of the assessee.
+We may now turn to the scheme of the Act.
+Section 2(15) defines "total income" to mean "total amount of income, profits and gains. . . .computed in the manner laid down in the Act.
+" Chapter I of the Act deals with "Charge of income tax".
+It consists of two sections 3 & 4.
+Section 3 provides that "income tax shall be charged for any year at any rate or rates in 84 accordance with and subject to the provisions of this Act.
+" Section 4 provides ' that "the total income of any previous year of any person includes all income, profits and gains from whatever sources derived".
+Chapter 3 deals with "Taxable income".
+Section 6 enumerates the heads of income chargeable to incometax.
+It says as under : section 6 "Save as otherwise provided by this Act, the following heads of income, profits and gains, shall be chargeable to income tax in the manner hereinafter appearing namely (i) Salaries.
+(ii) Interest on securities.
+(iii) Income from property.
+(iv) Profits and gains of business, profession or vocation.
+(v) Income from other sources.
+(vi) Capital gains.
+" The two relevant heads for the purpose of this appeal are (ii) & (iv), i.e., " interest on securities " and " profits and gains of business" which are dealt with under sections 8 and 10 of the Act respectively.
+Section 8 provides that " the tax shall be payable by an assessee under the head " interest on securities " in respect of interest receivable by him on any security of the Central Government. . . . and in the provisos to this section are given the allowable deductions.
+The amendment made in the proviso by the Act of 1955 is very relevant for the purpose of this appeal and we &hall advert to it at a later stage.
+Section 10 provides: " The tax shall be payable by an assessee under the head " profits and gains of business, profession or vocation" in respect of the profits or gains of any business, profession or vocation carried on by him ".
+The assessee contends that securities are a part of its trading assets and this position has throughout been accepted by the Department, and any income which accrues in respect of these assets in the form of interest 85 has the same characteristics as profits or gains of " business " and therefore must be treated as income falling under the head " business " under section 10 of the Act.
+In other words the income of the assessee from its banking business which includes dealing insecurities is,really income from the same source and whatever accrues in the form of interest whether from securities or from any other source of investment would fall under section 10 and not section 8 because all the interest accrues from the business carried on by the assessee and this business is only one business.
+The argument thus is that sections 8 & 10 have to be so construed as to harmonise with each other and the only way they can be harmonised is that income accruing in the form of "interest on securities" should be taken to be accruing from the business of the assessee because securities form part of its trading assets and thus fall within section 10 and not section 8, which must be restricted to capital investments only.
+It is further contended that if the object of the legislature was to give a separate and exclusive identity to the income from " interest on securities", it would have made the language of section 8 of the Act as specific as it has made in the case of income from dividends from shares, which income by the addition of sub section
+(I A) to section 12 has come to have a specific place under the head "other sources" and is no longer within the head "business" under section 10 of the Act and thus by statute its nature and character have undergone a change.
+Reference is in this connection made to Commissioner of Income tax vs Ahmuty & co. Ltd. (1) where it was held by the High Court of Bombay that dividend income received by a dealer in shares is chargeable under section 10 and not under section 12 of the Act.
+It is thus contended that in order to preserve the unity and oneness of the business of the assessee and to maintain the unity of its business income the applicability of section 8 should be circumscribed to "interest on securities" when they are not trading assets of the assessee.
+According to the scheme of the Act discussed above income tax has to be charged in respect of the "total (1) (1955] 86 income" of the previous year of every assessee and "total income" is defined under section 2(15) to comprise all income, profits and gains from whatever source derived subject to certain exemptions.
+Chapter 3 which is entitled "Taxable income" comprises sections 6 to 17 (both sections inclusive ).
+Section 6 enumerates the various heads of income, profits and gains which are chargeable to income tax.
+Each of these heads of income, profits and gains is dealt with under a separate section and these sections also give the details of allowances and exemptions in regard to each different head.
+The argument raised by counsel for the Revenue is that according to the decision of the Privy Council in Probhat Chandra Barua vs The King Emperor (1) section 6 is the charging section and that the words of sections 7 to 12 show that the various heads of income are mutually exclusive and items which specifically fall under these various heads have to be charged under only that head and would fall under one of these several but appropriately specific sections.
+It is true that the Privy Council in Probhat Chandra Barua vs The King Emperor (supra) did point out that section 6 was a charging section, but this was because sections 3 and 4 were then differently worded as pointed out by Kania, J., in B.M. Kamdar, In re (2 ) at p. 43 and by Chagla, J., in the, same case at p. 57.
+The Federal Court in Chatturam and others vs Commissioner of Income tax, Bihar(3) said: The liability to pay the tax is founded on sections 3 and 4 of the Income tax Act which are the charging sections".
+The judgment of the Privy Council in Wallace Brothers & Co. Ltd. vs Commissioner of Income tax (4) also shows section 3 to be the charging section.
+It is then argued that section 6 of the Act being mandatory all items of income, from whatever source they arise, would fall only under one of the heads enumerated under section 6 and therefore one of the sections 7 to 12 would specifically apply and section 8 which relates to " interest on securities" must be held to apply to income from that source.
+It is also contended by counsel for the (1) (1930) L.R. 57 I.A. 228, 238.
+(2) (3) , 308.
+(4) 87 Revenue that even if there is any overlapping between sections 8 and 10 "interest on securities" whether accruing from securities held as a capital asset or trading assets falls under section 8 alone and section 10 should be so read as to altogether exclude the income from " interest on securities".
+Counsel for the Revenue has referred us to the form of the Return, prescribed under section 22(1) of the Act at the relevant time of the assessment under review.
+The heads there shown are (1) Salary, (2) Interest on securities, (3) Property, (4) Business, profession or vocation, (5) other sources, and income from each source is to be shown in a separate column, in each one of which reference is made to a particular note relevant to that head of income.
+In the column under the head "interest on securities" reference is made to note 9 which is in the following words: "Interest on securities" means interest on promissory notes or bonds issued by the Government of India or any other State Government or the interest on debentures or other securities issued by or on behalf of a local authority or company.
+The gross amount before deduction of income tax should be entered.
+Entries under this head should be accompanied by persons paying the interest under section 18(9) of the Act.
+Deductions are allowable in respect of (a) Commission charged by a banker for collecting the interest.
+(b) Interest payable on money borrowed for the purpose of investment in the securities except certain interest payable to persons abroad from which tax has not been deducted (see section 8 of the Act for details).
+Full particulars (in a separate statement if necessary) should be given of any deduction claimed.
+" This is a statutory form and it gives what is meant by " interest on securities ", what documents are to accompany the Return in order to entitle an assessee to claim refund and what deductions are to be made.
+" The mandatory character of section 6 is indicated by the language employed in that section and the phraseology of all the sections following, i.e., 7 to 12, employing the words " the tax shall be payable under 88 the head. . . . in respect of " the different and distinct heads of income, profits and gains, salaries " Interest on securities ", and "property ", business etc.
+is indicative of the intention of the legislature making the various heads of income, profits and gains mutually exclusive.
+So every item of income, whatever its source, would fall under one particular head and for the purpose of computing the income for charging of income tax the particular section dealing with that head will have to be looked at.
+The various sources of income, profits and gains have been so classified that the items falling under those heads become chargeable under sections 7 to 12 according as they are income of which the source is "salaries ') " interest on securities property business, profession or vocation ", " other sources or " capital gains ".
+Looked at thus the contention of counsel for the Revenue that under the scheme of the Act and on a true construction of these relevant sections" interest on securities " by whomsoever and for whatever purpose held has to be taxed under section 8 and under no other section is well founded and must be sustained.
+It being a specific head of chargeability of tax, income from " interest on securities " whether held as a trading asset or capital asset would have to be taxed under section 8 and not under section 10 of the Act.
+The amendment made in the proviso to section 8 in the year 1955 allowing a deduction in respect of any remuneration paid to any person other than the banker for realising interest on behalf of the assessee, supports this interpretation.
+Thus this proviso now provides that reasonable amount can be deducted by an assessee for commission paid to a Bank or remuneration paid to anybody else for realising interest on its behalf which clearly indicates the intention of the legislature that interest on securities specifically falls under section 8 and under no other section.
+This amendment shows that even a Bank, if it buys securities as a part of its trading assets, is entitled to make a deduction for remuneration paid by it to any person for realising interest which postulates that "interest on securities" would fall under s, 8 of the Act, 89 This interpretation receives further support from the language of section 18 which deals with payment after deduction at source.
+Section 18(3) requires a person responsible for paying " interest on securities " to deduct income tax on the amount of the interest payable at the maximum rate and the person so responsible is required, after deduction of the income tax, to pay to the account of the Central Government within 7 days of the deduction, the sum so deducted and under section 18(5) the maximum rate is to be charged for the year in which the the amount is paid and not at the rate of the assessment year.
+A combined reading of sections 3,4,6, 8,10,18 and refund section, section 48, shows that income tax is to be charged at the rate or rates prescribed in the Finance Act on the total income of the assessee as defined in section 2(15) of the Act and computed in the manner given in as. 7 to 12 which are not charging sections but are provisions for the computation of " total income ".
+In the words of Viscount Dunedin in Salisbury House Estate vs Fry(1): " Now, the cardinal consideration in my judgment is that the income tax is only one tax, a tax on the income of the person whom it is sought to assess, and that the different schedules are modes in which the Statute directs this to be levied ".
+As has been pointed out in that judgment there are no separate taxes under the various schedules but only one tax.
+But in order to arrive at the total income on which tax is to be charged " you have to consider the nature, the constituent parts, of his (assessee 's) income to see which schedule you are to apply.
+" If these words may be used with reference to the language of the Indian Act, we have to look at the source of " income, profits and gains" and then see under what head it appropriately and specifically falls and if it falls under one particular head then computation is to be made under the section which covers that particular head of income.
+We cannot treat any one of the sections from sections 7 to 10 to be general or specific for the purpose of any one particular source of income.
+The (1) (1930)15 T.C.266,306.
+90 language shows that they are all specific and deal with the various heads in which the item of income, profits and gains in the case of an assessee falls.
+Sir George Rankin in Commissioner of Income Tax vs Chunilal B. Mehta(l) said: " The effect of section 6 is to classify profits and gains, under different heads for the purpose of providing for each appropriate rules for computing the amount; its language is " shall be chargeable in the manner hereinafter appearing.
+" One of the heads is " business ", which as a head of income stands alongside salaries, interest on securities, professional earnings and other sources.
+True, the classification of income is according to the character of the source But the list of " heads in section 6 is a list of sources not in the sense of attributing the income to one property rather than another, one business rather than another, but only in the sense of attributing it to property as distinct from employment, or business as distinct from investment. .
+What is to be learnt from an examination of the language of sub section
+(1) of section 4 income, profits and gains, described or comprised in section 6 from whatever source derived is that section 6 is intended as describing different kinds of profits In that case the question for decision was whether a resident carrying on business in India and controlling transactions abroad in the course of such business was liable to income tax on such transactions, it was held that the profits arising under such transactions do not arise or accrue in India merely because of control by the assessee in India.
+The judgment of the Privy Council shows what section 6 of the Act means each head refers to income, profits and gains attributable to the source salary, interest on securities, property, business, profession etc.
+This supports the contention of each head being separate, exclusive and specific.
+Decided cases all support the contention of counsel for the Revenue that the various heads of income enumerated in section 6 of the Act and more particularly (1) , 529. 91 dealt with in sections 7 to 12 are exclusive heads and if an item of income falls under one of these heads then it has to be treated for the purpose of income tax under that head and no other.
+In Salisbury House Estate Ltd. vs Fry (1) the assessee was a limited company which was formed for the express purpose of acquiring Salisbury House and utilising it.
+In this building there were 800 rooms which were let to tenants.
+The company also maintained a staff of servants to render various kinds of services to the occupants of the rooms.
+The company was assessed to income tax under Sch.
+A upon gross valuation of the premises and as the actual rent received was higher, the Revenue wanted to assess income again under Sch.
+The company contended that so far as the proceeds of the property were concerned they had already been taxed under Sch.
+A and could not again be brought "in computo" under Sch.
+D. Viscount Dunedin at p. 306 observed: " Now, if the income of the assessee consists in part of real property you are, under the Statute, bound to apply Sch.
+Lord Atkin at p. 319 said: " the dominance of each Sch.
+A, B, C & E over its 'own subject matter is confirmed by reference to the Sections and Rules which respectively regulate them in the Act of 1842.
+They afford a complete code for each class of income, dealing with allowances and exemptions, with the mode of assessment, and with the officials whose duty it is to make the assessments.
+. . . . . . I find no ground for assessing the taxpayer under Sch.
+D for any property or gains which are the subject matter of the other specific Schedules.
+" At p. 320, he pointed out that Sch.
+D is a residuary Schedule and all Schedules are mutually exclusive.
+Referring to investments in securities he said: Income derived by a trading company from investments of its funds, whether temporary or permanent, in government securities must be taxed under (1) ; 92 Sch.
+C, and cannot for the purposes of assessment under Sch.
+D be brought into account.
+" This shows that even though Sch.
+D is residual all Schedules are mutually exclusive and if income falls under one Schedule, it must be assessed under that Schedule because the Schedules are a complete code for each class of income, dealing with, allowances and exemptions and with the mode of assessment.
+A significant passage in the judgment of Lord Atkin (at p. 321) is: " I find it difficult to say that companies which acquire and let houses for the purposes of their trade, such as breweries in respect of their tied tenants, and collieries and other large employers of labour in respect of their employees, do not let the premises as part of their operation of trading.
+Personally I prefer to say that even if they do trade in letting houses their income so far as it is derived from that part of their trading must be taxed under Sch.
+A and not Sch. D." Thus even though the assessee was a company carrying on business or trade, income from the head " property " was taxed under Sch.
+A and not Sch.
+This case supports the contention that different Schedules being distinctly applicable to each individual head of income would exclude the applicability of any other head.
+In Butler vs The Mortgage Company of Egypt Ltd. (1), a British company controlled in Egypt was carrying on business of lending money on mortgage of land in Egypt or on the security of debentures by mortgage of land.
+In case of default the bank could take action in the Egyptian Courts either to sell the property or to take possession with a view to future sale.
+The General Commissioners held that the acceptance of ,securities for money lent was only an incident of the company 's business and that income was not assessable under Case 4 of Sch.
+D. The company claimed that the assessment should be under Case 5 of Sch.
+D and not Case 4.
+It was held that the Crown had the right to tax under Case 4 but even if the assessee satisfies (1) , 809, 810. 93 that Case 5 is also applicable it was still for the Crown to decide and tax under Case 4 provided both cases applied equally.
+Rowlatt J. said: "A banker could never ask to be repaid the tax which had been deducted from the Government securities which he held, because he held them as a banker, the point being that when you have once got a security (we will say) the interest on which is taxed by the Act, you cannot get out of it because you say that you look a little further and see this is only embedded in a business." It means in terms of the Indian Statute that in the case of interest on securities if chargeable under a specific section, the assessee even though he is a banker cannot claim that they be treated as "business income." in Thompson vs The Trust and Loan Company of Canada (1), the respondent company carried on business as a loan and finance company.
+During the material years the company bought treasury bonds cum coupons and on the same day sold bonds of the same nominal value retaining the coupons and received on encashment a half year 's interest under deduction of income tax.
+The Crown contended that in computing the Company 's profits for assessment to income tax under Case I of Sch.
+D there, should be included, as receipts, the amounts realised by the sale of bonds ex coupons and the net proceeds of the coupons and, as disbursements, the amounts paid by the company for the bonds cum coupons.
+But it was held that the interest received by the company was income of the company taxed by deduction under Sch.
+C and that no part of the proceeds of the coupons should be included in the computation of the company 's liability under Sch.
+D. Rowlatt J. at p. 400 said: " The Crown cannot treat a transaction which has its own character for income tax purposes as if it were something of a different character. " and Lord Hanworth M.R. at p. 406 put the matter thus: (1) 94 Now in the present case it is plain that this subject matter of tax, government bonds and coupons payable out of the government funds, have got to be taxed under Sch.
+C; they cannot be taxed anywhere else.
+" In Volume I of Simon 's Income Tax (1948 Ed.) p. 54 the law is thus stated: " These Schedules are prima facie mutually exclusive and consequently if a particular kind of income is charged under one Schedule the Crown cannot elect to charge it under another.
+" This is in accord with the decisions discussed above.
+The Commercial Properties Ltd. vs Commissioner of Income tax, Bengal(1) was a case of a registered company whose sole object was to acquire lands,, build houses and let them to tenants, the sole business of the company being the management and collection of rents from the properties.
+The assessment was made under section 9 of the Act but the company claimed that they were carrying on a business assessable under section 10 and not under section 9.
+The Court held that the company was rightly assessed under section 9, its income being derived from its ownership of buildings.
+Rankin C. J. said at p. 26: " In my judgment the words of section 6 and section 9 and section 10 must be read so as to give some effect to the contrast that is there made between income, profits and gains from " property " and from " business " and I entirely refuse my assent to the proposition that because it happens that the owner of a property is a company which has been.
+incorporated for the purpose of owning such property, therefore the income derived from " property must be regarded as income derived from business ".
+In my judgment, income derived from " property is a more specific category applicable to the present case".
+The decision in this case shows that the ownership of the house property was not considered as "business" and that income derived from such source would more specifically and appropriately fall within the head "property".
+(1) 95 The applicability of section 8 directly arose and was discussed in H. C. Kothari v, Commissioner of Income tax, Madras(1).
+The assessees in that case had several sources of income, one of which was interest on securities.
+The business of the assessees showed a loss but the assessees claimed earned income relief in respect of interest on securities on the ground that securities, which they had purchased and sold as part of their business, formed their stock in trade and the interest therefrom should be treated as "business" profits.
+But section 8 of the Act was held applicable to the facts of that case.
+Satyanarayana Rao, J. said " of the Act which deals with interest on securities is a separate and distinct head, and if an income is chargeable under that head, it is not open either to the assessee or to the department to change the head and claim to tax it under a different head.
+It was also pointed out in this judgment following Commissioner of Income_tax vs Bosotto Bros. (2) that if income falls under more than one head the assessee has the option to choose the head which makes the burden on his shoulders lighter.
+The following two cases were relied upon by the assessee: (1) Mangalagiri Sri Umamaheshwara Gin and Rice Factory Ltd. vs Guntur Merchants Gin and Rice Factory Ltd. (3) where a limited company incorporated for the purpose of milling rice leased out the buildings, plant, machinery etc., to another company for a fixed annual rent.
+The lessees were to do the necessary repairs to keep the mill in good working condition and the lessors were to bear the loss of depreciation.
+The assessee company claimed the allowances for depreciation under section 10(2) (vi) of the Act.
+It was held that the company was carrying on the business of letting a rice mill and as such was entitled to a deduction for depreciation.
+The judgment of Krishnan, J., shows that it was clear from the facts of the case that the company was carrying on business (1) , 587.
+(3) (2) 96 of letting the mill for the purpose of being worked by lessees and it was under these circumstances that section 10 was held applicable.
+The other case is Sadhucharan Roy Chowdhry, In re (1) the facts of which were similar to the facts of Mangalagiri Sri Umamaheshwara Gin and Rice Factory Ltd. vs Guntur Merchants Gin and Rice Factory Ltd. (supra).
+It was held that letting of a Jute Press at rent was as much a business as the letting of a ship to freight or letting of motor car or any other kind of machines or machinery for hire, and therefore allowances for depreciation were allowed like in Mangalagiri 's case (supra).
+Neither of these cases throws any light on the question now before us.
+The appellant 's contention that looking at the real nature and character of the source of income arising from "interest on securities" in the case of the present assessee, the Bank, section 10 of the Act would apply and not section 8 can receive no support from the decision in Davies vs Braithwaite (2).
+That was a case where an actress earned her living by accepting and fulfilling professional engagements, her activities being acting in stage plays in England and America, performing for the films and on the wireless and performing for gramophone companies.
+These were held to fall under Sch.
+D and not E as whatever contracts she made were nothing but incidents in the conduct of her professional career.
+The use of the following words by Sir George Rankin in Commissioner of Income tax vs Chunilal B. Metha (3): But the list of "heads" in section 6 is a list of sources not in the sense of attributing the income to . . . one business rather than another but only in the sense of attributing it to business as distinct from investment.
+" is no surer foundation for saying that " interest on securities " is severable into income from securities held as a capital investment and income from those held as trading assets.
+The language of sections 6, 8 and 10 is destructive of any such contention.
+(1) (2) (3) [1938] 6I.T.R. 521, 529.
+97 Thus on a true construction of the various sections of the Act the income of an assessee is one and the various sections 7 to 12 are modes in which the Statute directs that income tax is to be levied and these sections are mutually exclusive.
+The head of income of which the source is " interest on securities " has its ' characteristics for income tax purposes and falls under the specific head covered by section 8 of the Act, and where an item falls specifically under one head it has to be charged under that head and no other.
+This interpretation follows from the words used in sections 6, 8 and 10 which must be read so as to give effect to the contrast between " income, profits and gains " chargeable under the head " interest on securities " and income, profits and gains " chargeable under the head business ".
+Thus on this construction the various heads of " income, profits and gains " must be held to be mutually exclusive, each head being specific to cover the item arising from a particular source.
+It cannot, therefore, be said that qua the assessee in the present case and for the purpose of securities held by it, section 8 is more specific and section 10 general or vice versa, and therefore no question of the applicability of the principle " generalia specialibus non derogant " arises.
+This finds support from the decided cases which have been discussed above.
+Thus both on precedent and on a proper construction, the source of income " interest on securities " would fall under section 8 and not under section 10 as it is specifically made chargeable under the distinct head " interest on securities " falling under section 8 of the Act and cannot be brought under a different head even though the securities are held as a trading asset in the course of its business by a banker.
+In this view of the matter no question of exercise of option by the assessee or the Revenue arises.
+Consequently Lord Shaw 's observation in The Liverpool and Land Globe Insurance vs Bennett (1): " It appears to me that this selection is not only justified in law but is founded upon the soundest and most elementary principles of business," (1) , 376.
+98 will be inapplicable to the facts of the present case, and so also the rule as to choosing the head which imposes on the assessee 's shoulders burden which is highter as given in Commissioner of Income tax vs Bosotto Bros., (supra) and reiterated in H. C. Kothari vs Commissioner of Income tax, Madras (supra).
+To the third point raised by counsel for the assessee that even if interest on securities falls under section 8 of the Act and not under section 10 the assessee is entitled to 'Yet a set off under section 24(2) of the Act, counsel for the Revenue has taken the objection that this plea is not available to the appellant because it was not placed before the Income Tax Appellate Tribunal for being referred to the High Court nor was it raised before the High Court.
+How the question was specifically raised before the Income Tax Officer and the Appellate Assist.
+ant Commissioner and also before the Income Tax Appellate Tribunal has already been mentioned.
+In its application to the Tribunal for stating the case to the High Court the assessee specifically raised in two suggested questions its right to set off the business loss of Rs. 3,21,929 brought forward from the previous year against the income of the assessee in the assessment year.
+It does not appear from the judgment of the High Court that the question was argued in the manner it has been debated in this court.
+The appellant seems to have rested his case on the applicability of section 10 to the profits under the head "interest on securities" because of the securities being trading assets but this contention was repelled and the same question has been raised before us but the assessee now supports his case on an alternative argument that even if the securities fall under section 8 still the profits from that source are from an item of the assessee 's business and therefore the loss of the previous year from the banking business of the assessee can be set off against the profits of the assessment year whatever be the source of that profit.
+The case is similar to the one in Commissioner of Income tax vs Messrs. Ogale Glass Works Ltd. (1).
+The question framed by the Tribunal is a general one and what is to be determined is whether (1) , 196, 198.
+99 the loss of the previous year can be set off against the income of the assessment year within the provisions of section 24(2) of the Act.
+The question is wide enough to cover the point raised before us.
+In the circumstances of this case the third point, raised by counsel for the assessee, is open to be canvassed before us.
+Counsel for the Revenue contends that the words used in section 24(2) were " the same business " and therefore this set off would be allowable only against any profits or gains of the game business and no other business.
+He further contends that the scheme of section 24(1) and (2) shows that profits and gains must be arising under section 10 and not under any other section because the expression used is profits or gains which goes with " business " under section 10 and cannot have reference to income, profits and gains arising from interest on securities " which are under section 8 of the Act.
+Counsel for the assessee on the other hand submits that the use of the word " same " signifies the identity of the business in which the loss has occurred and has no reference to the head under which the profits are chargeable.
+In other words interest does not cease to be profits and gains of the same business merely because for the purpose of chargeability it falls under a different head, i.e., under section 8 and not under section 10.
+Section 24 of the Act deals with the set off of loss in computing the aggregate income.
+He also contends that the business which the assessee was carrying on was the business of dealing in money and credit and that banking and dealing in securities constitute one and the same business.
+He refers to section 277 F of the Indian Companies Act and relies on the Privy Council decision in Punjab Co operative Bank Ltd. vs The, Commissioner of Income tax, Punjab(1) in which it was pointed out that in the ordinary case 'of a bank the business consists in its essence of dealing with money and credit.
+The banker has always to keep enough cash or easily realisable securities to meet any probable demand by depositors, and if some of the securities are realised to meet (1) 100 withdrawals by depositors, this is clearly a normal step in carrying on the banking business.
+It is an act done in what is truly carrying on of the banking business.
+In view of the order we propose to make, we do not find it necessary to express any opinion on the respective contentions raised by counsel for the parties.
+In Punjab Co operative Bank 's case (supra) a finding had been given that the purchase and sale of securities was as much the assessee 's business as receiving deposits from clients and withdrawals by them.
+In the case before us no such finding has been given and in the absence of such finding no opinion can be given as to whether the holding of securities out of which interest was derived formed part of the same business within section 24(2) or not.
+The appeal would therefore, be allowed and the case remitted to the High Court for a fresh decision of the reference after getting from the Tribunal a fuller statement of facts about this part of the case, whether the securities in question were a part of the trading assets held by the assessee in the course of its business as a banker.
+The costs of this appeal will be costs in the reference before the High Court.
+Appeal allowed.
+Case remitted.

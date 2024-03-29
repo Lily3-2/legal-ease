@@ -1,0 +1,157 @@
+Appeal No. 1106 of 1964.
+Appeal by special leave from the judgment and order dated the October 31, 1961 of the Madras High Court in Tax Case No. 67 of 1958.
+A. V. Viswanatha Sastri, R. Venkataraman and R. Gopala krishnan, for the appellant.
+section T. Desai, Gopal Singh, B. R. G. K. Achar and R. N. Sachthey, for the respondent.
+The Judgment of the Court was delivered by Sikri, J.
+This appeal by special leave is directed against the judgment of the High Court of Judicature at Madras answering the following question of law in favour of the respondent : "Whether on the facts and in the circumstances of the case, the Tribunal was right in law in holding that the sum of rupees 84,633/ expended by the assessee in obtaining the loan or any part thereof is an allowable expenditure ?" The facts and circumstances of the case as stated by the Tribunal in the statement of the case are as follows : The appellant, India Cements Limited, Madras, hereinafter referred to as the assessee, is a public limited company.
+The question arises in respect of the assessment year 1950 51, accounting period April 1, 1949 to March 31, 1950.
+During the accounting year it obtained a loan of 40 lakhs of rupees from the Industrial Finance Corporation of India.
+This loan was secured by a charge on the fixed assets of the company.
+Since Mr. section T. Desai, the learned counsel for the respondent, has disputed some facts as stated by the Appellant Tribunal, it would be convenient to give these facts in the words of the Appellate Tribunal.
+It is stated in the statement of the case that "the proceeds of this loan was utilised to pay off a prior debt of 25 lakhs due to Messrs A. F. Harvey Limited and Madurai Mills, Limited.
+It cannot be stated definitely how the balance of 15 lakhs was used but the directors, while reporting on the accounts for the year ended 946 31 3 1949 on 4 10 1949 stated that that was utilised towards working funds.
+" The expenditure of Rs. 84,633/ in connection with this loan was made up of thefollowing items : Stamps 60,02300 Registration Fee 16,,06700 Charges for certified copy of the mortgage deed 2800 Indemnity deed by Essen and Company, Limited 1500 Vakil 's fee for drafting deed 7,50000 Legal fees 1,00000 Total Rs. 84,633 0 0 The assessee did not charge this expenditure in the profits and loss account for that year.
+It was shown in the Balance Sheet as mortgage loan expenses.
+It continued to be so shown till March 31, 1952.
+In the accounts for March 31, 1953 this was written off by appropriation against the profits of that year.
+The Income Tax Officer refused to allow the deduction of Rs. 84,633/ .
+He observed "As per the information furnished by the auditors, Rs. 25 lakhs of the loan was to be paid to Messrs A. F. Harvey, Limited, and Mathurai Mills, Limited in, discharge of the amount borrowed from them and utilised on the capital assets of the company.
+Though in the Company 's books the amount of Rs. 84,633 was not charged to revenue but capitalised and carried forward in the Balance Sheet, for purposes of income tax, the Company 's auditors claim the same as an admissible item of revenue expenditure." He held that the expenditure was incurred in obtaining capital and should be distinguished from interest on borrowed capital which was alone admissible as a deduction under section 10 (2) (iii).
+According to him, section 10 (2) (xi) specifically excludes from consideration any item of capital expenditure.
+He further held that the case was not distinguishable from the decision in The Nagpur Electric Light and Power Co. vs Commissioner of Income tax, Central Provinces(1).
+The Appellate Assistant Commissioner agreed with the Income Tax Officer.
+The Appellate Tribunal distinguished the case of Nagpur Electric Light and Power Co. (1) 947 vs Commissioner of Income Tax(1) on the ground that in the Nagpur Electric Light(1) case money was expended for obtaining capital.
+It observed as follows "Here we find the position to be different.
+A study of the balance sheets of the company as at 31 3 1949 discloses the fact that the paid up capital was sufficient to cover the entire capital outlay of the company and that the further borrowal of Rs. 25 lakhs was for aug menting the working.
+funds of the company.
+It appears to us that even at that early stage the money was borrowed and used not for capital purposes but for augmenting the working funds of the company.
+We, therefore, consider that the whole of the mortgage loan was used firstly to discharge the loan of Rs. 25 lakhs and the balance for working funds and, as such, the whole of the amount was purely for the purposes of augmenting the working capital of the company and that it could not be stated that it was used for capital purposes.
+In this view of the matter, we hold that the money expended in obtaining the loan is an allowable expenditure." The High Court, after noticing the findings of the Income Tax Officer and the Tribunal preferred the findings of fact made by the Income Tax Officer.
+It observed "At this stage, we may point out that the conclusion reached by the Tribunal that the money was borrowed only for working expenses and not for capital investment proceeded on an inference based upon the balance sheet.
+The Tribunal did not investigate how the sum of Rs. 25 lakhs earlier borrowed from A. H. Harvey and Madurai Mills Ltd. was actually utilised.
+Though in the order of the Income tax Officer it is found stated that that amount was utilised on the capital assets of the company and that statement was based on the authority of the information furnished by the auditors of the assessee, the Tribunal either overlooked or ignored this circumstance.
+In the face of the statement so recorded by the Income tax Officer, the Tribunal does not appear to have been justified in relying upon inferences in ascertaining whether the earlier borrowal was on capital or revenue account." (1)6 I.T.C. 28.
+948 The High Court after reviewing various cases, observed : "If we ask for what purpose the expenditure in the present case was incurred, the only answer must be that it was incurred for the purpose of bringing into existence an asset in the shape of borrowing these Rs. 40 lakhs.
+The further question would then be whether this asset or advantage was not for the enduring benefit of the business and whether the expenditure incurred was one which was incurred once and for all.
+The answer to both questions would again be in the affirmative.
+It is true that the borrowed money has to be repaid and it cannot be an enduring advantage in the sense that the money becomes part of the assets of the company for all time to come.
+But, it certainly is an advantage which the company derives from the duration of the loan and undoubtedly it could not have been for any purpose other than an advantage to the business that the borrowing was made.
+That it is not enduring in the sense that the borrowing has to be repaid after a short or long period, as it were, cannot affect the conclusion that it was nevertheless an asset or an advantage that was secured.
+Viewed in the light of the tests adumbrated in the above decision Assam Bengal Cement Co. Ltd. vs Commissioner of Income Tax(1) it seems to us that the expenditure must be regarded as capital expenditure.
+As the facts of the case which we have set out earlier indicate, there can be no doubt that at least to the extent of Rs. 25 lakhs that amount was expended for purposes of a capital nature, clearly in order to bring into existence capital assets.
+We have also pointed out that though it was vaguely stated by the Tribunal that the other sum of Rs. 15 lakhs was utilised as working funds, there seems to be no material whatsoever before the Tribunal to justify its coming to that conclusion." The learned counsel for the assessee company, Mr. A, V. Viswanatha Sastri, urges that the expenditure is admissible as a deduction under section 10(2) (xv) of the Act.
+He says that the High Court erred in holding that the expenditure was made to acquire any asset or advantage of an enduring nature within the test laid down by Viscount Cave and approved by this Court in Assam, Bengal Cement Co. Ltd. vs Commissioner of Income Tax(1).
+He (1) 949 further says that what was secured by the expenditure was a loan and in India money expended in raising a loan, whether by means of a debenture or a mortgage and whether you call it a loan capital or not, is not an expenditure in the nature of capital expenditure.
+He further submits that the expenditure was expended wholly and exclusively for the purpose of the business of the company.
+The learned counsel for the revenue, Mr. section T. Desai, supports the reasoning of the High Court.
+He says that the High Court was right in preferring the findings of the Income Tax Officer on the ground that there was no material for the finding made by the Appellate Tribunal and the finding was based on surmises and material evidence was ignored.
+He says that the High Court in a reference is entitled to ignore any findings of fact made by the Appellate Tribunal if those findings are vitiated.
+In the alternative, he says that the question referred is wide enough to include the question whether there was any material for the finding of the Appellate Tribunal.
+On the merits he contends that expenditure takes the colour from the thing on which the expenditure is made.
+If the money is spent to obtain capital then the expenditure assumes the nature of capital expenditure, but if the money is spent to obtain raw materials then the expenditure takes the colour of revenue expenditure.
+He further says that the borrowed money is an enduring asset and any expenditure made to obtain this money falls within the test laid down by Viscount Cave and approved by this Court.
+A number of cases have been referred to during the hearing of the case by both the counsel but we do not propose to refer to all of them.
+We must start first with the cases decided by this Court and see what principles have been laid down for distinguishing revenue expenditure from expenditure in the nature of capital expenditure, and especially those cases which dealt with similar problems.
+We will first consider State of Madras V. G. J. Ceolho(1).
+This was not a case arising under the Indian Income Tax Act but under the Madras Plantations Agricultural Income Tax Act, 1955, in which a section exactly similar to section 10 (2) (xv) existed.
+In brief, the facts in that case were that the assessee had borrowed money for the purpose of purchasing the plantations and he claimed that in computing his agricultural income from these plantations the entire interest paid by him on moneys borrowed for the purpose of purchasing the plantation should be deducted as expenditure, under section 5(e) of the Act.
+In (1) [1964]8 S.C.R. 60 1 ; 950 the Madras Act there was no provision similar to section 10(2) (iii) of the Act and thus interest was not expressly deductible as an allowance.
+This Court applied the test formulated by Viscount ,Cave, L. C., in Atherton vs British Insulated and Helsby Cables Ltd.(1) and approved by the Court in Assam Bengal Cement Co. Ltd. vs Commissioner of Income Tax(1), and held that the payment of interest was a revenue expenditure.
+It observed that "no new asset is acquired with it; no enduring benefit is obtained.
+Expenditure incurred was part of circulating or floating capital of the assessee.
+In ordinary commercial practice payment of interest would not be termed as capital expenditure.
+" This Court further held that the expenditure was for the purpose of business.
+Mr. Desai tried to distinguish that case on the ground that what was at issue was interest on loan and not expenditure incurred for ,obtaining the loan.
+In our opinion, there is no justification for drawing this distinction in India.
+As observed by Lord Atkinson in Scottish North American Trust vs Farmer(1) "the interest is, in truth, money paid for the use or hire of an instrument of their trade as much as is the rent paid for their office or the hire paid for a typewriting machine.
+It is an outgoing by means of which the Company procured the use of the thing by which it makes a profit, and like any similar outgoing should be deducted from the receipts, to ascertain the taxable profits and gains which the Company earns.
+Were it otherwise they might be taxed on assumed profits when, in fact, they made a loss.
+" It will be remembered that there was no section like section 10(2) (iii) of the Act in the English Income Tax Act.
+On the other hand, there were certain rules prohibiting the deduction in respect of "any capital withdrawn from, or any sum employed or intended to be employed as capital in such trade. " or "any interest which might have been made if any such sums as aforesaid had been laid out at interest." Lord Atkinson first held in that case that the express prohibitions did not apply to the facts of the case and then proceeded to discuss general principles.
+These observations show that where there is no express prohibition, an outgoing, by means of which an assessee procures the use of a thing by which it makes a profit, is deductible from the receipts of the business to ascertain taxable income.
+On the facts of this case, the money secured by the loan was the thing for the use of which this expenditure was made.
+In principle, apart from any statutory provisions, we see no distinction between interest in respect of a loan and an expenditure incurred for obtaining the loan.
+(1) (2)[1955] 1 S.C.R. 972 : (3)5 T.C. 693 at 707.
+951 Mr. Desai urges that these observations of Lord Atkinson should be limited to a case where temporary borrowings are made.
+It is true that the House of Lords. was dealing with the case of a company and the moneys that were borrowed were of a temporary character.
+But this fact was only relied on to hold that the moneys secured were not 'capital ' within rule 3 of First Case, section 100 (5 and 6 Vic.
+35) of the Income Tax Act, 1842, for Lord Atkinson observed at p. 706; ".
+it appears to me, simply, amounts to this that the word "capital" must, in this rule, be held to bear a wholly artificial meaning differing altogether from the ordinary signification, though there be no context in the clause requiring that there should be given to it a meaning different from that which it bears in ordinary commercial transactions." He then referred to the decision in Bryon vs The Metropolitan Saloon Omnibus Company(1) to show that the borrowing by a joint stock company of money by the issue of debentures does not amount to an increasing of the capital of the company.
+In Bombay Steam Navigation Co. Ltd. vs Commissioner of Income Tax(2), this Court again examined the question of distinguishing between capital expenditure and revenue expenditure.
+This Court first held that on the facts of the case, cl.
+(iii) of section 10(2) did not apply, because the assessee in that case had agreed to pay the balance of consideration due by the purchaser and this did not, in truth, give rise to a loan.
+Then Shah, J., observed : "Whether a particular expenditure is revenue expenditure incurred for the purpose of business must be determined on a consideration of all the facts and circumstances, and by the application of principles of commercial trading.
+The question must 'be viewed in the larger context of business necessity or expediency.
+If the outgoing or expenditure is so related to the carrying on or conduct of the business, that it may be regarded as an integral part of the profit earing process and not for acquisition of an asset or a right of a permanent character, the possession of which is a condition of the carrying on of the business, the expenditure may be regarded as revenue expenditure: ' (1) 3 D.G. and J. 123.
+(2) ; : L8Sup.
+Cl/63 14 952 We will now briefly deal with relevant decisions of the High Courts.
+The first case referred is In re Tata Iron and Steel Company Ltd.(1) In that case, the Tata Iron and Steel Co. Ltd. had incurred an expenditure of Rs. 28 lakhs as underwriting commission paid to underwriters on an issue of 7 lakhs preference shares of Rs. 100/ each and the company claimed to deduct this amount as expenses under section 9 (2) (ix) of the Indian Income Tax Act (VII of 1918).
+Macleod, C.J., observed: "If it is admitted that the cost of raising the original capital cannot be deducted from profit after the first year, it is dffficult to see how the cost of raising additional capital can be treated in a different way.
+Expenses incurred in raising capital are expenses of exactly the same character whether the capital is raised at the flotation of the company or thereafter : The Texas Land and Mortgage Company vs William Holtham (2)".
+He further observed that "as long as the law allows preliminary expenses and goodwill to be treated as assets, although of an intangible nature, the money so spent is in the nature of capital expenditure just as much as money spent in the purchase of land and machinery." The Chief Justice accordingly held that Rs. 28 lakhs could not be treated as expenditure (not in the nature of capital expenditure) solely incurred for the purpose of earning the profits of the company 's business.
+Shah, J., also came to the same conclusion, and he thought that the ratio decidendi in Texas Land and Mortgage Company vs William Holtham (2 ) and the principles underlying the decision in Royal Insurance Company vs Watson(1) lent support to this conclusion.
+At this stage it would be convenient to consider the Case of Texas Land and Mortgage Company vs William Holtham (2) relied on in this decision.
+We have already mentioned that the statute law in England is different from the law in India and the observations of the learned Judges in the English cases must be appreciated in the light of the background of the English Income Tax Act.
+In this case a mortgage company had raised money by the issue of debentures and debenture stock and incurred expenses for the issue of mortgage and placing of such debentures and debenture stock.
+The Company claimed to deduct these expenses but the High Court held that the expenses could not be deducted under Schedule D of the English Income Tax Act as trading ex (1) (3) ; (2) 953 penses.
+Mathew, J., gave the following reasons for disallowing the claim: "The amount paid in order to raise the money on debentures, comes off the 'amount advanced upon the debentures, and, therefore, is so much paid for the cost of getting it, but there cannot be one law for a company having sufficient money to carry on all its operations and another which is content to pay for the accommodation.
+This appears to me to be entirely concluded by the decision of yesterday.
+(Anglo Continental Guano Works vs Bell(1)".
+In the course of arguments, Cave J., had remarked "It is only so much capital.
+A man wants to raise pound 1 00,000 of capital, and in order to do that he has to pay pound 4,000.
+That makes the capital pound 96,000.
+That is all.
+" In reply to the argument of Finlay, Q.C., that "the capital of the, company, properly so called, is the share capital" Cave, J. remarked : "To the extent that you borrow you increase the capital of the company." In our opinion, if one keeps in mind the background of the English Income Tax Act, the observations reproduced above have no relevance to cases arising under the Indian Income Tax Act.
+In face of rule 3, Case 1, section 100 (5 & 6 Vict.
+35) prohibiting the deduction of any expenditure in respect of any sum employed or intended to be employed as capital, Mathew and Cave, JJ.
+were only concerned with the question whether the amount secured by debentures and the amount obtained by the issue of debentures and debenture stock could be called capital employed or intended to be employed within the meaning of this rule.
+Rightly or wrongly, the English Courts have held that the amount obtained by the issue of debentures is capital employed within the meaning of the rule, but this does not give us any guidance in interpreting the words 'capital expenditure ' occurring in section 10 (2) (xv) of the Act.
+In our opinion, the Bombay High Court was wrong in relying on Texas Land and Mortgage Company vs William Holtham(2).
+But we do not say that the Tata Iron and Steel (1) (2) 954 Co. (1) case was wrongly decided.
+Obtaining capital by issue of shares is different from obtaining loan by debentures.
+In Nagpur Electric & Light Co. vs Commissioner of Income Tax(1), the Court of the Judicial Commissioner, Nagpur, held that expenses for raising debenture loan required for changing the system of supplying current from D.C. to A.C. and for discharging a prior loan was not allowable as deduction of the company 's assessable income.
+The Judicial Commissioner followed the case of Texas Land and Mortgage Company vs William Holtham(3) and In re Tata Iron and Steel Company Ltd.(1).
+After referring to these two cases, the only additional reason given was that "apart from authority it seems to us to stand to reason that money expended in obtaining capital must be treated as capital expendiure." With great respect we must hold that this case was wrongly decided.
+The Kerala High Court in Western India Plywood Ltd. vs
+Commissioner of Income Tax, Madras(4)held that the expenditure incurred by the company a capital expenditure and was 10(2)(xv).
+The High Court Trust Company vs Jackson(5) Du#(1) and some other cases Madras(4) held that the expenditure raise a loan by debenture was therefore not deductible under section relying on European investment and Ascot Gas Water Heaters vs drew a distinction between the borrowing of capital and securing merely temporary or day to day accommodation or banking or trading facilities.
+According to the High Court, the expenses for borrowing capital could not be treated as revenue expenditure.
+This distinction may be valid in English Law but we are unable to appreciate how the distinction is valid under the Indian Income Tax Act.
+As the decision is mainly based on this distinction and relies inter alia on In re Tata Iron and Steel Co. Ltd.(") and Nagpur Electric and Light Co. vs Commissioner of Income Tax (2 we must with respect hold that the case was wrongly decided.
+In Vizagapatnam Sugars and Refinery Ltd. vs Commissioner of Income Tax(") the Andhra Pradesh High Court relying on Texas Land and Mortgage Company V. William Holtham(3) and the decision in Western India Plywood Ltd. vs C.I.T., Madras(4) held that on the facts and circumstances of that case, brokerage and commission of four annas on every maund of sugar paid by (2) (3) (1) (4) (5) (6) (7) 955 the assessee company was not revenue expenditure but capital expenditure.
+In our opinion, the derision, as far as the brokerage was concerned, was wrong, but we do not say anything in this case with respect to the decision as far as the commission on sale of goods was concerned.
+The Calcutta High Court examined the question in great detail in Sri Annapurna Cotton Mills Ltd. vs Commissioner of Income Tax(1), Bachawat, J., held that the loan of Rs. 10 lakhs obtained by the company was an asset or advantage for the enduring benefit of the business of the assessee.
+He placed reliance on a number of cases,some of which we have already considered.
+But we are unable to agree that a loan obtained can be treated as an asset or advantage for the enduring benefit of the business of the assessee.
+A loan is a liability and has to be repaid and, in our opinion, it is erroneous to consider a liability as an asset or an advantage within the test laid down by Viscount Cave and approved and applied by this Court in many cases.
+Sinha, J., after referring to a number of cases, felt that the raising of capital by issue of debentures was a recognised mode of raising capital and he felt that the decided cases had laid down the proposition that borrowing money by the issue of debentures was an acquisition of capital asset and that any commission or expenditure incurred in respect thereof was of a capital nature and not to be considered as in the nature of revenue.
+He was impressed by the fact that not a single case to the contrary was brought to his notice.
+But we have to decide the case on principle, and with respect it seems to us that he erred in treating the loan as equivalent to capital for the purpose of section 10(2) (xv) of the Act.
+In section F. Engineer vs Commissioner of income Tax (2) the Bombay High Court held that the expenditure incurred for raising loan for the carrying on of a business cannot in all cases be regarded as an expenditure of a capital nature.
+On the facts of the case they held that as construction and sale of the building was the sole business of the firm and the building was its stock intrade, and the loan was raised and used wholly for the purpose of acquiring this stock in trade and not for obtaining any fixed assets or raising any initial capital or for expansion of the assessee 's business, the expenditure incurred for the raising of loan was not an expenditure of capital nature but revenue expenditure.
+Although the conclusion of the High Court was correct, we are not able to agree with the principle that the nature of the expenditure incurred in raising a loan would depend upon the nature and purpose of (1) (2) 956 the loan.
+A loan may be intended to be used for the purchase of raw material when it is negotiated, but the company may after raising the loan change its mind and spend it on securing capital assets.
+Is the purpose at the time the loan is negotiated to be taken into consideration or the purpose for which it is actually used ? Further suppose that in the accounting year the purpose is to borrow and buy raw material but in the assessment year the company finds it unnecessary to buy raw material and spends it on capital assets.
+Will the income tax officer decide the case with reference to what happened in the accounting year or what happened in the assessment year ? In our opinion, it was rightly held by the Nagpur Judicial Commissioner in Nagpur Electric Light and Power Co. vs Commissioner of Income Tax(1) that the purpose for which the new loan was required was irrelevant to the consideration of the question whether the expenditure for obtaining the loan was revenue expenditure or capital expenditure.
+To summarise this part of the case, we are of the opinion that (a) the loan obtained is not an asset or advantage of an enduring nature; (b) that the expenditure was made for securing the use of money for a certain period , and (c) that it is irrelevant to consider the object with which the loan was obtained.
+Consequently, in the circumstances of the case, the expenditure was revenue expenditure within section 10(2)(xv).
+The last contention of Mr. Desai is that even if it is revenue expenditure, it was not laid out wholly and exclusively for the purpose of business.
+Subba Rao, J., reviewed the case law in Commissioner of Income Tax vs Malayalam Plantation(1) and observed as follows : "The expression "for the purpose of the business" is wider in scope than the expression "for the purpose of earning profits.
+" Its range is wide : it may take in not only the day to day running of a business but also the rationalisation of its administration and modernization of its machinery; it may include measures for the preservation of the business and for the protection of its assets and property from expropriation, coercive process or assertion of hostile tide; it may also comprehend pay ment of statutory dues and taxes imposed as a precondition to commence or for carrying on of a business; it may comprehend many other acts incidental to the carrying on of a business." (1) (2) ; 957 Mr. Desai says that the act of borrowing money in this case was not 'incidental to the carrying on of a business.
+We are unable to accept this contention.
+In Eastern Investments Ltd. vs Commissioner of Income Tax(") this Court held that the Eastern Investments Ltd., an investment company, when it borrowed money on debentures, the interest paid by it was incurred solely for the purpose of making or earning such income, profits or gains within the purview of section 12(2) of the Indian Income Tax Act.
+It held on a review of the facts that the transaction was voluntarily entered into in order indirectly to facilitate the running of the business of the company and was made on the ground of commercial expediency.
+This case, in our opinion, directly covers the present case, although Mr. Desai suggests that the case of an investment company stands on a different footing from the case of a manufacturing company.
+In some respects, their position may be different but in determining the question whether raising money is incidental to a business or not, we cannot discern any difference between an investment company and a manufacturing company.
+We may mention that in that case this Court was not considering whether the expenditure was in the nature of a capital expenditure or not, because it was agreed all through that the expenditure was not in the nature of capital expenditure, and the only question which this Court dealt with was whether the expenditure was incurred solely for the purpose of making or earning income, profits or gains.
+The case of Dharamvir Dhir vs Commissioner of Income Tax(1) also supports the conclusion we have arrived at on this part of the case.
+It was held in that case that the payment of interest and a sum equivalent to 11/16th of the profits of the business of the assessee in pursuance of an agreement for obtaining loan from the lender were in a commercial sense expenditure wholly and exclusively laid out for the purpose of the assessees business and they were, therefore, deductible revenue expenditure.
+Before we conclude we must deal with the point raised by Mr. Sastri that the High Court erred in law in preferring the findings of the Income Tax Officer to that of the Appellate Tribunal.
+It is not necessary to decide this question but it seems to us that in a reference the High Court must accept the findings of fact made by the Appellate Tribunal and it is for the person who has applied for a reference to challenge those findings first by an application under section 66(1).
+If he has.
+failed to file an application under (1) (2) ; : 958 S.66(1) expressly raising the question about the validity of the findings of fact, he is not entitled to urge before the High Court that the findings are vitiated for one reason or the other.
+To conclude we hold that the expenditure of Rs. 84,633/ was not in the nature of capital expenditure and was laid out or expended wholly and exclusively for the purpose of the assessee 's business.
+The answer to the question referred, therefore, must be in the affirmative.
+The appeal is allowed, the judgment of the High Court set aside and the question referred answered in the affirmative.
+The appellant will have its costs incurred here and in the High Court.
+Appeal allowed.

@@ -1,0 +1,81 @@
+ivil Appeal Nos.
+980 982 of 1971.
+Appeals by Special Leave from the Judgment and Order dated the 9 2 70 of the Andhra Pradesh High Court in case Referred No. 1 of 1967.
+R. Vasudev Pillai and P. K. Pillai for the Appellant.
+R. M. Mehta and section P. Nayar, for the Respondent.
+The Judgment of the Court was delivered by KHANNA, J.
+This judgment would disposed of three civil appeals Nos. 980 to 982 of 1971 which have been filed by special leave against the judgment of the Andhra Pradesh High Court on a reference under section 66 of the Indian Income tax Act, 1922 (hereinafter referred to as the Act) answering besides two other questions with which we are not concerned, the following question against the assessee appellant and in favour of the revenue: "Whether, on the facts and in the circumstances of the case, the sale proceeds were received from Government of India in British India?" The assessee company is a public limited company registered in what was at the relevant time the Nizam 's Dominion (hereinafter referred to as Hyderabad State) outside British India.
+The matter relates to assessment years 1945 46, 1946 47 and 1947 48 for which the relevant accounting period ended on October 5, 1944, October 5, 1945 and October 5, 1946 respectively.
+The assessee company had a textile mill at Warangal in Hyderabad State.
+During the Second World War the company supplied textile goods to the Department of Supplies.
+Government of India under what was known as "Panel System".
+The Government used to place bulk purchase orders with the company for the supply to goods according to specifications.
+The delivery of the goods used to be made by the company FOR Warrangal.
+After the goods were despatched, the assessee company submitted bill in form W.S.B. 116 giving details of the supply.
+The prescribed form contained the following receipt: "Received Payment One anna Please pay by Cheque to Self stamp on ============== original Bankers copy only.
+on Bank at. . .
+Treasury Contractor 's Signature Contractor 's signature " The assessee used to enter the words "Hyderabad (Dn)" in the blank space after the word "at".
+On the back of the bulk purchase order form, there were instructions that the payment was to be made by the Controller of Supply Accounts Bombay.
+The Government of India issued general instructions to all textile mills in the Indian States that all payments were to be made "by cheque on Government Treasury in British India, or alternatively on a branch in British India, which 647 transacts Government business of the Reserve Bank of India".
+All payments were made on behalf of the Government of India by cheques, which were sent to the assessee by post.
+Some of these cheques were drawn on banks in British India and the others on banks in Hyderabad State.
+All the cheques received from the Government, including those drawn on banks in British India, were collected through the assessee 's bankers in Hyderabad State.
+In making the assessment the Income tax Officer held that the sale proceeds in respect of cheques, which had been drawn on banks in British India, were received by the assessee in British India and as such the assessee was liable to tax under the Act.
+In respect of cheques drawn on the banks in Hyderabad State, the Income tax Officer held that no income had accrued in British India and was, therefore, not subject to assessment under the Act.
+The assessee took the matter in appeal to the Assistant Commissioner claiming that no portion of the income had been received in British India.
+The Appellate Assistant Commissioner held that the entire sale proceeds had been received in British India and he, therefore, passed an order enhancing the assessed amount.
+On further appeal by the assessee the Income tax Appellate Tribunal upheld the order of the Assistant Commissioner.
+At the request of the assessee the question reproduced above along with two other questions relating to the power of the Appellate Assistant Commissioner to enhance the amount of assessable income as also the question of limitation were referred to the High Court.
+The High Court answered the question reproduced above as well as the other two questions with which we are not concerned, in favour of the revenue and against the assessee.
+So far as the question reproduced above is concerned, the High Court took the view that the matter was concluded by the decision of this Court in the case of Indore Malwa United Mills Ltd. vs Commissioner of Income tax(1).
+In appeal before us Mr. Vasudev Pillai on behalf of the appellant has assailed the judgment of the High Court and has contended that on the facts and circumstances of the case, the sale proceeds should be held to have been received by the assessee from the Government of India not in British India but in Hyderabad State.
+There is, in our opinion, no force in this contention.
+It would appear from the resume of facts given above that all payments were made on behalf of the Government of India by cheques and those cheques were sent by post from British India to the assessee.
+The facts of the case and the course of dealings show that it was the understanding between the Government of India and the assessee company that the payment would be made on account of the goods supplied by the assessee by cheques.
+The cheques were in the very nature of things to be sent from British India by post as that is usual and normal agency for transmission of such articles.
+As the cheques were sent to the assessee company on behalf of the Government of India by post from British India in pursuance of an understanding between the parties, the payment to the assessee shall be treated to have 648 been made in British India.
+The post office in such cases is taken to be an agent of the assessee company.
+The position in law is that in the absence of a request by the creditor or an agreement between the parties regarding the sending of money by cheque by post, the mere posting of cheque would not operate as delivery of the cheque to the creditor.
+Where, however, a cheque is sent by post in pursuance of an agreement between the parties or a request by the creditor that the money be sent by cheque by post, the post office would be treated as the agent of the creditor for the purpose of receiving such payment.
+The agreement or request need not, however, be express; it may also be implied to be spelt out from the facts and circumstances of the case.
+The question of law arising in this case is not res integra and is concluded by three decisions of this Court.
+In Commissioner of Income tax, Bombay South, Bombay vs Ogale Glass Works Ltd. the assessee, a non resident company carrying on business of manufacturing certain articles in the State of Aundh, secured some contract for the supply of goods to the Government of India.
+The contract provided that "unless otherwise agreed between the parties payment for the delivery of the stores will be made on submission of bills in the prescribed form in accordance with instructions given in the acceptance of tender by cheque on a Government Treasury in India or on a branch of the Reserve Bank of India or the Imperial Bank of India transacting Government business.
+" The assessee submitted the bill in the prescribed form and wrote on it as follows: "Kindly remit the amount by a cheque in our favour on any bank in Bombay.
+" The assessee received cheques drawn on the Bombay branch of the Reserve Bank of India.
+The assessee realised the amount of the cheques through the Aundh Bank.
+It was held that the posting of cheques in Delhi in law amounted to payment in Delhi.
+It was further observed that the circumstances of the case revealed an implied agreement under which cheques were accepted unconditionally as payment.
+Even if the cheques, according to this Court, were taken conditionally the cheques having been not dishonoured, the payment related back to the dates of the receipt of the cheques and in law the dates of payment were the dates of the delivery of the cheques.
+Income, profits and gains in respect of the sales made to the Government of India were accordingly held to have been received by the assessee in British India.
+Dealing with the question of the understanding between the parties in that case, this Court observed: "According to the course of business usage in general to which, as part of the surrounding circumstances, attention has to be paid, under the authorities cited above, the parties must have intended that the cheques should be sent by post which is the usual and normal agency for transmission of such articles and according to the Tribunal 's findings they were in fact received by the assessee by post." The above case been sought to be distinguished by Mr. Pillai on the ground that in that case the assessee had written on the bill form the 649 words: "kindly remit the amount by cheque in our favour on any bank in Bombay.
+" It is said that the bill submitted by the appellant contained no such writing.
+A similar argument was advanced on behalf of the assessee company in the case of Shri Jagdish Mills Ltd. vs Commissioner of Income tax(1) and it was held that the absence of such an express request would not make material difference if the course of dealings between the parties showed an implied request by the assessee company to send the cheques by post.
+In Jagdish Mills ' case the assessee company was incorporated in Baroda State outside British India.
+The company accepted orders for the supply of goods F.O.R. Baroda to the Government of India.
+The manufacture and delivery of goods took place at Baroda.
+The company after effecting delivery of the goods submitted bills in the prescribed form which contained the sentence that "Government should pay the amount due to the company by cheque.
+" There was, however, nothing in the bills to show in what way the payment by cheque was to be made.
+The company thereafter received at Baroda, in payment of its bills, cheques through post from the Government drawn on a Government Treasury or on a branch of the Reserve Bank of India or the Imperial Bank of India transacting Government business.
+The company endorsed the cheques and sent them either to Bombay or Ahmedabad in its banking account at such places.
+It was held that according to the course of business usage in general which was followed in the case, the parties must have intended that the cheques should be sent by post which was the usual and normal agency for transmission of such articles.
+An implied request by the company to send the cheques by post from Delhi was accordingly inferred.
+The post office was held to have become the agent of the assessee for the purpose of receiving those payments.
+This Court consequently came to the conclusion that the amounts of cheques were received by the assessee in British India and as such were liable to be taxed under section 4(1) (a) of the Act.
+The facts of the case of Indore Malwa United Mills Ltd. vs Commissioner of Income tax (supra) were similar to those of the present case.
+In that case the assessee, a non resident, carried on the business of manufacturing textile goods at Indore, outside British India.
+The assessee supplied textile goods to the Stores Department of the Government of India under orders placed by the latter with the assessee at Indore.
+The delivery of the goods was F.O.R. Indore.
+The bills contained the following instruction for payment: "Please pay by cheque to self on a bank at Indore.
+" The Government of India drew cheques in favour of the assessee for the amounts of the bills on the Reserve Bank of India, Bombay and sent them by post to the assessee at Indore.
+The assessee deposited the cheques in its account with the Imperial Bank of India, Indore and on clearance, the amounts were credited to that account.
+Question which arose for decision was whether the assessee company was liable to pay tax in the taxable territories on the ground that the sale proceeds, which included the profit element therein, were received in the taxable territories.
+It was held that if by an agreement, express or implied, between the creditor and the debtor or 650 by request, express or implied, by the creditor, the debtor is authorised to pay the debt by a cheque, and to send the cheque to the creditor by post, the post office becomes the agent of the creditor to receive the cheque and the creditor receives payment as soon as the cheque is posted to him.
+It was also held that there was an implied agreement between the parties that the Government of India would send the cheque by post to the assessee.
+The sale proceeds which included the profit element therein were, in the opinion of this Court, received in British India where the cheques were posted, and the profits in respect of the sales were taxable under section 4(1) (a) of the Act.
+Mr. Pillai has referred to the case of Commissioner of Income tax, Bihar & Orissa vs Patney & Co. This case cannot be of much help because in that case the assessee had expressly required the commission to be paid at Secunderabad outside British India.
+It was because of this circumstance that this Court found that the rule laid down in Ogale Glass Works ' case (supra) did not apply and the money was not received by the assessee in British India.
+So far as the present case is concerned it has already been pointed out above, that the circumstances of the case and the course of dealings between the parties show that there was an implied agreement or understanding between the parties that the money would be sent to the assessee by cheques posted from British India.
+The High Court, in our opinion, rightly decided the question reproduced above against the assessee appellant and in favour of the revenue.
+The appeals consequently fail and are dismissed but in the circumstances without costs.
+V.P.S. Appeals dismissed.

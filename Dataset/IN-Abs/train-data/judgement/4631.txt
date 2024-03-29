@@ -1,0 +1,44 @@
+Tax Reference Case No. 4 of 1978.
+Tax Reference Under Section 257 of the Income Tax Act, 1961 made by the Income Tax Appellate Tribunal, Bombay (Bench 'C ').
+D. V. Patel, T. A. Ramachandran & Miss A. Subhashini for the Appellant.
+The Judgment of the Court was delivered by PATHAKJ, J.
+The Judgment of the Court was delivered by PATHAKJ.
+J.
+In this tax reference made under section 257 of the income Tax Act, 1961, we are called upon to express our opinion on the following question of law: "Whether, on the facts and in the circumstances of the case, the Tribunal was right in confirming the order of the Appellate Assistant Commissioner that the loss suffered by the assessee was not a loss incurred in a speculative transaction within the meaning of Sec. 43 (5) of the Income tax Act, 1961 ?" The assessee, M/s Shantilal Pvt. Ltd., Bombay, is a private limited company.
+In the assessment proceedings for the assessment year 1971 72 it claimed a sum of Rs. 1,50,000 paid by it as damages to M/s Medical Service Centre as a business loss.
+During the previous year relevant to the said assessment year the assessee had contracted to sell 200 Kilograms of Folic Acid USP at the rate of Rs. 440 per Kilogram to M/s. Medical Service Centre and the delivery was to be effected on or before November 1, 1969, within about three months of the date of entering into the contract.
+The 472 case of the assessee is that as the price of the commodity rose very sharply to as high as Rs. 2,000 per Kilogram during the period when the delivery was to be effected, the assessee was unable to fulfil the contract, giving rise to a dispute in regard to the payment of compensation between the parties.
+The dispute was referred to arbitration and by an award dated August 25,1970 the arbitrator directed the assessee to pay Rs. 1,50,000 as compensation to M/s. Medical Service Centre.
+A consent decree in terms of the award was made by the High Court.
+In the assessment proceedings, the Income Tax officer rejected the claim of the assessee that the payment of compensation was a business loss.
+He found that the transaction was a speculative transactions as defined by Sub section
+(5) of section 43.
+Income Tax Act, 1961.
+The Appellate Assistant Commissioner allowed the assessee 's appeal on the view that the payment made by it represented a settlement of damages on breach of the contract, which was distinct from a settlement of the contract.
+Accordingly, he found that the loss must be regarded as a business loss and not as a speculation loss.
+The Income Tax officer 's appeal was dismissed by the Income Tax Appellate Tribunal by its order dated February 18, 1976.
+The Commissioner of Income Tax applied in reference for a decision on the question of law set out earlier, and in view of an apparent conflict between different High Courts on the point the Tribunal has made this reference.
+There is no doubt that the arbitration award granting compensation to M/s. Medical Service Centre proceeds on the footing that there was a breach of contract.
+The Tribunal took the view that the award of damages for breach of a contract did not bring the transaction within the definition of "speculative transaction" set forth in sub section
+(5) of section 43, Income Tax Act, 1961.
+In this, the Tribunal found support in the view expressed by the Calcutta High Court in Commissioner of Income Tax, West Bengal vs Pioneer Trading Company Private Ltd.,(1) Daulatram Rawatmull vs Commissioner of Income Tax (Central), Calcutta(2) and by the Mysore High Court in Bhandari Rajmal Kushalroj vs Commissioner of Income tax, Mysore,(9) which they preferred to the view expressed by the Madras High Court in R. Chinnaswami Chettiar vs Commissioner of Income 473 Tax, Madras.,(1) P.L. KN.
+Meenakshi Achi vs Commissioner of Income Tax, Madras(a) and A. Muthukumara Pillai vs Commis sioner of Income Tax, Madras.(3) on cereful consideration of the matter we are of opinion that the Tribunal is right.
+Sub section
+(5) of section 43 defines "speculative transaction" to mean: "a transaction in which a contract for the purchase or sale of any commodity, including stocks and shares, is periodically or ultimately settled otherwise than by the actual delivery or transfer of the commodity or scrips . " Is a contract for purchase or sale of any commodity settled when no actual delivery or transfer of the commodity is effected, and instead compensation is awarded under and arbitration award as damages for breach of the contract ? A contract can be said to be settled if instead of effecting the delivery or transfer of the commodity envisaged by the contract the promisee, in terms of section 63 of the Contract Act, accepts instead of it any satisfaction which he thinks fit.
+It is quite another matter where instead of such acceptance the parties raise a dispute an d no agreement can be reached for a discharge of the contract.
+There is a breach of the contract and by virtue of section 73 of the Contract Act the party suffering by such breach becomes entitled to receive from the party who broke the contract compensation for any loss or damage caused to him thereby.
+There is no reason why the sense conveyed by the law relating to contracts should not be imported into the definition of "speculative transaction".
+The award of damages for breach of a contract is not the same thing as a party to the contract accepting satisfaction of the contract otherwise than in accordance with the original terms thereof.
+It may be that in a general sense the layman would understand that the contract must be regarded as settled when damages are paid by way of compensation for its breach.
+What is really settled by the award of such damages and their acceptance by the aggrieved party is the dispute between the parties.
+The law, however, speaks of a settlement of the contract, and a contract is settled when it is either performed or the promisee dispenses with or remits, wholly or in part, the performance of the promise made to him or accepts instead of it any satisfaction which he thinks fit.
+We are concerned with the sense of the law, and it is 474 that sense which must prevail in sub section
+(5) of section 43.
+Accordingly, we hold that a transaction cannot be described as a "speculative transaction" within the meaning of sub section
+(5) of section 43, Income Tax Act, 1961 where there is a breach of the contract and on a dispute between the parties damages are awarded as compensation by an arbitration award.
+We are unable to endorse the view to the contrary taken by the Madras High Court in R. Chinnaswami Chettiar(supra) and approve of the view taken by the Calcutta High Court in Pioneer Trading Company Private Ltd. (supra) and by the Mysore High Court in Bhandari Rajmal Kushalra; (supra).
+The decisions of the Madras High Court in P. L. K. N. Meenakshi Achi (supra) and A. Muthukumara Pillai (supra) are not apposite and are not concerned with the point before us.
+Our attention was invited by learned counsel for the Revenue to the decision of this Court in Devenport o. P. Ltd. vs Commissioner of Income Tax, West Bengal II(1) but this point did not arise there either.
+Accordingly, we answer the question referred in the affirmative, in favour of the assessee and against the Revenue.
+There is no order as to costs.
+H.S.K. Question answered in affirmative.

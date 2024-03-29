@@ -1,0 +1,73 @@
+Appeal No. 236 of 1965.
+Appeal from the judgment and order dated August 30, 1961.
+of the Bombay High Court in Income tax Reference No. 12 of 1959.
+A. V. Viswanatha Sastri, N. D. Karkhanis, R. H. Dhebar and R. N. Sachthey, for the appellant.
+N. A Palkivala, T. A. Ramachandran, J. B. Dadachanji, O. C. Mathur and Ravinder Narain for the respondent.
+The Judgment of the Court was delivered by Sikri, J.
+This appeal by certificate granted by the High Court of Judicature at Bombay under section 66 A(2) of the Indian Income Tax Act, 1922, hereinafter referred to as the Act, is directed against its judgment in a reference made to it by the Income Tax Appellate Tribunal.
+The following two questions were referred (1)Whether on the facts and in the circumstances of the case, the surplus or difference arising as a result of devaluation in the process of converting dollar currency in regard to the sum of $36,123/02 repatriated to India was profit which was taxable in the hands of the assessee ? (2)Whether the said sum of $36,123/02 having been taxed in the relevant earlier years, the surplus or difference in dollar exchange account arising by reason of the repatriation thereof as a result of devaluation was rightly taken as profit taxable ? The relevant facts and circumstances, as stated in the Statement of the Case, are as follows : The respondent, Tata Locomotive and Engineering Co. Ltd., hereinafter referred to as the assessee, is a limited company registered under the Indian Companies Act (VII of 1913), and has its registered office at Bombay.
+The main business of the assessee is the manufacture of locomotive boilers and locomotives.
+For the purpose of this manufacturing activity the assessee had to make purchases of plant and machinery, etc., in various countries including the U.S.A.
+The assessee 2 3 7 appointed M/s Tata Inc., New York, as its purchasing agent in the U.S.A. With the sanction of the Exchange Control Authorities a remittance of $33,830 was made in 1949 to Messrs. Tata Inc., New York for the purpose of purchasing capital goods from the U.S.A. and meeting other expenses connected therewith.
+The assessee was also the selling agent of Baldwin Locomo tive Works, for the sale of their products in India, and in connection with the sale of the products of Baldwin Locomotive Works in India the assessee had to incur expenses on their behalf in India.
+These expenses were re imbursed to the assessee by Baldwin Locomotive Works in the U.S.A. by paying the amount due to Messrs. Tata Inc., New York.
+The amount so paid to Tata Inc. was retained in the assessee 's account with Messrs. Tata Inc. for purchase of capital goods.
+As the sole selling agent the assessee was entitled to com mission from Baldwin Locomotive Works.
+The commission pay able to the assessee in dollars was not actually sent from the U.S.A. to India, but with the sanction of the Exchange Control Authorities was made over to the assessee 's purchasing agents, Messrs. Tata Inc., New York.
+The reason why this was done was explained in the assessee 's letter dated October 26, 1948, to the Reserve Bank of India.
+In it the assessee stated, inter alia, as follows : "It would be more convenient if the amount of commission payable to us periodically be deposited into our account with our representative, Messrs. Tata Inc., New York, opened with reference to your letter FC.BY.
+7031/74/46 dated 2nd October, 1946, as the same would go to reduce the amount of remittance to be made from here in recoupment of that amount from time to time.
+These amounts will be utilised solely for the purposes detailed in our letter to you TC 679 dated 15th August, 1946.
+" The purposes referred to in the said letter of August 15, 1946, were purchase of capital goods.
+The amount received as commission was taxed in the relevant assessment years on the accrual basis and tax has been paid.
+On September 16, 1949, there was a balance of $48,572/30 in the assessee 's account with Messrs. Tata Inc. made up as under (1) Remittances from Bombay $33,850 00 Less : Dollars spent in the U.S.A. for capital $30,282.
+96 purposes $3,567.04 238 (2) Amount reimbursed by Baldwin Loco $8,882.24 motive Works against funds made available to its representatives in India (3) Commission actually received from Baldwin Locomotives Works and retain $36,123.
+ed in the U.S.A. TOTAL $48, 572.30 On September 16, 1949, the pound sterling was devalued.
+Prior to the devaluation the rate of exchange between rupee and dollar was Rs. 3.330 per dollar and on devaluation the rate became Rs. 4.775 per dollar.
+The result was that the assessee found it more expensive to buy American goods and as the Government of India also imposed some restrictions on imports from the U.S.A., the assessee decided to repatriate the dollars and for the purpose applied to the Reserve Bank of India on December 17, 1949.
+The Reserve Bank of India gave permission and a sum of $40,000 was repatriated to India.
+Under similar circumstances in October, 1950, a sum of $9,500 was repatriated to India.
+Though the two remittances from the U.S.A. to India of $40,000 and $9,500 fell into different accounting years, the case proceeded before the Income tax authorities as well as before the Tribunal on the footing that the two remittances be considered as falling in the accounting year ended March 31, 1950 for the purpose of the appeal before the Tribunal.
+The remittances of $49,500 includes the sum of $48,572/30 that was held by the assessee on September 16, 1949.
+This repatriation of the sum of $48,572/30 gave rise to a sum of Rs. 70,147 as surplus in the process of converting dollar currency into rupee currency.
+The Income tax Officer assessed the amount of Rs. 70,147 on the ground that it represented profits that arose to the assessee "incidentally to its carrying on the business".
+The Income tax Officer observed : "Whether the funds were sent to America with the object of purchasing of capital equipment or for the purchase of stores, or for reimbursement of revenue expenditure there need not be distinction that only such portion of the profits arising on funds remitted for revenue expenditure only has to be treated as revenue and the balance should be treated as capital.
+" The Appellate Assistant Commissioner substantially affirmed the odrer of the Income tax Officer except that he reduced 239 the amount by Rs. 6,894.
+He was of the view that the permission of the Reserve Bank by itself did not convert the true nature of the amount lying there.
+He was further of the view that the amounts available for remittance consisting of the commission and the reimbursement of expenses by Baldwin Locomotive Works were acquired in the ordinary course of business of the sole selling agency of Baldwin Locomotive Works, and, therefore.
+any exchange profit on such amounts which formed part of the assets employed as circulating capital in trade did arise directly in the course of business and formed part of the trading receipts.
+The Tribunal held that the sums of $3,567/04 and $8,882/24 included in the sum of $48,572/30 were held by the assessee for capital purposes and hence any profit that arose to it as a result of its conversion into rupee currency on account of appreciation of the dollar, in relation to the rupee, must be held on capital account and, ' accordingly, the Tribunal excluded ' profits attributable to these amounts.
+But regarding the sum of $36,123/02 the Tribunal held that it would not be justified in coming to the conclusion that there was any constructive remittance, first in the direction the U.S.A. to India and then of an equivalent sum from India to the U.S.A.
+It further held that "the amount was earned as commission.
+It was received in dollars and was retained in that form for the changed purpose under the authority of the Reserve Bank of India.
+When the Company found that the purpose for which it was to be used failed, viz., acquisition of capital equipment etc.
+, it requested the Reserve Bank of India to permit it to bring to India, vide assessee 's letter dated 17 12 1949 where it sought Reserve Bank 's permission to bring $40,000 to India and referred to in paragraph above.
+This permission was granted by the Reserve Bank.
+Dollars were changed into rupees and money received here.
+Hence before there was actual remittance of $40,000 from the U.S.A. to India, there was reconversion, the purpose having failed, of the sum if there was initial conversion as contended by Mr. Chokshi.
+" In the alternative, the Tribunal held that "as and when the commission was earned in dollars, the Company did bring it into its account books in the rupee currency at the then prevailing rate of exchange but the commission amount physically remained in the U.S.A. and when occasion arose to bring it physically to India it had to be converted into rupee currency and this conversion was necessarily incidental to the asssessee 's business as selling agents of the foreign entity the Baldwins.
+Hence whatever the profit the Company made on such exchange of the commission earned by it in the course of its 2 4 0 selling agency business must be brought to tax as a trading profit made by it incidentally in the course of that business.
+" The High Court answered the two questions in the negative.
+It held that although the character of the commission earned was at the inception that of income, but when the assesee appropriated that sum for the specific purpose of purchasing capital goods with the permission of the Reserve Bank of India, the initial character of this sum underwent a change and it assumed the character of fixed capital of the Company.
+This character was retained right up to September 16, 1949 when the pound sterling was devalued, and it did not undergo any change till the benefit accrued on this amount to the assessee company as a result of change in the exchange rate.
+The High Court further held that "there is no evidence in this case nor a finding recorded by the Tribunal that the assessee company had at any time decided not to utilise these amounts for the purpose of purchasing capital goods, and, therefore, repatriated these amounts to India." The High Court further held that the sum of $36,123 02 was "part of its fixed capital and remained so till the date it was repatriated to India.
+The surplus or difference arising as a result of devaluation in the process of converting these dollars into rupee currency in repatriating them to India was an accretion to its fixed capital and was not, therefore, liable to tax.
+" The High Court felt that the ratio of the decision in Davies vs The Shell Company of China(1) supported the view it had taken.
+The learned counsel for the revenue, Mr. A. V. Viswanatha Sastri, contends that if the commission had been allowed to remain in the U.S.A. up to September 16, 1949, and it had been repatriated on September 17, 1949, the assessee would have been liable to tax on the profits received as a result of devaluation.
+He says that if this is so, the permission of the Reserve Bank and the decision of the Company to hold it to buy capital goods does not make any difference.
+He further says that the fact that the assessee credited the rupee equivalent of this sum in his books and paid tax on the basis of accrual does not also make, any difference.
+The learned counsel for the assesee, Mr. Palkhiwala, on the other hand contends that the assessee is not a dealer in foreign exchange and it had not acquired or held foreign exchange for revenue purposes or for purposes incidental to trading operations.
+He says that "when foreign currency is kept or used on capital account e.g. to acquire capital assets, and not as circulat (1) 22 I.T.R. Supp.
+1. 2 4 1 ing capital, the profit made on realisation is capital appreciation, even though the foreign currency may have been originally acquired as a revenue receipt.
+" A number of cases have been cited before us, but it seems to us that the answer to the questions depends on whether the act of keeping the money, i.e. $36,123 02 for capital purposes after obtaining the sanction of the Reserve Bank was part of or a trading transaction.
+If it was part of or a trading transaction then any profit that would accrue would be revenue receipt; if it was not part of or a trading transaction then the profit made would be a capital profit and not taxable.
+There is no doubt that the amount of $36,123.02 was a revenue receipt in the assessee 's business of commission agency.
+Instead of repatriating it imme diately the assessee obtained the sanction of the Reserve Bank to utilise the commission in its business of manufacture of locomotive boilers and locomotives for buying capital goods.
+That was quite an independent transaction and it is the nature of this transaction which has to be determined.
+In our view it was not a trading transaction in the business of manufacture of locomotive boilers and locomotives; it was clearly a transaction of accumulating dollars to pay for capital goods, the first step to the acquisition of capital goods.
+If the assessee had repatriated $36,123.02 and then after obtaining the sanction of the Reserve Bank remitted $36,123.02 to the U.S.A., Mr. Sastri does not contest that any profit made on devaluation would have been a capital profit.
+But, in our opinion, the fact that the assessee kept the money there does not make any difference especially, as we have pointed out, that it was a new transaction which the assessee entered into, the transaction being the first step to acquisition of capital goods.
+In the view we have taken it is really not necessary to discuss cases cited at the Bar because none of the cases are exactly in point.
+In our view the High Court was right in answering the questions in the negative.
+In the result the appeal fails and is dismissed with costs.
+Appeal dismissed.

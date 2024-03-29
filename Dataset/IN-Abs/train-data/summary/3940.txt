@@ -1,0 +1,88 @@
+Section 195(1)(b) of the Code of Criminal Procedure provides that no court shall take cognizance of any offence punishable under any of the sections enumerated therein (one of which is section 211) if such offence is alleged to have been committed in or in relation to any proceedings in any court.
+The appellant filed a complaint with the police that the accused criminally trespassed, assaulted and abused him in filthy language and committed theft of money and valuable documents of the school of which he was the secretary.
+After investigation the police found that there was no evidence against the accused and therefore, the Magistrate discharged all the accused.
+One of the accused thereupon preferred a complaint under section 211 IPC alleging that the appellant had instituted criminal proceedings with the intent to cause injury to him and others knowing that there was no just or lawful ground and thereby caused pecuniary loss and agony to him.
+The appellant moved the High Court for quashing the proceedings before the Magistrate because in the absence of a complaint in writing of the Magistrate himself, the Magistrate had no jurisdiction to take cognizance of the offence under s.211 IPC in view of the provisions of section 195 (1)(b) of the Cr.
+The High Court refused to quash the proceedings.
+On further appeal it was contended that an order passed by a Magistrate on a report submitted by the police under section 173 Cr. P. C. being a judicial order the bar of section 195(1)(b) would be attracted.
+Allowing the appeal, ^ HELD: Per Koshal, J. (with whom Jaswant Singh, J. agreed) 1.
+The complaint against the appellant was in respect of an offence alleged to have been committed in relation to a proceeding in court.
+In taking cognizance of it the Magistrate acted in contravention of the bar contained in section 195(1)(b) because there was no complaint in writing either of the Magistrate or of a superior court.
+[756 D] 2.
+Taking cognizance of any offence by a Magistrate under section 190 is not a condition precedent for him to be regarded as a court.
+Magistrates are specifically labelled as courts by section 6 of the Code of Criminal Procedure and, therefore, have to be regarded as such.
+It is true that a Magistrate also performs functions which are of an executive nature and do not fall within 718 the sphere of judicial duties and it may plausibly be argued that in the discharge of those functions he does not act as a court.
+But then he cannot but be regarded as a court when he acts judicially.
+Sections 496 and 497 which make provision for bail matters describe a Magistrate while dealing with those matters as a court and these sections operate at all stages of a case including that when the investigation has just started.
+Neither in these sections nor in section 195 is there anything to show that the word "court" has been used in two different senses and therefore the legislature must be deemed to have used it in one sense wherever it occurs in the Code.
+[743 B, 742 D H] 3.
+The well accepted position is that a court created by a statute, when it performs judicial functions, would be deemed to act as a court; and Magistrates ' courts are regarded as such unless they are performing executive or administrative functions.
+[744 F G].
+Shell Co. of Australia Ltd. vs Federal Commissioner of Taxation, PC and Halsbury 's Laws of England (3rd Edn.) Vol.
+9 p. 342; Virinder Kumar Satyawadi vs The State of Punjab, ; Smt.
+Ujjam Bai vs State of U.P., [1963] 1 SCR 778; referred to.
+The source of power exercised by the authority, i.e. whether it is executive or judicial power, would make all the difference in the determination of the question whether the authority acts as a court or merely as a quasi judicial tribunal.
+[746 F].
+Section 4(2) of the Code of Criminal Procedure provides that "all words and expressions used herein and defined in the IPC and not hereinabove defined shall be deemed to have the meanings respectively attributed to them by the Code.
+" In the matter of dispensation of criminal justice the Indian Penal Code (which contains the substantive law) and the Criminal Procedure Code (which deals with procedure) may be regarded as supplementary to each other.
+The term "Judge" and "Court of justice" used in sections 19 and 20 of the Indian Penal Code give an indication of the attributes of a court as used in criminal law generally.
+Although the term "court of justice" has not been used in the Cr.
+P.C. the expression "Judge" is used in section 197 and, therefore, when a judge (including a Magistrate) who is empowered to act judicially and does so act, constitutes not merely a Court but a Court of Justice.
+[747 E, D, C, F G].
+The caption of Chapter XIV is not decisive of the question whether a particular provision contained in it is limited to the supervisory jurisdiction of the Magistrate in relation to the investigation being conducted by the police or deals with his judicial functions as a court.
+Although Chapter XIV is headed "Information to the police and their powers to Investigate", it is not confined to matters which are strictly concerned with the investigation stage but also deals with situations arising after the investigation has been finalised.
+For example, section 172(2) clearly deals with the use of police diaries at an inquiry or trial which a Magistrate holds not in his administrative or executive capacity but as a court.
+Similarly sections 169 and 170 are another instance in point in which an order passed by a Magistrate is a judicial order determining the rights of the parties after application of his mind.
+If that 719 be so the order passed by the Magistrate in the instant case must be characterised as a judicial act and therefore as one performed in his capacity as a court.
+[748 D, 747 G 748 C, 750 G, 751 E] 7.
+For a tribunal to be acting as a court, it is not necessary that the parties must have a right of hearing of adducing evidence at every stage of the proceedings before it.
+While passing interlocutory orders, issuing temporary injunctions etc.
+, the presiding officer of a court does act as a court.
+[751 H 752 B].
+All orders passed by a Magistrate acting judicially (such as orders of bail and those passed under sub section
+(3) of section 173 of the Code discharging the accused or orders taking cognizance of an offence complained of) are parts of an integral whole which may end with a definitive judgment after an inquiry or a trial or earlier, according to the exigencies of the situation obtaining at a particular stage and which involves, if the need be, the adducing of evidence and the decision of the Magistrate on an appreciation thereof.
+They cannot be viewed in isolation and given a character different from the entire judicial process of which they are intended to form a part.
+[752 E F].
+Abhinandan Jha & Ors.
+vs Dinesh Mishra, ; ; M. L. Sethi vs R. P. Kapur & Anr., ; ; referred to.
+Kailasam, J. (dissenting) The restricted meaning given to "Court" in section 195(2) Cr.
+P.C. read along with the conditions to be specified before a complaint is preferred by the court, indicate that the proceedings before a Magistrate in which he agrees with the report by the police under section 169 Cr.
+P.C. and the proceedings in remand or bail applications during investigations will not amount to proceedings 'in or in relation to court. ' [737 H].
+The policy behind the bar against institution of criminal proceedings by a private party is that when offences are committed against lawful authority or false evidence is given or offence is committed against public justice, it should be the concerned authority that should prefer a complaint and no one else.
+[723 H].
+A court is charged with a duty to decide disputes in a judicial manner and declare the rights of parties in a definitive judgment.
+To decide in a judicial manner involves that the parties are entitled as a matter of right to be heard in support of their claim and to adduce evidence in proof of it.
+It also imparts an obligation on the part of the authority to decide the matter on a consideration of the evidence adduced and in accordance with law [725 B C].
+It is settled law that when a Magistrate applies his mind on complaints, he must be held to have taken cognizance of the offence mentioned in the complaint but when he applies his mind not for such purpose but for the purpose of ordering investigation under section 156(3) Cr. P.C. or issues a search warrant for the purpose of investigation, he cannot be said to have taken cognizance of any offence.
+[727 E] 4.
+When the Magistrate receives a report under section 169 of the Cr.
+P.C. that there is not sufficient evidence or reasonable ground for suspicion and agrees 720 with it, he may be doing so in exercise of his judicial function but the question is whether he is acting as a court.
+Most of the requirement of a court are lacking at this stage.
+To be classified as a court, an authority must be charged with a duty to decide disputes in a judicial manner and declare the rights of parties in a definitive judgment.
+This involves that the parties are entitled as a matter of right to be heard in support of their claim and to adduce evidence in proof of it and an obligation on the part of the authority to decide the matter on a consideration of the evidence adduced and in accordance with law.
+[729 D E].
+Though the Magistrate in deciding whether or not to accept the report of a police officer under section 169 Cr.
+P.C. may be exercising his judicial mind and though there may be some of the trappings of the court, at this stage he cannot be termed as a court within the provisions of section 195(2) Cr.
+At this stage the rights of the parties are not finally decided as the complainant is entitled to file a complaint directly to the Magistrate.
+The persons accused are not before the Magistrate and neither the complainant nor the accused are entitled to be heard or to adduce evidence before the Magistrate at this stage.
+It cannot, therefore, be said that the Magistrate has a duty to decide the matter on a consideration of the evidence adduced before him.
+[729 B, F H] 7.
+The proceeding under section 167 Cr.
+P.C. is during investigation.
+The Magistrate to whom the accused is produced can from time to time authorise detention of accused in such custody as such Magistrate thinks fit for a term not exceeding 15 days in whole.
+If he has not the jurisdiction to try the case or commit it for trial but considers further detention is necessary, he may order the accused to be forwarded to a Magistrate having jurisdiction.
+In investigation by the police the Magistrate is associated in a supervisory capacity.
+The action taken by the Magistrate cannot be taken to be that of a court for the Magistrate who has no jurisdiction to try the case has a limited power.
+The trial commences only after the offence has been taken cognizance of.
+[735 E F] 8.
+Section 496 provides as to when bail may be taken in non bailable offences.
+The provisions of section 496 and section 497 speak of an accused person in custody charged with a non bailable offence being produced before court at any stage of the proceedings.
+The section deals with the exercise of the power of a court at any stage of proceedings when the accused is brought before a Court while in the custody of the police officer.
+Though there may be some trappings of a court and the section itself mentions the word 'court ', the requirements for being a court for the purpose of section 195(2) have not been satisfied.
+[735 H 736 D] 9(i) There is a conflict between various High Courts as to whether a complaint is necessary when on a police report under section 169 the Magistrate does not take any further action.
+The Bombay, Saurashtra and Andhra Pradesh High Courts in , 1952 Saurashtra 67(68) and (287) have held that a Magistrate passing an order on a final report of police under section 173 referring the case as false should be deemed to be a court passing a judicial order disposing of the information to the police, and that in such a case, the complaint of the Magistrate is necessary for the prosecution of the informant under section 211 IPC.
+The Madras, Calcutta and 721 Allahabad High Court in AIR 1934 Mad. 175, AIR 1948 All.
+184 FB and AIR 1916 Cal.
+593 have held the other view.
+(ii) When no further proceedings are taken by the Magistrate or receipt of a police report under section 169 there is no proceeding in or in relation to any court and therefore, no complaint by the court is necessary.
+[733 G 734 B].

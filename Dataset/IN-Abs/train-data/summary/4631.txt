@@ -1,0 +1,17 @@
+The respondent assessee claimed that a sum of Rs. 1,50,000 paid by them as compensation for being unable to fulfil a contract was a business loss.
+The Income tax officer rejected the claim on the ground that the transaction was a speculative transaction as defined by sub section (5) of section 43 of the Income tax Act, 1961.
+The Appellate Assistant Commissioner held that the loss was a business loss and not a speculative loss on the view that the payment made represented a settlement of damages on breach of the contract, which was distinct from a settlement of the contract.
+The Income Tax Appellate Tribunal confirmed the order of the Appellate Assistant Commissioner.
+On the request of the Commissioner of Income tax the Appellate Tribunal has referred the question whether the loss suffered by the assessee was not a loss in a speculative transaction within the meaning of section 43(5) of the Income tax Act, 1961.
+Answering the question in the affirmative, ^ HELD: A transaction cannot be described as a "speculative trans action" within the meaning of sub section
+(5) of section 43 where there is a breach of the contract and on a dispute between the parties damages are awarded as compensation by an arbitration award.
+[474 A B] Sub section
+(5) of section 43 speaks of the settlement of a contract.
+A contract can be said to be settled if instead of effecting the delivery or transfer of the commodity envisaged by the contract the promisee, in terms of section 63 of the Contract Act, accepts instead of it any satisfaction which he thinks fit.
+It is quite another matter where instead of such acceptance the parties raise a dispute and no agreement can be reached for a discharge of the contract.
+There is a breach of the contract and by virtue of section 73 of the Contract Act the party suffering by such breach becomes entitled to receive from the party who broke the contract compensation for any loss or damage caused to him thereby.
+There is no reason why the sense conveyed by the law relating to contracts should not be imported into the definition of "speculative transaction" What 471 is really settled by the award of such damages and their acceptance by the aggrieved party is the dispute between the parties.
+[473 A, C G] Commissioner of Income Tax, West Bengal vs Pioneer Trading Company Private Ltd., ; Bhandari Rajmal Kushiraj vs Commissioner of Income Tax, Mysore, approved.
+R. Chinnaswami Chettiar vs Commissioner of Income Tax, Madras, overruled.
+P.L. KN.
+Meenakshi Achi vs Commissioner of Income Tax, Madras, ; A. Muthukumara Pillai vs Commissioner of Income Tax, Madras, and Devenport & Co. P. Ltd. vs Commissioner of Income Tax, West Bengal 11, not relevant to the point raised.

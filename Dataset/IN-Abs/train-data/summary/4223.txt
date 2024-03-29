@@ -1,0 +1,75 @@
+The appellant bank allowed a cash credit facility limited to Rs. 75,000/ to the principal debtor Harilal Parmananddas Adatia on his pledging 5,000 tins of groundnut oil under the lock and key of the Bank and on personal guarantee of the surety, respondent No. 2.
+The principal debtor executed a demand promissory note Ext.
+81 in favour of the Bank on September 16, 1957, and on the same day the principal debtor also executed a demand promissory note, Ext, 30, in favour of the surety which the surety endorsed in favour of the Bank.
+Along with the two demand promissory notes, simultaneously the surety executed a letter of guarantee Ext.
+31 in favour of the Bank and the principal debtor executed a bond Ext.
+83 in favour of the Bank.
+The principal debtor also passed letter of continuity of the bond and the promissory note Ext.
+Thereafter the principal debtor enjoyed the cash credit facility by borrowing various amounts.
+By the end of February 1959 the principal debtor owed Rs. 76,368.04 P in this account to the Bank.
+Principal debtor died in November 1959.
+The Bank wrote to the surety letter Ext.
+32 dated December 24, 1959, calling upon him to pay the outstanding balance of Rs. 70,879/ in cash credit account of principal debtor as in the circumstances mentioned in the letter the balance was required to be recovered from the surety.
+Some correspondence ensued thereafter between the Bank and the surety and ultimately the Bank filed the suit for recovery of Rs. 76,368.04 P. against defendant 1, the legal representative of principal debtor and defendant 2, the surety.
+The trial court round that there was negligence on the part of the Bank with regard to the safe custody of the pledged oil tins but as the contract of guarantee entered into by the surety with the Bank was independent of the pledge of goods given by the principal debtor, the surety is not discharged from his liability under the guarantee.
+So observing the trial court decreed the suit.
+The surety paid the entire amount demanded and appealed to the High Court.
+The High Court held that the two promissory notes, one executed by the principal debtor in favour of the Bank Ext.
+81, and another by the principal debtor in favour of the surety and endorsed by the surety to the Bank, Ext. 30, and the letter of guarantee Ext.
+31 executed by the surety in favour of the Bank as also the bond executed by the principal debtor in favour of the Bank Ext.
+83 916 and the letter of continuity Ext.
+82 executed by the principal debtor in favour of the Bank, all on September 16, 1957, constituted one composite transaction and they evidenced that the principal debtor had offered two securities, one the pledge of oil tins and another personal guarantee of the surety.
+The High Court further held that the Bank was utterly negligent and had not exercised such care as a prudent man would in the circumstances of the case which resulted in the loss of security, namely, pledged oil tins and, therefore, in view of combined operation of sections 139 and 141 of the Indian Contract Act, the surety is discharged.
+Accordingly, the appeal of the surety was allowed and the suit against him was dismissed.
+Hence this appeal by plaintiff Bank.
+Dismissing the appeal by certificate, the Court, ^ HELD: 1.
+In order to attract section 141 of the Contract Act, it must be shown that the creditor had taken more than one security from the principal debtor at the time when the contract of guarantee was entered into and irrespective of the fact whether the surety knew of such other security offered by the principal debtor, if the creditor loses or without the consent of the surety parts with the other security the surety would be discharged to the extent of the value of the security.
+In the instant case as found by the High Court and not controverted, the principal debtor had offered two securities, (i) the pledge of goods, (ii) personal guarantee of the surety.
+Verily, the General Manager of the Bank accepted the proposal for cash credit facility on the specific condition that the principal debtor shall offer two securities, one the pledge of goods to be kept under the lock and key of the Bank to be supervised by the Bank 's employee, and secondly, the personal guarantee of the surety.
+The surety himself agreed to give personal guarantee of the specific understanding and with the full knowledge of the Bank that the principal debtor was offering another security, namely, pledge of goods.
+The surety contracted on the good faith of the principal contract when entering into contract of guarantee in which case he is deemed so to contract that both the securities would be available to the creditor.
+If the two promissory notes Exts.
+81 and 30 coupled with the letter of guarantee Ext.
+31 executed by the surety and the bond Ext.
+83 executed by the principal debtor at one sitting on September 16, 1957, evidence one composite transaction, it is an inescapable conclusion that the principal debtor offered two securities, one the pledge of goods and the other the personal guarantee of the surety.
+The surety in good faith contracted to offer personal guarantee on the clear understanding that the principal debtor has offered security by way of pledge of goods and the goods were to be in the custody of the creditor Bank.
+On this conclusion section 141 of the Act will be indubitably attracted.
+[922 A F] Sanderson vs Aston, [1873] L R. at 76, quoted with approval.
+Section 141 comprehends a situation where the debtor has offered more than one security one of which is the personal guarantee of the surety.
+Even if the surety of personal guarantee is not aware of any other security offered by the principal debtor yet once the right of the surety against the principal debtor is impaired by any action or inaction, which implies negligence appearing from lack of supervision undertaken in the contract, the surety would be discharged under the combined operation of sections 139 and 141 of the Act.
+In any event, if the creditor loses or without the consent of the surety parts with the security, the surety is discharged to the extent of the security lost as provided by section 141.
+[922 F H] State of Madhya Pradesh vs Kaluram, ; , followed.
+917 Wulff and Billing vs Jay, , quoted with approval.
+In the instant case, clauses 5, 7 and 13 of the letter of guarantee, Ext.
+31 would be of no assistance to the Bank.
+[926 B, G, H] (a) Clause 5 confers right upon the creditor Bank to grant any time or indulgence in payment of the debt or to determine, enlarge or vary its credit and to vary, exchange or take other securities or release any other securities held by the Bank but such an act on the part of the Bank would not have the effect of discharging the surety or in any manner affecting his liability under the letter of guarantee.
+It is not a case of granting time or indulgence to the principal debtor or variation of the credit or taking one set of security in substitution of some other security or release of any security.
+Release of security implies a volitional act on the part of the Bank.
+Loss on account of negligence cannot be equated with release.
+[925 G H. 926 A B] (b) Clause 7 provides for non discharge of surety even if the creditor Bank enters into a composition with the principal debtor and that the surety would nonetheless be liable even if the Bank has other guarantee, security or remedy guarantees, securities or remedies from the principal debtor.
+Upon a true construction of clause 7, the expression 'any other guarantee, security or remedy ' therein mentioned must be security other than the pledged goods.
+[926 B C] Amrit Lal Goverdhan Lal and ors.
+vs State Bank of Travancore and ors.
+; , @ 731, followed.
+(c) Clause 13 provides for continuing the guarantee where the principal debtor is an association of persons and for continuance of the guarantee in the event of death, retirement etc.
+of one of such association of persons or the guarantee remaining intact and effective and legally enforceable irrespective of some defect arising from the internal management of such association of persons.
+First Security, namely, the pledged goods are lost to the Bank and the concurrent finding again incontrovertible is that the pledged goods were lost on account of the negligence of the creditor Bank.
+Whole of the security was lost and, therefore, the surety would be discharge in entirety because it is crystal clear that the principal debtor had agreed and had in fact pledged 5,000 tins of oil which even if sold at the then current market price would have satisfied the Bank 's entire claim.
+Accordingly, the surety would be discharged in entirety.
+[926 G H, 927 A B] 4.
+Accepting a contention that section 141 would not be attracted and the surety would not be discharged even if it is found that a creditor has taken more than one security on the basis of which advance was made and the surety gave personal guarantee on the good faith of other security being offered by the principal debtor which itself may be a consideration for the surety offering his personal guarantee and the creditor by its own negligence lost one of the securities, would tantamount to putting a premium on the negligence of the creditor to the detriment of the surety who is usually described as a 'preferred debtor '.
+A Court should not by its construction of such letter of guarantee enable the creditor to act negligently and yet be not in any manner accountable.
+[927 B E] 5.
+By section 144 of Civil Procedure Code 1908, as amended by the Amendment Act, 1976, the jurisdiction to grant restitution is conferred upon "the Court which passed the decree or order".
+By an explanation added to section 144 by the Amendment Act of 1976, the expression "Court which passed the decree or 918 order" shall be deemed to include where the decree or order has been varied or reversed in exercise of appellate or revisional jurisdiction, the Court of first instance.
+[927 G H, 928 A] In the instant case (i) the appellant was the plaintiff and its suit was decreed by the trial Court, i.e. the Court of Civil Judge, Senior Division, Gondal, on November 18, 1960.
+The present appellant by its letter dated February 14, 1961, demanded from the surety a sum of Rs. 84,828.07 P. inclusive of costs and interests on the principal amount decreed.
+The surety respondent 1 in this Court paid the appellant Rs. 84,828.07 P.
+On April 3, 1961.
+In the appeal by the surety the High Court reversed the decree and dismissed the suit against the surety.
+Accordingly, the surety is entitled to restitution; and (ii) the present one is the simplest case where the suit in favour of the appellant and against the surety was decreed by the trial court, i.e. the Court of first instance, and this decree has been reversed by the trial Court in exercise of its appellate jurisdiction.
+In such a situation clause (a) of the explanation would be attracted and an application for restitution will have to be made to the Court of first instance, i.e. the Court of Civil Judge, Senior Division, Gondal.
+It is nowhere suggested that such a Court does not exist.
+Therefore, it would not be proper for this Court to direct restitution.
+However, there will be no justification for the appellant Bank to withhold the amount which was collected from the surety on a mere demand.
+Therefore, an application for restitution made by the surety would not lie to this Court [928 B D, F H].

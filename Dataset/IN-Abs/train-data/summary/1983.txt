@@ -1,0 +1,31 @@
+The respondents were the owners of certain premises in New Delhi.
+The lessee a company of these premises assigned the lease to the appellant.
+Alleging that the transfer was done without their consent, the respondents filed an application against the lessee and the appellant under section 14(1) proviso (b) of the Delhi Rent Control Act, 1958, for recovery of possession.
+Pending the proceedings, the lessee went into liquidation and its name was struck off from the record.
+The Controller thereafter, passed an order in favour of the respondents.
+Having moved unsuccessfully the Rent Control Tribunal and the High Court, the appellant, appealed to the Supreme Court contending that: (i) the order made against the appellant, after the lessee ceased to be a party, was incompetent, as the only person against whom an order for recovery of possession can be made under the clause, is the tenant who assigned the tenancy, and (ii) the clause in the lease by which the term "lessee" included the lessee 's assignee operated as a consent by the respondents, to assign.
+HELD: (i) (Per Sarkar, J.).
+The Act contemplates orders for recovery of possession also against persons other than a tenant who has assigned or sub let without the landlord 's consent, so that, where the tenant becomes extinct without leaving any successor, an order can be made against a person who took an assignment of the lease from the tenant before the lease became extinct.
+[833C, D E] The proviso expressly states when an order of ejectment can be made and the clauses of the proviso are not intended to indicate the persons against whom an order for recovery of possession could be made, but only the circumstances in which an order for recovery of possession may be made.
+[832E G] The expression "the tenant" in cl.
+(b) is used only to emphasise that the tenant assigning must be the tenant of the landord seeking eviction.
+So read, the effect of the clause is that a land lord can recover possession if his tenant assigns or sub lets without his consent.
+[832H, 833A B] Since the object of the proviso is to enable the landlord to recover possession in the specified cases, orders against all "persons in occupation" must have been contemplated so that the landlord might without further trouble recover possession.
+Section 18 plainly implies that an order for recovery of possession against a sub tenant is contemplated by the proviso.
+Further.
+the order for recovery of possession would, under section 25, be binding on the assignee or sub tenant, and therefore, they would be interested in showing that there was the requisite consent, and hence would be entitled to be made parties to the proceedings.
+If they are thus entitled to be heard to oppose the order of eviction, such an order could be made against them also.
+[833F G, H; 834C, E, H 835A] 830 Per Bachawat J.(i): Both the tenant and the assignee were properly parties to the proceedings for possession and if the tenant company had been dissolved, there is no reason why the proceedings could not continue against the assignee alone.
+[839G] It is true that other clauses of the proviso contemplate eviction of the tenant on the ground of some act on the part of the tenant against whom the proceeding for possession is brought, but under cl.
+(b), the assignment is a ground of eviction of both the assigning tenant and the assignee and the Controller has jurisdiction to make an order for possession not only against the assigning tenant but also against the assignee.
+[839H 840B] Per Mudholkar J. (Dissenting) The right which the respondents possessed to evict the defunct company from the premises, because the company had assigned the tenancy to the appellant without the respondents ' consent could not be availed of by them, and the appellant could therefore continue in possession.
+[838B C] The ban against eviction of a tenant in section 14(1) is lifted by the proviso only with respect to the tenant and not to any other person, because, a proviso is subservient to the main provision.
+Therefore, the tenant must be a party to the proceeding right up to the date of making of the order of eviction.
+Unless an order is obtained against the tenant there would be no occasion for pressing in aid section 25.
+Unlike the case of death of or assignment by, a tenant, an anomalous position results where the tenant happening to be a company is dissolved during the pendency of proceedings and cannot be represented by any one, because of a lacuna in the law: But such lacuna cannot be removed by the Courts without assuming a power to legislate.
+[836H, 837F H] (ii) Per Sarkar J.: The clause in the lease according to which "the lessee" includes his assignee, does not lead to the conclusion that the lessor consented to the assignment.
+Besides, the consent contemplated by the proviso is a direct consent to a contemplated assignment to a particular assignee.
+[835F G] Regional Properties Ltd. vs Frankenchwerth, , applied.
+Per Bachawat J: The consent contemplated by cl.
+(b) may be either general or special, but the clause in the lease would not amount to a consent by the landlord to an assignment either expressly or by necessary implication.
+[840D E]

@@ -1,0 +1,63 @@
+Civil Appeal Nos.
+960 to 962 (NT) of 1975.
+From the Judgment and order dated 2.3.1973 of the Allahabad High Court in Income Tax Reference No. 721 of 1970.
+S.L. Aneja, Pawan Aneja and K.L. Tarieja for the Appellants.
+C.M. Lodha, Ms. A. Subhashini and K.C. Dua for the Respondents.
+The Judgment of the Court was delivered by VENKATACHALIAH, J.
+These assessee 's appeals, by certificate, arise out of the Judgment and order dated 2.3.1973 of the Allahabad High Court in I.T.R. No. 721 of 1970 answering certain questions of law referred for the opinion of the High Court against the assessee.
+The assessee is a Hindu Undivided Family.
+The assessment years are 1954 55, 1960 61 and 1961 62.
+The principal controversy in these appeals pertains to the allowance of and deduction for 'repairs ' in respect of a house property at Delhi leased out to the Chinese Embassy under a deed of lease dated 30.5.1952.
+Originally assessments were completed including therein the annual letting value of this property at Rs.36,000 and allowing a deduction of Rs.6,000 for repairs under Section 24(1)(i)(a) of the Income tax Act, 1961 (Act) or the corresponding provisions of the Act of 1922.
+Subsequently, the assessments were reopened on the ground that the assessee had got excess of relief.
+In the re assessments the Income tax officer held that as the lessee had undertaken 'to keep 90 the premises in good and habitable condition, execute all repairs ', the deduction of Rs.6,000 was impermissible.
+The Income tax officer accordingly determined the annual letting value of the property at Rs.40,000 and allowed a deduction at Rs.4,000 towards 'repairs ' under Section 24(1)(i)(b) of the Act.
+In respect of the assessment year 1954 55, the assessee claimed unsuccessfully that he had undertaken ' considerable repairs and that a sum of Rs.5,645 should be allowed.
+This claim was negatived by the Income tax officer who confined the allowance for repairs to the limit permissible under Section 24(1)(i)(b) of the Act on the premise that this was a case where the tenant had undertaken to bear the cost of repairs.
+This view was affirmed by the Appellate Asst.
+Commissioner of Income Tax and the Income tax Appellate Tribunal ( 'Tribunal ').
+It is, perhaps, relevant to mention that some of the assessment years are governed by the provisions of the 1922 Act.
+But, having regard to the similarity of the provisions, this does not assume any significance or affect the substance of the matter.
+At the instance of the assessee, the Tribunal stated a case and referred the following three questions of law for the opinion of the High Court: (1) "Whether on the facts and in the circumstances of the case, the assessments for the years 1954 55, 1960 61 and 1961 62 were validly reopened under Section 147(a) of the Income Tax Act, 1961?" (2) "Whether on the facts and in the circumstances of the case, the provisions of Section 24(1)(i)(b) of the Income tax Act, 1961, were applicable?" (3) "Whether on the facts and in the circumstances of the case, the expenditure which was not allowed while completing the original assessments could be considered for allowance in course of assessments re opened under Section 147(a)?" As stated earlier, the High Court answered the questions against the assessee, but granted a certificate under Section 261 of the Act as in its opinion two important questions arose out of the judgment.
+The questions the High Court had in mind are questions No. 2 and 3, supra.
+It must, at the outset, be observed that the question as to the validity of the re opening of the assessments which was raised before the High Court was not, in our opinion rightly, re agitated here Learned counsel for the appellants urged that the High Court was in error in its opinion on questions 2 and 3.
+The third question referred was whether where once an assessment is re opened by a valid notice, the whole proceedings of assessment were at large and all the claims and allowances which had been disallowed in the original assessment could be re agitated by the assessee.
+The High Court has answered this proposition against the assessee.
+We may take up and dispose of this contention first.
+It is seen from the order of the Tribunal that though certain reliefs were claimed by the assessee before the authorities, the matter before the Tribunal was, however, confined to the question of allowance for repairs.
+The relief on the claim for repairs, if otherwise tenable, can be granted even without going into this larger question.
+It is, therefore, unnecessary to consider this contention in this case.
+We may now turn to question No. 2 as formulated in the reference.
+Learned counsel urged that the covenant for repairs embodied in the lease deed did not cast the burden to carry out the repairs exclusively on the lessee and that since the lessor had also undertaken to carry out some of the repairs, Section 24(1)(i)(b) was not attracted and that in the circumstances the benefit of Section 24(1)(i)(a) was available to the assessee.
+Counsel relied upon Commissioner of Income tax vs Parbutty Churn Law, 6.
+Section 24(1)(i)(b) of the Act provides that where a property is in the occupation of a tenant "who has undertaken to bear the cost of repairs", the deduction towards repairs which the assessee owner is entitled to is either the excess of the annual value over the amount of rent payable for a year by the tenant; or a sum equal to one sixth of the annual value whichever is lesser.
+There is no dispute that if Section 24(1)(i)(b) is applicable the computation would be correct.
+The only question, therefore, is whether, having regard to the terms of the covenant, it could be said that the tenant had undertaken to bear the cost of repairs within the meaning and for purposes of Section 24(1)(i)(b) of the Act.
+The covenant in this behalf in the lease deed dated 9.9.1952 is in terms following: "To maintain and keep the demised premises in good and 92 habitable condition, tenantable, repair execute all repairs including annual white washing, repairs of electric and sanitary fittings etc., at the lessee 's expenses.
+Major repairs such as repairs against collapse of the house etc., shall be undertaken by the lessors at their own cost.
+" The view of the High Court, in substance, is that this covenant satisfies the requirements of and attracts Section 24(1)(i)(b) .
+The correctness of this view turns upon what in the law of landlord and tenant is, the content of a covenant for 'repairs ' and whether by the terms of the present agreement, the tenant is said to have undertaken the burden of such 'repairs '.
+Referring to what is implicit in and carried with the covenant for "repairs", Halsbury states: "Under a covenant to repair, a tenant is liable to repair but not to renew. 'Repair ' in this sense means the restoration by renewal or replacement of subsidiary parts of the whole, whereas 'renewal ' as distinguished from repair, means the re construction of the whole or of substantially the whole.
+Where the demised building is erected on in herently defective foundations, the tenant is not liable to substitute new foundations . " (See Halsbury 's Laws of England 14th Edn.
+paragraph 285) In regard to the Standard of Repairs, Halsbury, at paragraph 286, states: "If he has expressly covenanted to put a house into tenantable repair and to keep it in such repair, and it is not in tenantable repair at the commencement of the tenancy, the tenant must do the necessary repairs, not with standing that the building is thereby put in a better condition than when the landlord let it.
+The effect is the same if, without expressly covenanting to put it into repair, the tenant only covenants to keep the house in tenantable repair.
+Such a covenant presupposes putting the house in such repair, and keeping it in repair during the term.
+The construction of the covenant is the same whether the covenant specifies 'tenantable ' or 'habitable ' or 'good ' repair.
+A general covenant to repair without any such words is satisfied if the premises are kept in a substantial state of repair.
+(emphasis supplied) 93 7.
+The oft quoted observations in Lurcott vs Wakely and Wheeler, as to what is meant by 'repairs ' are generally considered apposite.
+This has been referred to and relied upon by the High Court.
+The observations in Lurcott 's case was referred to with approval by the Privy Council in Rodesia Railway Ltd. vs Income tax Collector, [1933] Appeal cases 368.
+The idea of 'repair ' may include replacement or even a renewal.
+But the converse may not be true.
+All replacements or renewals need not necessarily be 'repairs '.
+In the case of a building, restoration of stability or safety of a subordinate or subsidiary part of it or any portion of it can be considered as repair while the re construction of the entirety of the subject matter may not be so regarded.
+The somewhat comprehensive import of the word 'repair ' in this context is evident from the reliance by Forbes J. in Ravenseft Properties Ltd. vs Davstone (Holdings) Ltd., [1980] Q.B. 12 on the following observations of Sir Herbert Cozens Herdy MR in Lurcott 's case (supra): "It seems to me that we should be narrowing in a most dangerous way the limit and extent of these covenants if we did not hold that the defendants were liable under covenants framed as these are to make good the cost of repairing this wall in the only sense in which it can be repaired, namely, by re building it according to the requirements of the county council." Having regard to somewhat comprehensive nature of the obligations that go with and are attached to and recognised under the tenant 's covenants for 'repairs ', it must be held that the covenant in the present case is one under which the tenant has undertaken 'substantial repairs ' and it must, accordingly, be held to fall within Section 24(1)(i)(b) of the Act and that the allowance for repairs must be one under, and limited to, that provision.
+The case of the assessee that it should fall under Section 24(1)(i)(a), we are afraid, is very nearly unarguable.
+There is no substance in the contention.
+This is clearly not a case where the burden of carrying out repairs as understood in the context of Section 24(1)(i)(b) is shared between the lessor and the lessee.
+The obligation is on the lessee alone.
+The obligation under the latter part of the covenant does not relate to such repairs.
+The appellant 's reliance on Commissioner of Income tax vs Parbutty Churn Law, supra is in the facts of the present case misplaced.
+In the result, for the foregoing reasons these appeals fail and are dismissed, but in the circumstances, without an order as to costs.
+N.P.V. Appeals dismissed.

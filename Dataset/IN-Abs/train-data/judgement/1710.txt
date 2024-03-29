@@ -1,0 +1,88 @@
+Appeal No. 688 of 1962.
+Appeal by special leave from the judgment and order dated April 1, 1958 of the Bombay High Court in Misc.
+Application No. 202 of 1957.
+N. D. Karkhanis and R. N. Sachthey, for the appellant.
+I. N. Shroff for the respondents.
+January 29, 1964.
+The Judgment of the Court was delivered by MUDHOLKAR J.
+This is an appeal by special leave against the judgment of the Bombay High Court in a writ petition challenging the notice issued under section 34(1) of the Indian Income tax Act, 1922 by the First Income tax Officer, 439 Bombay, who is the appellant before us.
+In the writ petition various grounds were urged by the respondent in support of the convention that the notice was bad in law.
+The High Court, however, dealt with only one of those contentions, accepted it, and did not permit the respon dents ' counsel Mr. Mehta to put forward the other conten tions urged in the writ petition by the respondents.
+The appellant had issued notice to the respondents under section 34(1)(a) of the Income tax Act in respect of an escaped income of Rs. 47,595 for the assessment year 1944 45.
+This notice was issued by him on March 27, 1957.
+On behalf of the respondents, it is contended that the notice was bad because, though it was in respect of an amount of less than Rs. 1 lakh it was issued after the expiry of the assessment year and that the sanction of the Central Board of Revenue for issuing that notice had not been obtained by the Income tax Officer as required by cl.
+(iii) of the proviso to section 34(1) of the Act.
+It is not disputed before us that the case falls under section 34(1)(a).
+That provision reads thus: "(1) If (a) the Income tax Officer has reason to believe that by reason of the omission of failure on the part of an assessee to make a return of his income under section 22 for any year or to disclose fully and truly all material facts necessary for his assessment for that year, income, profits or gains chargeable to income tax have escaped assessment for that year, or have been under assessed, or assessed at too low a rate, or have been made the subject of excessive relief under the Act, or excessive loss or depre ciation allowance has been computed, or. he may in cases falling under clause (a) at any time .
+serve on the assessee a notice containing all or any of the require ments which may be included in a notice under sub section (2) of section 22 and may proceed 440 to assess or re assess such income, profits or gains or recompute the loss or depreciation allowance; and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under that subsection:" We have quoted only the relevant portion.
+Then follows the first proviso which runs thus: " provided that the Income tax Officer shall not issue, a notice under clause (a) of sub section (1) (i) for any year prior to the year ending on the 31st day of March 1941; (ii) for any year, if eight years have elapsed after the expiry of that year, unless the income, profits or gains chargeable to income tax which have escaped assessment or have been underassessed or assessed at too low a rate or have been made the subject of excessive relief under this Act, or the loss or depreciation allowance which has been computed in excess, amount to, or are likely to amount to, one lakh of rupees or more in the aggregate, either for that year, or for that year and any other year or years after which or after each of which eight years have elapsed, not being a year or years ending be fore the 31st day of March 1941; (iii) for any year, unless he has recorded his reasons for doing so, and, in any case falling under clause (ii), unless the Central Board of Revenue, and, in any other case, the Commissioner, is satisfied on such reasons recorded that it is a fit case for the issue of such notice:" It will thus be seen that where the Income tax Officer has reason to believe that due to any act of the assessee a full and accurate declaration was not made by the assessee for any year, with the result that part of his income has escap ed assessment for that year, the Income tax Officer may issue a notice under cl.(a) at any time.
+441 The respondents ' contention before the High Court was that the notice was bad because it had not complied with the two conditions laid down in the proviso to section 34(1).
+Adverting to this contention the High Court has observed thus: "Before the amendment of this section which was in force on the 27th March, 1957 the period of limitation of eight years was provided with regard to the issue of notices under Section 34(1) (a) and a period of four years for cases falling under Section 34(1)(b) By the amendment the period of limitation was removed and the Legislature provided that if the case fell under Section 34(1) (a) a notice can be served at any time.
+But while removing any bar of limitation, the Legislature provided some safeguards for the assessee and these safeguards were three in number and they were set out in the proviso.
+The first safeguard was that a notice shall not be issued for any year prior to the year ending on the 31st day of March 1941; the second safeguard was that if eight years had elapsed then the notice should not be issued for an escaped income which aggregated to less than one lakh of rupees; and the third safeguard was that the Central Board of Revenue had to be satisfied on reasons to be recorded that this was a fit case for the issue of a notice, which was for a period beyond eight years.
+Now, admittedly, this notice is for an amount which is less than a lakh of rupees and admittedly the Central Board of Revenue has not considered this matter at all.
+Therefore, there does not seem to be any answer to the contention put forward by the petitioner.
+" The High Court is right in saying that a notice cannot be issued where the income which has escaped assessment is less than a lakh of rupees and where more than eight years have elapsed from the assessment year.
+To this, however, 442 there is one exception and that is where the matter would fall to be governed by the second proviso to section 34(3).
+To this aspect we will, however, come little later.
+But before that what we must consider is the view of the High Court that the sanction of the Central Board of Revenue was also necessary.
+Under cl.
+(iii) of the proviso to section 34(1) a notice can issue only if the Central Board of Revenue is satisfied with the reasons recorded by the Income tax Officer for issuing a notice.
+For convenience we are describing this process as sanction of the Central Board of Revenue.
+The sanction under this clause is, however, necessary only where the notice in question is issued under cl.
+(ii) of the proviso.
+That is evidently what the Legislature meant when it says "in any case falling under clause (ii)".
+For, cl.
+(ii) has to be read with the opening words of the proviso: "Provided that the Income tax Officer shall not issue a notice under clause (a) of sub section (1)".
+So read it will be clear that the words "in any case" used in cl.
+(iii) only mean a case in which notice can be issued under cl.
+Such a notice can be issued only when the escaped income is of one lakh of rupees and over.
+It was, however, contended by Mr. Shroff that cl.
+(ii) of the proviso dealt not only with the escaped assessment of one lakh of rupees and over but also with assessments which were less than one lakh of rupees and that, therefore, even in the present case the sanction of the Central Board of Revenue was required.
+By excluding action with respect to escaped assessment of less than one lakh of rupees, cl.
+(ii) can, in, one sense, be regarded as dealing with escaped assessments of this kind.
+But it would be wrong to say that because of this, cl.
+(iii) requires the obtaining of the sanction of the Central Board of Revenue for a notice to be issued with respect to it.
+As already pointed out, cl.
+(iii) requires such sanction where the notice is issued under cl.
+(ii) and when on a construction of cl.
+(ii), no notice can be issued with respect to a class of escaped assessments, there can possibly be no requirement of the sanction of the Central Board of Revenue.
+If a notice is issued by virtue of some other provision such as the second proviso to sub section
+(3) of section 34, it would be a notice "in any other case" referred to in cl.
+(iii) of the proviso to sub section (1) of section 34 and in such a case the sanction which is 443 required is only that of the Commissioner.
+Such a sanction was obtained in this case and, therefore, the notice cannot be said to be bad because the sanction of the Central Board of Revenue has not been obtained.
+Now, we will come to the other aspect of the matter.
+Limitation is no doubt placed upon the power of the Income tax Officer by cl.
+(ii) of the first proviso which says that if eight years have elapsed after the expiry of that year no such notice can issue unless the income which has escaped assessment is likely to amount to one lakh of rupees or more.
+Here admittedly the income which has escaped assessment is below one lakh of rupees and more than eight years have elapsed since the assessment year in respect of which the income is alleged to have escaped assessment.
+Clearly, therefore no notice could issue under cl.
+The answer given by the Income tax Officer, however, is that limitation is taken away by the second proviso to sub section
+(3) of section 34.
+We would quote section 34(3) and the second proviso to it.
+They run thus: "No order of assessment or reassessment, other than an order of assessment under section 23 to which clause (c) of sub section (1) of section 28 applies or an order of assessment or reassessment in cases falling within clause (a) of sub section (1) or sub section (]A) of this section shall be made after the expiry of four years from the end of the year in which the income profits or gains were first assessable: Provided further that nothing contained in this seetion limiting the time within which any action may be taken or any order, assessment or reassessment may be made shall apply to a reassessment made under section 27 or to an assessment or re assessment made on the assessee or any person in consequence of or to give effect to any finding or direction contained in an order under section 31, section 33, section 33A, section 33B. section 66 or section 66A." 444 The second proviso to section 34(3) could be pressed in aid by the Income tax Officer because in issuing the notice he was giving effect to a direction contained in the order of a nigher Income tax authority.
+Dealing with this matter the High Court has observed as follows in its judgment: "Now, when there was a limitation of eight years under section 34(1)(a) the second proviso to Section 34(3) has to be resorted.
+Section 34(3) had to be resorted to by the Income tax Department if it wanted to issue a notice after the period of limitation, and a notice after eight years in a case falling under section 34(1) (a) could only be issued provided it was a result of a direction contained in an order passed by an Income tax Authority.
+But by reason of the recent amendment the question of limitation does not arise, but the Legislature has provided certain safeguards as already pointed out.
+Therefore, whether a notice is issued as a result of a direction contained in any order of an Income tax Authority or not, if it is a notice which is issued beyond eight years the notice must satisfy the conditions laid down in the proviso to Section 34(1).
+Therefore, the result is that in some respects the law has been made more rigorous against the assessee; and in other respects it has been made more lenient.
+Before the amendment a notice could be issued after eight years in respect of any escaped income, whatever the amount, provided the notice was issued to give effect to a direction contained in an order of an Income tax Authority.
+Now a direction is not necessary for the issue of a notice.
+But as against that an assessee whose escaped income is not a lakh of rupees is completely protected and even though there may be a direction contained in an order of an Income tax Authority no notice can be issued 445 against the assessee if the escaped income is less than a lakh of rupees.
+Therefore, on the one hand, the assessee whose escaped income is less than a lakh of rupees is now put in a better position than he was before the amend ment.
+The assessee whose escaped income is more than a lakh of rupees is put in a worse position because he can be proceeded against even without a direction contained in an order of an Income tax Authority provided the Cen tral Board of Revenue has applied its mind to It would appear that the view of the High Court was that the provisions of the second proviso to section 34(3) would not apply to a case where the escaped assessment is of an amount less than a lakh of rupees and more than eight years have elapsed.
+Apparently, the High Court has overlooked the fact that the second proviso to sub section
+(3) of section 34 was amended first by Act 25 of 1953 and then by Act 18 of 1956.
+As it stood prior to these amendments it read thus: "Provided further that nothing contained in this subsection shall apply to a re assessment made under section 27 or in pursuance of an order under section 31, section 33.
+section 33A, section 33B, section 66 or section 66A." By the amendment of 1953, for the words "sub section", the words "section limiting the time within which any action may be taken or any order, assessment or re assessment may be made" were substituted.
+By the amendment of 1956 it now stands as already quoted by us.
+If the proviso in its present form applies here it would govern the whole of section 34(1) and would consequently include even an escaped assessment with respect to which limitation is provided in cl.
+(ii) of the first proviso to section 34(1).
+The result, in our opinion.
+would be the same even if the case were to fall to be governed by the Amending Act of 1953, though not by that of the Amending Act of 1956, 446 We may add that the amendment of 1953 took effect from April 1, 1953 and that of 1956 from April 1, 1956.
+Apart from the view expressed by the learned Judges as regards the effect of the changes made in section 34(1) with the provisos we have set out earlier a view which we have held is not correct they aid not further consider the proper construction to be placed on the second proviso to section 34(3) of the Act on which the validity of the impugned notice to the respondents must ultimately be decided.
+As we have pointed out earlier, at the beginning of the judgment, the learned Judges confined their attention prac tically only to the construction of proviso (iii) to section 34(1) which was decided in favolur of the respondents and did not permit them to argue the other points raised by them.
+We do not propose to decide these other points, particularly for the reason that the parties are not agreed as to what precisely were the contentions which were raised for argument.
+For the reasons stated above, the decision of the High Court is clearly wrong.
+We, therefore, allow the appeal, set aside the order of the High Court and remit the matter to it for the consideration of the other points which were raised before it by the respondents but upon which they were not heard.
+As regards costs we think that they should abide the result of the appeal before the High Court.
+Appeal allowed and cave remanded.

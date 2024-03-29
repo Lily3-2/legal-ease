@@ -1,0 +1,45 @@
+A Hindu undivided family consisting of the father (Karta) and his three sons carried on business.
+Land was acquired in the name of the Karta and the price was paid out of the books of the family, and a building was constructed on the land.
+Another building was constructed on another plot of land.
+On a partial partition of the above Hindu undivided family its business was taken over by a partnership firm consisting of the Karta and the two elder sons and the firm debited a certain sum of money in the building account of the firm for the assessment year 1955 56 and a similar sum in respect of the other property for the assessment year 1956 57.
+The appellants (assessees) who were members of the partnership firm, filed separate returns in their individual status for the assessment years 1955 56 and 1956 57 claiming that the two properties belonged to the four members of the family in their individual capacity.
+The Income Tax Officer however regarded the properties as belonging to the partnership firm, and in the assessment proceedings of the firm for the said years, estimated the cost of construction at a higher figure, than the cost disclosed, and made additions accordingly to the returned income of the firm.
+Allowing the appeals of the partnership firm the Appellate Assistant Commissioner deleted the additions holding that as the money was advanced by the firm and debited to the account of each co owner, the partnership firm was not the owner of the properties and therefore it could not be said to have earned any concealed income.
+The Income Tax Officer then initiated proceedings under section 147(a) of the I.T. Act 1961 against the individual assessees for the assessment years 1955 56 and 1956 57 and the additions on account of concealed income originally made in the assessments of the partnership firm were divided between the assessees and included in their individual assessment, rejecting the plea of the assessees that there was no case for invoking the said section, as they had already disclosed that they had invested in the properties when filing their original individual returns.
+On appeal the Appellate Assistant Commissioner though agreeing that there was no default on the part of the assessees to warrant proceedings under section 147(a) and though ordinarily the assessments would be barred by limitation, maintained the assessments on the ground that section 153(3)(ii) of the Act applied.
+273 The Income Tax Appellate Tribunal though rejecting the contention that the assessees were not covered by the expression "any person" in section 153(3)(ii), pointed out that the provision could not be availed of by the Income Tax Officer as there was neither any "finding" nor a "direction" on the earlier order of the Appellate Assistant Commissioner in consequence of which, or to give effect to which, the impugned assessment could be said to have been made and that no opportunity had been afforded to the assessees of being heard as was required by Explanation 3 to section 153(3) before that earlier order was made.
+It held that the Appellate Assistant Commissioner had no jurisdiction to convert the assessments made by the Income Tax Officer under section 147(a) to "assessments passed under section 153(3)(ii)".
+The High Court on Reference by the Tribunal observed that the finding that the properties did not belong to the partnership firm and therefore the excess amount of the cost of construction could not be regarded as the concealed income of the firm, was necessary for the disposal of the appeals filed by the firm and as a corollary it was held that the buildings belonged to the co owners.
+This necessitated the "direction" to the Income Tax officer that he was free to assess the excess amount in the hands of the co owners.
+It held that the Appellate Assistant Commissioner could convert the provisions of section 147(i) into those of section 153(3)(ii) of the Act and that the provisions of section 153(3)(ii) of the Act applied to the case.
+In the assessee 's appeals to this Court on the question whether section 153(3)(ii) can be invoked.
+Allowing the appeals, ^ HELD: (1) The provisions of section 153(3)(ii) of the Income Tax Act, 1961 are not applicable to the instant case.
+[280 C] (2) The expression "finding" and "direction" are limited in meaning.
+A finding given in an appeal, revision or reference arising out of an assessment must be a finding necessary for the disposal of the particular case, that is to say, in respect of the particular assessee and in relation to the particular assessment year.
+To be a necessary finding, it must be directly involved in the disposal of the case.
+[277G] (3) Where the facts show that the income can belong either to A or B and to no one else, a finding that it belongs to B or does not belong to B would be determinative of the issue whether it can be taxed as A 's income.
+A finding respecting B is intimately involved as a step in the process of reaching the ultimate finding respecting A.
+If, however, the finding as to A 's liability can be directly arrived at without necessitating a finding in respect of B, then a finding made in respect of B is an incidental finding only.
+It is not a finding necessary for the disposal of the case pertaining to A.
+The same principles apply when the question is whether the income under enquiry is taxable in the assessment year under consideration or any other assessment year.
+[278A B] (4) It is now well settled that the expression "direction" in section 153(3) (ii) of the Act must mean an express direction necessary for the disposal of the case before the authority or court.
+It must also be a direction which the authority or court is empowered to give while deciding the case before it.
+[278C] 274 5.
+(i) Section 153(3) (ii) is not a provision enlarging the jurisdiction of the authority or court.
+It is a provision which merely raises the bar of limitation for making an assessment order under section 143 or section 144 or section 147.
+[278D] Income Tax Officer, A Ward, Sitapur vs Murlidhar Bhagwan Das, ; N. Kt.
+Sivalingam Chettiar vs Commissioner of Income tax, Madras, ; referred to.
+In the instant case all that has been recorded is the finding that the partner ship firm is not the owner of the properties.
+The finding proceeds on the basis that the cost has been debited in the accounts of the four co owners.
+But that does not mean, that the excess over the disclosed cost of construction constitutes the concealed income of the assessees.
+The finding that the excess represents their individual income requires a proper enquiry and for that purpose an opportunity of being heard is needed to be given to the assessees.
+That is plainly required by Explanation 3 to section 153(3).
+The finding contemplated in Explanation 3, is a finding that the amount represents the income of another person.
+[278H 279B, D] (ii) It is one thing for the partners of a firm to be required to explain the source of a receipt by the firm, it is quite another for them in their individual status to be asked to explain the source of amounts received by them as separate individuals.
+[279C] (iii) The observation of the Appellate Assistant Commissioner cannot be described as such a finding in relation to the assessee.
+[279D] (iv) It is also not possible to say that the order of the Appellate Assistant Commissioner contains a direction that the excess should be assessed in the hands of the co owners.
+The observation that the Income Tax Officer "is free to take action" cannot be described as a "direction".
+A direction by a statutory authority is in the nature of an order requiring positive compliance.
+When it is left to the option and direction of the Income Tax Officer whether or not to take action it cannot be described as a direction.
+[279E F] (v) The order of the Appellate Assistant Commissioner contains neither a 'finding ' nor a 'direction ' within the meaning of section 153(3)(ii) of the Act in consequence of which or to give effect to which the impugned assessment proceedings can be said to have been taken.
+[279G] Commissioner of Income tax, Andhra Pradesh vs Vadde Pullaiah & Co., ; referred to.

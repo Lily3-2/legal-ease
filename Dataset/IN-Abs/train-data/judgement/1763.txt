@@ -1,0 +1,285 @@
+Appeal No. 780 of 1962.
+Appeal by special leave from the judgment and decree dated November 28, 1960, of the Patna High Court, in Miscellaneous Judicial Case No. 724 of 1958.
+K. N. Rajagopal Sastri and R. N. Sachthey, for the appel lant.
+section K. Kapur and B. N. Kirpal, for the respondent.
+March 13, 1964.
+The judgment of HIDAYATULLAH and SHAH, JJ. was delivered by HIDAYATULLAH J. SARKAR J. delivered a dissenting opinion.
+SARKAR, J.
+This matter has come before us on a case stated by the Income tax Appellate Tribunal.
+The question is how to determine the cost of acquisition of bonus shares for ascertaining the profits made on a sale of them.
+The assessment year concerned is 1949 50 for which the accounting year is the calendar year 1948.
+The assessee held shares by way of investment and also as stock in trade of his business as a share dealer.
+We are concerned in this case only with its holdings of ordinary shares in Rohtas Industries Ltd. In 1944 the assessee acquired 31,909 of these shares at a cost of Rs. 5,84,283 / and was holding them in January 1945.
+In that month the Rohtas Industries Ltd. distributed bonus shares at the rate of one ordinary bonus share for each original share and so the assessee got 31,909 bonus shares.
+Between that time and December 31, 1947, the assessee sold 14,650 of the original shares with the result that on January 1, 1948 it held the following shares: (a) 17,259 original shares acquired in 1944, (b) 31,909 bonus shares issued in January 1945, (c) 59,079 newly issued shares acquired in the year 1945 after the issue of the bonus shares and (d) 2,500 further shares acquired in 1947.
+The total holding of the assessee on January 1, 1948 thus came to 1,10,747 shares which in its books had been valued at Rs. 15,57,902/ .
+In arriving at this figure the assessee had valued the bonus shares at the face value of Rs. 10/ each and the other shares at actual cost.
+On January 29, 1948, the assessee sold all these shares for the total sum of Rs. 15,50,458 / , that is, at Rs. 14/ per share and in its return for the year 1949 50 claimed a loss of Rs. 7,444 on the sale.
+It is this return which has led to this appeal.
+213 The Income tax officer held that the assessee was not en titled to charge as the cost of acquisition of the bonus shares a sum equivalent to their face value for nothing had in fact been paid and he computed their cost at Rs. 6 8 0 per share.
+He arrived at this price by the following method, which has been called as the method averaging: 584283 x Face value of bonus shares: 319090 x 1/31909.
+In adopting this procedure the Income tax Officer purported to follow the decision of the Bombay High Court in Commissioner of Income tax vs Maneklal Chunilal and Sons Ltd.(1).
+The Bombay High Court later followed this case in Emerald and Co. Ltd. vs Commissioner of Income tax, Bombay City, Bombay (2).
+On that basis he held that the assessee had made a profit of Rs. 2,39,317 by way of capital gains and levied tax on it accordingly.
+On appeal the Appellate Assistant Commissioner held that these shares were not investment shares but formed the assessee 's stock in trade on which it was liable to pay income tax and not capital gains tax.
+He also held that the assessee having adopted the method of valuing the stocks at cost and no price having actually been paid for the bonus shares, it must be held that there was an inflation in the opening stock by Rs. 3,19,090.
+This figure, it may be observed, represented the cost of the bonus shares at their face value.
+It% his opinion the bonus shares had to be valued at nit.
+The appellate Commissioner 's conclusion was that the assessee was liable to be taxed on a trading profit of Rs. 3,11.646/ in respect of the sale of shares.
+Thise view was confirmed on a further appeal to the Appellate Tribunal.
+It is however not clear whether the Tribunal held that there had been a trading profit or capital gains.
+This matter does not seem to have been raised at any stage after the Appellate Commissioner 's order and is not material to the real question that has to be decided.
+After the Tribunal 's judgment the assessee got an order from the High Court directing the Tribunal to refer the following question to it: "Whether on the facts and circumstances of the case the profit computed at Rs. 3,11,646/ on the sale of shares in Rohtas Industries Ltd. was in accordance with law?" The answer to this question admittedly depends on the cost of acquisition, if any, to be properly attributed to the bonus shares.
+If the Appellate Commissioner 's method of valuing (1) (I.T. Ref.
+No. 16 of 1948, unreported).
+(2) 214 them at nil was wrong, the question had to be answered in the negative.
+The High Court, following the judgment of Lord Sumner in Swan Brewery Company Limited vs The King(1), held that the real cost of the bonus shares to the assessee was the face value of the shares and answered the question in the negative.
+The observations of Lord Sumner which he later expressed more fully in Commissioner of Inland Revenue vs Blott(2) , no doubt, lend support to the High Court 's view.
+I shall consider the view expressed by Lord Sumner later.
+Now, I wish to notice another case on which the High Court also relied and that was Osborne (H.M. Inspector of Taxes) vs Steel Barrel Co. Ltd(3).
+I do not think that the observations of Lord Greene M. R. in this case to which the High Court referred, are of any assistance.
+All that was there said was that when fully paid shares were properly issued for a consideration other than cash, the consideration must be at the least equal in value to the par value of the shares and must be based on an honest estimate by the directors of the value of the assets acquired.
+In that case fully paid shares had been issued in lieu of stocks and the question was as to how the stocks were to be valued.
+That case had nothing to do with the issue of bonus shares or the ascertainment of the cost of their acquisition.
+As I have said earlier, Lord Sumner 's observation in Blott 's case (2) certainly supports the view taken by the High Court but in that case Lord Sumner was in a minority.
+The other learned Judges, excepting Lord Dunedin, who took a somewhat different view to which reference is not necessary because it has not been relied upon, held that when the articles of a company authorise the issue of bonus shares and the transfer of a sufficient amount out of the accumulated profits in its hands representing their face value to the share capital account, what happens when the articles are acted upon is a capitalisation of the profits and the bonus shares issued are not in the hands of the share holder income liable to tax.
+In Blott 's case (2) the articles gave the power which had been acted upon.
+Lord Sumner on the other hand held that since a company could not issue shares for nothing nor pay for them out of its profits, it must be held that what happened in such a case was as if the company had issued cash dividend to the shareholder and had set it off against the liability of the shareholder to pay for the bonus share issued to him.
+I think the preferable view is that taken by the majority of the Judges.
+When the articles permit the issue of bonus shares and the transfer of undivided profits direct to the share capital account, it cannot be said that a cash dividend must be (1) (3) 215 deemed to have been declared which could be set off against the liability to pay for the shares.
+This is not what was done in fact.
+What in fact was done, and legally done, was to transfer the profits to the share capital account by a resolution passed by the majority of the shareholders so that the shareholders never acquired any right to any part of it.
+The view taken by the majority has since been followed unanimously, and even if it was open to doubt, for myself, at this distance of time, I would not be prepared to depart from it: Commissioners of Inland Revenue vs Fisher 's Executors(1) and Commissioner of Income tax, Bengal vs Mercantile Bank of India Limited(2).
+It is of some significance to observe that the latter is a case from India.
+In the present case the record does not contain any refer ence to the resolutions resulting in the issue of the bonus shares nor to the provisions of the articles but the case has proceeded before us on the basis that the bonus shares had been legally issued under powers contained in the articles and the profits had been equally legally transferred to the share capital account without the shareholders having acquired any right in them.
+Following the majority opinion in Blott 's case(3) I think I must hold that the High Court was in error in the view it took in the present case.
+There is no foundation for proceeding on the basis as if the bonus shares had been acquired by the assessee at their face value.
+Its profits cannot be computed on that basis.
+Two other methods of ascertaining the cost of acquisition of the bonus shares for computing the profits made on their sale have been suggested.
+One of them is the method of averaging which is the method adopted by the Bombay High Court in the cases earlier mentioned.
+The other is the method of finding out the fall in the price of the original shares on the issue of the bonus shares and attributing to the latter shares that fall and to value them thereby.
+The object of these methods seems to me to find out what the bonus shares actually cost the assessee.
+But this would be an impossible task for they actually cost the assessee nothing; it never paid anything for them.
+There would be more reason for saying that it paid the face value of the bonus shares because the profits of the Company of a, similar amount which might otherwise have come to it had been directly appropriated to the share capital account on the issue of the bonus shares.
+But this method I have rejected already and, for the reason that no amount was actually paid for the bonus shares by the assessee.
+For the same reasons the two suggested methods for ascertaining the actual (1) ; 2) (1936) A.C. 478.
+(3 ) 216 cost of these shares have also to be rejected.
+If however it were to be said that these methods were for finding out the market value of the bonus shares the importance of which value for the present purpose will soon be seen I would say that the only way to find out the market value is from the market itself.
+How then is the cost of the bonus shares to be determined? We start with this that nothing in fact was paid for them.
+But if the cost of acquisition is nil, the whole of the sale proceeds of the shares would be taxable profits.
+In Commis sioner of Income tax vs Bai Shirinbai K. Kooka(1) this Court has approved of the Bombay High Court 's view that "obvious ly, the whole of the sale proceeds or receipts could not be treated as profits and made liable to tax, for that would make no sense" (P. 397).
+So the profits cannot be ascertained on the basis that the bonus shares had been acquired for nothing.
+The view taken by the Appellate Commissioner and the Tribunal cannot be supported.
+It seems to me that the cost price of the bonus shares has to be decided according to the principle laid down in Bai Shirinbai Kooka 's case(1).
+The assessee in that case had purchased shares many years ago by way of investment at a comparatively lower price.
+She started trading with them from April 1, 1945.
+The question was how the profits on the sale of these shares were to be ascertained.
+The sale price was known but what was the cost price? The High Court said that in order to arrive at real profits one must consider the accounts of the business on commercial principles and construe profits in their normal and natural sense, a sense which no commercial man would misunderstand.
+The High Court 's conclusion was this: When the assessee purchased the shares at a lesser price, that is what they cost her and not the business; but so far as the business was concerned, the shares cost the business nothing more or less than their market value on April 1, 1945.
+This date, it will be remembered, was the date when the business was started.
+These observations were fully approved by this Court.
+Bai Shirinbai Kooka 's case(1) therefore is authority for the proposition that where it cannot be shown what was paid for the acquisition of a trading asset by a trader, it has for tax purposes to be deemed to have been acquired at the market value of the date when it was acquired.
+I think on the authority of this case, the bonus shares must in the present case be deemed to have been acquired at the market value of the date ,of their issue.
+I would, therefore, answer the question framed in the negative.
+(1) [1962] Supp. 3 S.C.R. 391. 217 HIDAYATULLAH, J.
+This appeal by the Commissioner of Income tax, Bombay raises the important question how bonus shares must be valued by an assessee who carries on business in shares.
+The assessee here is Dalmia Investment Co. Ltd. (now Shri Rishab Investment Co. Ltd.) which is a public limited company and the bonus shares were issued in the calendar year 1945 by Rohtas Industries Ltd. in the propor tion of one bonus share for one ordinary share already held by the shareholders.
+In this way, the assessee company received 31,909 bonus shares of the face value of Rs. 10/ per share which shows that its previous holding was 31,909 ordinary shares.
+The existing ordinary shares were purchased by the assessee company for Rs. 5,85,283/ .
+We now come to the assessment year 1949 50 which corresponded to the accounting period of the assessee company the calendar year 1948.
+The assessee company was holding shares as investment and was also dealing in shares.
+The shares in the trading account, being the stock in trade, were valued at the beginning of the year and also at the end of the year and the book value was based on cost.
+Between December 31, 1945 and January 1, 1948, the assessee company sold some shares of Rohtas Industries Ltd. and bought others.
+Its holding on the first day of January 1948 was 1,10,747 shares which were valued in its books at Rs. 15,57,902/ .
+The assessee company sold these shares on January 29, 1948 to Dalmia Cement and Paper Marketing Company Limited for Rs. 15,50,458/ .
+This date, it may be pointed cut, fell within the period in which capital gains were taxable.
+The assessee company returned a loss of Rs. 7,444/on this sale.
+In its books it had valued these shares as follows: Existing shares Book value (1) 17,259 (out of 31,909 original 13,10,951 Proportionate shares).
+cost from Rs. 5,84,283.
+(2) 31,909 Bonus shares 3,19,090. 00 at face value of Rs. 10 per share (3) 59,079 Now Issue shares 8,88,561 00at cost.
+(4) 2,500 New purchase shares 39,300 00at cost.
+Total 1,10,747 shares 15,57,902. 00 The amount of Rs. 3,19,090/ which represented the cost of the bonus shares in the above account was debited to the investment account and an identical amount was credited to a capital reserve account.
+, The loss which was returned was the difference between Rs. 15,57,902/ claimed to be the cost price of 1, 10,747 shares and their sale price of Rs. 15,50,458/.
+The return was not accepted by the Income tax Officer, Special Investigation Circle, Patna.
+In his assessment order, the Income tax Officer held that the market value of the existing 218 shares when bonus shares were issued, was Rs. 18/ per share and the value of the shares was Rs. 5.74,362/ (31,909 x Rs. 18).
+He held that the sale of the shares took place at Rs. 14/ per share.
+To this data he purported to apply a deci sion of the High Court of Bombay in Commissioner of Income tax vs Maneklal Chunnilal and Sons(1) and held that there was profit of Rs. 7/8/0 per bonus share and the, total profit was Rs. 2,39,317/ which he held was capital gain.
+He brought Rs. 2,39,317/ to tax as capital gains.
+Before the Appellate Assistant Commissioner, Patna.
+reliance was placed upon the decision of the Bombay High Court in Emerald and Co. Ltd. vs Commissioner of Incometax, Bombay City(2) and it was argued that by applying the principle laid down in that case, the average cost was Rs. 9/10/0 per share and total profit Rs. 1,49,355/ .
+The Appellate Assistant Commissioner did not accept the above calculation.
+According to the Appellate Assistant Commissioner, the bonus shares had cost nothing to the assessee company.
+He omitted Rs. 3,19,090/ from the book valuation and held that the actual cost of 1,10,747 shares was Rs. 12,38,812/and that the assessee company instead of suffering a loss of Rs. 7,444/ on the sale of the shares had actually made profit of Rs. 3,11,646/ .
+He issued a notice to the assessee company and enhanced the assessment.
+On further appeal to the Tribunal, the assessee company submitted again on the strength of the ruling of the Bombay High Court in Emerald and Co. Ltd. vs Commissioner of Income tax, Bombay City(2) that the actual profit was Rs. 1,57,326/ .
+This was done by spreading the cost of the 31,909 ordinary shares over those shares and bonus shares taken together and adding to half the cost attributable to the old ordinary shares the cost of new purchases in the same year and finding out the average cost of shares other than bonus shares.
+The Tribunal did not accept this calculation.
+According to the Tribunal it was not possible to put a valuation upon shares for which nothing was paid.
+The Tribunal held that the old shares and bonus shares could not be "clubbed together" and the decision of the Appellate Assistant Commissioner was right.
+The Tribunal, however, stated a case under section 66(1) of the Income tax Act at the instance of the assessee company suggesting the question for the opinion of the High Court: "Whether on the facts and circumstances of the case, the profit computed at Rs. 3,11,646/ on the sale of shares in Rohtas Industries Ltd. was in accordance with law?" (1) Income tax Reference No. 16 of 1948 dt.
+23 3 1949.
+(2) 219 The reference was heard by V. Ramaswamy, C.J. and Kanhaiya Singh, J. They held that the Income tax authorities were wrong in holding that profit should be computed at Rs. 3,11,646/ or at any other amount.
+According to them, there was no profit on the sale of 31,909 shares and they answered the question in favour of the assessee.
+Before the High Court it was contended by the assessee company that the bonus shares must be valued at their face value of Rs. 10/ per share and the Department contended that they should be valued at nil.
+It appears that the other methods of calculation of the cost price of bonus shares were abandoned at that stage.
+Ramaswami, C.J. and Kanhaiya Singh, J. held that the issue of bonus shares was nothing but a capitalisation of the company 's reserve account or the profits and the bonus shares could not be considered to be issued free.
+According to them, the payment for the shares must be found in the bonus which was declared from the undistributed profits and the face value of the bonus shares represented the detriment to the assessee company in respect of the undistributed reserves.
+The present appeal was brought against the decision of the High Court by special leave granted by this Court.
+It will be seen from the above that there are four possible methods for determining the cost of bonus shares.
+The first method is to take the cost as the equivalent of the face value of the bonus shares.
+This method was followed by the assessee company in making entries in its books.
+The second method adopted by the Department is that as the shareholder pays nothing in cash for the shares, cost should be taken at nil.
+The third method is to take the cast of the original shares and to spread it over the original shares and bonus shares taken collectively.
+The fourth method is to find out the fall in the price of the original shares on the stock exchange and to attribute this to the bonus shares.
+Before us the assessee company presented for our acceptance the first method and the Department the third method.
+We shall now consider which is the proper way to value the bonus shares.
+It is convenient to begin with the contention that the cost of bonus shares must be taken to be their face value.
+The argument requires close attention, because support for it is sought in certain pronouncements of Lord Sumner to which reference will be made presently.
+Mr. Kapur contends that a company cannot ordinarily issue shares at a discount, and argues that a fortiori it cannot issue shares for nothing.
+He submits therefore that the issue of bonus shares involves a twofold operation the creation of new shares and the declaration of a dividend or bonus which dividend or bonus must be deemed to be paid to the shareholder and to be returned by him to acquire the new shares.
+Since the amount credited in 220 the books of the company as contribution of capital by the shareholder is the face value of the bonus shares, he contends that the cost to the shareholder is equal to the face value of the bonus shares.
+He relies upon the decision of the Privy Council in Swan Brewery Company Ltd. vs Rex(1).
+In that case, Lord Sumner observed: "True, that in a sense it was all one transaction, but that is an ambiguous expression.
+In business, as in contemplation of law, there were two transactions, the creation and issue of new shares on the company 's part, and on the allottees ' part the satisfaction of the liability to pay for them by acquiescing in such a transfer from reserve to share capital as put an end to any participation in the sum of pound 101,450 in right of the old shares, and created instead a right of general participation in the company 's profits and assets in right on the new shares, without any further liability to make a cash contribution in respect of them." Lord Sumner adhered to his view later in the House of Lords in Commissioner of Inland Revenue vs John Blott(2) but Lord Dunedin and he were in a minority, and this view was not accepted by the majority.
+In view of this conflict, it is necessary to state what really happens when a company issues bonus shares.
+A limited liability company must state in its memorandum of association the amount of capital with which the company desires to do business and the number of shares into which that capital is to be divided.
+The company need not issue all its capital at the same time.
+It may issue only a part of its capital initially and issue more of the unissued capital on a later date.
+After the company does business and profits result, it may distribute the profits or keep them in reserve.
+When it does the latter, it does not keep the money in its coffers , the money is used in the business and really represents an increase in the capital employed.
+When the reserves increase to a considerable extent, the issued capital of the company ceases to bear a true relation to the capital employed.
+The company may then decide to increase its issued capital and declare a bonus and issue to the shareholders in lieu of bonus, certificates entitling them to an additional share in the increased capital.
+As a matter of accounting the original shares in a winding up before the increase of issued capital would have yielded to the shareholder the same return as the old shares and the new shares taken together.
+What was previously owned by the shareholder by virtue of the original certificates is after the issue of bonus (1) (2) 8 Tax Cases 101.
+221 shares, held by them on the basis of more certificates.
+In point of fact, however, what the shareholder gets is not cash but property from which income in the shape of money may be derived in future.
+In this sense, there is no payment to him but an increase of issued capital and the right of the shareholder to it is evidenced not by the original number of certificates held by him but by more certificates.
+There is thus no payment of dividend.
+A dividend in the strict sense means a share in the profits and a share in the profits can only be said to be paid to the shareholder when a part of the profits is released to him in cash and the company pays that amount and the shareholder takes it away.
+The conversion of the reserves into capital does not involve the release of the profits to the shareholder , the money remains where it was, that is to say, employed in the business.
+Thereafter the company employs that money not as reserves of profits, but as its proper capital issued to and contributed by the shareholders.
+If the shareholder were to sell his bonus shares, as shareholders often do, the shareholder parts with the right to participation in the capital of the company, and the cash he receives is not dividend but the price of that right.
+The bonus share when sold may fetch more or may fetch less than the face value and this shows that the certificate is not a voucher to receive the amount mentioned on its face.
+To regard the certificate as cash or as representing cash paid by the shareholder is to overlook the internal process by which that certificate comes into being.
+We may now see what was decided in the Swan Brewery 's(1) case.
+In that case the company had not distributed all its profits in the past.
+As a result, it had a vast reserve fund.
+The company increased its capital and from the reserve fund, issued shares pro rata.
+These shares, it was held by Lord Sumner, were dividend.
+It was claimed in that case that there was no dividend and no distribution of dividend, because nothing had been distributed and nothing given.
+Where formerly there was one share, after the declaration of bonus there were two but the right of participation was the same.
+This argument was not accepted and the face value of the shares was taken to be dividend.
+Section 2 of the Act of Western Australia, however, defined dividend to include "every profit, advantage or gain intended to be paid or credited to or distributed among the members of any company.
+" It is obvious that it was im possible to hold that the bonus shares were outside the extended definition.
+Swan Brewery 's(1) case has been accepted as rightly decided on the special terms of the section, as indeed it was.
+In Blott 's(2) case, Rowlatt, J. observed that the bonus shares were included in the expression "advantage" occurring in the (1) (2) 8 Tax Cases 101.
+222 highly artificial definition of the word "dividend".
+In the Court of Appeal, Lord Sterndale, M. R. and Warrington and ' Scrutton, L. JJ. distinguished the case on the same ground.
+It was, however, pointed out by the Master of Rolls that in Bouch vs Sproule(1) Lord Herschell had observed that in such a case, the company does not pay or intend to pay any sum as dividend but intends to and does appropriate the undivided profits and deals with them as an increase of the capital stock in the concern.
+Blott 'S(2) case then reached the House of Lords.
+It may be pointed out at this stage that it involved a question whether super tax was payable on the amount represented by the face value of the bonus share.
+For purposes of assessment of supertax which was (as it is in our country) a tax charged in respect of income of an individual the total of all income from all sources had to be taken into account and the tax was exigible if the total increased a certain sum.
+Such additional duty is really nothing but additional income tax and is conveniently described as super tax.
+Viscounts Haldane, Finlay and Cave held that an amount equal to the face value of the shares could not be regarded as received by the tax payer and that there was no more than the capitalisation of the profits of the company in respect of which certificates were issued to the shareholders entitling them to participate in the amount of the reserve but only as part of the capital.
+Lords Dunedin and Sumner, however, held that the word "capitalisation" was somewhat "hazy" and the issue of the shares involved a dual operation by which an amount was released to the shareholder but was retained by the company and applied in payment of those shares.
+In our opinion, and we say it respectfully, the better view is that of the majority and our conclusions set out earlier accord substantially with it.
+It follows that though profits are profits in the hands of the company but when they are disposed of by converting them into capital instead of paying them over to the share holders, no income can be said to accrue to the shareholder because the new shares confer a title to a larger proportion of the surplus assets at a general distribution.
+The floating capital used in the company which formerly consisted of subscribed capital and the reserves now becomes the subscribed capital.
+The amount said to be payable to the shareholders as income goes merely to increase the capital of the company and in the hands of the shareholders the certificates are property from which income will be derived.
+Lord Dunedin did not rely upon Swan Brewery 's(3) case.
+He held that as the company could not pay for another, the shareholder must be taken to have paid for the bonus shares himself and the payment was (2 ) 8 Tax Cases 101.
+(3) 223 the amount which came from the accumulated profits as pro fits.
+Lord Sumner, however, stated that in Swan Brewery 's(1) case, he did not rely upon the extended definition of dividend in the Australian Statute, but upon the principle involved.
+He observed that as a matter of machinery, what was done was to keep back the money released to the shareholder for application towards payment for the increased capital.
+Lord Sumner had already adhered to his view in an earlier case of the Privy Council, but Swan Brewery 's(1) case and Blott 's(2) case were considered by the Privy Council in Com missioner of Income tax, Bengal vs Mercantile Bank of India Ltd. and others(3).
+Lord Thankerton distinguished Swan Bre wery 's(1) case and followed Blott 's(2) case, though in Nicholas vs Commissioner of Taxes of the State of Victoria(4), Blott 's (2) ,case was distinguished on the ground that the definition in the Unemployment Relief Tax (Assessment) Act, 1933 also included within a person 's assessable income "any dividend, interest, profit or bonus credited, paid or distributed to him by the company from any profit derived in or from Victoria or elsewhere by it", and that bonus shares must be regarded as dividend under that definition.
+The Indian Income tax Act defines "dividend" and also extends it in some directions but not so as to make the issue of bonus shares a release of reserves as profits so that they could be included in the term.
+The face value of the shares cannot therefore be taken to be dividend by reason of anything in the definition.
+The share certificate which is issued as bonus entitles the holder to a share in the assets of the company and to participate in future profits.
+As pointed out above, if sold, it may fetch either more or less.
+The market price is affected by many imponderables, one such being the yield or the expected yield.
+The detriment to the shareholder, if any, must therefore be calculated on some principle, but the method of computing the cost of bonus shares at their face value does not accord either with fact or business accountancy.
+Can we then say that the bonus shares are a gift and are acquired for nothing? At first sight, it looks as if they are so but the impact of the issue of bonus shares has to be seen to realise that there is an immediate detriment to the shareholder 'in respect of his original holding.
+The Income tax Officer, in this case, has shown that in 1945 when the price of shares became stable it was Rs. 9 per share, while the value of the shares before the issue of bonus shares was Rs. 18/ per share.
+In other words, by the issue of bonus shares pro rata, which Tanked pari passu with the existing shares, the market price was exactly halved, and divided between the old and the bonus shares.
+This will ordinarily be the case but not when the shares (1)(1914) A.C. 231.
+(3)(1936) A.C. 478.
+(2) 8 Tax Cases 101.
+(4) 224 do not rank pari passu and we shall deal with that case separately.
+When the shares rank pari passu the result may be stated by saying that what the shareholder held as a whole rupee coin is held by him, after the issue of bonus shares, in two 50 nP coins.
+The total value remains the same, but the evidence of that value is not in one certificate but in two.
+This was expressed forcefully by the Supreme Court of United States of America, quoting from an earlier case, in Eisner vs Macomber(1) thus: "A stock dividend really takes nothing from the property of the corporation, and adds nothing to the interests of the shareholders.
+Its property is not diminished, and their interests are not increased.
+The proportional interest of each shareholder remains the same.
+The only change is in the evidence which represents that interest, the new shares and the original shares together representing the same proportional interest that the original shares represented before the issue of the new ones In short, the corporation is no poorer and the stock holder is no richer than they were before If the plaintiff gained any small advantage by the change, it certainly was not an advantage of $417,450 the sum upon which he was taxed What has happened is that the plaintiff 's old certificates have been split up in effect and have diminished in value to the extent of the value of the new.
+necessarily disposes of a part of his capital interest, just as if he should sell a part of his old stock, either before or after the dividend.
+What he retains no longer entitles him to the same proportion of future dividends as before the sale.
+His part in the control of the company likewise is diminished.
+" Swan Brewery 's (2) case, it may be pointed out, was distinguished here also on the basis of the extended definition.
+it follows that the bonus shares cannot be said to have cost nothing to the shareholder because on the issue of the bonus shares, there is an instant loss to him in the value of his original holding.
+The earning capacity of the capital employed remains the same, even after the reserve is converted into bonus shares.
+By the issue of the bonus shares there is a corresponding fall in the dividends actual or expected and the market price moves accordingly.
+The method of calculation which places the value of bonus shares at nil cannot be correct.
+(1) L.Ed. 521.
+(2)(1914) A.C. 231.
+225 This leaves for consideration the other two methods.
+Here we may point out that the new shares may rank pari passu with old shares or may be different.
+The method of cost .accounting may have to be different in each case but in essence and principle there is no difference.
+One possible method is to ascertain the exact fall in the market price of the shares already held and attribute that fall to the price of the bonus shares.
+This market price must be the middle price and not as represented by any unusual fluctuation.
+The other method is to take the amount spent by the shareholder in acquiring his original shares and to spread it over the old and new shares treating the new as accretions to the old and to treat the cost price of the original shares as the cost price of the old shares and bonus shares taken together.
+This method is suggested by the Department in this case.
+Since the bonus shares in this case rank pari passu with the old shares there is no difficulty in spreading the original cost over the old and the new shares and the contention of the Department in this case is right.
+But this is not the end of the present discussion.
+This simple method may present difficulties when the shares do not rank pari passu or are of a different kind.
+In such cases, it may be necessary to compare the resultant price of the two kinds of shares in the market to arrive at a proper cost valuation.
+In other words, if the shares do not rank pari passu, assistance may have to be taken of other evidence to fix the cost price of the bonus shares.
+It may then be necessary to examine the result as reflected in the market to determine the equitable cost.
+In England paragraph 10 of Schedule Tax to the Finance Act, 1962 provides for such matters and for valuing Rights issue but we are not concerned with these matters and need not express an opinion.
+It remains to refer to three cases to which we have already referred in passing and on which some reliance was placed.
+In The Commissioner of Income tax (Central), Bombay vs M/s Maneklal Chunnilal and Sons Ltd., Bombay(1), the assessee held certain ordinary shares of the face value of Rs. 100/ in Ambica Mills Ltd. and Arvind Mills Ltd. These two com panies then declared a bonus and issued preference shares in the proportion of two to one of the face value of Rs. 100/ each.
+These preference shares were sold by the assessee and if the face value was taken as the cost, there was a small profit.
+The Department contended that the entire sale proceeds were liable to be taxed, because the assessee had paid nothing for the bonus shares and everything received by it was profit.
+The assessee 's view was that the cost was equal to the face value of the shares.
+The High Court rejected both these contentions and held that the cost of the shares previously held must be divided between those shares and the bonus shares in the same (1)I.T. Ref.
+No. 16 of 1948 d. 23rd March 1949.
+226 proportion as their face value, and the profit or loss should then be found out by comparing the cost price calculated on this basis with the sale price.
+In our opinion, there is difficulty in the High Court 's decision.
+The preference shares and the ordinary shares could hardly be valued in the proportion of their face value.
+The ordinary shares and the preference shares do not rank pari passu.
+The next case is Emerald Co. Ltd. vs C.I.T., Bombay City(1).
+In that case, the assessee had, at the beginning of the year, 350 shares of which 50 shares were bonus shares and all were of the face value of Rs. 250/ each.
+The assessee sold 300 shares and claimed a loss of Rs. 35,801 / by valuing the bonus shares at face value.
+The Department arrived at a loss of Rs. 27,766/ by the method of averaging the cost, following the earlier case of the Bombay High Court just referred to.
+The Tribunal suggested a third method.
+It ignored the 50 shares and the loss was calculated by considering the cost of 300 shares and their sale price.
+The loss worked out at Rs. 27,748/ , but the Tribunal did not disturb the order of the Appellate Assistant Commissioner in view of the small difference.
+The High Court held that the method adopted by the Department was proper but this Court, on appeal, held that in that case the method adopted by the Tribunal was correct.
+This Court did not decide which of the four methods was the proper one to apply, leaving that question open.
+The reason was that the assessee originally held 50 shares in 1950; in 1951, it received 50 bonus shares.
+It sold its original holding three days later and then purchased another 100 shares after two months.
+In the financial year 1950 51 (assessment year 1951 52), the Income tax Officer averaged the price of 150 shares and found a profit of Rs. 1,060/ on the sale of 50 shares instead of a loss of Rs. 1,365/ which was claimed.
+The assessee did not appeal.
+In the financial year 1951 52 (assessment year 1952 53), the assessee started with 150 shares (100 purchased and 50 bonus).
+It then purchased 200 shares in two lots and sold 300 shares, leaving 50 shares.
+The assessee company claimed a loss of Rs. 35,801 / .
+The Income tax Officer computed the loss at Rs. 27,766/ and the Tribunal computed the loss at Rs. 27,748 The Tribunal, however, did not disturb the loss as computed by the Income tax Officer in view of the slender difference of Rs. 18/ .
+The High Court 's decision was reversed by this Court, because the High Court ignored all intermediate transactions and averaged the 300 shares with the 50 bonus shares.
+The shares in respect of which the bonus shares were issued were already averaged with the bonus shares.
+This was not a case of bonus shares issued in the year of account.
+It involved purchase and sale of some of the shares.
+The average cost price of the original and bonus shares was (1)(1956) 227 already fixed in an earlier year by the Department and this fact should have been taken into account.
+No doubt, Chagla, C.J. observed that it was not known which of the several :shares were sold in the year of account, but in the Statement of the Case it was clearly stated that bonus shares were untouched.
+The decision of this Court in Emerald Company 's(1) case.
+however, lends support to the view which we have expressed here.
+The bonus shares can be valued by spreading the cost of the old shares over the old shares and the new issue taken together, if the shares rank pari passu.
+When they do not, the price may have to be adjusted either in the proportion of the face value they bear (if there is no other circumstance differentiating them) or on equitable considerations based on the ,market price before and after the issue.
+Applying the principles to the present case, the cost of 31,909 shares, namely, Rs. 5,84,283/ must be spread over those shares and the 31,909 bonus shares taken together.
+The ,cost price of the bonus shares therefore was Rs. 2,92,141 /because the bonus shares were to rank equal to the original ,shares.
+The account would thus stand as follows: Share in Rohtas Industries Ltd. Rs. 1 .
+Old issue of 17,259 shares brought forward from 1945, at (proportionate) cost 1,58, 035 2.
+Bonus shares 31,909 received in 1945, at (proportionate, spread out) cost 2,92,141 3.
+New issue 59,079 shares brought forward from 1945 8,88,561 4.
+New purchases 2,500 shares brought forward from 1947 39,300 Total 1,10,747 shares 13,78,037 Sales of all theabove shares in 1948 15,50,458 Profit 7,444 Profit to be added to the income returned 1,79,865 The answer to the question given by the High Court was therefore erroneous and the right answer would be that the profit computed at Rs. 3,11,646/ was not in accordance with law.
+The appeal is therefore allowed with costs here and in the High Court.
+Appeal allowed.

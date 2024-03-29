@@ -1,0 +1,52 @@
+Appeal No. 2053 of 1971.
+Appeal by special leave from the Judgment & Order dated the 8th July, 1971 of the Bombay High Court in S.C.A. No. 1346/68.
+M. C. Bhandare, P. H. Parekh and section Bhandare, for the appellant.
+The Judgment of the Court was delivered by SARKARIA, J.
+Whether the difference of 10 per cent between an Industrial Company and other Companies in the levy of Income tax provided in the Finance Act, 1966 is to be construed a "rebate" or "relief" in the payment of any direct tax, for the development of an industry for the purposes of section 7(e) of the , (for short, the Bonus Act) is the short question that falls to be answered in this appeal by special leave.
+The appellant is a Private Ltd. Company.
+it manufactures automobile ancillaries and other goods in its Factory at Bombay.
+It employs about 170 workmen.
+The workmen demanded bonus for the year 1964 65.
+Their demand was not met by the Company.
+Conciliation proceedings before the Conciliation Officer having failed, the dispute was submitted to the Government which by its Order, dated May 2, 1967 referred the same for adjudication to the Industrial Tribunal.
+One of the points mooted before the Tribunal was, whether in calculating the available surplus, the direct tax payable by the Company was deductible at the rate of 55 per cent or 65 per cent.
+The case of the Mazdoor Saneh (Respondent No. 1) was that the rate should be 55 per cent as the Company was paying the tax at the rate As against this, the Company contended that it was entitled to deduct as per section 7(e) of the Bonus Act, direct tax at the normal rate of 65 per cent and not at 55 per cent which was only a confessional levy amounting to a "relief" for the purpose of development.
+The Tribunal accepted the contention of the Company.
+After referring to the speech of the Finance Minister on the Budget of 196667, the Tribunal held: assessed to income tax at the rate of 65 per cent, those engaged in industrial undertakings have been assessed at the concessional rate of 55 per cent, as a measure of rendering assistance to their growth.
+Such a concession would, unquestionably amount to relief for the purpose of development as contemplated by Section 7(e) of the Act.
+" Aggrieved, the Mazdoor Sangh impugned the Tribunal 's Award, dated 29 2 1968, by a Writ Petition under Article 227 of the Con 544 stitution before the High Court of Bombay.
+The High Court held that the Company being an Industrial Company, was liable to pay tax under the Finance Act, 1966 at the rate of 55% only on its total income after deducting depreciation.
+Therefore it could not claim deduction at a rate higher than 55% in calculating the available surplus.
+In the result, the High Court set aside the Award and remitted the case to the Tribunal for further disposal in accordance with law.
+Hence this appeal by the Company.
+Broadly, the scheme of the Bonus Act is this : At first, the gross profits derived by an employer from an establishment are calculated in the manner specified in the First Schedule, or the Second Schedule, whichever may be applicable (section 4).
+On the basis of such gross profits, the available surplus for the particular accounting year is computed.
+This is done by deducting therefrom the sums referred to in Section 6.
+According to Clause (c) of Section 6, one of the sums so deductible is: "Subject to the provisions of Section 7, any direct tax which the employer is liable to pay for the accounting year in respect of his income, profits and gains during that year".
+Section 7, to which section 6(c) is subject, provides how for the purposes of the Act, the direct tax payable by the employer is to be calculated.
+Clause (e) of Section 7 is material.
+It runs thus : "no account shall be taken of any rebate (other than development rebate or development allowance) or credit or relief or deduction (not hereinbefore mentioned in section) in the payment of any direct tax allowed under any law for the time being in force relating to direct taxes or under the relevant annual Finance Act, for the development of any industry".
+The rates of income tax applicable to Private Ltd. Companies tinder Paragraph F, Part I of the First Schedule fixed by the Finance Act, 1966, are as follows : 1.
+In the case of a domestic Company(A) (1). (2) where the Company is not a company in which the public are substantially interested.
+(i) in the case of an industrial Company (1) on so much of the total income as does not exceed Rs. 10,00,000 55 per cent.
+(2) on the balance, if any of the total income 60 per cent.
+(ii) in any other case 65 per cent of the total income".
+It is not disputed that the Company being an industrial Company with total income for the relevant year, not exceeding Rs. 10,00,900,, 545 the rate of tax under the above Paragaph 1(A) (2) (i), applicable to it was 55 per cent and not 65 per cent of the total income.
+However, Mr. Bhandare 's contention is that this was only a concessional rate and not the normal rate which was prescribed under Clause (ii) of the above Paragraph 1(A) (2).
+The point pressed into argument is that this ten per cent concession in the tax rate was given to Industrial Companies with a view to promote development of Industry and, as such, must be deemed to be a "relief" or "rebate" in the payment of direct tax of the kind contemplated by Section 7(e) of the Act.
+Reliance for this contention has been placed on the speech of the Finance Minister on the Budget of 1966 67, wherein he proposed to provide "certain reliefs" which he considered "necessary for providing a suitable climate of growth", and, in that context, described the rate of 55% tax on Industrial Companies as a "concessional rate".
+We are afraid what the Finance Minister said in his speech cannot be imported into this case and used for the construction of Clause (e) of Section 7.
+The language of that provision is manifestly clear and unequivocal.
+It has to be construed as it stands, according to its plain grammatical sense without addition or deletion of any words.
+As a general principle of interpretation, where the words of a statute are plain, precise and unambiguous, the intention of the Legislature is to be gathered from the language of the statute itself and no external evidence such as Parliamentary Debates, Reports of the Committees of the Legislature or even the statement made by the Minister on the introduction of a measure or by the framers of the Act is admissible to construe those words.
+It is only where a statute is not exhaustive or where its language is ambiguous, uncertain, clouded or susceptible of more than one meaning or shades of meaning, that external evidence as to the evils, if any, which the statute was intended to remedy, or of the circumstances which led to the passing of the statute may be looked into for the purpose of ascertain ing the object which the Legislature had in view in using the words in question.
+In the case before us, the language of Section 7(e) is crystal clear and self contained.
+It indicates in unmistakable terms that the 'rebate or relief ' in the payment of any direct tax in order to fall within the purview of this clause must satisfy two conditions, viz., (i) that it must be a rebate or relief "allowed under any law for the time being in force relating to direct taxes or under the relevant annual Finance Act", and further, (ii) that it must be a relief or rebate for the development of any Industry.
+In the present case, condition (i) is lack ing.
+The Finance Act, 1966, does not say that this difference of 10per cent in the rates of tax applicable to an Industrial Company and any other Company is to be deemed to be a rebate or relief for the development of Industry.
+Nor has it been shown that this difference in the rates is allowed as a rebate or relief under any other extant law relating to direct taxes.
+546 The High Court was, therefore, right in holding that it was not ,permissible to use the speech of the Finance Minister to construe the clear language of the statute,.
+For the forgoing reasons the question posed above is answered in the negative and the appeal is dismissed.
+As regards the costs, the delay in payment of the bonus caused by the pendency of this appeal has been amply compensated vide this Court 's order dated February 17, 1972, which is to this effect "The order of ex parte stay is made absolute on the condition that the petitioner appellant shall pay six percent interest on any amount that is found payable by the appellant to the respondent workmen from the date the award become enforceable till the disposal of the appeal in this Court, in case the appeal fails in this Court.
+" The appeal has been heard ex parte, we therefore make no order as to costs.
+P.B.R. Appeal dismissed.

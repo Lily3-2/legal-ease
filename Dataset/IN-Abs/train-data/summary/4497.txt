@@ -1,0 +1,86 @@
+The assessee, a Hindu Undivided Family was deriving income from various sources such as income from property, income from money lending business, income from speculation business and cloth business etc.
+There was a partial partition in the family in the year 1951, which was accepted and acted upon by the Income tax department, whereafter the cloth business was treated as the business of a firm consisting of most of the coparceners as partners.
+On December 1, 1963 which fell within the assessment year 1964 65 there was another partial partition orally, as a result of which eighteen immovable properties were divided amongst the ten members of the family, who held those properties as tenants in common from that date.
+These eighteen immovable properties were situated in different places and their valuation was about Rs. 7 lacs.
+In the course of assessment proceedings; the assessee claimed that the members of the family had commenced to maintain separate accounts with regard to the income from the eighteen immovable properties and to divide the nett profits amongst themselves according to their respective shares at the end of the year.
+When required by the Income tax Officer to explain as to why the properties were not divided in definite portions as required by section 171 of the Income Tax Act 1961, the assessee stated that physical partition of the properties amongst the ten members was impossible and the only way to partition those properties was to define the respective shares and to enjoy the income from them separately.
+In support of his contention that the properties did not admit of physical division the assessee relied on an arbitration award.
+The Income tax Officer did not agree with the assessee 's contention that it was not possible to divide the properties in definite portions.
+He rejected the claim of partial partition in respect of the eighteen immovable properties and proceeded to assess the income derived therefrom in the hands of the assessee.
+10 The assessee filed an appeal before the Appellate Assistant Commissioner.
+During the pendency of the appeal the assessee appointed another arbitrator to examine the possibility of physical division of each of the eighteen properties into ten portions.
+The arbitrator by his award stated that the properties were not capable of physical division into ten shares by metes and bounds and that any practical division was that of allocation of proportionate shares in all the eighteen properties.
+The Appellate Assistant Commissioner held that the case of the assessee that it was not possible to divide the properties physically as untenable and dismissed the appeal.
+In further appeal to the Tribunal, the Tribunal held that the contention of the assessee that if the properties had been divided into ten shares they would have been either destroyed or would have lost their values was not correct, and that the claim of the assessee under section 171 of the Act that there was a partial partition was to be rejected.
+On an application by the assessee under section 256 (1) of the Act, the Tribunal referred two questions to the High Court : (1) Whether the Tribunal was right in holding that the properties in dispute were capable of division in definite portions amongst the ten coparceners as contemplated in Explanation (a) (i) to section 171 of the Act, and (2) whether the Tribunal was justified in holding that the income from the properties in dispute which were accepted to have been partitioned under the Hindu Law but with regard to which an order accepting the claim of partial partition was not made was liable to be included in the computation of the assessee 's income ? The High Court held : (1) that even though the eighteen properties could not individually be divided into ten shares without destroying their utility but after assessing the value of the properties they could be apportioned between the ten members and the difference in the allocations could be equalised by payment of cash amounts by one to the other and in view of clause (a) (i) of the Explanation to section 171, mere severance of status was not sufficient for recording a finding of partition; and (2) that the income accruing from the eighteen immovable properties after December 11, 1963 was not liable to be included in the computation of the joint Hindu Family 's income.
+Dismissing the Assessee 's appeal and allowing the Department 's appeal : ^ HELD : 1.
+(i) The law relating to assessment of Hindu undivided family underwent a change when the 1961 Act came into force.
+Section 171 of the Act provided for the assessment after partition of a Hindu undivided family.
+[24 D] (ii) A finding to the effect that partition has taken place has to be recorded under section 171 by the Income tax Officer.
+He can record such a finding only if the partition in question satisfies the definition of the expression 'partition ' found in Explanation to section 171.
+A transaction can be recognised as a partition under section 171 only if, where the property admits of a physical division a physical division of the property has taken place.
+In such a case mere physical 11 division of the income without a physical division of the property producing income cannot be treated as a partition.
+Even where the property does not admit of a physical division then such division as the property admits of should take place to satisfy the test of a partition under section 171.
+Mere proof of severance of status under Hindu Law is not sufficient to treat such a transaction as a partition.
+If a transaction does not satisfy the above additional conditions it cannot be treated as a partition under the Act, even though under Hindu Law there has been a partition total or partial.
+The consequence will be that the undivided family will be continued to be assessed as such by reason of sub section (1) of section 171.
+[30 A D] (iii) It is common knowledge that in every partition under Hindu Law unless the parties agree to enjoy the properties as tenants in common, the need for division of the family properties by metes and bounds arises and in that process physical division of several items of property which admit of such physical division does take place.
+It is not necessary to divide each item into the number of shares to be allocated at a partition.
+If a large number of items of property are there, they are usually apportioned on an equitable basis and if necessary by asking the parties to make payments of money to equalise the shares.
+Such a partition is also a kind of physical division of the properties and is contemplated in the Explanation to section 171.
+[34 C E] In the instant case no attempt to divide the properties was made.
+The case clearly falls under sub clause (i) of clause (a) of the Explanation to section 171 of the Act but does not satisfy the requirement of that sub clause as no physical division of the properties was made even though they could be conveniently so divided.
+Sub clause (ii) therefore does not apply to this case.
+[35 B] 2.
+(i) The High Court having held that the assessee was not entitled to claim that a partial partition had taken place under section 171, fell into an error in holding that the income of the properties which were the subject matter of partial partition could not be included in the total income of the assessee by relying upon the decisions which had been rendered on the basis of section 25A of the 1922 Act which had been construed as not being applicable to partial partition.
+[35 D] (ii) The true effect of section 171 (1) is that property, which is the subject matter of partial partition would continue to be treated as belonging to the family and its income would continue to be included in its total income until such a finding is recorded.
+[35 G] (iii) Sub section (1) of section 171 contains a 'deeming ' provision.
+It says that a Hindu family hitherto assessed as undivided shall be deemed for the purpose of the Act to continue to be a Hindu undivided family except where and in so far as a finding of partition has been recorded in respect of it under section 171.
+The partition referred to in the section can include a partial partition also either as regards the persons constituting the undivided family or the properties belonging to it or both, in view of the provisions contained in the other subsections and the Explanation to the section.
+[29 F G] 12 (iv) Where there is no claim that a partition total or partial had taken place made or where it is made and disallowed a Hindu undivided family which is hitherto being assessed as such will have to be assessed as such notwithstanding the fact a partition had in fact taken place as per Hindu law.
+A finding to the effect that partition had taken place has to be recorded under section 171 by the Income tax Officer.
+He can record such a finding only if the partition in question satisfies the definition of the expression 'partition ' found in Explanation to section 171.
+The transaction can be recognised as a partition under section 171 only if where the properties admit of a physical division, a physical division of the property has taken place.
+In such a case mere physical division of the income without a physical division of the property producing income cannot be treated as a partition.
+Even where the property does not, admit of a physical division then such a division as the property admits of should take place to satisfy the test of a partition under section 171.
+Mere proof of severance of status under Hindu Law is not sufficient to treat such a transaction as a partition.
+If a transaction does not satisfy the additional condition it cannot be treated as a partition under the Act even though under Hindu Law there has been a partition total or partial.
+The consequence will be that the undivided family will be continued to be assessed as such by reason of sub section (1) of section 171.
+[29 G H,30 A D] Govinddas & Ors.
+vs Income tax Officer & Anr., ; Charandas Haridas & Anr.
+vs Commissioner of Income tax, Bombay North, Kutch & Saurashtra, Ahmedabad & Anr.
+, ; A. Kannan Chetty vs Commissioner of Income tax, Madras, ; referred to.
+(v) As long as a finding is not recorded under section 171 that a partial partition had taken place the Hindu undivided family should be deemed for the purposes of the Act to be the owner of the property which is the subject matter of the partition and also the recipient of the income from such property.
+The assessment should be made as such and the tax assessed can be recovered as provided in the Act.
+[36 F G] 3.
+Under section 25A of the 1922 Act, a Hindu undivided family which had been assessed to tax could be treated as undivided and subjected to tax under the Act in that status unless and until an order was made under section 25A (1) and if in the course of the assessment proceedings it is claimed by any of the members of the Hindu undivided family that there has been total partition of the family property resulting in physical division thereof as it was capable of, the assessing authority should hold an enquiry and decide whether there has been such a partition or not.
+If he held that such a partition had taken place, he should proceed to make an assessment of the total income of the family as if no partition had taken place and then proceed to apportion the liability as stated in section 25A amongst the individual members of the family.
+If no claim was made or if the claim where it was made was disallowed after the enquiry, the Hindu undivided family would continue to be liable to be assessed as such.
+[23 G H, 24 A C] 4.
+When Parliament enacted section 171 it took note of the decisions which had taken the view that a partial partition did not fall within the scope of section 25A.
+It expressly stated in section 171 of the Act that the said provision 13 was applicable to both kinds of partitions total or partial.
+It has also defined partial partition as one which is partial as regards persons constituting the undivided family or as regards the properties belonging to the undivided family or both.
+It deals with all kinds of partitions, the nature of which sometimes may be difficult to predicate correctly.
+[31 D E] Sir Sunder Singh Majithia vs The Commissioner of Income tax.
+C.P. & U.P., , Gordhandas T. Mangaldas vs Commissioner of Income tax Bombay, , Waman Satwappa Kalghatgi vs Commissioner of Income tax , M.S.M.S. Meyyappa Chettiar vs Commissioner of Income tax, Madras, , Lakhmtchand Baijnath vs Commissioner of Income tax West Bengal, , Kalwa Devadatta and Ors.
+vs Vnion of India and Ors., [1963] 49 I.T.R. [S.C.] 165, Additional Income tax Officer, Cuddapah vs A. Thimmayya and Anr., , Joint Family of Vdayan Chinubhai etc.
+vs Commissioner of Income tax, Gujarat, , referred to.
+Partition may be several kinds.
+It may be a total partition or a partial partition.
+A partition can be called partial both as regards persons and as regards properties.
+The next kind of partition may be one where all the members divide amongst themselves only some of the family properties and continue as members of an undivided family owing the remaining family properties.
+This is called a partial partition as regards property.
+Even here the division of the property which is subject matter of partial partition may be groupwise also.
+In the case of a partial partition as regards property, one thing noticeable is that after such partition, the property which is subject matter of partition is held by the members of the family as tenants in common and the rest of the family properties continue to be held by them as members of the undivided family.
+[31 F H, 32 A E] 6.
+After a partial partition as regards property, the property divided is held by the members of the undivided family as divided members with all the incidents flowing therefrom and the property not so divided as members of an undivided family.
+Section 171 (1) of the Act can, therefore operate in such a case also because the family which has become divided as regards the property which is the subject matter of partial partition is deemed to continue as the owner of that property and the recipient of the income derived from it except where and in so far as a finding of partition has been given under section 171.
+[32 F G] 7.
+Partition can be brought about, (1) by a father during his life time between himself and his sons by dividing properties equally amongst them, (2) by agreement, or (3) by a suit or arbitration.
+A declaration of intention of a coparcener to become divided brings about severance of status.
+[27 E 8.
+A physical division of the property which is the subject matter of partition is not necessary to complete the process of partition in so far as the item of property is concerned under Hindu Law.
+The parties to the partition may enjoy the property in question as tenants in common.
+[27 G Appovier vs Rama Subba Aiyan [1866] 11 M.I.A, 75, referred to.
+Hindu Law does not require that the property must in every case be partitioned by metes and bounds or physically into different portions to complete a partition.
+Disruption of status can be brought about and it is open to the parties to enjoy their shares of property as tenants in common in any manner known to law according to their desire.[28 C]

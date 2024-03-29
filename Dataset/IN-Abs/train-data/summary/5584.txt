@@ -1,0 +1,32 @@
+% The respondent, an unregistered firm of coal merchants with its place of business in Bihar and an office in U.P., was assessed to sales tax by the first appellant in respect of the turnover of coal supplied by the respondent assessee for the assessment years 1967 68 and 1968 69.
+The assessee filed writ petitions alleging that the assessment orders were without jurisdiction on several grounds.
+The High Court allowed the writ petitions holding that section 9 of the as it stood at the relevant time cast a liability to tax only on a 'registered dealer ' and not an 'unregistered dealer '.
+In the appeals it was contended on behalf of the Department that by virtue of section 9 of the Central Sales Tax (Amendment) Act, 1976, cl.
+(b) of the proviso to section 9(1) of the was deemed to have been in force since 5.1.57 and, therefore, the position was as if the Act had always imposed a liability to pay tax even on unregistered dealers just as it had originally done on registered dealers, and that the amendment only affected the venue of taxation, and being procedural in nature, it was required to be construed retrospectively, Dismissing the appeals, ^ HELD: 1.
+Clause (b) of section 9(1) of the is operative only from 7.9.76.
+[573] The instant case is, therefore, governed by the earlier provision, and the respondent assessee being an unregistered dealer is not liable to pay tax.
+[573D] State vs Kasturi Lal Har Lal, [1987] 67 STC 154 SC, relied on.
+563 2.1 Where the statute, Central Sales Tax (Amendment) Act, 1976, on its face, clearly indicates retrospective effect where intended, there can be no justification to read retrospectivity into the amendment made by cl.
+(c) of section /6 of the Amending Act, which does not contain any words to that effect.
+[571D] 2.2 The language of the validation section clearly concerns only penalties which are dealt with under section 9(2).
+The amending Act refers to section 9 in general and not to section 9(2) only because section 9(1) also contains a reference to sub section (2).
+From this circumstance alone it cannot be inferred that retrospectivity to the amendment of section 9(1) also is intended.
+[572C D] 2.3 The employment of word "also" cannot be treated as an indication of intention by the Legislature that the amendment of section 9(1) by section 6 of the Amending Act was to be effective from 5.1.57.
+If the Legislature had intended it, the intention could and would have been expressed clearly in cl.
+(a) of section 6 itself as it had been in the other clauses and in the other sections.
+If section 9(1) of the Amendment Act had been inserted as cl.
+(d) in section 6 thereof, it could not have changed the prospective effect of cl.
+The position is not different merely because this provision is contained in section 9 and not section 6 of the Amendment Act.
+Section 9(1) of the Amendment Act talks only of reading these extra words into section 9(1) of the Principal Act between 5.1.57 and 7.9.76.
+It does not contain any operative words that require section 9(1) of the Principal Act being read in the form in which it has been amended by section 6 during that earlier period.
+[572E G] All that the provision requires is that for the period 5.1.57 to 7.9.76, the section is to be read as if it also included the additional substantive provisions referred to therein.
+It was earlier not clear whether all these provisions could be read into the section before 7.9.76, the date when the amendment Act came into force.
+So, the validation section declares that the section should be read, even earlier, as if it comprehended also these substantive provisions.
+It is in this context that the word "also" is used.
+[572D E] 2.4 The question whether a charge to tax can be imposed in one State or another is not a mere question of venue.
+It may have an impact on the rate of tax in certain cases and it also regulates the rights inter se of States to levy taxes on such inter state sales.
+[573B C] The amendment changes the position that an unregistered dealer 564 is not taxable under the proviso and imposes a substantive liability on such a dealer.
+It is also one which confers jurisdiction on an officer in a particular State to levy a tax which he otherwise cannot.
+It is thus a substantive provision.
+[573B] The amendment cannot, therefore, be treated as purely procedural and hence necessarily retrospective.
+[573C] S.T.O. vs Coal & Coke Supplies Corporation JT, [19871 4 S.C. 472; Khemka vs State, ; and Shiv Dutt Rai vs Union, 119831 3 S.C.C. 529 referred to.

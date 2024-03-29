@@ -1,0 +1,99 @@
+Appeals Nos. 206 to 210 of 1964.
+Appeals from the judgment and orders dated September 26, 1961 of the Calcutta High Court in income tax Reference No. 24 of 1957.
+Niren De, Additional Solicitor General, Ganapathy Iyer and R.N. Sachthey, for the appellants.
+Sampat lyengar, B.R.L. Iyengar and D.N. Gupta, for the respondents.
+The Judgment of the Court was delivered by Sikri, J.
+These appeals by certificate granted by the High Court of Calcutta under section 66(A)(2) of the Indian Income Tax Act, 1922, are directed against the judgment of the said High Court answering two questions referred to it against the Revenue.
+The questions are: (1) Whether the profit arising to the assessee company from miscellaneous insurance transactions of mutual character was assessable under the Indian Income Tax Act, and (2) If the answer to question No. (1) is in the affirmative, whether on the facts and in the circumstances of the case the balance of the profits as disclosed in the assessee company 's profit and loss account after deducting the various reserves should be the taxable profits within the meaning of Section 2(6C) read with Rule 6 of the Schedule of the Indian Income Tax Act.
+The relevant facts and circumstances are as follows: The respondent.
+the Calcutta Hospital and Nursing Home Benefits Association Limited, hereinafter referred to as the assessee, is a mutual insurance concern carrying on miscellaneous insurance business.
+The principal objects for which the Association was established were: (1) By means of insurance on the mutual principle to provide, or help towards providing, anywhere in the world for the expense of accommodation and treatment in hospitals 634 and nursing homes and of private nursing for members and their dependants; (2) To organise insurance on the mutual principle under Rules and Regulations to be framed for the purpose with the object of providing such hospital, medical, surgical, nursing and allied services as before mentioned, of supporting and assisting hospitals, in Calcutta or elsewhere; of relieving members or then dependants, in whole or in part from the payment of hospital and other charges while in receipt of such hospital, medical, surgical, nursing and allied services; and of reimbursing and repaying to members or their dependants in whole or in part, all payments for such hospital and other charges which they may have incurred or made which in receipt of such hospital, medical, surgical, nursing and allied services.
+The members were required to pay a monthly premium, but there was a waiting period of four months for all bench its other than maternity, for which the waiting period was one year.
+Benefits and privileges became available as from the first day of the fifth calendar month of registration (in respect of Maternity the 13th month) and continued to be available thereafter so long as the subscriptions were not in arrear.
+These appeals are concerned with the assessment years 1949 50 to 1953 54 and the relevant accounting years ended on December 31, 1948, December 31, 1949, December 31, 1950, December 31, 1951 and December 31, 1952, respectively.
+In the statement of the case, the Appellate Tribunal describes the accounts maintained by the assessee thus: "The assessee 's published revenue accounts contained three classifications, viz. (i) miscellaneous insurance business revenue account, (ii) profit and ' loss account and (iii) profit and loss appropriation account.
+In the miscellaneous insurance business revenue accounts were included subscriptions from the members, gross premia from the members and from such amounts were deducted general reserve and or contingency reserve.
+Reserve so made were transferred to the balance sheet as credit accounts.
+The claims paid or payable and the expenses of management were deducted from this revenue account.
+The balance of the miscellaneous insurance business revenue account was transferred to the profit and loss account to the credit of which was further added interest on investments and the debits included provision for taxation, interest on loan, contribution to provident fund and depreciation.
+The balance of this account being the balance of profit and loss account was transferred.
+to the profit and toss appropriation account.
+Therefrom, in one year, ended 635 31st December, 1949, further deduction was made against contingency reserve and the balance either loss or profit was carried forward.
+" We may now set out the facts regarding 1949 50 assessment.
+It is not necessary to state the facts regarding other assessment years.
+The Income Tax Officer for the assessment year 1949 50 added the reserve for taxation, Rs. 1000/ , to the net profit as per profit and loss account, which showed a profit of Rs. 1,653/ , and after deducting depreciation, he assessed the total income at Rs. 2,651/ .
+On appeal, the Appellate Assistant Commissioner upheld the order of the Income Tax Officer.
+Following the decision of the Bombay High Court in Bombay Mutual Life Assurance Society Ltd., vs Commissioner of Income Tax, Bombay City (1) he held that the income was assessable to income tax and that under Rule 6 of the Schedule to the Income Tax Act it was permissible for the Income Tax Officer to add the reserves to the income disclosed in the profit and loss account.
+On further appeal, the Appellate Tribunal found no difficulty in holding that section 2(6C) of the Income Tax Act, according to its true interpretation, included income or the profits of any insurance company of mutual assurance and the said profits shall be taken to be balance of the profits disclosed by the annual accounts.
+Regarding the reserve, the Tribunal held that the provision for reserve was not an expense to be deducted from the profits disclosed by the assessee company in order to arrive at the profits within the meaning of r. 6, and the Income Tax Officer was entitled to add back the reserve.
+The High Court held that the surplus, miscalled profit, arising to the assessee company from the miscellaneous insurance transactions of mutual character was not assessable under the Indian Income Tax Act and that, in any event, the assessee was entitled to deduct the reserve.
+The High Court distinguished Bombay Mutual Life Assurance Society, Ltd. vs Commissioner of Income Tax, Bombay City(1) on the ground that the Bombay decision was a life insurance decision and although it was a mutual life insurance society, nevertheless different and special rules applied to life insurance and the rules with which the Bombay decision was concerned were rules 2 and 3 which did not apply to mutual insurance other than life.
+The second point of distinction, according to the High Court, was the very distinctive clauses in the memorandum of objects and articles of association of the assessee.
+Section 2(6C) at the relevant time defined 'income ' to include " . . profits of any business of insurance carried on by a mutual insurance association computed in accordance with Rule 9 in Schedule.
+" We may mention that another section 2(6C) was substituted by Act XV of 1955, and the wording substituted by this Act in (1) 20 I.T.R.189.
+636 sub clause (vii) is "the profits and gains of any business of insurance carried on by a mutual insurance association or by a co operative society computed in accordance with rule 9 in the Schedule.
+" But nothing turns on the change of the language as far as a mutual surance association carrying on business of insurance is concerned.
+Rule 9 of the Schedule reads thus ' "9.
+These rules apply to the assessment of the profits of any business of insurance carried on by a mutual insurance association . .
+Rule 6 with which we are concerned reads thus: "The profits and gains of any business of insurance other than life insurance shall be taken to be the balance of the profits disclosed by the annual accounts, copies of which are required under the , to be furnished to the Superinte ndent of Insurance after adjusting such balance so as to exclude from it any expenditure other than expenditure which may under the provisions of Section 10 of this Act be allowed for in computing the profits and gains of a business.
+Profits and losses on the realisation of investments and depreciation and appreciation of the value of investments shall be dealt with as provided in Rule 3 for the business of life insurance.
+" The Additional Solicitor General, appearing on behalf of the appellant, contends that the Bombay High Court was right in holding that "section 2(6C) imports into the definition of 'income ', which is to be found in the charging section 3, these profits which may not be profits in the ordinary sense of the term but which are made profits by reason of Rule 2 of the Schedule because Rule 2 really gives an artificial extension to the meaning of the word 'profits ' when it says that 'profits and gains shall be taken to be '.
+Therefore a new class of artificial income is created by this rule and that artificial income is included into the meaning of Section 3 by reason of this rule.
+" Mr. Sampat Ayyangar, learned counsel for the assessee, relying on the decision of the House of Lords in Arvshire Employers Mutual Insurance Association Ltd. vs Commissioner of Inland Revenue,(1) contends that the Legislature has not made its intention clear because it has used the word 'profits ' in section 2(6C) under a misapprehension that the surplus of a mutual insurance company (1) 637 carrying on insurance business is profits.
+He says that in Arvshire Employers Mutual Insurance Association case(1) the Legislature had proceeded on a similar misapprehension and the House of Lords held that section 31(1) of the Finance Act, 1933 (23 & 24 Geo.
+V.c. 19) did not succeed in making the profits of a mutual insurance company taxable.
+He urges that we should follow this precedent.
+He relies on the following passage from the speech of Lord Macmillan at p. 347: "The structure of Section 31(1) is quite simple.
+It assumes that a surplus arising from the transactions of an incorporated company with its members is not taxable as profits or gains.
+To render such a surplus taxable it enacts that the surplus, although in fact arising from transactions, of the comp any with its members, shall be deemed to be something which it is not, namely, a surplus arising from transactions of the company with non members.
+The hypothesis is that a surplus arising on the transaction of a mutual insurance company with non members is taxable as profits or gains of the company.
+But unfortunately for the Inland Revenue the hypothesis is wrong.
+It is not membership or non membership which determines immunity from or liability to tax, it is the nature of the transactions.
+If the transactions are of the nature of mutual insurance the resultant surplus is not taxable whether the transactions are with members or with non members.
+" He further relies on the observations of Lord Macmillan that "the Legislature has plainly missed fire.
+Its failure is perhaps less regrettable than it might have been, for the Sub section has not the meritorious object of preventing evasion of taxation, but the less laudable design of subjecting to tax as profit what the law has consistently and emphatically declared not to be profit." He says that similarly in this case the Legislature has plainly missed fire.
+In order to appreciate the scope of that decision, it is necessary to set out the relevant part of section 31 of the Finance Act, 1933.
+Section 31(1) enacted: "31. (1) In the application to any company or society of any provision or rule relating to profits or gains chargeable under Case I of Schedule D (which relates to trades) . any reference to profits or gains shall be deemed to include a reference to a profit or surplus arising from trans (1)T. C. 331.
+638 actions of the company or society with its members which would be included in profits or gains for the purposes of that provision or rule if those transactions were transactions with non members, and the profit or surplus aforesaid shall be determined for the purposes of that provision or rule on the same principles as those on which profits or gains arising from transactions with non members would be so determined.
+" The Section adopted the device of a deeming provision.
+The profits arising from the transactions of a company or society with its members were deemed to be profits arising from transactions with non members.
+Parliament assumed that the latter were taxable.
+As this hypothesis was wrong, Parliament failed in its objective.
+But the Indian Legislature did not adopt any deeming device.
+It defined 'income ' to include profits of any business of insurance carried on by a mutual insurance association.
+What are those profits is then explained by reference to the Schedule.
+The effect of this in substance is to incorporate r. 6 into the definition.
+If the legislature had defined income to include profits of insurance carried on by a mutual insurance association computed according to r. 6, very little would have remained arguable.
+It is, however, urged that in r. 6 also the word 'profits ' means taxable profits.
+But r. 6 speaks of balance of profits as disclosed in the accounts submitted to the Superintendent of Insurance.
+The Superintendent of Insurance is not concerned with taxable profits.
+What he is concerned with, inter alia, is the balance of profits for the purpose of the .
+It is then urged that in the definition the word 'surplus ' should have been used instead of profits.
+But the word 'surplus ' has a technical significance in the , and it seems to us that it would have been inexpedient to use the word 'surplus '.
+At any rate.
+r. 6 would then have been drafted differently.
+It is finally urged that this is a taxing statute and we should give a strict construction to the definition.
+The definition could still operate if we interpret it in a narrow sense as to include profits from investments and other activities of a mutual insurance company.
+It is said that this definition was inserted to make it clear that such profits would be taxable.
+We cannot accede to this contention.
+It was well established that such profits would be taxable apart from the new definition, We cannot understand why it was necessary 639 to make it doubly clear.
+Moreover, r. 6 deals with balance of profits, which would include profits arising from the business of insurance of a mutual character.
+It deals with balance of profits as a composite thing.
+It is impossible to dissect this composite thing.
+If we were to accede to the assessee 's contention, the definition would serve no purpose whatsoever.
+It seems to us that the Legislature has evinced a clear intention to include the balance of profits as computed under r. 6 within 'the word 'income ' in section 3 of the Income Tax Act, and ' accordingly such balance of profits is taxable.
+We are unable to agree with the High Court that the Bombay case is distinguishable in principle.
+It is true that the Bombay High Court was concerned with r. 2, but when we go to the schedule and find out what is the balance of profits or surplus that has been made taxable, it does not make any difference to the construction of section 2(6C) whether it is r. 2 that is applied or r. 6.
+Therefore, disagreeing with the High Court, we answer the first question in the affirmative.
+This takes us to the second question.
+The answer to this question depends on the true interpretation of r. 6.
+It seems to us that on its language the Income Tax Officer is bound to accept the balance of profits disclosed by the annual accounts, copies of which have been submitted to the Superintendent of Insurance.
+He can only adjust this balance so as to exclude from it any expenditure other than expenditure which may under the provisions of section 10 be allowed for in computing the profits and gains of a business.
+We are not concerned here with the latter part of r. 6 dealing with profits and losses on the realisation of investments, and depreciation and appreciation of the value of investments.
+This Court examined the provisions of the in connection with the Schedule in Pandvan Insurance Company Ltd., Madurai vs The Commissioner Income Tax, Madras(1) and arrived at the conclusion that the "makes detailed provisions to ensure the true valuation of assets and the determination of the true balance of profits of an insurance business" and that r. 6 should be construed in the light of this background.
+Examining r. 6 in the light of this background, it seems to us that the intention of the rule is that the balance of profits as disclosed by the accounts submitted to the Superintendent of Insurance and accepted ' by him would be binding on the Income Tax Officer, 640 except that the Income Tax Officer would be entitled to exclude expenditure other than expenditure permissible under the provisions of section 10 of the Act .
+It is common ground in this case that these serves which were added to the balance of profits were not expenditure.
+Accordingly, agreeing with the High Court, we answer the second question in the affirmative .
+In the result, the appeals are accepted in part.
+Parties will bear their own costs in this Court.
+Appeals partly allowed .

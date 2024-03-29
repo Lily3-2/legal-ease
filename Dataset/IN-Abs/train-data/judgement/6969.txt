@@ -1,0 +1,646 @@
+ition (c) Nos.
+655 69 of 1983.
+(Under Article 32 of the Constitution of India).
+WITH W.P. (C) 8131 33/82, 8125 30/82, 8349 8368/52, 8146 8166/82, 9610 9630/82, 3756 87/83, 3698 3755/83, 947 960/83, 250/86, C.A. Nos.
+4099 4103/82, 10753 57/83, 10758 60/83, 10761/83, W.P. (C) No. 12834/85, C.A. Nos.
+1280 83/92, 4737/91, 4302/91, 3410/91, 3481/91, 2850/91, 3171/91, 2866/91, 3905 12/91, 4202 05/91, 70/92, SLP(C) No. 1045/89, T.C. (C) No. 220/88, W.P. (C) No. 175/92.
+G. Ramaswamy, Attorney General, G.L. Sanghi, B.K. Mehta, Santosh Hegde., R.R. Aggarwal, Anil B. Divan, H.N. Salve, K. Parasaran, Ms. Suman Bose, Dr. Debi Pal, A.B. Rohtagi, R.N. Sachthey, A.C. Gulati, B.B. Sawhney, Mrs. Janaki Ramachandran, section Ganesh, Ravinder Narain, S.Sukuraman, D.K. Sinha, J.R. Das, J. Gupta, Ashok K. Srivastava, H.S. Munjral, section Walia, G. Bansal, D.P. Mukherjee, R. Mohan, Mukul Mudgal, A. Subba Rao, Ms. Lata Krishnamurti, M.N. Shroff, D. Dave, Ms. Deepa Dixit, K.J. John, A.T.M. Sampath, P. Sen, G.S. Chatterjee, Ashok Mathur, M. Haravu, V.J. Francis, V. Subramaniam, P.S. Seetharaman, Ms. Indu Malhotra, A.S. Bhasme, R.B. Misra Dr. B.S. Chauhan, Ajay K. Aggarwal, Ms. Radha Rangaswamy, Anil Sachthey, Badri Nath Sharma, T.V.S.N. Chari, B. Kanta Rao and Ms. Suruchi Aggarwal for appearing parties.
+The Judgments of the Court were delivered by RANGANATHAN, J. Taking a cue from the decision of this Court in Goodyear India Ltd. vs State of Haryana ; , to which I was a party, a contention has been raised, in these appeals and writ petitions, that corresponding provisions of the Gujarat Sales Tax Act, the U.P. Sales Tax Act and the Andhra Pradesh General Sales Tax Act, are ultra vires the powers of the State Legislature insofar as they seek to levy a purchase tax in certain circumstances.
+My learned brother, Jeevan Reddy, J., has discussed the provisions and contentions elaborately and exhaustively in his judgment.
+It is unnecessary for me to set out over again the statutory provisions considered in Goodyear or those which are challenged in these petitions and appeals or the details of the decision in Goodyear as these have been discussed in great detail in the judgment of my learned brother.
+I however, think that I owe it to myself to add a separate judgment as I was a party to Goodyear and explain my views on the provisions presently under challenge in the light of what has already been stated by me in Goodyear.
+So far as the U.P. Sales Tax Act is concerned, I do not think that the impugned provision of the said Act (viz. S.3AAAA, as inserted in 1992 with retrospective effect from 1.4.1974) bears any comparison with the provisions that were considered in Goodyear.
+S.3AAAA is a very simple provision.
+According to its marginal note, its effect is the imposition of a liability to purchase tax on certain transactions.
+This liability is attracted in respect of goods, which are liable to tax at the point of sale to the consumer.
+In other words, the goods in question as such have run through their gamut of sales in the State.
+There will be no more sales in the State of the goods in that form, which can be taxed by the State, whether intra State or inter State, or in the course of export.
+Such goods are then made liable to tax in the hands of a purchaser dealer cum consumer either because he purchases them from a registered dealer by whom tax is not payable or because he purchases them from a person other than a registered dealer i.e. a person who is not accessible to the revenue, whose sales cannot be easily verified or from whom tax may not be easily recovered.
+To put it differently, since the tax is at the point of sale to the consumer, the Legislature, in order to ensure that goods do not escape tax in the State altogether, make the purchaser liable in respect of the last sale in the State of the goods in question, if otherwise the sale of the goods have not borne tax earlier in the State.
+This, on the face of it, is a provision which seems to be perfectly within the legislative competence of the State Legislature.
+The argument urged on behalf of the assessees, however, is that no person can be said to be the "consumer" of the goods in the State unless he consumes the goods himself or utilises the goods (where they are in the nature of raw material) for the manufacture or production of other goods.
+It is urged, therefore, that as no sale can be postulated to be a sale to the consumer unless and until one of the above events happen, the real taxable event is not the purchase of the goods but their consumption, manufacture or production in the State, or their despatch, otherwise than by way of a sale outside the State, whether in the same form or in a manufactured condition.
+It is therefore said that, in substance, the statutory provision is no different from the one considered by us in Goodyear and that the ratio of Goodyear will apply here equally.
+So far as the Andhra Pradesh provision is concerned, the argument is the same, with an added advantage to the assessees that the section brings out more emphatically their point of view.
+Under section 6 A(i), purchase of goods from a registered dealer is subjected to tax because, though the sale or purchase of that item of goods is generally liable to tax, no tax became payable by the registered dealer on the sale because of the circumstances set out in section 5 or 6.
+This corresponds to section 3AAAA(a) of the U.P. Act.
+As against this, clause (ii) of section 6 A deals with purchase of goods liable to tax from a person other than a registered dealer and imposes a liability to pay tax where the goods purchased are consumed by the purchaser either in the manufacture of other goods for sale or otherwise and the goods are disposed of otherwise than by way of sale or despatched outside the State otherwise than in the course of inter State trade or commerce.
+In other words, the real taxable event for the charge under section 6 A(ii), it is said, is not the purchase of goods but the consumption, manufacture or consignment of the same or other goods outside the State.
+If that be so, it is said, the imposition is ultra vires the State Legislature on the principle of the decision in Goodyear.
+So far as the State of Gujarat is concerned, the provisions of section l5B, inserted by a retrospective amendment of 1990, are somewhat different.
+Cutting out certain words not relevant in the present context, it provides that where a dealer, being liable to pay tax under the Act, purchases any taxable goods and uses them in the manufacture of taxable goods, a purchase tax will be levied on the turnover of such purchases.
+Rule 42 E, which was also framed w.e.f. 1.5.90, provides that, where the assessee is a registered dealer and the goods manufactured by him have been sold in the State of Gujarat, he will be entitled to relief in respect of the purchase tax levied under section l5B.
+Here again, it is argued, the provision is tainted because it refers to manufacture of the purchased goods and the rule ensures that no purchase tax is levied if the manufactured goods are sold in the State itself; in other words, the levy comes in only if they are consigned outside the State, attracting Goodyear.
+It will be seen at once that the three provisions under consideration vary from one another.
+S.3AAAA of the U.P. Act does not make the tax conditional on the use or consumption of raw materials purchased or the manner of dealing with the goods manufactured out of such purchases of raw materials.
+Section 15B of the Gujarat Act is slightly different.
+It talks of the use of the goods purchased in the manufacture of other taxable goods but it does not make any reference to the consumption of the goods otherwise or their despatch or consignment.
+The Andhra Pradesh Act is more elaborate and deals with various situations in relation to the purchased goods.
+2Of these, I am of opinion that the provisions of the U.P. and Gujarat Acts are clearly beyond challenge on the grounds put forward by the petitioners.
+The section in the U.P. Act is a very direct and simple provision to the effect that a tax will be levied on purchases made within the State in certain circumstances.
+The ambit of Entry 54 in the State List in the Constitution of India must be interpreted in the widest possible manner.
+The State has full powers to levy a tax with reference to sales or purchases inside the State and to a certain extent even sales made in the course of inter State trade or commerce.
+It certainly comprehends a power to tax the last sale in the State of certain goods.
+I have explained earlier the reason why the incidence of tax in such sales is thrown under the Act on the consumer.
+The tax is nothing but a tax on purchase, pure and simple, well within the scope of the State 's Legislative power.
+The attempt, on behalf of the petitioners, to undertake an analysis of what will eventually happen to the purchased goods where the purchaser is the consumer and, on the basis thereof, to suggest that the legislature really intends to tax consumption, production or consignment is no doubt ingenious but farfetched, artificial and unrealistic.
+It is true that one has to look at not merely the form but the substance of the statute and examine what exactly it is that the State purports to levy a tax in respect of but one should not permit one 's imagination to read a purpose or words into the statute which are not there.
+The Gujarat provision is more careful but makes a mention of the purchased goods being used for manufacture.
+But, as pointed out by Mukharji J. in Goodyear, these are only words descriptive of a class of goods the purchase of which is sought to be brought to tax.
+Here again, the intention of the legislature is to tax, at purchase point, a class of goods viz. goods purchased by a manufacturer.
+It has no concern, unlike the A.P. or Haryana Acts, with what he does with the manufactured goods.
+Presumably the idea is that the manufacturer is able to profit by adding value to the purchased raw material by utilising the infrastructure, fillips or facilities provided in the State to encourage setting up of industries therein and so can afford to pay tax on the purchased raw materials.
+The concession provided by rule 42E is an independent provision relieving him and the public consuming the manufactured goods of additional burden where such goods are sold inside the State and get taxed on the added value.
+In my opinion, there is considerable force in the substance of the contention of these States that these provisions only impose a tax on purchases.
+The marginal title to the provisions indicates that their direct purpose is to levy a tax on purchases effected in the State in certain circumstances.
+The tax is couched as a tax on all goods (in U.P.) and on raw or processing materials and consumable stores (in the State of Gujarat).
+It is designated as a purchase tax.
+It is levied on the turnover of such purchases.
+There is no reference in the U.P. statute to any condition for imposition of the tax except that it should be a sale to the consumer and in the State of Gujarat that it should be a purchase by a manufacturer.
+It is very difficult to read into these provisions any ulterior motive on the part of the States to Levy a tax on use, consumption or consignment in the guise of a purchase tax.
+The language of these two provisions is wholly different from that used in the Haryana and Bombay Acts.
+As I have stated in my judgment in Goodyear, even in the context of those Acts, it may be equally plausible to consider the provision either as a purchase tax or a tax consignment.
+There is no such ambiguity in the language used in these provisioins.
+I have no doubt that, so far as these provisions are concerned, on the face of these acts, the levy is only of a purchase tax.
+Such a levy is clearly within the domain of the State Legislature.
+The Andhra Pradesh Act, however, is different in its arrangement.
+The provisions of section 6 A of this Act are more or less analogous to the provisions of the Haryana Act considered in Goodyear.
+The question, therefore, arises as to whether the decision in Goodyear should be applied in the context of the Andhra Pradesh Act.
+On behalf of the State of Andhra Pradesh and indeed the other two States also it has been contended that Goodyear needs reconsideration.
+Our attention has been drawn to one angle of approach to the statutory provisions in question which had perhaps escaped our notice in the Goodyear case.
+It was pointed out that the sum and substance of these provisions is that no sale or purchase of any goods should go without being taxed atleast once in the State.
+Primarily the tax is levied on sales.
+Where a registered dealer sells his goods he will be liable to tax normally in respect of the taxable goods except where his turnover does not reach up to the minimum prescribed under the Sales Tax Act.
+Sometimes, he may not pay any tax or may pay a concessional rate of tax on his sales because of certain declarations or certificates he may receive that the goods will be used inside the State.
+Again, where goods are purchased from a person other than a registered dealer, the tax at the sales point may escape actual taxation for many reasons: such person may not be a dealer at all or, being an unregistered dealer, the State may not be able to ascertain his whereabouts and ensure that he is taxed or that the tax is collected.
+In cases where no sales tax is paid at the point of sale, it becomes necessary for the State Legislature to provide that the tax will be met by the purchaser.
+Invariably in such cases the legislations attach levy of tax to the last purchase made in the State, of a particular item of goods.
+Of course, the legislation could have simply said that the last purchase in the State will attract tax unless the tax is payable or has been paid at one of the earlier stages of sale and could not have been objected to.
+But that type of legislative wording might lead to difficult questions as to the definition of the expression "last purchase".
+That is why the section imposing purchase tax is worded in the manner in which it has been worded in the Andhra and Haryana Acts.
+As pointed out by the learned counsel for the assessees in the U.P. cases, a person can be said to be the last purchaser of certain goods only when he consumes those goods himself or, in case they are raw materials/stores and the like, unless he uses them in the manufacture of other goods for sale.
+From this category have to be excluded cases where the manufactured goods are either sold in the State or sold in the course of inter State trade or commerce because, in those two instances, the State will be in a position to collect the tax in respect of the sale of the manufactured goods the sale price of which will also include the price of raw materials on which a priori the State could have only got a lesser amount of tax and to tax both would escalate the price and affect the consumer.
+Also excluded are cases where the manufactured goods are exported abroad to earn foreign currency.
+If these situations are borne in mind, one would realise that the language used in the various clauses and phrases used in these legislations is only to levy a tax on the last purchase in the State and not with a view to levy a tax either on the use or consumption of raw materials or on the manufacture or production of manufactured goods or on the despatch of the goods manufactured from the State otherwise than by way of sale.
+In the Haryana case also the statute mentioned these several alternatives but a consideration of section 9(1) (b) of the Haryana Act as well as of the corresponding clause of the Bombay Act were posed in isolation before us and emphasis placed on consignment being a sine qua non of the levy.
+This larger concept, namely, that these various alternatives are not set out in the section with a view to fasten the charge of tax at the point of use, consumption, manufacture, production and consignment or despatch but in an attempt to make clear that what is sought to be levied is a tax on raw materials on the occasion of their last purchase inside the State had not been projected before, or considered by us.
+I am inclined now to think that this is an approach that basically alters the parameters and removes the provision from the area of vulnerability.
+It is true that it is difficult to define a last purchase except with reference to the mode of the use of the purchased goods subsequent to that purchase and in that sense the levy of tax can crystallise only at a point of time when the goods have been utilised in a particular way but will it be correct to say that the power of the State to levy a tax on sales or purchases cannot include a right or power to tax goods at the point of their first sale in the State or their last purchase in the State? The mere fact that the purchase cannot be characterised as a last purchase except by reference to the subsequent utilisation of those goods cannot mean that the taxable event is not the purchase but something else.
+What we are really concerned with in deciding the question of constitutional validity of the levy of a sales tax is to pose the question "Is the tax levied one with reference to the sale or purchase of goods ?" The ambit of the power to levy a tax in respect of sale of goods is very wide and will cover any tax which has a nexus with the sale or purchase of goods including a last purchase in the State.
+This I think is a more appropriate test to be applied in these cases rather than the test of "taxable event" l which is somewhat ambiguous in the context.
+I am not inclined to agree that a tax on the sale or purchase of goods will cease to be so merely because the determination of its character as a last purchase would depend upon certain subsequent events which may be spread over a subsequent period of time.
+In this view of the matter I am inclined to agree with my learned brother Jeevan Reddy, J. that the levy under the Andhra Pradesh Act is also within the legislative competence of the State.
+I am quite conscious that the conclusion I have expressed here as to the vires of the provision impugned is contrary to the conclusion I reached in Goodyear on somewhat analogous provisions.
+I need not, for the purposes of the present cases, express any final conclusion as to whether the conclusion in Goodyear was rightly reached in the context of the provisions of the statutes there considered or would need a second look and fresh consideration in the context of what has been said here.
+But, I should not, I think, hesitate to accept the point of view now presented to us which appeals to me as more realistic, appropriate and preferable, particularly when I see that the view one way or the other would affect the validity of a large number of similar legislations all over India, merely because it may not be consistent with the view I took in Goodyear.
+Consistency, for the mere sake of it, is no virtue.
+If precedent is needed to justify my change of mind, I may quote Bhagwati J. (as he then was) in Distributors (Baroda) P. Ltd. vs Union of India, ; S.C.: "We have given our most anxious consideration to this question, particularly since one of us, namely, P.N. Bhagwati, J. was a party to the decision in Cloth Traders ' case.
+But having regard to the various considerations to which we shall advert in detail when we examine the arguments advanced on behalf of the parties, we are compelled to reach the conclusion that Cloth Traders ' case must be regarded as wrongly decided.
+The view taken in that case in regard to the construction of section 80M must be held to be erroneous and it must be corrected.
+To perpetuate an error is no heroism.
+To rectify it is the compulsion of the judicial conscience.
+In this, we derive comfort and strength from the wise and inspiring words of Justice Bronson in Pierce vs Delameter (A.M.Y. at page 18): "a judge ought to be wise enough to know that he is fallible and, therefore, ever ready to learn: great and honest enough to discard all mere pride of opinion and follows truth wherever it may lead: and courageous enough to acknowledge his errors".
+For the reasons above mentioned, I agree with my learned brother and hold that the impunged provisions under all the three enactments are intra vires the powers of the concerned State Legislature.
+B.P. JEEVAN REDDY, J. Validity of provisions of several States Sales Tax enactments imposing purchase tax fall for our consideration in this group of appeals and writ petitions.
+Initially the matters arising from Andhra Pradesh (writ petitions 655 669/83 Hotel Balaji and Ors.
+vs State of Andhra Pradesh and Civil Appeal No. 10753 57/83 Hindustan Milk Food Manufacturers Limited vs State of Andhra Pradesh) came up for hearing.
+During the course of hearing, counsel for the petitioners/appellants relied upon the decision of this court in Goodyear India Ltd vs State of Haryana (1990) 76 S.T.C. 71 whereas the counsel for the State of Andhra Pradesh challenged the correctness of the said decision and pleaded for re consideration of the said judgment.
+It was then brought to our notice that a large number of matters coming from different States raising inter alia the question relating to the correctness or the ratio Or Goodyear were also posted before us.
+Indeed it was brought to our notice that a bench of three Judges comprising M.N. Venkatachaliah, A.M. Ahmadi, JJ.
+and one of us (B.P. Jeevan Reddy, J.) had directed two matters namely State of Punjab vs Industrial Cables India Ltd., C.A. No. 2990 (N.T.) of 1991 and the State of Punjab vs Hindustan Lever Ltd., C.A.480/91 raising a similar question to be posted before a Bench of three Judges.
+Those matters are also before us.
+It is in this manner that a large number of appeals and writ petitions arising from several States came to be posted before us for hearing.
+During the course of hearing, however, we found that on account of restriction of time it would not be possible for this Bench to hear all the matters.
+Accordingly, we indicated to the counsel that we shall confine our attention only to three State enactments namely, Gujarat.
+Uttar Pradesh and Andhra Pradesh.
+Counsel appearing in these matters have been heard fully.
+This judgment, therefore, deals only with the validity of Section 15B of the Gujarat Sales Tax Act, Section 3 AAAA of Uttar Pradesh Sales Tax Act and Section 6 A of the Andhra Pradesh Sales Tax Act.
+We shall first take up Section 15B of the Gujarat Sales Tax Act.
+PART 11 (GUJARAT) Though several appeals and writ petitions from this State are placed before us, it is sufficient to refer to the facts in Civil Appeal No.3410 (N.T.) of 1992 as representative of the facts in all the matters.
+This appeal is preferred by the writ petitioner against the judgment of a Division Bench of the High (Court of Gujarat upholding the constitutional validity of Section 15B of the Gujarat Sales Tax Act, 1969 as substituted by the Gujarat Sales Tax (Amendment) Act 6 of 1990.
+The Gujarat Sales Tax Act, 1969 (being Act No. 1 of 1970) came into effect on and from May 6,1970, replacing the Bombay Sales Tax Act, which was in force in the State of Gujarat till then.
+Section 15 of the Act levied purchase tax on purchases made by a dealer from a person who is not a registered dealer.
+Section 15A was introduced by amendment Act 7 of 1983.
+It provided for levy of concessional rate of tax in respect of purchase of raw material made by Recognised dealers (who are necessarily manufacturers), provided the goods (raw material) purchased by them fell in Schedule II or III (other than prohibited goods).
+Section 15B was introduced by Amendment Act Or 1986.
+It provided for levy of an additional purchase tax on raw material purchased by a manufacturing dealer in case he used the said raw material for the manufacture of other goods which he despatched to his own place of business or to his agent 's place of business situated outside the State but within India.
+By an Amendment Act made in 1987, the Section was substituted.
+There was, however, no substantial change in the Section.
+Following upon the decision of this court in Goodyear, a batch of writ petitions was filed in the Gujarat High Court challenging the validity of Section 15B on the ground that in truth and effect it levied a consignment tax and, hence was outside the competence of the State Legislature.
+While the said writ petitions were pending, Section 15B was substituted by an Ordinance being Ordinance No.3 of 1990 issued on 20.4.1990.
+Subsequently the Gujarat Sales Tax Amendment Act 6 of 1990 was enacted in terms of and replacing the Ordinance.
+The substituted Section 15(B) was given retrospective effect on and from April 1, 1986, the date on which Section 15(B) first came into force.
+In view of the said Amendment Act, the batch of writ petitions challenging Section 15(B), as it stood prior to its substitution by the 1990 Amendment Act, were dismissed as having become infructuous.
+A fresh batch of writ petitions followed questioning the validity of the substituted Section 15(B), again on the ground that it continued to be, in essence, a consignment tax.
+The contention was that Section 15(B) must be read along with Rule 42(E) of the Gujarat Sales Tax, Rules (inserted by Notification dated 1.5.90) and if so read, the position is the same as was obtaining prior to 1990 Amendment.
+Yet another ground urged was that the levy imposed by the new provision is really in the nature of an excise duty, and thus beyond the competence of the State legislature.
+The assessees placed strong reliance upon the decision of the Division Bench of the Bombay High Court in Hindustan Lever Ltd vs State of Maharashtra, 79 S.T.C. 255 where, the petitioners say, construing a similar provision in the Bombay Sales Tax Act it was held that the levy created by the said provision is in the nature of an excise duty.
+Disagreeing with the Bombay judgment, the High Court dismissed the writ petitions.
+Counsel for the appellant/assessee urged that Section 15B (as substituted in 1990) is no different from the earlier provision.
+The basic scheme of the earlier provision is now split into two provisions namely, substituted Section 15B and Rule 42E, which Rule was inserted into the Rules simultaneously.
+This is a clear instance of colourable legislation and ought not to be countenanced by this court.
+The High Court was in error in justifying the same on the theory that just as it is open to an assesses to reduce the tax burden by resorting to legitimate tax planning, similarly it is open to a legislature to make an appropriate enactment to remain outside the mischief pointed out by the court.
+It is submitted that as rightly held by the Bombay High Court construing a similar provision, the levy created by the substituted Section 15B is really upon the manufacture of goods and, therefore, not a tax referable to Entry 54 of List II of the Seventh Schedule to the Constitution.
+On the other hand, it is argued by F Sri B.K. Mehta, learned counsel appearing for the State of Gujarat that the Legislative competence of the Gujarat Legislature to enact Section 15B ought to be determined on its own language and not with reference to a Rule made by the Government of Gujarat as the delegate of the legislature.
+He submitted that on its own language, Section 15B levies a pure and simple purchase tax on raw material purchased by a manufacturer.
+It is unconcerned with what happens to the manufactured goods.
+For the purpose of Section 15B, it is immaterial whether the manufactured goods are sold inside the State or despatched to a place outside the State of Gujarat or are dealt with or disposed of otherwise.
+The principle of Goodyear has absolutely no application to this provision.
+Counsel also submitted that when the tax is upon the purchase price of the raw material and is relatable to the act of purchase, it cannot he held to be an excise duty which is levied on the act of manufacture and is levied with reference to the value of such manufactured goods.
+For a proper appreciation of the contentions arising herein it would be appropriate to notice a few relevant provisions of the Act.
+Clause (16) in Section 2 defines the expression 'manufacture ' in the following words: "manufacture" with all its grammatical variations and cognate expressions, means producing, making, extracting, collecting, altering, ornamenting, finishing or otherwise processing, treating, or adapting any goods; but does not include such manufactures or manufacturing processes as may be prescribed.
+" Clauses 35 and 36 define the expressions "turn over of purchases" and "turn over of sales".
+It would be enough to notice the definition of the expression "turn over of purchases".
+It reads: "turn over of purchases ' means the aggregate of the amounts of purchase price paid and payable by a dealer in respect of any purchase of goods made by him during a given period, after deducting the amount of purchase price, if any, refunded to the dealer by the seller in respect of any goods purchased from the seller and returned to him within the prescribed period.
+" Section 3 is a charging section.
+Section 15 which levied purchase tax on purchase of certain goods from a person who is not a registered dealer read as follows at the relevant time: 15 Purchase tax payable on certain purchases of goods.
+Where a dealer who is liable to pay tax under this Act purchases any goods specified in Schedule II or III from a person who is not a Registered dealer, then, unless the goods so purchased are resold by the dealer.
+there shall be levied, subject to the provisions of section 9.
+(i) in the case of goods specified in Schedule 11.
+a purchase tax on the turnover of such purchase at the rate set out against them in that Schedule, and (ii) in the case of goods specified in Schedule III, a purchase tax on the turnover of such purchase at a rate equivalent to the rate of sales tax act out against them in that Schedule.
+" The said Section has, however, been substituted by Gujarat Amendment Act 9 of 1992 with effect from 1.4.1992, but since the Amendment is not a retrospective one, it is unnecessary to notice the amended provision.
+Section 15A provides for a concessional rate of tax in the case of purchases of raw material by a recognised dealer provided the goods purchased are those specified in Schedule II or III (other than the prohibited goods) and he issues a certificate contemplated by Section 13(1)(B).
+Prior to the Amendment Act 9 of 1992, Section 15(A) read as follows: "15A. Purchase tax payable on purchases of goods by certain dealers where (i) a recognised dealer purchases any goods specified in Schedule II or III other than prohibited goods, under a certificate given by him under clause (B) of sub section (I) of section 13, or (ii) a commission agent holding permit purchases any goods specified in Schedule II or III other than prohibited goods on behalf of his principal who is recognised under a certificate given by him under clause (C) of sub section (1) of section 13, there shall be levied a purchase tax on the turnover of such purchase at the rate of two paise in the rupee.
+" 8 Since the Amendment of this provision in 1992 is also not retrospective, it is unnecessary to notice the same.
+We may now set out Section 15B both as it obtained prior to Amendment Act 6 of 1990 and as substituted thereby.
+Prior to Amendment it read thus: "Where any dealer liable to pay tax under this Act uses any goods other than declared goods purchased by him or through commission agent as raw or processing materials or consumable stores (irrespective of whether such goods are prohibited goods or not) in the manufacture of taxable goods and despatches any of the goods so manufactured to his own place to business or to his agents place of business situate outside the State hut within India such dealer will be liable to pay, in addition to any tax paid or payable under other provisions of this Act, a purchase tax at the rate of four paise in the rupee on the purchase price of such raw or processing materials or consumable stores used in the goods so manufactured and despatched and accordingly he shall include the purchase price thereof in his turnover of purchases in his declaration or return under section 40 which he is to furnish next thereafter.
+Provided that where the raw materials so used is bullion or specie, the purchase tax payable on such bullion or specie under this section shall not exceed the aggregate of the rates of sales tax and the general sales tax payable on bullion or specie.
+" After it is substituted in 1990 with retrospective effect from 1.4.1986, this Section reads thus "Where a dealer who being liable to pay tax under this Act purchases either directly or through a commission agent any taxable goods (not being declared goods) and uses them as raw or processing materials or consumable stores, in the manufacture of taxable goods, then there shall he levied in addition to any tax levied under the other provisions of this Act, a purchase tax at the rate of (a) two paise in a rupee on the turnover of such purchases made during the period commencing on the 1st April, 1986 and ending on the 5th August, 1988; and (b) four paise in rupee on the turnover of such purchases made at any time after the 5th August, 1988, provided that where the raw materials purchased for use in the manufacture of goods are bullion or specie, the rate of purchase tax on the turnover of purchases of such raw materials shall not exceed the aggregate of the rates of sales tax and general sales tax leviable on bullion or specie under Entry I in Schedule III.
+" Inasmuch as strong reliance is placed by the assessee/appellants upon Rule 42E inserted by G.S.R. 1090 (64) T.H. dated 1.5.1990, it would he appropriate to read the said Rule here: "42 E. Drawback, set off or refund of purchased Tax under section 15B: 42 E.
+In assessing the purchase tax levied under section 15B and payable by a dealer (hereinafter referred to as "the assessee") the Commissioner shall subject to conditions of rule 47 in so far as they apply, and further conditions specified below, grant him a draw back, set off or as the case may be refund of the whole of the purchase tax paid in respect of purchase of goods effect on and from the 1st April, 1986 used by him, as raw materials, processing materials, or consumable stores, in the manufacture of taxable goods.
+" Conditions: (1) the assessee is a registered dealer, (2) the goods purchased are taxable goods other than declared goods, (3) the said goods have been used by the assessee within the State as raw materials or processing materials or consumable stores in the manufacture of taxable goods, (4) the goods so manufactured have been sold by the assessee in the State of Gujarat.
+" In view of the retrospective amendment of Section 15B, it may not be necessary to refer to Section 15B as it obtained prior to the 1990 amendment except to point out that in material particulars, it was similar to Section 13AA of Bombay Sales Tax Act, which was considered in Goodyear and held to he outside the legislative competence of the State legislature.
+The correctness of the ratio in Goodyear has been discussed by us in Part V. Section 15 makes the purchaser liable to pay the tax provided thereunder in case he purchases the goods mentioned in Schedule II and III from a person who is not a registered dealer.
+If, however, the goods so purchased are resold by him, he is not liable to pay the said tax.
+Section 15A applies only to Recognised dealers.
+A recognised dealer is defined in section 32 in short, it means a dealer who is a manufacturer and whose turnover of sales or purchases exceeds the specified limit.
+If the recognised dealer purchases goods specified in Schedule II or III (other than prohibited goods) and issues a certificate contempleted by Section 13 (1)(B), he is entitled to pay purchase tax on a concessional rate.
+Then comes Section 15B which provides for levy of an additional purchase tax.
+An analysis of the Section yields the following ingredients: (i) where a dealer who being liable to pay tax under Act; (ii) purchases either directly or through a commission agent; (iii) any taxable goods not being declared goods and (iv) uses them as raw or processing materials or as consumable stores in the manufacture of taxable goods (v) then there shall be levied in addition to any tax levied under other provisions of the Act, a purchase tax at the rates specified.
+It is thus clear that section 15B does not speak of nor does it refer in any manner to the movement sale or disposal of manufactured goods.
+According to this section, it is immaterial whether the manufactured goods are sold within the State or dealt with in some other manner.
+It is equally immaterial whether the manufacturer consigns them to his own depots or the depots of his agents outside the State.
+Therefore, the ratio of Goodyear keeping aside its correctness for the time being has absolutely no application.
+The Haryana and Bombay provisions considered in the said decision spoke of the manufactured goods being disposed of within the State otherwise than by way of sale or despatched out of State otherwise than in the course of inter State trade or commerce or in the course of export within the meaning of Section 5(1) of the .
+Similarly the Bombay provision spoke of the manufactured goods being sent to the depots of the manufacturer or his agents outside the State of Maharashtra.
+It was these features which weighed with this court in characterising the tax as one in the nature of a consignment tax (This aspect has been dealt with in Since the said feature is absent in the impugned provision, we hold, agreeing with the High Court, that the tax imposed by Section 15B cannot be characterised as a consignment tax.
+The main contention or the appellants, however, is that Section 15B should not be read in isolation but in conjunction with Rule 42E which was introduced in the Rules simultaneously with the amendment of Section 15(B) and which Rule indeed supplements Section 15B.
+They say that if both the provisions are read together, the effect and consequence is the same as that of Section 15B as it obtained prior to 1990 amendment, which means the tax is really upon the consignment of manufactured goods.
+We shall first notice what Rule 42E provides.
+It says that, in assessing the purchase tax levied under Section 15B, the assessee shall be granted a drawback, set off or as the case may be, refund of the whole of the purchase tax paid in respect of purchase of goods effected on or after 1.4.1986 and which goods have been used by him as raw material, processing material or as consumable stores in the manufacture or taxable goods subject however to the conditions prescribed in the said Rule and further subject to the conditions specified in Rule 47 in so far as they are applicable.
+The four conditions specified in the Rule 42E are: (1) the assessee is a registered dealer, (2) the goods purchased are taxable goods other than declared goods, (3) the said goods have been used by the assessee within the State as raw materials or processing materials or consumable stores in the manufacture of taxable goods, (4) the goods so manufactured have been sold by the assessee in the State of Gujarat.
+Condition No. 4, emphasised by the assessees says that the benefit of set off/drawback/refund shall be available only if the manufactured goods are sold within the State of Gujarat.
+According to them it means that, where the manufactured goods are consigned by the manufacturer to his own depots or to his agents, depots outside the State of Gujarat, the benefit of drawback etc.
+will not be available, which means that purchase tax shall be levied upon the purchase of raw material.
+This, say the appellants, is precisely what the old Section 15 B provided for.
+According to them, the present Section 15B read with Rule 42E is nothing but a re incarnation of Section 15B as it stood prior to 1990 Amendment Act and falls squarely within the ratio of Goodyear This argument raises in turn the question: how far is it permissible to refer to the Rules made under an Act while judging the legislative competence of a legislature to enact a particular provision? The necessity and significance of the delegated legislation is well accepted and needs no elaboration at our hands.
+Even so, it is well to remind ourselves that Rules represent subordinate legislation.
+They cannot travel beyond the purview of the Act.
+Where the Act says that Rules on being made shall be deemed "as if enacted in this Act", the position may be different.
+(It is not necessary to express any definite opinion on this aspect for the purpose of this case).
+But where the Act does not say so, the Rules do not become part of the Act.
+Sri Mehta relies upon the following statement of law in Halsbury 's Laws of England (3rd Edn.) Vol. 36 at page 40]: "Where a statute provides that subordinate legislation made under it is to have effect as if enacted in the statute such legislation may be referred to for the purpose of construing a provision in the statute itself.
+Where a statute does not contain such a provision, and does not confer any power to modify the application of the statute by subordinate legislation, it is clear that subordinate legislation made under the statute cannot after or vary the meaning of the statute itself where it is unambiguous, and it is doubtful whether such legislation can be referred to for the purpose of construing an expression in the statute, even if the meaning of the expression is ambiguous." He says that this statement of law has been referred to with approval by Hegde, J. in his opinion in J.K Steel Ltd. v Union of India A.I.R. 1970 S.C. 1173.
+Though the opinion of Hegde, J. is a dissenting one, he submits, the majority has not held to the contrary on this aspect.
+He also relies upon the English decisions referred to in the opinion of Hegde, J. and points out that no decision of this court has expressed any opinion on the subject, a fact noted by Hegde, J. He commends the view taken by Hegde, J. for our acceptance.
+Sri Mehta points out further that Section 86 which confers the Rule making power upon the Government does not say that the Rules when made shall be treated as if enacted in the Act.
+Being a rule made by the Government, he says, Rule 42E can be deleted, amended or modified at any time.
+In such a situation, the legislative competence of a legislature to enact a particular provision in the Act cannot be made to depend upon the Rule or Rules, as the case may be, obtaining at a given point of time, he submits.
+We are inclined to agree with the learned counsel.
+His submission appears to represent the correct principle in matters where the legislative competence of a legislature to enact a particular provision arises.
+If so, the very foundation of the appellants ' arguments collapses.
+Even if we agree with the appellants and read Rule 42E along with Section 15(B), they cannot succeed.
+Rule 14E provides for set off etc.
+in case the manufactured goods are sold within the State of Gujarat.
+It no doubt means that set off etc.
+is not available if the manufactured goods are disposed of otherwise than by way of sale or are consigned to manufacturer 's own depots (or to the depots of his agents) outside the State of Gujarat.
+What in effect the State says is this: "Raw material when purchased is taxable but I won 't tax the raw material if you sell the goods manufactured out of such raw material within the State because I derive larger revenue there; I do not want to tax both the raw material and the manufactured goods, in the interest of trade and public.
+But if you dispose of the manufactured goods in some other manner, I will tax the purchase of raw material because there is no reason why I should forego the purchase tax due on raw material, when I am not getting any revenue from your method of disposal or despatch of manufactured products.
+" There is nothing objectionable in the State saying so.
+It can indeed rely on the principle of the decision of this court in Godrej & Boyce Mfg. Co. vs Commissioner of Sales Tax, reported in (1992) 4 J.T. S.C. 317.
+It is difficult to see how can it be said that by reading Rule 42E into Section 15B, the levy becomes a consignment tax.
+In any event, the ratio of Goodyear cannot be accepted as good law for the reasons mentioned in part V.
+We are equally not satisfied with the argument that the Gujarat legislature has resorted to a device, a stratagem to circumvent the decision or this court or that it is an instance of fraud on power what is sometimes referred to as `colourable legislation '.
+That a legislature is empowered to amend a provision to remove the defect pointed out by a court is well accepted.
+So far as the Gujarat Act is concerned, it was never the subject matter of an adverse decision either by this court or the Gujarat High Court.
+Writ Petitions were no doubt pending challenging the validity of Section 15B as it then stood.
+It was perfectly open to the Legislature to act to set its house in order to obviate a possible adverse verdict applying the ratio of Goodyear.
+The question is whether the provision now enacted, with retrospective effect, is beyond the legislative competence of Gujarat Legislature? It not, no further question arises.
+So far as the retrospectivity given to Section 15B by the 1990 Amendment Act is concerned, it is hardly open to doubt in the light of several decisions of this court commencing from Ramakrishna vs State of Bihar, ; This is not even a case where the old provision was struck down by a court.
+The period or retrospectivity covers only the period during which Section 15B has been in force.
+The levy was already there.
+In any event, in view of our conclusion that Goodyear does not represent the correct position in law, this aspect has really no relevance.
+It is then contended that the levy is really in the nature of excise duty or use tax inasmuch as it attaches not on purchase of goods but on their use in manufacture of other goods.
+This argument in our opinion misses the true nature of tax.
+It is an additional tax on the purchase of raw material used in manufacture of other goods.
+A certain concession is given to manufacturers (recognised dealers) in purchase of certain types of raw material (Section 15A); an additional purchase tax is levied under Section 15B; and in certain situations, this tax is refunded or set off, as the case may be under Rule 42 E.
+All these provisions are intended to encourage industry and to derive revenue at the same time.
+Counsel for the assessees placed strong reliance upon the word "then" occurring in the section and its placement.
+He emphasised that the tax is payable only when the dealer (1) purchases the goods and (2) uses them in the manufacture of other goods.
+It is not possible to agree.
+Heading of Section 15B is "Purchase tax on raw or processing materials or consumable stores used in manufacture of goods in certain cases.
+" The Section, read as a whole, is applicable only to those goods which are used in the manufacture of other goods.
+The levy is upon the purchase price of raw material and not upon the value of the manufactured products.
+Entry 54 of List II must receive a liberal construction, being a legislative entry.
+The Legislature cannot be confined to only one form of levy.
+So long as the levy retains the basic character of a tax on sale, the legislature can levy it in such mode or in such manner as it thinks appropriate.
+As affirmed by Mukharji, J. in Goodyear, the well established principles in such matters is "that reasonable construction should be followed and literal construction may be avoided if that defeats the manifest object and purpose of the Act.
+" The legislature must he presumed to know its limitations and acted within those limits.
+Transgression must be clearly established, and is not lo be lightly assumed.
+For the very same reasons, the argument that it is a use tax also fails.
+In essence, the provision is akin to the one considered by this court in Andhra Sugars Ltd. & Anr.
+vs The State of Andhra Pradesh & Anr., 21 S.T.C. 212.
+For the above reasons, the appeals and writ petitions are dismissed with no order as to costs.
+PART III (UTTAR PRADESH) These Civil Appeals and Writ Petition are filed by the Tribeni Tissues Limited, Varanasi, Uttar Pradesh.
+The Appeals are preferred against the Judgment of a learned Single Judge of Allahabad High Court allowing Sales Tax Revisions No.325, 327 and 328 of 1989 preferred by the Commissioner of Sales tax, Uttar Pradesh against the orders of the Sales tax Appellate Tribunal.
+The assessment years concerned are 1978 79 to 1981 82.
+The appellant is a dealer registered under the U.P. Sales tax Act, having an office at Varanasi.
+It has a paper mill at Calcutta.
+The appellant purchases sun hemp, raw jute, old hemp rope cuttings, Old Jute rope cuttings and jute cuttings etc.
+at Varanasi and sends them to the paper mill at Calcutta for being used as raw material.
+These purchases are made by the appellant from farmers, `kabadis ' and other persons who are not registered dealers.
+The turnover relating to such purchases was subjected to purchase tax under section 3 AAAA by the assessing authorities which the appellant objected to.
+The Tribunal, by a majority of 2:1 held in favour of the appellant against which the Commissioner preferred revisions before the High Court.
+Section 3AAAA read as follows at the relevant time.
+"3 AAAA.
+Liability to purchase tax on certain transactions Where any goods liable to tax at the point of sale to the consumer are sold to a dealer but in view of any provision of this Act no sales tax is payable by the seller and the purchasing dealer does not resell such goods within the State or in the course of inter State trade or commerce, in the same form and condition in which he had purchased them the purchasing dealer shall subject to the provisions of Section 3, be liable to pay tax on such purchases at the rate at which tax is leviable on sale of such goods to the consumer within the State; Provided that if it is proved to the satisfaction of the assessing authority that the goods so purchased had already been subjected to tax or may be subjected to tax under Section 3 AAA, no tax under this section shall be payable.
+" The section subjected the purchase of "goods liable to tax at the point of sale to the consumer" to purchase tax payable by the purchasing dealer, in a case where the selling dealer was not liable to pay the sales tax on such sale.
+Purchase tax was payable at the same rate as the sales tax.
+If, however, the purchasing dealer resold such goods within the State or in the course of inter State trade or commerce, he was not liable to pay the purchase tax.
+The expression "goods liable to tax at the point of the sale to the consumer" is explained in Section 3 AAA.
+Section 3A prescribes the rates of tax.
+As it stood at the relevant time, sub sections (1) and (2) prescribed different rates for different goods.
+Sub section (2A) which alone is relevant herein, read as follows: "3A (2A): The turnover in respect of goods other than those referred to in sub sections (1) and (2) shall be liable to tax at the point of sale by the manufacturer or importer at the rate of seven per cent, provided that the State Government may from time to time by notification in the Gazette modify the rate or point or tax on the turnover in respect of any such goods with effect from such date as may be notified in that behalf, so however.
+that the rate does not exceed seven per cent.
+(The goods concerned herein, according to both the parties, fall within sub section (2A) of Section 3A).
+The State Government issued a notification dated 30.5.1975 in terms of and as contemplated by the proviso to sub section (2A) of Section 3 A declaring that with effect from June 1, 1975, the turnover in respect of goods specified in column 2 of the Schedule to the notification shall be liable to tax at the point of sale and at the rate specified respectively in columns (3) and (4) thereof.
+The Schedule, in so far as relevant may be set out: "SCHEDULE `M ' stands for sale by manufacturer in Uttar Pradesh.
+`I ' stands for sale by the Importer in Uttar Pradesh.
+Description of goods Point at which Rate of tax No. tax shall be levied (Items No.1 to 14 omitted as unnecessary.
+Old, discarded, unservice able or obsolete machinery, stores or vehicles including waste products except cinder, coal ash and such items as are included in any other notification issued under the Act.
+(Item Nos. 16) to 25 omitted as sale to consumer 5 per cent unnecessary.) 26.
+Jute and Hemp Goods M or I 4 per cent The controversy before the High Court was a limited one.
+It was: "whether the said goods will fall under the entry at SI.
+No. 15 of the notification dated 30th May, 1975 as contended by the learned standing counsel (for the State of Uttar Pradesh) or under SI.
+No. 26 as Jute and Hemp goods under the notification dated 1st October, 1975 as urged on behalf of the assessee." (Quoted from the judgment of the High Court.) The learned Judge held that the goods fall under item No.15 and accordingly allowed the revisions filed by the Commissioner.
+The correctness of the Judgment of the High Court is questioned in these Civil Appeals.
+While the Civil Appeals were pending in this Court, a Division Bench of the Allahabad High Court held in C.M.W.P.No.168 of 1983 and batch (decided on 3rd April, 1991) that Section 3 AAAA was ultra vires the legislative competence of the legislature of Uttar Pradesh and, therefore, void.
+The Division Bench followed and applied the ratio of Goodyear and held that under the said provision the taxable event is not the purchase of the goods by the purchasing dealer but the subsequent event namely use of said goods in the manufacture of other goods and their despatch without effecting a sale within the State of Uttar Pradesh to a place outside the Uttar Pradesh.
+To get over the said decision and to remove the defect pointed out therein, the Governor of Uttar Pradesh issued an Ordinance being Ordinance No. 45 of 1991 on 12th December, 1991 substituting Section 3 AAAA in its entirety with effect from April 1, 1974.
+The said Ordinance has since been replaced by U.P. Sales tax (Amendment) Act 8 of 1992.
+Section 3 AAAA as substituted by the aforesaid Amending Act reads thus: "3 AAAA.
+Liability to purchase tax on certain transactions.
+(1) Except as provided in sub section (2) and subject to the provision of Section 3, every dealer, who purchases any goods liable to tax at the point of sale to consumer (a) from any registered dealer in circumstances in which no tax is payable by such registered dealer, shall be liable to pay tax on the purchase price of such goods at the same rate at which, but for such circumstances, tax would have been payable on the sale of such goods; (b) from any person other than a registered dealer, whether or not tax is payable by such person, shall be liable to pay tax on the purchase price of such goods at the same rate at which tax is payable on the sale of such goods.
+(2) Exemption shall be granted in the tax payable under sub section (1) to the extent of the amount or tax, (a) to which the goods purchased from a registered dealer have already been subjected or may be subjected under any provision of this Act or the ; (b) already paid in respect of the goods purchased from any person other than a registered dealer; (c) on the sale of goods liable to be exempted under Section 4 A; (d) to which the sale of dressed hides and skins (or tanned leather) and ginned cotton obtained from raw hides and skins and raw cotton so purchased or rice obtained from paddy so purchased during the period commencing on September 2, 1976 and ending with April 30, 1977, are liable under any provision of this Act or the .
+" Writ Petition No. 175 of 1992 is preferred questioning the constitutional validity of the said provision.
+We shall first deal with Civil Appeals.
+According to the statement of facts contained in the Judgment of the High Court, the appellant purchased "sun hemp, raw jute, old hemp rope cuttings, old jute rope cuttings and jute cuttings etc.
+" Item No. 26 of the notification dated October 1, 1975 speaks of "jute and hemp goods".
+The appellant inter alia purchased "sunhemp" and "raw jute".
+Certainly they do not fall under item 26 of the Schedule.
+Coming to "old hemp rope cuttings, old jute rope cuttings and jute cuttings" they fall, by their very nature more properly under item 15 because admittedly they are discarded, worn out, and waste material.
+It would he rather odd to call them "jute the hemp goods" in the presence of item (15).
+The High Court was, therefore, justified in holding that the goods purchased by the appellant are properly relatable to item 15 and not to item 26 of the notification.
+The learned counsel for the appellant urged that item 15 is confined only to old, discarded, unserviceable and obsolete "stores" which in the context means "stores" maintained by a factory or industry.
+Having regard to the language of item 15, he submitted.
+it does not take in old discarded material coming from other sources We see no warrant for this restricted reading of item 15.
+Be that as it may, once the said goods do not fall under item 26, as held by us, they must fall under item 15, since it is not suggested that there is any other item which takes in these goods.
+The (Civil Appeals accordingly fail and are dismissed.
+No costs.
+Writ Petition No. 175 of 1992.
+In view of the fact that Section 3 AAAA has been substituted by the 1992 Amendment Act with retrospective effect from April 1, 1974, it is not really necessary for us to deal at any length with the Section as it stood prior to the said amendment or with the correctness of the judgment of the Division Bench of the Allahabad High Court declaring the same as beyond the legislative competence of the U.P. Legislature.
+Suffice it to say that the decision of the Division Bench closely follows and applies the ratio of Goodyear which according to us does not represent the correct position in law as explained in Part V. Coming to Section 3 AAAA as it now stands, an analysis of the Section yields the following ingredients: A. (i) A dealer who purchases any goods liable to tax at the point of sale to the consumer, (ii) from any registered dealer in circumstances in which no tax is payable by such registered dealer, (iii) the purchasing dealer shall he liable to pay tax on the purchase price of such goods at the same rate at which the tax would have been payable on the sale of such goods.
+B. (i) A dealer who purchases any goods liable to tax at the Joint of sale to consumer, (ii) from any person other than a registered dealer, whether or not such person is liable to pay the tax on such sale, (iii) the purchasing dealer shall be liable to pay tax on the purchase price of such goods at the same rate at which tax is payable on the sale of such goods.
+The purchasing dealer is, however, entitled to be exempted from the tax payable under the above two heads to the extent of the amount of tax mentioned in clauses (a), (b), (c) and (d) of sub section (2).
+Clause (a) speaks of the tax paid or payable under any of the provision of U.P. Act or C.S.T. Act.
+Clause (b) speaks of the tax already paid, if any, in respect of goods purchased from any person other than a registered dealer.
+Clause (c) refers to sale of goods entitled to exemption under section 4A and clause (d) refers to sale of dressed hides and skins.
+In short, the scheme of the section is this: (I) if a dealer purchases the goods liable to tax at the point of sale to the consumer from any registered dealer who is not liable to pay tax on such sale, the purchasing dealer shall pay such tax.
+If, however, the purchasing dealer establishes that the goods purchased by him have already been subjected to or may be subjected to tax under the U.P. Act or , he will get an exemption to that extent.
+(2) If the said goods are purchased from a person other than a registered dealer the purchasing dealer shall pay the tax payable on sale of such goods.
+If, however, he proves that tax payable has been paid, either wholly or partly, by the seller, the tax payable by the purchasing dealer shall be exempted to that extent.
+(3) Similar exemption will be available to the purchasing dealer in case he establishes any of the facts mentioned in clauses (c) and (d) of sub section (2).
+The central idea is that no transaction of sale (of goods taxable at the point of sale to consumer) should go untaxed.
+Either the seller pays the tax or the purchaser pays.
+It is for achieving this central purpose that Section 3 AAAA has been enacted providing for several situations.
+It would be immediately evident that section that Section 3 AAAA does not speak of and does not refer in any manner to the user of the goods purchased.
+It is immaterial whether the goods purchased are used in the manufacture of other goods or dealt with otherwise.
+Much less does it speak of the manner in which the goods manufactured out of such purchased goods, if any, are dealt with.
+The exemptions provided in sub section (2) are equally un related to the above aspects.
+Sub section (1) is clear and simple.
+The tax becomes payable by the purchasing dealer in the two situations contemplated by clauses (a) and (b) of the said sub section.
+If he can establish any of the facts mentioned in clauses (a) to (d) of sub section (2), he gets an appropriate exemption.
+Otherwise not.
+We are, therefore, unable to see any room for contending that the tax imposed by the said section is in the nature of consignment tax or a use or consumption tax.
+Simply because the petitioner chooses to take the goods purchased by him out of the State, in the same form and condition or otherwise, for being used as raw material in his factory at Calcutta, makes no difference to the levy.
+The validity of the levy cannot depend upon what a particular dealer or person chooses to do with the goods.
+It was argued for the petitioner that sub section (2) of Section 3 AAAA places a heavy and uncalled for burden upon the purchasing dealer; that it is not practicable for the purchaser to establish that the selling person (other than the registered dealer) has paid the tax or not.
+It is submitted that the petitioner purchases his goods from hundreds of persons who are not registered dealers and it cannot reasonably be expected of the petitioner to gather the particulars of or from all such persons.
+We are unable to appreciate this contention.
+A person other than a registered dealer is not amenable to the discipline of the Act.
+He cannot indeed collect any tax [Section 8(A) (2) and, therefore, will not, justified in presuming.
+If, however, in any case it is proved that such person has paid the tax, the purchasing dealer will get an exemption to that extent.
+It a benefit is claimed by the purchasing dealer, it is for him to prove the fact which enables him to claim the benefit.
+That burden cannot be passed on to any one else.
+So far as registered dealers are concerned, all that the purchasing dealer need prove is that the said goods have already been or may be subjected to tax under State Act or .
+On this score, we see no difficulty for the purchasing dealer.
+From the bill given by the selling dealer, the purchasing dealer can prove the payment.
+Or he can simply prove, as a matter of law that the said goods are liable to be taxed under any other provision of the Act or under the .
+We are equally unable to see any vagueness in the provision nor is it established that any such vagueness is operating to the prejudice of the petitioner.
+In this view of the matter, it is unnecessary, strictly speaking, to consider whether the present Section 3 AAAA is in effect and substance the same as the one obtaining prior to 1992 Amendment Act.
+For the sake of completeness, however, we may mention that under Section 3 AAAA (before it was substituted in 19920 tax was payable by the purchasing dealer where he purchased goods liable to tax was payable by the purchasing dealer where he purchased goods liable to tax at the point of sale to the consumer in circumstances where no tax is payable by the seller, provided he did not resell the said goods, in the same form and condition, within the State or in the course of inter State, trade or commerce.
+The section was understood by the Division Bench in the following manner: " 23.
+That brings us to the vital question as to which are the circumstances in which sale of the goods purchased within the State or in the course of inter State trade and commerce in the same form and condition in which the dealer purchased the goods, may be rendered impossible.
+To our mind, keeping in view the usual course of business, the normal possibilities seem to be these: 1. use and consumption of the goods purchased by the purchasing dealer in the manufacture of some other taxable goods within the State; 2. despatch of the manufactured goods, without sale, outside the State otherwise than in the course of inter State trade and commerce; 3. despatch of the goods out of the territory of India pursuant to a contract of sale, i.e. despatch in the course of an export sale; 24.
+These then are the activities or transactions that constitute the taxable events on the happening of which the tax would be immediately attracted, that is to say, the tax in question becomes exigible at these points.
+Once these points are reached the possibility of the sale of goods purchased within State or in the course of inter State trade and commerce in the same form and condition, shall stand excluded.
+The fourth and the last condition envisaged by Section 3 AAAA set out hereinabove necessary for attracting the levy would also stand fulfilled.
+It is only on the happening of these events that the taxing authority can reach the conclusion that the purchasing dealer has be come liable under Section 3 AAAA.
+" With respect we find ourselves unable to agree with the above understanding of the section.
+All that the section provided was: (i) where the goods liable to tax at the point of sale to the consumer are sold to a dealer (ii) in circumstances in which no sales tax is payable by the seller and (iii) the purchasing dealer does not re sell the said purchased goods within the State or in the course of inter State trade or commerce (iv) the purchasing dealer shall be liable to pay the tax which would have been payable by the seller.
+(v) If however, it was proved that the said goods have already suffered tax under Section 3 AA, no purchase tax was payable under Section 3 AAAA.
+It is obvious that the section did not speak or the purchased goods being used in the manufacture of other goods nor of the manner of disposal or despatch of such manufactured goods.
+The only two conditions stipulated (which conditions are not to he found in the present Section 3 AAAA) were that if the purchased goods are sold within the State or sold in the course of inter State trade or commerce, the tax , under it is not payable.
+This is for the simple reason that in both those contingencies, the State would get the revenue (in one case under the State Sales Tax Act and in the other case, under the ).
+The policy of the legislature is not to tax the same goods twice over.
+The fact that in a given case, the purchased goods are consigned by the purchaser to his own depots or agents outside the State makes no difference to the nature and character of the tax.
+By doing so, he cannot escape even one time tax upon the goods purchased, which is the policy of the Legislature.
+The tax was directed towards ensuring levy of tax atleast on one transaction of sale of the goods and not towards taxing the consignment of goods purchased or the products manufactured out of them.
+The difficulty has really arisen because of the attempt to look to the provisions of Section 3 AAAA through the prism of Goodyear.
+There is a substantial and qualitative difference between the language employed in Section 9 of Haryana Act and Section 13 AA of Bombay Act and in Section 3 AAAA of U.P. Act (as it stood prior to 1992 Amendment Act) or for that matter as it stands now.
+These basic differences cannot be ignored.
+Constitutionality of Section 3 AAAA ought to be judged on its own language and so judged, the Section, both before and after the 1992 Amendment, represents a perfectly valid piece of legislation.
+It is relatable to and fully warranted by Entry 54 of List II of the Seventh Schedule to the Constitution.
+PART IV (ANDHRA PRADESH) Writ Petitions No. 655 669 of 1983 are filed by Hotel Balaji and 14 other hotels/restaurants for issuance of a writ, order or direction directing the respondents viz., State of Andhra Pradesh and its Sales Tax Authorities not to levy and collect purchase tax on milk @ 4% under Section 6 A as also the surcharge tax @ 10% of the tax.
+According to the petitioners such a levy violates Article 14 as also the fundamental right guaranteed to them by sub clause (g) of clause (1) of Article 19 of the Constitution.
+Civil Appeal Nos.
+10753 57 of 1983 are directed against the judgment and order of a Division Bench of the Andhra Pradesh High Court upholding the validity of Section 6 A of the Andhra Pradesh General Sales Tax Act.
+The case of the petitioners in the writ petitions is this: They purchase the milk required by them both from registered dealers as well as persons other than registered dealers.
+The authorities are collecting purchase tax @ 4% under Section 6 A from the petitioners which is illegal in view of the fact that the sale of fresh milk is exempted from tax by a notification issued by the Government of Andhra Pradesh under Section 9 of the Act being G.O.Ms.
+No.1091 dated 10.6.1957.
+Because of the said exemption notification not only the seller is exempted but also the purchaser.
+In some cases, the petitioners purchased milk from registered dealers like Andhra Pradesh Dairy Development Corporation which is exempted from sales tax by virtue of a notification issued under Section 9.
+In such cases, the tax is sought to be levied upon the petitioners which is equally illegal.
+The milk purchased by the petitioners is being consumed in preparing and serving to consuming public tea, coffee and other eatables.
+The tax levied under Section 6 A is really not upon the purchase but upon the use and consumption.
+G.O.Ms.
+No.1091 dated 10.6.1957 as originally issued read as follows: "In exercise of the power conferred by sub section (1) of Section 9 of the Andhra Pradesh General Sales Tax Act 1957 (Andhra Pradesh Act 6 of 57), the Governor of Andhra Pradesh hereby exempts from the tax payable under the said Act the sales of following goods: (1) and (2) omitted as unnecessary; (3) fresh milk, curd and butter milk." By G.O,Ms. No. 60 (Revenue) dated 10.1.1961, item (3) was substituted as follows: "fresh milk, curd and butter milk sold by dealers exclusively dealing in them." By G.O.Ms.
+No. 1786 dated 20.11.1962, the words "and their byeproducts realised by utilisation of surpluses thereof were added at the end of the entry.
+By yet another amendment, the word "bye products" was substituted by the word "products".
+Thus, at the relevant time item 3 of the said notification read as follows: "fresh milk,.curd and butter milk sold by dealers exclusively dealing in them and their products realised by utilisation of surpluses thereof.
+" It is also brought to our notice that by G.O.Ms.
+No. 669 dated 26.5.1975, the Government of Andhra Pradesh exempted the sale of pasturised milk by the Andhra Pradesh Dairy Development Corporation from the levy of tax payable under the said Act with effect from the 1st day of May, 1975.
+In the Civil Appeals the appellant is Hindustan Milk Food Manufacturers Ltd. They purchased milk mainly from persons other than registered dealers which they utilised in manufacture of various products.
+Its products are sold not only within the State of Andhra Pradesh but also in other States of the country.
+It has an office at Dhawaleshwaram in East Godavari Distt.
+of Andhra Pradesh.
+It is registered as a dealer under the Act.
+In the course of their assessment proceedings for the assessment year 1979 80 (among other assessment years) the appellant contended that the milk having been exempted by virtue of a notification issued under Section 9 is not taxable and that levy of purchase tax is incompetent.
+They questioned the constitutionality of Section 6 A.
+The Assessing authority overruled the said objections and levied the purchase tax on the turnover of milk purchased by the appellant.
+The matter was brought to the High Court which, as stated above.
+negatived the challenge to the constitutionality of the provision .
+So far as the exemption notification in G.O.Ms.
+No. 1091 dated 10.6.1957 is concerned, it must be noticed that what was exempted there under was the tax payable on the "sale of fresh milk sold by dealers exclusively dealing in them.
+So far as agriculturists are concerned, they are not dealers at all by virtue of Explanation II to the definition of "dealer" H contained in clause (e) of Section 2.
+The notification has, therefore, no application to sale of milk by them.
+Since the purchase by Hindustan Milk Food is almost wholly from such agriculturists, it cannot take advantage of the said notification.
+If, however, any milk is purchased by the appellant or the writ petitioners from dealers exclusively dealing in milk, they would be liable to pay the purchase tax only in cases where the selling dealer is not liable to pay the tax either because of an exemption notification or otherwise.
+A contention was urged before us that the milk was not at all taxable under the Act.
+It was submitted that milk is not mentioned in any of the Schedules I to VI appended to the Act.
+This argument in our opinion proceeds upon a mis apprehension of the scope and scheme of Section 5, as we shall presently demonstrate.
+Fresh milk was taxable as general goods under Section 5(1) of the Act before it was amended by Amendment Act 4 of 1989.
+After the coming into force of the said Amendment Act, it falls under Schedule VII, (which was introduced simultaneously with the said Amendment Act) and which takes in all goods other than those specified in first to sixth Schedules.
+Milk was subject to multi point tax prior to the said Amendment Act whereas after the said amendment if has become taxable only at single point namely, point of first sale in the State.
+If fresh milk was not at all taxable under the Act, there was no necessity to issue notifications exempting its sale in certain situations.
+Section 6 A was inserted by Andhra Pradesh General Sales Tax .
+(Amendment) Act, 49 of 1976 with effect from September 1, 1976.
+As originally enacted, the section read as follows: "6 A: Levy of tax on turnover relating to purchase of certain goods: Every dealer, who in the course of business (i) Purchases any goods (the sale or purchase of which is liable to tax under this Act) from a registered dealer in circumstances in which no tax is payable under Section 5 or under Section 6, as the case may be, or (ii) purchases any goods (the sale or purchase of which is IV liable to tax under this Act) from a person other than a registered dealer, and (a) either consumes such goods in the manufacture of other goods for sale or otherwise, or (b) disposes of such goods in any manner other than by way of sale in the State, or (c) despatches them to a place outside the State except as a direct result of sale or purchase in the course of inter State trade or commerce, shall pay tax on the turnover relating to purchase aforesaid at the same rate which but for the existence of the aforementioned circumstances, tile tax would have been leviable on such goods under Section 5 or 6".
+The Section has been amended in some particulars by the Amendment Act 18 of 1985 but these amendments do not make a difference to nature or character of the tax.
+Be that as it may , we may as well set the section as it stands now, in view of the fact that the validity of the section as such is questioned before us.
+It reads: "6 A. Levy of tax on turnover relating to purchase of certain goods: Every dealer, who in the course of business: (i) purchases any goods (the sale or purchase of which is liable to tax under this Act) from a registered dealer in circumstances in which no tax is payable under section 5 or under Section 6, as the case may be, or (ii) purchases any goods (the sale or purchase of which is liable to tax under this Act) from a person other than a registered dealer, and (a) consumes such goods in the manufacture of other goods for sale or consumes them otherwise, or (b) discloses of such goods in any manner other than by way of sale in the state, or (c) despatches them to a place outside the State except as a direct result of sale or purchase in the course of inter State trade or commerce, shall pay tax on the turnover relating to purchase aforesaid at the same rate at which but for the existence of the aforementioned circumstances, the tax would have been leviable on such goods under Section 5 or Section 5 A or Section 6: Provided that in respect Or declared goods such rate together with the rate of additional tax specified in Section 5 A shall not exceed four percent of the purchase price of such goods." An analysis of the Section yields the following ingredients: "A. (i) a dealer who in the course of business purchases any goods liable to tax under the Act, (ii) from a registered dealer in circumstances in which no tax is payable by such selling dealer under Section 5 or 6 and (iii) consumes such goods in the manufacture of other goods for sale or consumes them otherwise or, (iv) disposes of such goods in any manner other than by way of sale in the State or, (v) despatches them to a place outside the State except as a direct result of sale or purchase in the course of inter State trade or commerce, (vi) such purchasing dealer shall pay the tax at the same rate at which it would have been payable by the selling dealer.
+B.(i) A dealer who in the course of his business purchases any goods which are taxable under the Act (ii) from a person other than a registered dealer and, (iii) consumes such goods in the manufacture of other goods for sale or consumes them otherwise or, (iv) disposes of such goods in any manner other than by way of sale in the State or, (v) despatches them to a place outside the Stale except as a direct result of sale or purchase in the course of inter State trade or commerce, (vi) such purchasing dealer shall pay the tax at the same rate at which it would have been payable by the selling dealer.
+" The proviso which governs both the above situations provides that in case of declared goods the total tax shall not exceed 4% of the purchase price of such goods.
+Broadly speaking, the effect is Tax payable at sale point becomes the tax payable on the purchase point, in certain circumstances.
+Because, the seller is not or cannot be taxed for certain reasons, the purchasing dealer is being taxed.
+Two examples, each illustrating one of the two situations envisaged by the Section may be given: (a) Andhra Pradesh Dairy Development Corporation, a registered dealer, is exempted from paying the tax on sale of pasturised milk.
+The purchaser of pasturised milk from the Corporation is taxed provided he satisfies one of the conditions specified in clauses (i) to (iii) mentioned in the Section, thereby becoming the last purchaser in the State of such milk.
+(b) Fresh milk is taxable at sale point.
+But when it is sold by a farmer/agriculturist raising cattle on lands held by him, he cannot be taxed because he is not a dealer.
+The purchaser is taxed in such cases provided he satisfies one of the conditions specified in clauses (i) to (iii) in the Section, thereby becoming the last purchaser in the State of such milk.
+It would, therefore, be clear that the real object of the clauses (i) to (iii) in the Section is not to levy a consumption tax, use tax or consignment tax but only to point out that thereby the purchasing dealer converts himself into the last purchaser in the state of such goods.
+The goods cease to exist or case to be available in the State for sale or purchase attracting tax.
+In these circumstances, the purchasing dealer of such goods is taxed, if the seller is not or cannot be taxed.
+In this connection, observations of P.S. Poti, J. in Malabar Fruit Products Co.v.
+S.T.O., 30 S.T.(J. 537, which have been expressly approved by this court in State of Tamil Nadu vs Kanda Swami, 36 S.T.C. 191 = discussed in detail in part V may be referred to.
+It is not necessary to set out the said discussion here over again.
+In the circumstances, we are unable to see how the tax imposed by Section 6 A be described either as use tax, consumption tax or consignment tax.
+Since we are of the opinion, as explained in Part V, that Goodyear does not interpret Section 9 of Haryana Act and Section 13AA of Bombay Act correctly, its reasoning cannot be brought in here to contend that clause (c) of Section 6 A imposes a consignment tax.
+It is a purchase tax perfectly warranted by Entry 54 of List II of the Seventh Schedule to the Constitution.
+Reference to a few more provisions of the Act would be appropriate at this stage to complete the picture.
+The expression "dealer" has been defined in clause (e) of Section 2.
+It is not necessary to notice the entire definition except Explanation II which says that a grower of agricultural or horticultural produce cannot be deemed to be a dealer if he sells his produce.
+Explanation reads as follows: "Explanation II: Where a grower of agricultural or hor ticultural produce sells such producer grown by himself on any land in which he has an interest whether as owner, usufructuary mortgage, tenant or otherwise, in a form different from the one in which it was produced after subjecting it to any physical, chemical or any process other than mere cleaning, grading or sorting he shall be deemed to be a dealer for the purpose of this Act.
+" Section 5 is the charging section.
+Prior to the Amendment Act 4 of 1989, Section 5 had four sub sections.
+The first sub section made all sales/purchases by dealers within the State of Andhra Pradesh subject to tax.
+It, however, the goods sold were those mentioned in Schedule I they were taxable at a single point, viz., at the point of sale and at the rate prescribed in the said Schedule.
+Similarly, if the goods fell in the Second Schedule they too were taxable only at one point namely, the point of purchase at the rate prescribed.
+[Sub section (2)1 Schedule III comprises of declared goods while Schedule IV sets out goods which are totally exempted Income tax under Section 8 of the Act.
+Schedule V deals with jaggery and Schedule VI with 2liquors.
+In other words, goods which did not fall in any of the Schedules I to VI fell under sub section (I) and were taxed as general goods.
+In this sense, fresh milk which is not mentioned in any of the Schedules i to VI was chargeable as general goods under sub section (I) of Section 5.
+By Amendment Act 4 of 1989 the entire scheme of Section 5 has been changed.
+The present section says that the goods mentioned in Schedules I to VII shall be taxed at the point and at the rate specified therein.
+Schedule VII which has been inserted by the very same Amendment Act is in the nature of a residuary Schedule, the good which do not fall in any of the Schedules I to VI fall under Schedule VII.
+Even such goods have also been made taxable only at one point and at the rate specified.
+After the coming into force of the said Amendment Act of 1989, fresh milk would fall under Schedule VII and taxable as such.
+It is, therefore wrong to say that sale of milk was or is not taxable under the Act.
+Section 9 empowers the Government to exempt either the sale of certain goods or sates by certain persons either wholly or partly.
+Section reads as follows: "9.
+Power of State Government to notify exemptions and reductions of tax (or interest): (1) The State Government may, by notification in the Andhra Pradesh Gazette, make an exemption, or reduction in rate, in respect of any tax or interest payable under the Act (i) on the sale or purchase of any specified class of goods, at all points or at any specified point or points in series of sales or purchases by successive dealers; or (ii) by any specified class of persons, in regard to the whole or any part of their turnover.
+(2) Any exemption from tax or interest or reduction in the rate of tax notified under sub section (I) (a) may extend to the whole of the State or to any specified area or areas therein; (b) may he subject to such restrictions and conditions as may be specified in the notification, including conditions as to licences and licence fees.
+" It may be noticed that while exempting the sale or purchase of any specified class of goods the Government is empowered to specify whether the exemption operates at all points or any specified point or points in the scries of sales or purchases of successive dealers.
+Several notifications have been issued by the Government from time to time exempting certain dealers or exempting certain goods at the point of sale or purchase, as the case may be.
+G.O.Ms.
+No.1091 is one of them.
+We have already noticed the rather qualified terms in which the exemption is couched.
+It is not a general exemption but a qualified one.
+In the light of the specific scheme of Section 9 and the language of G.O.Ms.
+No.1091, the exemption at the point of sale by a particular category of persons cannot be construed as operating to exempt the purchase tax under Section 6 A as well, much less in all cases.
+For the above reasons, appeals and writ petitions are dismissed with no order as to costs.
+PART V (DOES GOODYEAR REQUlRE RE CONSIDERATION?) As mentioned earlier, counsel for all the assessees in these matters strongly rely on the decision of this Court in Goodyear which invalidated a purchase tax levied by the Haryana and Maharashtra Sales Tax Acts.
+We may, therefore, notice this decision in some detail.
+What precisely is the ratio of Goodyear? Provisions relating to purchase tax in Haryana Sales Tax Act and Bombay Sales Tax Act fall for consideration in this case.
+Section 9 of the Haryana Act, before it was amended by Haryana General Sales (Amendment and Validation) Act, 1983, read as follows: 9, Where a dealer liable to pay tax under this Act purchases goods other than those specified in Schedule B from any source in the State and (a) uses them in the State in the manufacture of, (i) goods specified In Schedule B or (ii) any other goods and disposes of the manufactured goods in any manner otherwise than by way of sale whether within the State or in the course of inter State trade or commerce or within the meaning of sub section (l) of Section 5 of the , in the course of export out of the territory of India.
+(b) exports them, in the circumstances in which no tax is payable under any other provisions of this Act, there shall be levied, of subject to the provisions of Section 17, a tax on the purchase of such goods at such rate as may be notified under Section 15.
+" A notification dated 19th July, 1974 was issued by the Government of Haryana under the said provision read with Section 15(1) of the Act in purported implementation of the said provision.
+Validity of Section 9 as well as of the notification was challenged in a batch of writ petitions filed in the High Court of Punjab and Haryana.
+The High Court upheld the challenge holding that "whereas the said provision (Section 9) provided only for the levy of a purchase tax on the disposal of manufactured goods, the notification by making a mere despatch of goods to the dealers them selves taxable in essence, legislates and imposes a substantive tax which it obviously cannot." Goodyear India Ltd. vs State of Haryana (1990) 76 S.T.C. 71.
+After it was amended by the aforesaid amendment Act, sub sections (] ) and (2) of Section 9 read as follows: "9. Liability to pay purchase tax, (1) Where a dealer liable to pay tax under this Act, (a) purchases goods, other than those specified in Schedule B, from any source in the State and uses them in the State in the manufacture of goods specified in Schedule B; or (b) purchases goods, other than those specified in Schedule B, from any source in the State and uses than in the State in the manufacture of any other goods and either disposes of the manufactured goods in any manner otherwise than by way of sale in the State or despatches the manufactured goods to a place outside the State in any manner otherwise than by way of sale in the course of inter State trade or commerce or in the course of export outside the territory of India within the meaning of sub section (1) of Section 5 of B the ; or (c) purchases goods, other than those specified in Schedule B, from any source in the State and exports them, in the circumstances in which no tax is payable under any other provision of the Act, there shall be levied, subject to the provisions of Section 17 a tax on the purchases of such goods at such rate as may be notified under Section 15.
+(2) Notwithstanding anything contained in this Act or the rules made thereunder, if the goods leviable to tax under this section are exported in the same condition in which they wore purchased, the tax shall be levied, charged and paid at the station of despatch or at any other station before the goods leave the State and the tax so levied, charged and paid shall be provisional and the same shall be adjustable towards the tax due from the dealer on such purchase as a result of assessment or re assessment made in accordance with the provisions of this Act and the rules made there under on the production of proof regarding the payment thereof in the State." Again a batch of writ petitions was filed questioning the validity of the amended provision which challenge too was upheld by the High Court in its decision in Bata India Ltd. vs State of Haryana, 54 S.T.C. 226.
+The main ground upon which the High Court allowed the writ petitions was that mere despatch of goods to a place outside the State in any manner other than by way of sale in the course of inter State trade or commerce is synonymous with or is in any case included within the ambit of consignment of goods to the person making it or to any other person in the course of inter state trade or commerce as specified in Article 269(l)(iv) and Entry 92(B) of List l of the Seventh Schedule to the Constitution and thus beyond the competence of the State legislature.
+According to the High Court, the taxable event was not the purchase of goods nor the use of such goods in manufacture of end products but the despatch of goods.
+Doubting the view taken in Bata India, one of the learned Judges of the Punjab and Haryana High Court, Punchhi, J. (as he then was) referred the matter to a Bull Bench which took a different view in Desraj Pushp Kumar Gulati vs State of Punjab, 58 S.T.C.393.
+The Full Bench was of the view that according to Section 9 (amended) the taxing event is the act of purchase of goods which are used in the manufacture of end products and not the act of despatch or consignment as held in Bata India.
+The correctness of all the three decisions aforesaid was questioned in appeals filed before this Court.
+The appeals were heard by a Bench comprising Sabyasachi Mukharji, J. (as he then was) and one of us (S.Ranganathan, J.).
+Mukharji, J., in his separate judgment, set out the test for determining the taxable event in the following words: "It is well settled that the main test for determining the taxable event is that on the happening of which the charge is affixed.
+The realisation often is postponed to further date.
+The quantification of the levy and the recovery of tax are also postponed in some cases Taxable event is that which on its occurrence creates or attracts the liability to tax." Then the learned Judge proceeded to analyse Section 9 (amended) and concluded as follows: "Analysing the section it appears to us that conditions specified, before the event of despatch outside the State as mentioned in Section 9(1)(b) namely, (i) purchase of goods in the State and (ii) using them for the manufacture of any other goods in the State, are only descriptive of the goods liable to tax under Section 9(1)(b) in the event of despatch outside the State.
+If the goods do not answer both the descriptions cumulatively, even though these are despatched outside the State of Haryana, the purchase of those goods would not be tax under Section (I)(b) The liability to pay tax in this section does not accrue on purchasing the goods simplicitor, but only when these are despatched or consigned out of the State of Haryana.
+In all these cases, it is necessary to find out the true nature of the tax.
+Analysing the Section, if one looks to the purchase tax under Section 9, one gets the conclusion that the Section itself does not provide for imposition of the purchase tax on the transaction of purchase of the taxable goods but when further the said taxable goods are used up and turned into independent taxable goods, losing its original identity, and thereafter when the manufactured goods are despatched outside the State of Haryana and only then tax is levied and liability to pay tax is created "According , the learned judge held , the is in the nature of a consignment tax which the Parliament alone could impose and not the State legislature.
+The correctness of the said view is questioned by the learned counsel for the State of Andhra Pradesh and other counsel for the State Governments.
+The question for our consideration is whether the learned Judge was not right in holding that the taxable event under the section Is not the purchase goods used in the manufacture of end products but the despatch of manufactured goods to out state destinations.
+The other provision considered in the said decision is the one contained in Section 13AA of the Bombay Sales Tax Act.
+The said provision which was introduced into the Act by the Maharashtra Act (28 of 82) read as follows at the relevant time: "13AA.
+Purchase tax payable on goods in Schedule C, Part I when manufactured goods are transferred to outside branches.
+Where a dealer, who is liable to pay tax under this Act, purchases any goods specified in Part I of Schedule C, directly or through Commission agent, from a person who is or is not a Registered dealer and uses such goods in the manufacture of taxable goods and despatches the goods, so manufactured, to his own place of business or to his agent 's place of business situated outside the State within Indian then such dealer shall be liable to pay, in addition to the sales tax paid or payable, or as the case may be, the purchase tax levied or leviable under the other provisions of this Act in respect of purchases of such goods, a purchase tax at the rate of two paise in the rupee on the purchase price of the goods so used in the manufacture, and accordingly the dealer shall include purchase price of such goods in his turnover of purchases in his return under Section 32, which he is to furnish next thereafter.
+The validity of the said provision was challenged inter alia by Hindustan Lever Limited which was negatived by the Bombay High Court in its decision reported in 72 S.T.C. 69.
+The High Court was of the opinion that the additional purchase tax leviable under the said provision is on the purchase value of V.N.E.Oil used in the manufacture of goods transferred outside the State and not on the value of the manufactured goods so transferred.
+It held further that the goods taxed under Section 13AA are consumed in the State as raw material in the process of manufacturing other commodities and therefore tax imposed thereon cannot be said to hinder the free flow of trade within the meaning of Article 301 of the Constitution.
+The question again was which is the taxable event according to Section 13AA.
+Mukharji, J. on an analysis of the section held that the taxable event is the despatch of manufactured goods outside the State which means that the levy is beyond the competence of the State legislature.
+The attack based upon Article 301 of the Constitution was, however, repelled.
+Though agreeing with the conclusion arrived at by Mukharji, J., Ranganathan, J. made a few pertinent observations in his separate opinion.
+The learned Judge opined that both Section 9 of the Haryana Act and Section 13AA of the Bombay Sales Tax Act "purport only to levy a purchase tax" and further that "the tax, however, becomes exigible not on the occasion or event of purchase but only later.
+It materialises only if the purchaser (a) utilises the goods purchased in the manufacture of taxable goods and (b) despatches the goods so manufactured (otherwise than by way of sale) to a place of business situated outside the State.
+The legislature, however, is careful to impose the tax only on the price at which the raw materials are purchased and not on the value of the manufactured goods consigned outside the State.
+The State describes the tax as one levied on the purchase of a class of goods viz., those purchased in the State and utilised as raw material in the manufacture of goods which are consigned outside the State otherwise than by way of sale.
+" The learned Judge opined: "to me it appeared as plausible to describe the levy as a tax on purchase of goods inside the State (which attaches itself only in certain eventualities) as to describe it as a tax on goods consigned outside the state but limited to the value of raw material purchase inside the State and utilised therein." The learned Judge stated that he had "considerable doubts" as to the taxable event but that on further reflection he was inclined to agree with H S.Mukharji, J. that the tax though described as a purchase tax actually became effective with reference to a totally different class of goods and that too only on the happening of an event which is unrelated to the Act of purchase and therefore, in truth and essence, it was a consignment tax.
+The crucial question, therefore, is what is the basis of taxation in either of the above provisions? In other words, the question is whether levy of tax is on the purchase of goods or upon the consignment of the manufactured goods? Let us first deal with Section 9 of the Haryana Act (as amended in 1983).
+Properly analysed, the following are the ingredients of the Section: (i) a dealer liable to pay tax under the Act purchases goods (other than those specified in Schedule B) from any source in the State and (ii) uses them in the State in the manufacture of any other goods and (iii) either disposes of the manufactured goods in any manner otherwise than by way of sale in the State or despatches the manufactured goods to a place outside the State in any manner otherwise than by way of sale in the course of a inter State trade or commerce or in the course of export outside the territory of India within the meaning of sub section (1) of Section 5 of the (Central Sales Tax Act, 1956.
+If all the above three ingredients are satisfied, the dealer becomes liable to pay tax on the purchase of such goods at such rate, as may be notified under Section 15.
+Now, what does the above analysis signify? The section applies only in those cases where (a) the goods are purchased (for convenience sake, I may refer to them as raw material) by a dealer liable to pay tax under the Act in the State.
+(b) the goods so purchased cease to exist as such goods for the reason they are consumed in the manufacture of different commodities and (e) such manufactured commodities are either disposed of within the State otherwise than by way of sale or despatched to a place outside the State otherwise than by way of an inter State sale or export sale.
+It is evident that if such manufactured goods are not sold within the State of Haryana, but yet disposed of within the State, no tax is payable on such disposition; similarly, where manufactured goods are despatched out of State as a result of an inter State sale or export sale, no tax is payable on such sale.
+Similarly again where such manufactured goods are taken out of State to manufacturers own depots or to the depots of his agents, no tax is payable on such removal.
+Goodyear takes only the last eventuality and holds that the taxable event is the removal of goods from the State and since such removal is to dealers own depots/agents outside the State, it is consignment, which cannot be taxed by the State legislature.
+With the greatest respect at our command, we beg to disagree.
+The levy created by the said provision is a levy on the purchase of raw material purchased within the State which is consumed in the manufacture of other goods within the State.
+If, however, the manufactured goods are sold within the State, no purchase tax is collected on the raw material, evidently because the State gets larger revenue by taxing the sale of such goods.
+(The value of manufactured goods is hound to be higher than the value of the raw material).
+The State legislature does not wish to in the interest of trade and general public tax both the raw material and the finished (manufactured) product.
+This is a well known policy in the field of taxation.
+But where the manufactured goods are not sold within the State but are yet disposed of or where the manufactured goods are sent outside the State (otherwise than by way of inter State sale or export sale) the tax has to be paid on the purchase value of the raw material.
+The reason is simple: if the manufactured goods are disposed of otherwise than by sale within the State or are sent out of State (i.e., consigned to dealers own depots or agents), the State does not get any revenue because no sale of manufactured goods has taken place within Haryana.
+In such a situation, the State says, it would retain the levy and collect it since there is no reason for waiving the purchase tax in these two situations.
+Now coming to inter State sale and export sale, it may be noticed that in the case of inter State sale, the State of Haryana does get the tax revenue may not be to the full extent.
+Though the Central Sales Tax is levied and collected by the Government of India, Article 269 of the Constitution provides for making over the tax collected to the States in accordance with certain principles.
+Where, of course, the sale is an export sale within the meaning of Section 5(1) of the (export sales) the State may not get any revenue but larger national interest is served thereby.
+It is for these reasons that tax on the purchase of raw material is waived in these two situations.
+Thus, there is a very sound and consistent policy underlying the provision.
+The object is to tax the purchase of goods by a manufacturer whose existence as such goods is put an end to by him by using them in the manufacture of different goods in certain circumstances.
+The tax is levied upon the purchase price of raw material, not upon the sale price or consignment value of manufactured goods.
+Would it be right to say that the levy is upon consignment of manufactured goods in such a case? True it is that the levy materialises only when the purchased goods (raw material) is consumed in the manufacture of different goods and those goods are disposed of within the State otherwise than by way act sale or are consigned to the manufacturing dealer 's dopots/agents outside the State of Haryana.
+But does that change the nature and character of the levy? Does such postponement if one can call it as such convert what is avowedly a purchase tax what is on raw material (levied on the purchase price of such raw material) to a consignment tax on the manufactured goods? We think not.
+Saying otherwise would defeat the very object and purpose of Section 9 and amount to its nullification in effect.
+The most that can perhaps be said is that it is plausible (as pointed out by Ranganathan, J. in his separate opinion) to characterise the said tax both as purchase tax as well as consignment tax.
+But where two interpretations are possible, one which sustains the constitutionality and/or effectuates its purpose and intendment and the other which effectively nullifies the provision, the former must be preferred, according to all known canons of interpretation.
+This is also the view expressly approved by Mukharji, J. in his opinion, as pointed out hereinbefore.
+In para 71 of his opinion, the learned Judge states: `it is well settled that reasonable construction should be followed and literal construction may be avoided if that defeats the manifest object and purpose of the Act.
+Commissioner of Wealth Tax, Bihar and Orissa vs Kirpa Shankar Daya Shankar Vorah at page 768 and Income Tax Commissioners for City of London vs Gibbs ' (1942) 10 ITR Suppl.
+121 at page 132 (H.L.)".
+(emphasis supplied) However, we would presently show that merely because the levy attaches on the happening or non happening of a subsequent event, the nature and character of the levy does not change.
+In several enactments.
+for instance, tax is levied at the last sale point or last purchase point, as the case may be.
+How does one determine the last purchase point in the State '? Only when one knows that no purchase took place within the State thereafter.
+But that can only be known later.
+If there is a subsequent purchase within the State, the purchase in question ceases to be the last purchase.
+As pointed out pertinently by P.S.Poti, J. (as he then was) in Malabar Fruit Products Company and Ors.
+vs The Sales Tax Officer and Ors, (1972) 30 S.T.C. 537, applying the logic of the dealers, it would not be possible to tax any goods at the last purchase point in the State, inasmuch as the last purchase point in regard to any goods could be determined only when the goods are sold later and not when the goods are purchased.
+In the said decision.
+the learned Judge was dealing with the validity and construction of Section 5 A of Kerala General Sales Tax Act, 1963, sub section (l) whereof read as follows: "5A. Levy of purchase tax (1) Every dealer who in the course of his business purchases from a registered dealer or from any other person any goods.
+the sale or purchase of which is liable to tax under this Act, in circumstances in which no tax is payable under Section 5, and either (a) consumes such goods in the manufacture of other goods for sale or otherwise; or (b) disposes of such goods in any manner other than by way of sale in the State; or (c) despatches them to any place outside the State except as a direct result of sale or purchase in the course of inter State trade or commerce, shall whatever be the quantum of the turnover relating to such purchase for that year at the rates mentioned in Section 5.
+" One of the arguments urged against the validity of the said provision was that inasmuch as the tax is levied depending upon the mode in which the goods purchased are consumed, disposed of or despatched, the tax is really one in the nature of consumption tax or use tax, but not sales tax.
+This argument was answered by the learned Judge in the following words: According to me, this contention is based on a misconception of the scope of taxation on the sale of goods.
+It is true that sales tax is a tax imposed on the occasion of the sale of goods.
+But it has no reference to the point of time at which the sale or purchase takes place.
+It refers to the connection with the event of purchase or sale and not the point of time at which such purchase or sale takes place.
+To read it otherwise would render any retrospective in position of sales tax invalid as in every such case the tax would not be one which arises on the occasion of sale.
+By the same logic, it would not he possible to tax any goods at the last purchase point in the State, for the last purchase point in regard to any goods could be determined only when the goods arc sold later and not when the goods are purchased.
+On the same reasoning as urged by counsel, one should say in such a case that since the goods are taxed only when the goods are sold outside the State or are despatched for such sale outside the State and so the last purchases are taxed not on the "occasion" of the purchases and, consequently, it is beyond the competence of the Legislature.
+That certainly cannot be and the Supreme Court has held in the decision in State of Madras vs Narayanaswami Naidu, (1968) 21 S.T.C.1 (S.C.), that the goods are taxable in such cases in the financial year when they become the last purchases.
+" C: The decision of Poti, J. was affirmed by a Division Bench of Kerala High Court in Yusuf Shabeer and Ors.
+vs State of Kerala and Ors.
+, (1973) 32 S.T.C. 359.
+Both these decisions were expressly referred to and approved by a three Judge Bench of this Court in State of Tamil Nadu vs Kandaswami and Ors., (1975) 36 S.T.C. page 191.
+Kandaswami was concerned with the construction of Section 7 A of the Tamil Nadu General Sales Tax Act which too a levied purchase tax and is couched in language similar to Section 5 A of the Kerala Act.
+While dealing with the scheme of Section 7 A, this court quoted with approval certain passages from the judgment of Poti, J. including the following sentence: "If the goods are not available in the State for subsequent taxation by reason of one or other of the circumstances mentioned in clauses (a), (b) and (c) of Section 5 A(1) ofthe Act then the purchaser is sought to be made liable under Section 5 A.
+This statement accords with our understanding of the scheme of Section 9 of Haryana Act as set out hereinabove.
+To repeat, the scheme of Section 9 of Haryana Act is to levy the tax on purchase of raw material and not to forego it where the goods manufactured out of them are disposed of (or despatched, as the case may be) in a manner not yielding any revenue to the State nor serving the interests of nation and its economy, as explained hereinbefore.
+The purchased goods are put an end to by their consumption in manufacture of other goods and yet the manufactured goods are dealt with in a manner as to deprive the State of any revenue; in such cases, there is no reason why the State should forego its tax revenue on purchase of raw material.
+Another observation in Kandaswami relevant for the present purpose may also be noticed: "It may be remembered that Section 7 A is at once a charging as well as a remedial provision.
+Its main object is to plug leakage and prevent evasion of tax.
+In interpreting such a provision, a construction which would defeat its purpose and, in effect, obliterate it from the statute book, should he eschewed.
+If more than one construction is possible that which preserves its workability and efficacy is to be preferred to the one which would render it otiose or sterile.
+The view taken by the High Court is repugnant to this cardinal canon of interpretation.
+" In the light of the above scheme of Section 9, it would not be right, in our respectful opinion, to say that the tax is not upon the purchase of raw material but on the consignment of the manufactured goods.
+It is well settled that taxing power can be utilised to encourage commerce and industry.
+It can also be used to serve the interests of economy and promote social and economic planning.
+Section 9 of Haryana Act and Section 13AA of Bombay Act are intended to encourage the industry and at the same time derive revenue.
+It is also not right to concentrate only on one situation viz., consignment of goods to manufacturer 's own depots (or to the depots of his agents) outside the Side.
+Disposal of goods within the State without effecting a sale also stands on the same footing, an instance of which may be captive consumption of manufactured products in the manufacture of yet other products.
+Once the scheme and policy of the provision is appreciated, there is no room, in our respectful opinion, for saying that the tax is on the consignment of manufactured goods.
+We may in this connection refer to the decision of a Constitution Bench of this Court in Andhra Sugars vs State of Andhra Pradesh, 21 S.T.C, 212, relating to the validity of Section 21 of the A.P. Sugarcane Regulation of Supply and Purchase Act, 1961.
+Sub section (1) of Section 21 read as follows: "21.
+(1) The Government may, by notification, levy a tax at such rate not exceeding five rupees per metric tonne as may be prescribed on the purchase of cane required for use, consumption or sale in a factory.
+" One of the arguments urged against the validity of the levy was that since the levy is not on every purchase of sugarcane but only "on the purchase of cane required for use, consumption or sale in a factory" the tax is not really a purchase tax referable to Entry 54 of List II of the VIIth Schedule to the Constitution but a use tax, a tax of a different character altogether not falling under Entry 54.
+It was also argued that since the tax is levied at the stage of entry of cane into the factory for being used and consumed in the manufacture of sugar, it is in the nature of an entry tax but since the factory was not a "local area" within the meaning of Entry 52 of List II, the levy was incompetent.
+Both the arguments were rejected in the following words: "Under that entry, the State Legislature is not bound to levy a tax on all purchase of cane.
+It may levy a tax on purchases of cane required for "use, consumption or sale in a factory.
+The Legislature is competent to tax and also to exempt from payment of tax sales or purchases of goods required for specific purposes.
+Other instances of special treatment of goods required for particular purpose may he given.
+Section 6 and Schedule I, item 23 of the Bombay Sales Tax Act, 1946, levy tax on fabrics and articles for personal wear.
+Section 2(j)(a)(ii) of the C.P. and Berar Sales Tax Act, 1947, exempts sales of goods intended for use by a registered dealer as raw materials tor the manufacture of goods.
+Mr. Chatterjee submitted that the tax levied under Section 21 was a use tax and referred to Mcleod vs Dilworth and Co. ; ; , and C.G. Naidu and Co. vs The State of Madras, A.I.R. 1953 Mad.
+116, 127 128; 3 STC 405.
+He argued that the State Legislature could not levy a use tax which was essentially different from a purchase tax.
+The assumption of counsel that Section 21 levies a use tax is not well founded.
+The taxable event under Section 21 is the purchase of goods and not the use or enjoyment of what is purchased.
+The constitutional implication of a use tax in American law is entirely irrelevent.". . "To appreciate another argument of Mr. Chatterjee, it is necessary to refer to a few Acts.
+It appears that paragraph 21 of the Bill published in the Gazette on March 3, 1960 preliminary to the passing of Act No. 43 of 1961 provided for a levy of a cess on the entry of cane into the premises of a factory for use, consumption or sale therein.
+On December 13, 1960, this court in Diamond Sugar Mills Ltd., and Another vs The State of Uttar Pardesh and Another, ; , struck down a similar provision in the U.P. Sugarcane Cess Act, 1956, on the ground that the State Legislature was not competent to enact it under Entry 52, List II, as the premises of a factory was not a local area within the meaning of the entry.
+Having regard to this decision, paragraph 21 of the Bill was amended and Section 21 in its present form was passed by the State Legislature.
+The Act was published in the Gazette on December 30, 1961.
+Mr. Chatterjee submitted that in this context the levy under Section 21 was really a levy on the entry of goods into a factory for consumption, use or said therein.
+We are unable to accept this contention.
+As the proposed tax on the entry of goods into a factory was unconstitutional, paragraph 21 of the original Bill was amended and Section 21 in its present form was enacted.
+The tax under Section 21 is essentially a tax on purchase of goods The taxable event is the purchase of cane for use, consumption or sale in a factory and not the entry of cane into a factory.
+As the tax is not on the entry of the cane into a factory, it is not payable on cane cultivated by the factory and entering the factory premises.
+" For the above reasons, we find it difficult to agree with the reasoning of Mukharji, J, in Goodyear.
+It is also not possible to agree with the learned Judge when he says that "the two conditions specified, before the event of despatch outside the State as mentioned in Section 9(1)(b), namely (i) purchase of goods in the State and (ii) using them for the manufacture of any other goods in the State are only descriptive of the goods liable to tax under Section 9(1)(h) in the event to despatch outside the State".
+When the tax is levied on the purchase of raw material on the purchase price and not on the manufacture of goods or on the consignment value (such a concept is unknown to Haryana Act) or sale price of the manufactured goods the above construction, in our respectful opinion, runs against the very grain of the provision and has the effect of nullifying the very provision.
+By placing the said interpretation, Section 9 has been rendered nugatory; except for the two minor areas pointed out in Murli Manohar and Company vs State of Haryana; , , the Section which has its parallels in all the State enactments has practically become redundant.
+This was the main reason we undertook to reconsider the said decision which course we would not have ordinarily agreed to adopt.
+In our respectful opinion, the tax purports to be and is in truth a purchase tax levied on the purchase price of raw material purchased by a manufacturer.
+In certain situations (the three situations mentioned above viz, sale of manufactured goods within the State, inter State sale and export sale of manufactured goods) it is waived.
+In other cases, it is not.
+It is argued for the assessees that apart from Goodyear a Bench of three Judges of this Court has independently approved and affirmed the correctness of the ratio and reasoning in Goodyear.
+Reference is to Mukerian Papers Ltd. vs State of Punjab; , The case arose under the Punjab General Sales Tax Act and the provision which fell for interpretation was Section 4B.
+It levied purchase tax on the raw material used in the manufacture of goods which in turn are sold outside the State otherwise than by way of sale in the course of inter State trade or commerce or in the course of export out of the territory of India.
+The argument for the assessee/appellant was "that the main question of law involved in this case is concluded by the decision of this court in Goodyear India Ltd. vs State of Haryana which was an appeal arising from the High Court 's decision in the case of the same assessee. ".
+It was this contention which was examined by the Bench.
+Section 4B of the Punjab Act was analysed and it was found that it is in material particulars, similar to Section 9 of the Haryana Act even though the language was not identical.
+Ahmadi, J. speaking for the Bench observed: "therefore, even though the language of Section 4B of the Act is not identical with the relevant part of Section 9(1) of the Haryana Act, it is in substance similar in certain respects, particularly in respect of the point of time when the liability to pay tax arises.
+Under that provision, as here, the liability to pay purchase tax on the raw material purchased in the State which was consumed in the manufacture of any other taxable goods arose only on the despatch of the goods outside the State.
+We are, therefore, of the opinion that the ratio of the said decision of this Court in Goodyear India Ltd. applies on all fours to the main question at issue in this case." When the counsel for the revenue sought to argue that the decision of this court in Kandaswami takes a different view the Bench did not permit the same to be urged in the view of the fact that the correctness of the judgment in Goodyear was not canvassed before them.
+The Bench said "the decision in Kandaswami though in the context of an analogous provision was distinguished by this court in Goodyear India Ltd. on the ground that it did not touch the core of the question at issue in the latter case.
+This aspect of the matter is elaborately dealt with in paragraphs 31 to 34 at page 796 of the report.
+We need not dilate on this any more since the correctness of the judgment in Goodyear India Ltd. is not canvassed before us.
+" It is, thus, clear that the main argument for the Bench was that the ratio of Goodyear governs the said case and it was so found.
+It is equally clear that the correctness of the decision in Goodyear was not questioned before the Bench and that is why the Bench took care to specifically advert to and record the said circumstance.
+So far as the decision in Murli Manohar & Co. vs State of Haryana ; is concerned, it arose under Haryana Sales Tax Act and explains the meaning of export sale referred to in Section 9(1)(h) of the Act.
+There is no discussion in this decision about the point at issue before us.
+The same is the position under Section 13AA of the Bombay Sales Tax Act.
+The said provision, properly analysed, yields the following ingredients: (i) where a dealer who is liable to pay tax under this Act purchases any goods specified in Part I of Schedule (C) either directly or through commission agent, from a person who is or is not a registered dealer and (ii) uses such goods in the manufacture of taxable goods and (iii) despatches the goods so manufactured to his own place of business or to his agent 's place or business situated outside the State within India.
+(iv) such dealer shall pay, in addition to the sales tax/purchase tax paid or payable or levied or leviable, as the case may be, a purchase tax at the rate of two paise in the rupee on the purchase price of the goods so used in the manufacture.
+Here again it may be noticed that the tax levied is a purchase tax on the purchase of raw material and not upon the consignment of the manufactured goods The object of this provision too is the same as of the Haryana provision The levy is waived where the manufactured goods are sold within the State, or sold in the course of inter State trade or commerce or sold in the course of export.
+It is retained and collected where the goods are taken out of Maharashtra State by way of consignment, in which event the State sees no reason not to retain and collect the levy on purchase of raw material The provisions is substantially similar to Section 9 of Haryana Act.
+Whatever we have said with respect to the Haryana provision applies equally to this provision.
+It is not necessary to repeat the same here.
+Before parting with this matter, it is necessary to clarify: it was brought to our notice that both the Haryana and Bombay provisions have since been substituted with retrospective effect.
+We have not referred to those provisions in this part for the reason that we are concerned only with the reasoning in Goodyear.
+For the reasons mentioned above, we uphold the constitutional validity of the impugned provisions.
+The appeals, writ petitions, S.L.Ps and T.C. accordingly fail and are dismissed No order as to costs G.N. Petitions dismissed.

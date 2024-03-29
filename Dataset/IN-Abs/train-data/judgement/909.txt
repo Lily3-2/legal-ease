@@ -1,0 +1,410 @@
+Appeal No. 190 of 1955.
+682 Appeal from the judgment and order dated July 31, 1953, of the Hyderabad High Court in Reference Case No. 302/5 of 1951 52.
+N. A. Palkhivala and B. Ganapathy Iyer, for the appellants ' H. N. Sanyal, Additional Solicitor General of India, H. J. Umrigar and D. Gupta, for the respondent.
+April 26.
+The Judgment of Kapur and Hidayatullah, JJ., was delivered by Hidayatullah, J.S. K. Das, J., delivered a separate Judgment.
+S.K. DAS, J. This is an appeal by the assessee with leave of the High Court of Hyderabad granted under section 66A(2) of the Indian Income tax Act, 1922.
+The short facts are these.
+The appellant is a private limited company carrying on the business, inter alia, of sale of Shahabad stones (flag stones) which had to be extracted from quarries, dressed and then sold.
+For the purpose of its business, the appellant took on contract the right to excavate stones from certain quarries in six villages in Tandur taluk for a period of twelve years under a Quolnama dated 9th March, 1343F, from the then jagirdar of the taluk, named Nawab Mehdi Jung Bahadur.
+The contract provided that the jagirdar should be paid annually a sum of Rs. 28,000 as consideration for extracting the stones till the end of the contract period, as per a plan prepared, within the six villages specified therein.
+The appellant had no right or interest in the land; nor did he have any other interest in the quarries apart from excavating stones therefrom.
+The contract specifically provided that the appellant, called the contractor, had no right to manufacture cement from the stones; he had only the right to excavate stones from the quarries till the end of the contract period.
+I may here quote some of the relevant provisions of the Quolnama as to how the annual consideration of Rs. 28,000 was to be paid.
+It said: " 1.
+The period of contract for excavating stones from the quarries of the villages noted above is for 12 years from 1st Ardibehisht 1346 Fasli to the end of the Farwardi, 1358 Fasli and the contractor will be given possession from 1st Ardibehisht 1346 Faisli.
+683 2.
+The annual contract amount would be Rs. 28,000.
+For the surety of the contract the sum of Rs. 96,000 0.
+section has been received and deposited in the treasury of the Jagir towards the advance and earnest money and the security, a receipt for the same has been issued separately.
+4.The remaining annual balance sum of Rs. 20,000 may be deposited in the Jagir Treasury by instalment every month of Rs. 1,667 10 8; if there be any default in paying the instalment regularly, interest at the rate of one rupee per cent.
+per mensem will be charged to the contractor till the full payment.
+There was another lease or contract taken from Government for a period of five years for which the appellant was required to pay Rs. 9,000 per year in monthly instalments of Rs. 750.
+That was also in respect of stone quarries.
+The terms of the said contract with Government have not been printed in the paper book, presumably because they were similar in nature to those of the Quolnama referred to above.
+,The Income tax Appellate Tribunal found, and there is no dispute as to this, that under the aforesaid two contracts the appellant had merely the right to extract Shahabad stones.
+The Tribunal said: " Flag stones of required thickness are found in layers in those mines or quarries.
+Before one gets these flag stones of the required thickness, one has also to extract flag stones of greater thickness.
+The assessee sells these flag stones both of the usual thickness and thickness greater than usual one, after working on them, if necessary.
+" There was no finding as to how deep the quarrying bad to be done to extract the stones of required thickness.
+According to the appellant 's books of account, it paid each year of account Rs. 37,000 as lease or contract money to extract the stones under the two contracts and it claimed an allowance in respect thereof under section 12(2)(xv) of the Hyderabad Income tax Act, corresponding to section 10(2)(xv) of the Indian Income tax Act, 1922.
+The Tribunal stated that the Income tax Officer was under some misapprehension or error while examining the appellant 's books of account, and held for the assessment year 1357F that the expenditure 684 of Rs. 27,054 as lease or contract money was capital expenditure, in respect of which the appellant was not entitled to claim any allowance under the relevant provision of the Hyderabad Income tax Act.
+For the assessment year 1358F he similarly held that the sum of Rs. 28,158 was capital expenditure and not revenue expenditure.
+There were two appeals to the Appellate Assistant Commissioner who also held that the expenditure was capital expenditure.
+Then, there was an appeal to the Income tax Appellate Tribunal, Bombay.
+The Accountant member of the Tribunal held that the payments in question stood on the same footing as royalties and dead rent which are allowable as working expenses in cases of mines and quarries.
+The President Of the Tribunal expressed his finding thus: " In the present case, the assessee purchased his stock in trade.
+Instead of paying so much for so many cubit feet, he pays a lump sum every year.
+Parties might as well agree that the so called lessee shall pay a sum of money bearing a proportion to the sales or quantum of material extracted or a lump sum for the purpose of convenience.
+Because these quarry leases are called leases, the assessee does not get an asset of an enduring benefit.
+In fact, I find that the leases are renewed from time to time.
+The lease money is, therefore, in my opinion, not capital expenditure but revenue expenditure and should be allowed in computing the assessee 's income from the quarries." In the result, the Tribunal allowed the claim of the appellant that the payment of the two sums of Rs. 27,054 and Rs. 28,158 for the assessment years 1357F and 1358F respectively was in its true nature a revenue expenditure rather than capital expenditure.
+On being satisfied that a question of law arose out of its order, the Tribunal stated the following question for the decision of the High Court: " Whether the lease money paid by the assessee company to Nawab Mehdi Jung Bahadur and to Government is capital expenditure or revenue expenditure.
+" The High Court answered the question against the appellant.
+Hence the present appeal.
+685 My learned brethren have come to the conclusion that the expenditure in question was capital expenditure.
+Reluctantly and much to my regret I have come to a different conclusion, and I proceed now to state the reasons for my conclusion as briefly as I can.
+It is not disputed that if the expenditure was capital expenditure, then the appellant was not entitled to the benefit of section 12(2)(xv) of the Hyderabad Income tax Act in the relevant years.
+It is equally undisputed that if the expenditure was revenue expenditure, then the appellant could claim an allowance in respect thereof.
+Therefore, it is unnecessary to read the provisions of section 12(2)(xv) of the Hyderabad Income tax Act or the corresponding provisions of section 10(2)(xv) of the Indian Income tax Act, 1922.
+1 plunge at once in medias res to a consideration of the crucial /question in this case: were the two payments in question of the nature of capital expenditure or revenue expenditure ? This distinction between capital and revenue, either on the receipt or expenditure side, is almost a perennial problem in Income tax law.
+In general the distinction is well recognised and is based on certain principles which are easy of application in some cases; but from time to time cases arise which make the distinction difficult of application.
+A large number of decisions were cited before us, but no infallible criterion of universal application emerges therefrom and each case must turn on its own facts, though the decisions are useful as illustrations and as affording indication of the kind of considerations which may relevantly be borne in mind in approaching the problem.
+I shall refer in this judgment to such decisions only as have a bearing on the real controversy between the parties.
+In view of the submissions made before us, the real controversy in this case appears to me to be this : in the context of the terms of the contract between the parties, was the expenditure incurred intended to create or bring into existence an asset or advantage of an enduring character or was it intended to get only the stock in trade or the raw materials for the business ? If it was the former, then it was capital 89 686 expenditure; if latter, then revenue expenditure.
+There is no doubt that receipts and payments in connexion with acquiring or disposing of leaseholds of mines or minerals are usually on capital account (Kamakshya Narain Singh vs Commissioner of Income tax (1)).
+The reason why the price paid for the purchase of mining rights is a capital expenditure as explained by Channel J., in Alianza Co. vs Bell (2) ,in the, following words: "In the ordinary case, the cost of the material worked up in a manufactory is not a capital expendture; it is a current expenditure and does not become a capital expenditure merely because the material is provided by something like a forward contract, under which a person for the payment of a lump sum down secures a supply of the raw material for a period extending over several years. . .
+If it is merely a manufacturing business, then the procuring of the raw material would not be a capital expenditure.
+But if it is like the working of a particular mine or bed of brick earth and converting the stuff worked into a marketable commodity, then the money paid for the prime cost of the stuff so dealt with is as much capital as the money sunk in the machinery or buildings.
+" Learned counsel for the Department has strongly relied on these observations and has contended that the ,appellant had no manufacturing business in the present case and the price he paid for working the quarries was as much capital expenditure as money sunk in machinery or buildings.
+But this contention ignores the absence of one very important circumstance in this case.
+The acquisition of a mine or a mining right is an enduring asset, because it is not a mere purchase of minerals but is ail acquisition of a source from which flows the right to extract minerals; in other words, the acquisition provides the means of obtaining the raw material rather than the raw material itself ; therefore, it relates to fixed capital, and in a business sense the acquiring of a leasehold of a mine is not the purchase of raw materials only.
+It is something more than that.
+In the case before us except the stones, nothing else was acquired.
+Clauses 5 and 7 of the Quolnama said: (1) (2) 687 " 5.
+The contractor shall have no right to excavate stones from other places of the Jagir Ilaqa except the villages specified within the prescribed period of contract.
+The Jagir authorities will not allow any other person to excavate these stones within the jurisdiction of villages other than the villages specified above." . . . . . . . . . . . . . . . . . . . 7.The contractor shall have to excavate stones from the quarries as per the plan.
+In case he requires a further area of land in the village for excavation of stones, this will be done on his application four months in advance.
+The contractor will have no right to manufacture cement from the stones in the villages noted above." In view of these clauses and the recital in the Quolnama that it was a quarry contract for excavating stones only, it is in my view not reasonable to hold that what the appellant acquired in the present case was the means of obtaining raw material rather than the raw material itself.
+It is, I think, an accepted position now that the expression " capital expenditure " must normally be construed in a business sense and emphasis should be placed upon the business aspect of the transaction rather than on the purely legal and technical aspect.
+It is not, therefore, necessary to determine whether the Quolnama in the present case was in law a lease, or a license, or a license coupled with a grant.
+What we have to consider is the nature of the transaction from the business point of view, and it seems to me that having regard to the terms of the Quolnama, the transaction in its true nature and quality was a sale of raw materials coupled with a license to the appellant to come on the land and remove the materials sold; the purchase price was to be paid partly in a lump sum and partly in monthly instalments.
+If that is the true nature of the transaction, there is no difficulty in answering the question raised.
+The only answer then is that the payments in question were revenue expenditure.
+688 I now refer to four decisions which in my opinion come closest to the controversy before us.
+(1) In re: Benarsi Das Jagannath (1); (2) Mohanlal Hargovind of Jubbulpore vs Commissioner of Income tax, C. P. and Berar, Nagpur (2) ; (3) Abdul Kayoom vs Commissioner of Income tax, Madras (3 ) and (4) Stow Bardolph Gravel Co. Ltd. vs Poole (Inspector of Taxes) (4).
+The first is a decision of the Full Bench of the Lahore High Court, the second, a decision of the Privy Council, the third, a decision of the Full Bench of the Madras High Court and the last a decision of the Court of Appeal in England.
+The facts in Benarsi Das Jagannath (1) were these.
+The assessee, who was a manufacturer of bricks, obtained certain lands on leases for the purpose of digging out earth for the manufacture of bricks.
+Under the deeds he had the right to dig earth up to three to three and a half feet.
+He had no interest left in the lands as soon as the earth was dug out and removed.
+The periods of the leases varied from six months to three years.
+The Income tax authorities and the Appellate Tribunal held that the consideration paid by the assessee to the owners of the lands was a capital expenditure and was therefore not an allowable deduction under section 10(2)(xv) of the Indian Income tax Act.
+It was held by the Full Bench that the main object of the agreement was the procuring of earth for manufacturing bricks and not the acquisition of an advantage of a permanent nature or of an enduring character, that the payments made were the price of raw material and that the assessee was therefore entitled to claim them as business expenditure under section 10(2)(xv).
+It was worthy of note that this decision was approved by this Court in Assam Bengal Cement Co. Ltd. vs Commissioner of Income tax, West Bengal (5).
+Bhagwati, J., delivering the judgment of this Court said: " This synthesis attempted by the Full Bench of the Lahore High Court truly enunciates the principles which emerge from the authorities.
+In cases where the expenditure is made for the initial outlay or for (1) Lah.
+(3) I.L.R. (2) [1949] L.R. 76 I.A. 235.
+(4) (5) 689 extension of a. business or a substantial replacement of the equipment, there is no doubt that it is capital expenditure.
+A capital asset of the business is either acquired or extended or substantially replaced and that outlay whatever be its source whether it is drawn from the capital or the income of the concern is certainly in the nature of capital expenditure.
+The question, however, arises for consideration where expenditure is incurred while the business is going on and is not incurred either for extension of the business or for the substantial replacement of its equipment.
+Such expenditure can be looked at either from the point of view of what is acquired or from the point of view of what is the source from which the expenditure is incurred.
+If the expenditure is made for acquiring or bringing into existence an asset or advantage for the enduring benefit of the business it is properly attributable to capital and is of the nature of capital expenditure.
+If on the other hand it is made not for the purpose of bringing into existence of any asset or advantage but for running the business or working it with a view to produce the profits it is a revenue expenditure.
+If any such asset or advantage for the enduring benefit of the business is thus acquired or brought into existence it would be immaterial whether the source of the payment was the capital or the income of the concern or whether the payment was made once and for all or was made periodically.
+The aim and object of the expenditure would determine the character of the expenditure whether it is a capital expenditure or a revenue expenditure.
+The source or the manner of the payment would then be of no consequence.
+It is only in those cases where this test is of no avail that one may go to the test of fixed or circulating capital and consider whether the expenditure incurred was part of the fixed capital of the business or part of its circulating capital.
+If it was part of the fixed capital of the business it would be of the nature of capital expenditure and if it was part of its circulating capital it would be of the nature of revenue expenditure.
+These tests are thus mutually exclusive and have to be applied to the facts of each particular case in the manner above indicated.
+It has been rightly 690 observed that in the great diversity of human affairs and the complicated nature of business operations it is difficult to lay down a test which would apply to all situations.
+One has therefore got to apply these criteria one after the other from the business point of view and come to the conclusion whether on a fair appreciation of the whole situation the expenditure incurred in a particular case is of the nature of capital expenditure or revenue expenditure in which latter event only it would be a deductible allowance under section 10(2)(xv) of the Income tax Act.
+The question has all along been considered to be a question of fact to be determined by the Income tax authorities on an application of the broad principles laid down above and the Courts of law would not ordinarily interfere with such findings of fact if they have been arrived at on a proper application of those principles.
+" I do not read these observations as merely indicating an approval of certain general principles, but not necessarily an approval of the actual decision in Benarsidas Jagannath (1).
+In cases of this nature it is the application of the principles to the facts of a case which presents difficulties, and I do not think that this Court would have made the observations it made, unless it was approving the actual decision in Benarsidas Jagannath (1) in so far as it applied the general principles to the facts of that case.
+I see no significant distinction between that case and the one before us.
+In both cases, what was acquired was raw material earth in one case and stone in the other and the payments made were the price of the raw material.
+The only distinction pointed out is the difference in the period of the contracts; that is a relevant factor but not determinative of the problem before us.
+Even in our case the contract in favour of Government was for five years only.
+Surely, it cannot be argued that three years in one case and five years in the other will make all the difference.
+I think that the real test is, in the context of the controversy before us, what was acquired au enduring asset or advantage, or raw materials for running the business ? Judged by that test the present case stands on the same footing as the case of Benarsidas Jagannath (1) (1) Lah.
+307, 691 In Mohanlal Hargovind (1) the facts were these.
+The assessees carried on business at several places as manu factures and vendors of country made cigarettes known as bidis.
+These cigarettes were composed of tobacco rolled in leaves of a tree known as tendu leaves, which were obtained by the assessees by entering into a number of short term contracts with the Government and other owners of forests.
+Under the contracts, in consideration of certain sum payable by instalments, the assessees were granted the exclusive right to pick and carry away the tendu leaves from the forest area described.
+The assessees were allowed to coppice small tendu plants a few months in advance to obtain good leaves and to pollard tendu trees a few months in advance to obtain better and bigger leaves.
+The picking of the leaves however had to start at once or practically at once and to proceed continuously.
+The Privy Council distinguished Alianza Co. vs Bell (2) and overruling the decision in Income tax Appellate Tribunal vs Haji Sabumiyan Haji Sirajuddin (3) held that the expenditure was to secure raw material and was allowable as being on revenue account.
+Lord Greene delivering the judgment of the Board said: " It appears to their Lordships that there has been some misapprehension as to the true nature of these agreements and they wish to state at once what in their opinion is and what is not the effect of them.
+They are merely examples of many similar contracts entered into by the appellants wholly and exclusively for the purpose of their business, that purpose being to supply themselves with one of the, raw materials of that business.
+The contracts grant no interest in land and no interest in the trees or plants themselves.
+They are simply and solely contracts giving to the grantees the right to pick and carry away leaves, which, of course, implies the right to appropriate them as their own property." " In the present case the trees were not acquired: nor were the leaves acquired until the appellants had reduced them into their own possession and ownership by picking them.
+If the tendu leaves had been stored (1) (1949) L.R. 76 I.A. 235.
+(2) (3) 692 in a merchant 's godown and the appellants had bought the right to go and fetch them and so reduce them into their possession and ownership it could scarcely have been suggested that the purchase price was capital expenditure.
+Their Lordships see no ground in principle or reason for differentiating the present case from that supposed.
+" I also see no ground in principle or reason for differentiating the present case from that of Mohanlal Hargovind (1).
+In K. T. M. T. M. Abdul Kayoom and Hussain Sahib vs Commissioner of Income tax, Madras (2 ) a Full Bench of the Madras High Court dissenting from its earlier decisions held that rent paid by a dealer in chank under an agreement in the form of a ,lease" with the Government under which he had an exclusive right " to fish for, take and carry away all the chank shells in the sea off the coast line " of a certain district, was allowable as revenue expenditure.
+It was further held there that it made no difference whether what was acquired was raw material for a manufacturing busi ness or stock in trade which was intended to be sold without being subjected to any manufacturing process.
+This decision is the subject of Civil Appeal No. 64 of 1956 which has been heard along with this appeal.
+I do not see how the present case can be distinguished from the Madras case without holding that the Madras decision was incorrect.
+Last, I come to Stow Bardolph Gravel Co. Ltd.(3) That was a case in which it was held that sums paid by a dealer in gravel as consideration for the right to excavate and take away deposits of gravel represented capital expenditure.
+The decision rested on the fact that the subject matter of the agreement consisted of a deposit of gravel living some feet beneath the surface of the land and requiring to be won from the land by a process of excavation.
+I find it difficult to reconcile this decision with the decision in Benarsidas Jagannath (4) and Abdul Kayoom (2) in both of which also excavation or exploration was necessary to win the raw material.
+If, as I hold, the decision in Benarsidas Jagannath (4) was approved by this Court then we (1) (1949) L.R. 76 I.A. 235.
+(2) I.L.R. (3) (4) Lah.
+693 must accept that decision as correct in preference to the decision of the Court of Appeal in England.
+I may point out here what Evershed, M. R., said in the course of his judgment in that case: " The Commissioners for the General Purpose of the Income Tax were of opinion that these claims to make deductions were not admissible, but Harman, J., was of opinion that the deductions were admissible.
+I have myself reached a different conclusion from that reached by Harman, J., and I have reached it, I confess, with some slight feeling of regret and misgiving on two grounds: first, I think the result bears a little hardly on the taxpayers for reasons which will, I think, emerge without any necessity for empha sis as I recite the facts; second, I am not for my own part satisfied that if close investigation were made of the method whereby the taxpayers and others in the same line of business carry on their businesses, it might not emerge I say no more than that that the Commissioners would find as a fact, notwithstanding the apparent legal consequences of the agreement to which I have referred, there was here in truth such a taking possession of the deposit of gravel in question that it could sensibly for tax purposes and rightly and fairly be said that once the consideration money had been paid under the agreement the deposit was in truth the stock in trade of the taxpayer.
+However, I have felt compelled to say that there is no finding of fact to support such a conclusion, nor indeed is there before us any evidence sufficient to warrant it.
+It is in that respect, "apprehend, that I find myself at variance with Harman, J." . . . . . . . . . . "If the facts were as the judge intimated, the General Commissioners might find, and might justifiably find, that a case such as this is not really distinguishable as a matter of law and common sense from a sale of loose objects lying on the surface of the ground, such as windfalls from apple trees, or even from cases like those I have mentioned, which are concerned with crops or leaves growing on trees.
+But my difficulty is that I can find no justification for that conclusion in the material before us.
+" 90 694 In view of these observations I have considerable hesitation, and I say this with great respect, in accepting the decision as a decision on a general question of law.
+The decision proceeded on the findings of the Commissioners and on the basis that there were no materials for the conclusion reached by Harman, J.
+If we proceed on the findings of the Tribunal in the present case, there are enough materials to support the finding that the appellant acquired nothing but raw materials by the transactions in question.
+I find nothing in the decision in Stow Bardolph Gravel Co. Ltd. (1) which need lead me to the conclusion that the decisions in Benarsidas Jagannath (2) and Abdul Kayoom (3) were wrong and require reconsideration.
+If I may again say so with great respect, the learned Master of the Rolls distinguished the Privy Council decision in Mohanlal Hargovind (4) by saying that decision rested upon the particular circumstances of the case and upon the fact that the Board was able to say that from the moment the contract was entered into and before the leaves had actually been picked, the tendu leaves were part of the raw material of the appellant.
+He added that he could not say the same of sand and gravel, which were part of the earth itself and which could only become part of the stock in trade of the gravel merchant 's business when it had, in the true sense, been won, been excavated and been taken into their posses sion.
+I do not, however, think that the decision in Mohanlal Hargovind (4) proceeded on the basis suggested by the learned Master of the Rolls.
+In clear and express terms Lord Greene said: "nor were the leaves acquired until the appellant reduced them into their possession and ownership by picking them." This shows that the decision of the Privy Council did not proceed on the ground alleged, namely, that even before the leaves had actually, been picked, they were part of the raw material of the appellant of that case.
+The decision proceeded on the footing that the leaves became part of the raw material when they were reduced into possession and ownership by picking (1) (3) (2) Lah.
+(4) (1949) L.R. 76 I.A. 235.
+695 3 S.C.R. SUPREME COURT REPORTS them.
+If that is the correct ratio of Mohanlal Hargovind (1), then where is the distinction between that case and the case of the gravel merchant in Stow, Bardolph Gravel Co. Ltd. (2) and the stone merchant in the present case ? In my opinion there is none.
+In the result and for the reasons given above, I hold that the expenditure in question was on revenue account and the appellant was entitled to the allowance he claimed.
+The answer given by the High Court was wrong and the appeal should be allowed with costs.
+HIDAYATULLAH, J. This is an assessee 's appeal on a certificate of the High Court granted under section 66A(2) of the Indian Income tax Act.
+Pingle Industries Ltd. (hereinafter called the assessee) is a private limited Company which carries on, among other businesses, the business of extracting stones from quarries, which, after dressing, it sells as flag stones.
+In the year 1343 Fasli, the assessee obtained from Nawab Mehdi Jung Bahadur of Hyderabad the right to extract stones from certain quarries belonging to the Nawab.
+A quolnama (con.
+tract) was executed, and it has been produced in the case.
+Under this quolnama, the assessee was granted the right to extract stones from quarries situated in six named villages for a period of 12 years (1346 Fasli to 1358 Fasli) on annual payment of Rs. 28,000.
+To safeguard payment Rs. 96,000 representing a part of the annual payments at Rs. 8,000 per year were paid in advance as security, and the balance of Rs. 20,000 was payable each year in monthly instalments of Rs. 1,666 10 8 each.
+In default of punctual payment of these instalments, interest at Re.1 per cent was to be charged.
+Some other conditions of the quolnama may also be briefly mentioned here.
+The assessee undertook not to manufacture cement and also to be ,responsible for the payment of the money in spite of " any celestial or terrestrial or unexpected calamity or unforeseen event ", while the Nawab on his part undertook not to allow any other person to excavate stones in the area of the six villages.
+It was agreed that in case of default of instalment, the contract (1) (1949) L.R. 76 I.A. 235.
+(2) 696 would be re auctioned after One month 's notice to the contractor, who would be responsible for any shortfall but would not have the benefit of any extra amount.
+The assessee was assessed in the Fasli years 1357 and 1358 for the account years 1356 and 1357 Fasli.
+It claimed deduction respectively of Rs. 27,054 and Rs. 28,159 paid to the Nawab in those years, as expenditure under section 12(2)(xv) of the Hyderabad Income tax Act, which is the same as the corresponding pro.
+vision under the Indian Income tax Act.
+The claim for deduction was refused by the Income tax Officer, who held that the amount in each year represented a capital expenditure though the whole sum was being paid in instalments.
+The assessee appealed against the two orders of assessment to the Appellate Officer of Income tax, and questioned this decision.
+The appeals involved other matters also, with which we are not now concerned.
+The appeals were dismissed.
+The assessee appealed further to the Income tax Appellate Tribunal, Bombay, and raised the same contention.
+The Appellate Tribunal accepted the appeals.
+Different reasons were given by the President and the Accountant Member.
+According to the latter, the payment of these sums was similar to the payment of royalties and dead rent which is allowable as working expense in the case of mines and quarries.
+The President relied upon Mohantal Hargovind vs Commissioner of Income tax (1), and held that the payments represented the purchase of the stock in trade of the assessee, and that the leases did not create an asset of an enduring character.
+The Commissioner of Income tax, Hyderabad Division, then asked for a reference of the case to the High Court at Hyderabad, and the Appellate Tribunal referred the following question of law under section 66(1) of the Hyderabad Income tax Act: " Whether the lease money paid by the assessee Company to Nawab Mehdi Jung Bahadur and to Government is capital expenditure or revenue expenditure.
+" The reference to Government in the question arises in this way.
+It appears that there was yet another (1) (1949) L.R. 76 I.A. 235.
+697 lease which was taken from Government for 5 year.
+and under which the assessee was required to pay Rs. 9,000 per year in instalments of Rs. 750 per month.
+It does not appear that the terms of this lease were ascertained and the amount does not figure in the order of assessment, though apparently it was assumed that what applied to the payment to the Nawab held equally good in regard to the payment to Government.
+In any event, the books of the assessed kept in mercantile system showed both the sums each year as lease money.
+The High Court of Hyderabad after an examination of several decisions rendered in India and the United Kingdom, held that the payments in each year of account were of a capital nature, and that no deduction could be given under section 12(2) (xv) of the Hyderabad Income tax Act.
+The assessee then applied, and obtained the certificate as stated, and this appeal has been filed.
+The arguments in the case involved the interpretation of the quolnama as to the right conveyed there and the nature of the payments with reference to the provision of the law under which the deduction was claimed.
+That section reads as follows: " 12 (1).
+The tax shall be payable by an assessee under the head profits and gains of business, profession or vocation in respect of the profits and gains of any business, profession or vocation carried or by him.
+(2) Such profits or gains shall be computed after making the following allowances, namely: . . . . . . . . . (XV) Any expenditure (not being in the nature of capital expenditure or personal expenses of the assessee) laid out or expended wholly and exclusively for the purpose of such business, profession or vocation.
+" While the Appellate Tribunal looked to the periodicity of the payments, the High Court held that the amount payable was Rs. 3,36,000 divided into annual and redivided into monthly instalments.
+The Tribunal also considered the payments as of the nature of rent or royalty or as price for raw materials.
+The High 698 court, on the other hand, disagreed, and held that here being no manufacturing business, the money expended could not be regarded as price of raw materials or even as rent but as spent to acquire a capital asset of enduring benefit to the assessee.
+The High court referred to numerous decisions in which the question whether a receipt or expenditure is on capital or revenue account has been considered in India and the United Kingdom.
+Before us also, many of them were again cited as illustrating, if not laying down, certain general principles.
+We shall refer to some of the leading cases later, but we may say at once that no conclusive tests have been laid down which can apply to all the cases.
+The facts of one case differ so much from those of another that the enquiry is often somewhat fruitless.
+If, however, the distinguishing features are not lost sight of, the decided cases do afford a guide for the solution of the problem in hand.
+The arguments of Mr. Palkhivala for the assessee may be shortly stated.
+He contends that the quolnama is a licence and not a lease, because it creates no interest in land and no premium is payable for the right, but what is paid is periodic compensation corresponding to rent.
+He contends that the payments can only be regarded as periodic compensation or periodic royalty or licence fees and thus revenue in character.
+He further argues that even if held to be a lump sum payment broken up into instalments, it is still allowable as expenditure because it represents the price for the acquisition of raw materials, viewed from the business angle.
+According to him, all cases of mines and quarries fall into three classes which are: (i) in which mines and quarries are purchased outright; (ii)in which ownership is not acquired but only an interest in land; and (iii) in which there is not even an interest in land but there is an arrangement in praesent and de futuro to ensure supply of raw materials.
+He contends that this being evidently not a case within the first category, it matters not which of the other two categories it belongs to, because in his submission, both the remaining categories exclude a case 699 of capital expenditure.
+He, however, seems inclined to put his case in the third category.
+The learned Additional Solicitor General on his side enumerates the tests which determine whether an expenditure bears a capital or revenue character.
+According to him, decided cases show that capital expenditure is ordinarily once and for all and not of a periodic character, but contends that even a single sum chopped up into instalments is not a payment of a periodic character.
+He submits that capital expenditure is one which brings into existence an enduring advantage, which, he maintains, is the case here, because the money was spent on the initiation of the business and to obtain a permanent source of raw materials and not only the materials.
+The quolnama shows that the agreement was for 12 years.
+The assessee paid an initial sum of Rs. 96,000 a,% security for the whole contract.
+He was required to pay Rs. 28,000 per year.
+The security which was given was being diminished at the rate of Rs. 8,000 per year.
+It was a guarantee against.
+failure to pay the monthly instalments, but there was no condition that the short payments were to be debited to it.
+It was rather a guarantee for the overall payment and to reimburse the jagir for any loss occasioned by a re auction of the lease after default by the assessee.
+Further, the payments were to be made even if no stones were extracted or could not be extracted due to force majeure.
+There was no limit to the quantity to be extracted.
+There was also a condition that none but the assessee was allowed to work the quarries, which means that the right was exclusive and in the nature of a monopoly.
+The payment, though divided into instalments of Rs. 1,666 10 8 per month, was really one for the entire lease and of Rs. 3,36,000.
+Nothing, however, turns upon it.
+It is pertinent to say that the assessee in its petition for leave to appeal to this Court filed in the High Court, viewed the amount as being Rs. 3,36,000 divided into various parts.
+This is what it said: " Under the terms of the said lease, the Company was required to pay a sum of H. section Rs. 28,000 per annum to the lessor.
+The total amount payable for 700 the entire period amounted to IRS.
+3,36,000 out of which a sum of Rs. 96,000 was paid at the time of the execution of the lease deed and the balance of Rs. 2,40,000 was agreed to be paid at the rate of Rs. 20,000 per annum in twelve years.
+It was also agreed that this sum of Rs. 20,000 per annum should be paid in equal instalments of Rs. 1,66 10 8 every month.
+On the expiry of the period of lease, it was renewed for a further period of five years and seven months at an annual rent of Rs. 35,000.
+" These being, the terms of the lease, the question is whether the payments in the account years can be regarded as capital or revenue expenditure.
+The question whether an expenditure is capital or revenue in character is one of common occurrence.
+Its frequency, however, has not served to elucidate the tests with any degree of certainty and precision.
+It has now become customary to start with two propositions which appear to have been received without much argument.
+The first was laid down in Vallambrosa Rubber Co. Ltd. vs Farmer (1), where Lord Dunedin observed that "in a rough way" it was " not a bad criterion of what is capital expenditure as against what is income expenditure to say that capital expenditure is a thing that is going to be spent once and for all and income expenditure is a thing which is going to recur every year ".
+This proposition was further qualified by Lord Cave in Atherton vs British Insulated and Helsby Cables Ltd. (2) in the following words: " When an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think there is very good reason (in the absence of special circumstances leading to the opposite conclusion) for treating such an expenditure as properly attributable, not to revenue, but to capital.
+" The words " enduring benefit of a trade " have been further explained as meaning not " everlasting ", but in the way capital endures ", see Du Pareq, L. J., in (1) (1910) S.T.C. 529.
+(2) , 213 701 Henriksen vs Grafton Hotel Ltd. (1) and Rowlatt, J., in Anglo Persian oil Co. vs Dale (2).
+Another test propounded by Viscount Haldane in John Smith & Son vs Moore (3) is to distinguish, as economists do, between fixed and circulating capital.
+This appears to have appealed to Lord Hanworth, M. R.,, in Golden Horse Shoe (New) Ltd. vs Thurgood (4); but in Van Den Berghs Limited vs Clark (5), Lord Macmillan observed that he did not find it very helpful.
+Often enough, where the character of the expenditure shows that what has resulted is something which is to be used in the way of business, the test may be useful; but in cases close to the dividing line, the test seems useless.
+A third test was laid down by the Judicial Committee in Tata Hydro Electric Agencies Ltd., Bombay vs Commissioner of Income tax (6).
+There, it was stated that if the expenditure was part of the working expenses in ordinary commercial trading it was not capital but revenue.
+The Judicial Committee observed: "What is money wholly and exclusively laid out for the purposes of the trade ' is a question which must be determined upon the principles of ordinary commercial trading.
+It is necessary, accordingly, to attend to the true nature of the expenditure, and to ask oneself the question, is it a part of the company 's working expenses; is it expenditure laid out as part of the process of profit earning ? " In addition to these three tests, the last of which was applied again by the Judicial Committee in Mohanlat Hargovind 's case (7), there are some supplementary tests, which have frequently been alluded to.
+Lord Sands in Commissioners of Inland Revenue vs Granite City Steamship Co. Ltd. charaeterised as capital an outlay made for the initiation of a business, for extension of a business, or for a substantial replacement of equipment.
+In that case, there was extensive damage to a ship, and repairs were necessary to resume trading, such expense being held to be capital expend (1) , 462, C A.(2) , 262.
+(3) , 282.(4) , 298.
+(5) ; (1937) L.R. 64 I.A. 215.
+(7) (1949) L.R. 76 I.A. 235.(8) 14.
+91 702 iture.
+The questions which Lord Clyde posed in Robert Addie & Sons Collieries Ltd. vs Commissioners of Inland Revenue(1), namely: " Is it part of the Company 's working expenses, is it expenditure laid out as part of the process of profit earning ? or, on the other hand, is it capital outlay, is it expenditure necessary for the acquisition of property or of rights of a permanent character, the possession of which is a condition of carrying on its trade at all ? " influenced the Privy Council in Tata Hydro Electric Agencies Ltd., Bombay vs Commissioner of Income tax (2) (at p. 209), and the latter part of the question is the test laid down by Lord Sands, to which we have referred.
+There is then the test whether by the expenditure the taxpayer was ensuring supplies of raw material or purchasing them.
+This test is adverted to by Channell, J., in Alianza Co. Ltd. vs Bell (3 ) and approved by the House of Lords.
+Says Channell, J.: " In the ordinary case, the cost of the material worked up in a manufactory is not a capital expenditure, it is a current expenditure and does not become a capital expenditure merely because the material is provided by something like a forward contract, under which a person for the payment of a lump sum secures a supply of the raw material for a period extending over several years.
+If it is merely a manufacturing business, then the procuring of the raw material would not be a capital expenditure.
+But if it is like the working of a particular mine, or bed of brick earth and converting the stuff into a marketable commodity, then the money paid for the prime cost of the stuff so dealt with is just as much capital as the money sunk in machinery or buildings.
+" The application of this proposition finds an example in Mohanlal Hargovind 's case (4), where tendu leaves were the subject of expenditure.
+The firm in that case had paid for purchasing a right to collect tendu leaves from forest, which right included the right of (1) , 676.
+(3) (2) (1937) L.R. 64 I.A. 215.
+(4) (1949) L.R. 76 I.A. 235.
+703 entry and coppicing and pollarding.
+No right in the land or the trees and plants was conveyed, and the Judicial Committee laid emphasis on the nature of the business of the firm, and equated the expenditure to one for acquiring the raw materials for the manufacturing business.
+The cases to which we have referred and many more of the High Courts in India where the principles were applied with the exception of the one last cited, were all considered by this Court in Assam Bengal Cement Co. Ltd. vs Commissioner of Income tax(6).
+In that case, Bhagwati, J., referred to a decision of the Punjab High Court in Benarsidas Jagannath, In re (2), where Mahajan, J. (as he then was), summarised the position and the various tests.
+This Court quoted with approval this summary, and observe at p. 45: " In cases where the expenditure is made for the initial outlay or for extension of a business or a substantial replacement of the equipment, there is no doubt that it is capital expenditure.
+A capital asset of the business is either acquired or extended or substantially replaced and that outlay whatever be its source whether it is drawn from the capital or the income of the concern is certainly in the nature of capital expenditure.
+The question however arises for consideration where expenditure is incurred while the business is going on and is not incurred either for extension of the business or for the substantial replacement of its equipment.
+Such expenditure can be looked at either from the point of view of what is acquired or from the point of view of what is the source from which the expenditure is incurred.
+If the expenditure is made for acquiring or bringing into existence an asset or advantage for the enduring benefit of the business it is properly attributable to capital and is of the nature of capital expenditure.
+If on the other hand it is made not for the purpose of bringing into existence any such asset or advantage but for running the business or working it with a view to produce the profits it is a revenue expenditure.
+If any such asset or advantage for the enduring benefit of the business is (1) [1935] 1.S.C.R. 972.
+(2) (1046) I.L.R. 704 thus acquired or brought into existence it would be immaterial whether the source of the payment was the capital or the income of the concern or whether the payment was made once and for all or was made periodically.
+The aim and object of the expenditure would determine the character of the expenditure whether it is a capital expenditure or a revenue expenditure.
+The source or the manner of the payment would then be of no consequence.
+It is only in those cases where this test is of no avail that one may go to the test of fixed or circulating capital and consider whether the expenditure incurred was part of the fixed capital of the business or part of its circulating capital.
+If it was part of the fixed capital of the business it would be of the nature of capital expenditure and if it was part of its circulating capital it would be of the nature of revenue expenditure.
+These tests are thus mutually exclusive and have to be applied to the facts of each particular case in the manner above indicated.
+" Learned counsel in the present case rested his case upon the decision of the Punjab High Court in Benarsidas case (1), and stated that after its approval by this Court, the expenditure here could not but be held as on capital account.
+He relied strongly also upon the decision of the Judicial Committee in Mohanlal Hargovind 's case (2 ).
+Reference was made to other decisions, which we will briefly notice later.
+In Benarsidas case (1), the person sought to be assessed was a manufacturer of bricks.
+He obtained certain lands for digging out earth for his manufacture.
+Under the deeds which gave him this right, he could dig up to a depth of 3 feet.
+to 31 feet.
+He had no interest in the land, and as soon as the earth was removed, his right was at an end.
+It was held in that case that the main object of the agreements was the procuring of earth as raw materials and by the expenditure the lessee had not acquired any advantage of a permanent or enduring character.
+It is, however, to be noticed that the duration of the leases was from six months to three years.
+The Full Bench referred to (1) Lah.
+(2) (1994) L.R. 76 I.A. 235.
+705 some other leases in which the duration was longer,and observed: " There are other agreements which are not before us and it seems that the items mentioned in the question referred relate to those agreements as well.
+We do not know the nature of the agreements, but the question can be answered by saying that expenses incurred during the year of assessment for purchase of earth on basis of agreements of the nature mentioned in the case of Benarsidas or of the nature like Exhibit T. E. are admissible deductions, while sums spent for obtaining leases for a substantially long period varying from 10 to 20 years cannot be held to be valid deductions if they amount to an acquisition of an asset of an enduring advantage to the lessee.
+" It appears that the Full Bench was persuaded to this view from two considerations.
+The first was that what was acquired was earth with no interest in land, and the other was the short term of the leases.
+The approval given to Benarsidas case (1) by this Court does not extend beyond the summary of the tests settled in it, and the tests have to be applied to the facts of each case in the manner indicated by this Court.
+But the actual decision was not before this Court, and cannot be said to have been approved.
+The agreements in the present case are long term contracts.
+They give the right to extract stones in six villages, without any limit by measurement or quantity.
+They give the right exclusively to quarry for a number of years.
+This case is thus very different on facts.
+Further, the duration of the right which seems to have weighed with the Full Bench in the Punjab High Court has little to do with the character of the expenditure even if it be a relevant factor to consider.
+In Henriksen 's case(2) the right was only for 3 years, but monopoly value having been paid for it, the result was a capital asset of an enduring character.
+In Mohanlal Hargovind 's case (3), the person assessed was a bidi manufacturer who had obtained short term (1) Lah.
+(2) , 462, C.A. (3) (1949) L.R. 76 I.A. 235.
+706 contracts with Government and other forest owners to obtain tendu leaves from the forests.
+These tendu leaves with tobacco are used to roll into cigarettes.
+The contracts gave a right of entry into forests to collect the leaves and also to coppice the plants and to pollard the tendu trees, but beyond this gave no interest in land.
+The Judicial Committee held that these contracts were in a business sense for the purpose of securing supplies to the manufacturers of one of the raw materials of his business.
+They granted no interest in land or the plants or trees.
+The small right of cultivation and the exclusive nature of the grant were of no significance.
+Then, the Judicial Committee observed as follows: " Cases relating to the purchase or leasing of mines, quarries, deposits of brick earth, land with standing timber, etc.
+do not appear to their Lordships to be of assistance.
+" The Board distinguished Alianza Co. Ltd. vs Bell which was said to be a case analogous to purchase or leasing of a mine and Kauri Timber Company 's case (2), which was a case of acquisition of land or of standing timber which was an interest in land.
+In either case, it was a capital asset.
+Their Lordships finally observed: " In the present case the trees were not acquired; nor were the leaves acquired until the appellants had reduced them into their own possession and ownership by picking them.
+The two cases can, in their Lordships ' opinion, in no sense be regarded as comparable.
+If the tendu leaves had been stored in a merchant 's godown and the appellants had bought the right to go and fetch them and so reduce.
+them into their possession and ownership it could scarcely have been suggested that the purchase price was capital expenditure.
+Their Lordships see no ground in principle or reason for differentiating the present case from that supposed.
+" It is to be noticed that the Privy Council case was not applied but distinguished by the Court of Appeal in England in Stow Bardolph Gravel Co. Ltd. V. Poole (3).
+(1) (2) [1913] A.C. 771.
+(3) 707 In that ease, the Company was doing the business of selling sand and gravel.
+It purchased two unworked deposits, and it claimed that the payment should be deducted from its profits as being expenditure for acquiring its trading stock.
+It was held that the Company had acquired a capital asset and not a stock in trade.
+Harman, J., before whom the appeal came from the decision of the General Commissioners, said that the case was indistinguishable from the Golden Horse Shoe case (1), where the tailings were regarded as the stock in trade of the taxpayer.
+He observed : " Now, it is said here that the opposite conclusion should be reached, and I think in substance the reason is because this gravel had never been raked off the soil upon which it was lying.
+There is no question, in any true sense, of extracting gravel; there is no process, as I understand it, gone through here.
+It is not even suggested that a riddle or sieve is used; you merely dig it up or rake it up where it lies, put it on the lorry and sell it wherever you can.
+It is said what was bought was a mere right to go on the place and win the gravel, but, in effect, in the Golden Horse Shoe case (1) what was bought was the licence to go on the land and take away the tailings, and 'myself think that it is a distinction without difference to suggest that, because nobody had ever applied a rake to this gravel before, it should be treated as capital, whereas if somebody had raked it into little heaps before the contract was made then its purchase would constitute a different form of adventure.
+It is the same situation; it is no more and ,.no less attached to the land.
+" In dealing with this case on appeal, Lord Evershed, M. R. (then Sir Raymond Evershed), felt that the case was a little hard upon the taxpayer, and further that it might, if proper enquiry bad been made, have been possible to hold that after the price was paid, the sand and gravel become, in truth, the stock in trade of the taxpayer.
+Taking the facts, however, as found, he held that what was purchased was a part of the (1) , 298.
+708 land itself, namely, the gravel in situ.
+He held that there was a distinction between the purchase of a growing crop or leaves and the purchase of gravel.
+Lord Evershed then analysed the agreement, and observed as follows: " I think that, once it has to be conceded that there was no sale of the gravel in the way the Judge said there was, then it must follow that what was here acquired was the means of getting the gravel by excavating and making it part of the stock in trade.
+" Reference was then made by him to cases in which what was purchased or taken on lease was land or an interest in land, and Mohanlal Hargovid 's case (1) was distinguished on the ground that in that case it was possible to say of tendu leaves that they were acquired as the raw material for manufacture.
+The argument of Mr. Magnus in the case described as ail attempt to substitute sand and gravel for tendu leaves was not accepted, Lord Evershed observing: " But I cannot say the same of the sand and gravel, part of the earth itself, which was the subject of the contract here in question and which I think only could sensibly become part of the stock in trade of this gravel merchants ' business when it had in the true sense been won, had been excavated and been taken into their possession.
+" We are in entire agreement that such a distinction is not only palpable but also sensible.
+The present case is a fortiori.
+Here, the stones are not lying on the surface but are part of a quarry from which they have to be extracted methodically and skilfully before they can be dressed and sold.
+These deposits are extensive, and the work of the assessee carries him deep under the earth.
+Such a deposit cannot be described as the stock in trade of the assessee, but stones detached and won can only be so described.
+Before we deal with the other cases, we wish to state the distinguishing features of the cases already mentioned, and which have not often been viewed together.
+In the Alianza case (2), the sale was not of the caliche as such but of the right to win it from a (1) (1949) L.R. 76 I.A. 235.
+(2) , 709 deposit thereof, and it was treated as an expenditure of a capital nature.
+In the Stow Bardolph case(,), the finding was that sand and gravel had to be won, and it was held that they could not be treated as stock in trade till they were actually won.
+The doubt expressed by Lord Evershed was that if the taking of sand and gravel involved merely taking them up and putting them into trucks, the finding could have been otherwise.
+Harman, J., made this distinction, but in view of the finding, the Court of Appeal came to a different conclusion.
+Indeed, Harman, J., himself would have decided differently if there was, in any true sense, a question of extracting gravel.
+He, therefore, thought that the case resembled the Golden Horse Shoe case (2) where the " tailings " were bargained for and paid for, and became the stock in trade of the tax payer.
+In Mohanlal Hargovind 's case (3), there being no interest in land or trees or plants and the right of cultivation and the exclusiveness of the right to the leaves being insignificant, the contracts were treated as leading to acquisition of the raw materials.
+The leaves on trees were treated as equal to leaves in a shop.
+It was on this ground that case was distinguished from the Kauri Timber Company case (4), in which land and interest in land in the shape of standing timber were involved.
+The case in Hood Barrs vs Commissioners of Inland Revenue (5) was similar to the last cited.
+In the present case, the assessee acquired a right to extract stones and his lease included not only the stones on the top but also those buried out of sight under Tons of other stones, which he could only reach after extracting those above.
+This case is thus within the rule of those cases in which the right acquired is to a source from which the raw materials are to be extracted.
+The doubt expressed by Lord Evershed does not apply to the facts here, because the reasons given by Harman, J., cannot be made applicable at all.
+In Kamakshya Narain Singh vs Commissioner of Income tax(6), the case involved payment of certain annual sums by way of salami for mining rights, and (1) (3) (5) (2) (4) [1913] A.C. 771.
+(6) P.C. 710 these were regarded as capital income.
+There were also two other payments, namely, royalty on coal raised and a provision for minimum royalty.
+These were regarded as not capital receipts but as assessable income.
+In dealing with the nature of the working of a mine, certain observations were made.
+It was contended that the payments amounted to conversion of a capital asset into cash.
+The argument was repelled by the Judicial Committee in these words: These are periodical payments, to be made by the lessee under his covenants in consideration of the benefits which he is granted by the lessor.
+What these benefits may be is shown by the extract from the lease quoted above, which illustrates how inadequate and fallacious it is to envisage the royalties as merely the price of the actual tons of coal.
+The tonnage royalty is indeed payable when the coal or coke is gotten and despatched; but that is merely the last stage.
+As preliminary and ancillary to that culminating act, liberties #are granted to enter on the land and search, to dig and sink pits, to erect engines and machinery, coke ovens, furnaces and form railways and roads.
+All these and the like liberties show how fallacious it is to treat the lease as merely one for the acquisition of a certain number of tons of coal, or the agreed item of royalty as merely the price of each ton of coal.
+The contract is in truth much more complex.
+The royalty is 'in substance a rent; it is the compensation which the occupier pays the landlord for that species of occupation which the contract between them allows ' to quote the words of Lord Denman in R. vs Westbrook (1).
+He was referring to leases of coal mines, clay pits and slate quarries.
+He added that in all these the occupation was only valuable by the removal of portions of the soil.
+It is true that he was dealing with occupation from the point of view of rating, but compensation has the same meaning in its application to matters of taxation such as are involved in this case.
+" Thus, the contention of the learned counsel for the assessee that we should treat this quolnama as merely (1) 711 showing a licence and not a lease creating interest in land is not correct.
+A lease to take out sand was described in Kanjee and Moolji Bros. vs Shanmugam Pillai (1) as amounting to a transfer of interest in immovable property and also so, in connection with the Registration Act in Secretary of State for India vs Kuchwar Lime and Stone Co. (2).
+It is thus clear that what the assessee acquired was land, a part of which in the shape of stones he was to appropriate under the covenants.
+He was not purchasing stones, and the price paid could not in any sense be referable to stones as stock in trade.
+The stones extracted might have become his stock in trade, but the stones in situ were not so.
+Nor do we agree that the periodicity of payments has any significance.
+As was pointed out by Lord Greene, M. R., in Henriksen 's case (3) : "If the sum payable is not in the nature of revenue expenditure, it cannot be made so by permitting it to be paid in annual instalments.
+These payments by instalments in respect of monopoly value have not the annual quality of the payments for the grant of the annual excise licence, but are of a different character altogether.
+Here the Appellants were minded to acquire as asset in the shape of a licence for a term of years.
+" The learned Master of the Rolls added that the annual payments gave " a false appearance of periodicity ".
+Applying the above test to the present case, it is obvious that the monthly payments of Rs. 1,666 10 8 did not represent the lease amount for a month.
+This was a case in which the assessee bad acquired an asset of an enduring character for which he had to put his hand in his pocket for a very large sum indeed.
+He paid Rs. 96,000 down, but for the rest he asked for easy terms.
+The amount paid every month was not in any sense a payment for acquisition of the right from month to month.
+It was really the entire sum chopped into small payments for his convenience.
+Nor can the amount be described as a business expense, because the outgoings every month were not (1) Mad. 169.
+(2) (1937) L.R. 65 I.A. 45, 5, (3) , C.A, 712 to be taken as spent over purchase of stones but in discharge of the entire liability to the jagir.
+Some of the cases to which we were referred may now be briefly noted.
+Hakim Ram Prasad, In re (1) was a case of renting of a cinema projector for 10 years.
+The amount paid was thus hire for the machine. 'In Commissioner of Income tax vs Globe Theatres Ltd. (2) the assessee advanced Rs. 10,000 to a company for the construction of a cinema house which was never built.
+Since the amount was not salami or premium but only advance rent, it was held deduct ible.
+Commissioner of Income tax vs Kolhia Hirdagarh Co. Ltd. (3) was a case of commission on every ton of coal raised, and it was held to be revenue expenditure.
+These cases are entirely different, and can be of no authority for payments, such as we have.
+Reliance was also placed upon Parmanand Haveli Ram In re (4), Nand Lal Bhoj Raj, In re (5) and Commissioner of Income tax vs Tika Ram & Sons (6).
+In the first two, expenditure to acquire lands bearing certain salts in the earth, which could be converted into potassium nitrate, sodium chloride or saltpetre, was regarded as revenue expenditure.
+They follow the line of reasoning which the same Court adopted in the Full Bench case of Benarsidas (7), which we have considered in detail earlier.
+They involved shortterm contracts, and in the Full Bench case it was stated that the case of long term leases was on a different footing, though, in our opinion, the decisive factors in such cases will be the nature of the acquisition and the reason for the payment.
+Cases on the other side of the line where payments were regarded as capital expenditure are Commissioner of Income tax vs Chengalroya Mudaliar (8) and Chengalvaroya Chettiar vs Commissioner of Income tax (9).
+There the expenditure was for a lease for excavation of lime shells.
+Since the lease conferred exclusive privilege and a new business regarded not as the right to win shells.
+(1) (3) (5) (7) (2) (4) (6) (8) Mad.
+(9) 713 All these cases turned on different facts, and it is not necessary to decide which of them in the special circumstances were correctly decided.
+This enquiry will hardly help in the solution of the case in hand.
+We are, however, satisfied that in this case the assessee acquired by his long term lease a right to win stones, and the leases conveyed to him a part of land.
+The stones in situ were not his stock in trade in a business sense but a capital asset from which after extraction he converted the stones into his stock in trade.
+The payment, though periodic in fact, was neither rent nor royalty but a lump payment in instalments for acquiring a capital asset of enduring benefit to his trade.
+In this view of the matter, the High Court was right in treating the outgoings as on capital account.
+In the result, the appeal fails, and will be dismissed with costs.
+BY COURT: In accordance with the majority judgment of the Court, the appeal is dismissed with costs.
+Appeal dismissed.

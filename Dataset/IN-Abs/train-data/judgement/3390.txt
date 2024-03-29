@@ -1,0 +1,81 @@
+Civil Appeals Nos. 1848 and 1849 of 1974.
+Appeals by Special Leave from the Judgment and Orders dated the 27 11 1973 & 23 5 74 of the Delhi High Court in L.P.A. No. 172/73 and Civil Writ No. 237 of 1974 respectively.
+Hardyal Hardy, section K. Mehta, K. R. Nagaraja and P. N. Puri for the Appellants.
+1062 Mrs. Shyamla Pappu and Girish Chandra for Respondents 1 3.
+R. N. Sachthey for Respondents 4 5.
+The Judgment of the Court was delivered by SARKARIA, J.
+This judgment will govern the disposal of these two appeals which arise out of a common judgment of the High Court of Delhi dismissing the writ petitions filed by the appellants and others, under Article 226 of the Constitution.
+On November 27, 1972, the Administrator of Delhi, made an order under section 5 of the Indian Telegraphs Act.
+1885 (for short, the Act) authorising the Superintendent of Police, North District, to take temporary possession "until further orders" of certain specified telephones installed in rooms and cabins of the building known as Coronation Hotel, Fatehpuri, Delhi.
+The order reads as under: "Whereas the Administrator of Delhi is satisfied that illegal forward trading (satta) in agricultural commodities is being practised on a large scale through the following telephones installed in the rooms/cabins in the premises of the Coronation Hotel, Fatehpuri, Delhi, thereby affecting adversely the price of the supply essential to the life of the community.
+Whereas public emergency exists and the Administrator, Delhi is satisfied that the continuation of satta at the aforesaid premises through the telephones given above is prejudicial to public interest and as such it is necessary to take temporary possession of all the aforesaid telephones from the premises in question." Another order in similar terms was made on December 4, 1972 by the Administrator for taking over certain other telephones.
+Four subscribers, who were affected by these orders challenged their validity by writ petitions in the High Court.
+A Bench of the High Court allowed those petitions and quashed the orders in question on the ground that resort cannot be had to section 5(1) of the Act for taking temporary possession of the subscribers ' telephones.
+The General Manager, Telephones, Delhi also, made orders on November 28, 1972 and December 5, 1972, purporting to act under Rule 422 of the Indian Telegraphs Rules, 1951, (for short, the Rules) for disconnecting the telephones and non exchange lines.
+One of those orders, dated November 28, 1972, may be extracted as a specimen: "The Delhi Administration has certified vide order No. F5/20/72/C HG dated 27 11 1972 that public emergency exists and that continuation of "satta ' at the premises of Coronation Hotel Fatehpuri through the telephones is pre judicial to public interest.
+1063 The undersigned in exercise of the powers conferred under rule 422 of Indian Telegraphs Rules, 1951 hereby orders to disconnect the telephones and Non exchange Lines mentioned in the list supplied by Delhi Administration (copy attached).
+" Thereupon the appellants filed C.W. 470 of 1973 in the High Court praying for a writ to quash these orders of the General Manager and for restoration of their telephone connections.
+This writ petition was heard by a learned Single Judge of the High Court who allowed the same and quashed the impugned orders and further directed that the telephones be restored to the appellants.
+Aggrieved, the Union of India and other respondents carried a special appeal to the appellate Bench of the High Court.
+Before the appellate Bench it was contended that the impugned action was bad because: (a) no prior notice in regard to the same was given to the appellants; (b) the Divisional Engineer did not apply his mind and record his own satisfaction about the existence of any emergency and as such there was a contravention of Rules 421 and 422 which had to be read together; (c) the reason given in the impugned order, to the effect, that the appellants were making illegal and improper use of their telephones inasmuch as they were transmitting messages and information in regard to satta business which had been banned, was irrelevant and extraneous to Rule 422 under which the impugned action has been purportedly taken; (d) the emergency contemplated by Rule 422 is not the same as a 'public emergency ' declared under s.5, but is an emergency arising out of the breakdown of the telecommunications due to a technical defect, labour trouble, vis major, fire or the like, the existence of which was to be established to the satisfaction of the Divisional Engineer and not any extraneous authority.
+Stress was laid, in this connection, on the fact that the word "emergency" in Rule 422 is not qualified by the prefix "public", instead, the words used are "any emergency".
+The High Court negatived these contentions.
+In its opinion, the requirement of notice could be dispensed with under r. 422 if the General Manager, Telephones, was satisfied that the telephones were being used by the subscribers for illegal forward trading and that such use was contrary to public interest in view of the existence of "economic" emergency.
+It further held that the words "any emergency" in Rule 422 include an 'economic emergency ', and on the basis of the certificate in regard to the existence of an "economic emergency" issued under section 5, by the Delhi Administration.
+The Divisional Manager was competent in exercise of his powers under Rule 422 to pass the impugned orders.
+In the result, it set aside the decision of the learned Single Judge and dismissed the writ petition with the observation that "the telephone authorities should treat these disconnections as temporary and allow the petitioners to get back their connections, if the General Manager is satisfied that the emergency caused by the shortage in supply of the commodities on which the forward trading was banned, was over".
+1064 Hence these appeals.
+The contentions canvassed before the High Court have been repeated before us.
+Before dealing with the same, it will be worthwhile to have a look at the relevant statutory provisions.
+Section 5 of the Act provides: "(1) On the occurrence of any public emergency, or in the interest of the public safety, the Central Government or State Government or any officer specially authorised in this behalf by the Central Government or a State Government may, if satisfied that it is necessary or expedient so to do, take temporary possession (for so long as the public emergency exists or the interest of the public safety requires the taking of such action) of any telegraph established, maintained or worked by any person licensed under this Act.
+(2) On the occurrence of any public emergency or in the interest of the public safety, the Central Government or a State Government or any officer specially authorised in this behalf by the Central Government or a State Government may, if satisfied that it is necessary or expedient so to do in the interest of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States or public order or for preventing incitement to the commission of an offence, for reasons to be recorded in writing, by order, direct that any message or class of messages to or from any person or class of persons or relating to any particular subject, brought for transmission by or transmitted or received by any telegraph, shall not be transmitted, or shall be intercepted or detained, or shall be disclosed to the Government making the order or an officer thereof mentioned in the order: Provided that press messages intended to be published in India of correspondents accredited to the Central Government or a State Government shall not be intercepted or detained, unless their transmission has been prohibited under this sub section.
+" The material rules are these: "421.
+Disconnection of telephones.
+Where the Divisional Engineer is satisfied for reasons to be recorded in writing that it is necessary to do so, he may, after giving the subscriber a notice in writing for a period which shall not except in emergent cases be less than 7 days, disconnect the telephone, and in such case, the subscriber shall be entitled to refund of rent for the unexpired portion of the period for which the connection or service was given.
+1065 422.
+Right of disconnection in emergency.
+The Divisional Engineer may, in the event of any emergency, disconnect any subscriber, with or without notice.
+In case such disconnection exceeds a period of seven days, the subscriber shall be entitled to proportionate refund of rent.
+Illegal or improper use of telephones.
+A subscriber shall be personally responsible for the use of his telephone.
+No telephone shall be used to disturb or irritate any person or for the transmission of any message or communication which is of an indecent or obscene nature or is calculated to annoy any person or to disrupt the maintenance of public order in any other manner contrary to any provision of law." Section 5(1), if properly construed, does not confer unguided and unbridled power on the Central Government/State Government/Specially Authorised Officer to take possession of any telegraph.
+Firstly, the occurrence of a 'public emergency ' is the sine qua non for the exercise of power under this section.
+As a preliminary step to the exercise of further jurisdiction under this section the Government or the authority concerned must record its satisfaction as to the existence of such an emergency.
+Further, the existence of the emergency which is a pre requisite for the exercise of power under this section, must be a 'public emergency ' and not any other kind of emergency.
+The expression 'public emergency ' has not been defined in the statute, but contours broadly delineating its scope and features are discernible from the section which has to read as a whole.
+In sub section (1) the phrase 'occurrence of any public emergency ' is connected with and is immediately followed by the phrase "or in the interests of the public safety".
+These two phrases appear to take colour from each other.
+In the first part of sub section
+(2) these two phrases again occur in association with each other, and the context further clarifies, with amplification, that a 'public emergency ' within the contemplation of this section is one which raises problems concerning the interest of the public safety, the sovereignty and integrity of India, the security of the State, friendly relations with foreign States or public order or the prevention of incitement to the commission of an offence.
+It is in the context of these matters that the appropriate authority has to form an opinion with regard to the occurrence of a 'public emergency ' with a view to taking further action under this section.
+Economic emergency is not one of those matters expressly mentioned in the statute.
+Mere 'economic emergency ' as the High Court calls it may not necessarily amount to a 'public emergency ' and justify action under this section unless it raises problems relating to the matters indicated in the section.
+Rules 421 and 422 occur in serial order in a section of Part V under the group caption, "Telephone connections and other services".
+Rule 421 requires the Divisional Engineer to record his satisfaction, supported by reasons, for the proposed disconnection of the telephone.
+It further requires that authority to give a notice in writing to the subscriber.
+Such notice shall ordinarily be of not less than seven 1066 days.
+In emergent cases, the period of this notice can be less than seven days.
+But even in emergent cases under this Rule, the notice cannot be dispensed with altogether.
+Rule 422 empowers the Divisional Engineer to disconnect any subscriber 'in the event of any emergency ' with or without notice.
+The existence of "any emergency" to the satisfaction of the Divisional Engineer, appears to be a necessary pre requisite to the exercise of the power under this rule.
+It is significant that while section 5 speaks of the occurrence of a 'public emergency ', satisfaction with regard to the existence of which is to be recorded by the appropriate authority mentioned in that section, Rule 422 purports to empower the Divisional Engineer to take action thereunder in the event of "any emergency".
+The scope of the words "any emergency" in Rule 422 is apparently wider than the expression "public emergency" used in section 5.
+It follows that the satisfaction is regard to the existence of "any emergency" under Rule 422 is to be of the Divisional Engineer.
+He has to arrive at such satisfaction rationally on relevant material which may include any certificate or report of the appropriate Government as to the occurrence of a 'public emergency '.
+The requirement of recording such satisfaction by the Divisional Engineer, with reasons therefor, is implicit in the Rule.
+That will be a minimal safeguard against arbitrary exercise of this drastic power.
+In this connection, it will not be out of place to mention here, that sub section (2) of section 5 which made the Certificate of the Central/State Government conclusive proof as to the existence of a 'public emergency ', stood deleted and replaced by a different provision, at the time when the impugned action was taken in this case.
+That is an additional reason for holding that it was the Divisional Engineer who had to form his own opinion as to the existence of an emergency, before taking action under r. 422.
+Having heard the Counsel on both sides, we are of opinion, that the impugned Order suffers at least from one apparent defect of jurisdiction.
+Assuming that the General Manager was competent to make an order under Rule 422, the power has been exercised mainly on a ground which is not a relevant consideration under this Rule.
+This ground as recited in the Delhi Administration Notification of December 4, 1972 and reproduced in the impugned order of the General Manager, Telephones, is that illegal forward trading (satta) in agricultural commodities is being practised in a large scale through the telephones in question at the premises of Coronation Hotel, Fatehpuri.
+In other words, the impugned action has been taken chiefly on the ground that the appellants have been making improper or illegal use of these telephones.
+This being the position, the appropriate course to be followed was that laid down in Rule 427 read with Rules 416 and 421.
+But this was not done.
+It is well settled that where a power is required to be exercised by a certain authority in a certain way, it should be exercised in that manner or not at all, and all other modes of performances are necessarily forbidden.
+It is all the more necessary to observe this rule 1067 where power is of a drastic nature and its exercise in a mode other than the one provided, will be violative of the fundamental principles of natural justice.
+Now, in the present case, if the telephones of the appellants were to be disconnected on the ground of misuse, then they had to give, in consonance with the principles of natural justice, opportunity to the appellants to explain their conduct before taking action under Rule 427 read with Rules 416 and 421.
+Resort to the wrong and more drastic course provided in Rule 422, on a ground which was not germane to an action under that Rule, vitiates the impugned order, particularly when it is manifest that in making the impugned order, the General Manager was influenced more by this ground and less, if at all, by the existence of 'public emergency ' certified by the Delhi Administration.
+For the foregoing reasons we accept these appeals, allow the writ petitions, quash the impugned orders and direct the respondents to restore the telephone connections to each of these appellants.
+However in the circumstances of the cases we make no order as to costs.
+S.R. Appeals allowed.

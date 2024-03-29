@@ -1,0 +1,97 @@
+minal Appeal No. 154 of 1963.
+Appeal from the judgment and order dated May 2, 1963 of the Bombay High Court (Nagpur Bench) at Nagpur in Criminal Appeal No. 234 of 1962.
+M. N. Phadke and Naunit Lal, for the appellant.
+O. P. Rana, B. R. G. K. Achar and R. H. Dhebar, for the respondent.
+359 The Judgment of the Court was delivered by Subba Rao, J.
+This appeal by certificate issued by the High Court of Judicature at Bombay raises the question of the construction of some of the provisions of the Bombay Prohibition Act, 1949, hereinafter called the Act.
+On June 12, 1961, Vijaysingh, the appellant, and one Namdeo Shinde drove in a jeep at an excessive speed and dashed it against the wall of the office of the District Superintendent of Police, Akola.
+Both of them appeared to be intoxicated.
+In the jeep there was also a bottle with a label on it as "Tincture Zingeberis".
+Vijaysingh was prosecuted before the Judicial Magistrate, First Class, Akola, under section 66(1)(b) and section 85(1) (1), (2), and (3) of the Act.
+The said Magistrate convicted the appellant both under section 66(1)(b) and section 85(1)(1), (2) and (3) of the Act, but sentenced him only under sections 66(1)(b) and 85(1)(1) of the Act.
+On appeal, the learned Sessions Judge, Akola, acquitted the appellant under section 66(1)(b) of the Act, but confirmed the conviction and sentence under section 85(1)(1) thereof.
+Against the judgment of the Sessions Judge acquitting the appellant under section 66(1)(b) of the Act the State of Maharashtra preferred an appeal to the High Court; and against the order of conviction under section 85(1) (1) of the Act the appellant preferred a revision to the High Court.
+The High Court heard both the matters together and allowed the appeal filed by the State and dismissed the revision petition preferred by the accused appellant.
+In the result it set aside the order of acquittal made by the Sessions Judge under section 66(1)(b) of the Act and sentenced the accused to rigorous imprisonment for 3 months and a fine of Rs. 500 and confirmed the conviction and sentence of the accused under section 85(1)(1) of the Act.
+Hence the present appeal.
+Learned counsel for the appellant raised before us several contentions for dislodging the judgment of the High Court.
+We shall now proceed to deal with them in the order in which they were addressed to us.
+The first contention may be put thus.
+Under section 66(2) of the Act all that an accused need prove is that he has consumed a medical preparation; if he established that, the burden of proving that the medicinal preparation is fit for use as an intoxicating liquor shifts to the prosecution.
+In the present case the accused has established that he had taken "tincture zingeberis", which is a medicinal preparation, but the prosecution failed to prove that it was fit for use as an intoxicating liquor.
+To appreciate this contention it is necessary to notice the relevant provisions.
+Under section 66(1) of the Act, "Whoever in contravention of the provisions of this Act, or of any rule, regulation or order made. . consumes. . any intoxicant shall, on conviction, be punished for a first offence, with imprisonment for a term which may extend to six months and with fine which may extend 360 to one thousand rupees." "Intoxicant" is defined to mean, among other things, any liquor; and "liquor" is defined to include, among others, all liquids consisting of or containing alcohol.
+Under section 13(b), no person shall consume or use liquor.
+Relevant part of section 24A enacts that nothing in Ch.
+III shall be deemed to apply to any medicinal preparation containing alcohol which is unfit for use as intoxicating liquor.
+The effect of these sections, in so far as they are material for the present case, is that if a person consumes liquor, i.e., any liquid consisting of or containing alcohol, he commits an offence under section 66(1) of the Act and, therefore, is liable to be convicted thereunder.
+But by reason of section 24A(2) of the Act if it is established that the liquor consumed is contained in any medicinal preparation which is unfit for use as intoxicating liquor, the consumption of such liquor is not an offence under the Act, for the Act itself does not apply to such medicinal preparations.
+We shall revert to the question of burden of proof a little later.
+The facts found in this case may now be noticed.
+The accused says that he consumed "tincture zingeberis" and produced before the police a sample bottle out of which he says he had consumed tincture zingeberis.
+A sample of the liquid was analysed by the Chemical Analyser.
+His report shows that the liquor was a weak Ginger Tincture B.P. 1959 (Tincture Zingeberis Mitis); absolute alcohol content was 89.1 per cent.
+The report further states as regards alcohol contents of the liquid that the sample contained 90.0 per cent.
+of V/V of ethyl alcohol though the B.P. limits were 86 to 90 per cent.
+V/V. "The analysis has also given the quantity of total solids as 0.62 per cent.
+weight per ml.
+at 20 degrees to be 0.825 g." In the opinion of the Chemical Analyser, the sample complied with pharmacopical specifications.
+On the basis of the report, the High Court found that the accused consumed a medicinal preparation which was listed in the British Pharmacopia, 1958 edition, and which had alcohol contents to the extent of 90 per cent.
+V/V of ethyle alcohol.
+The Chemical Analyser to the Govern ment of Maharashtra examined the sample blood taken from The body of the accused by applying "modified Cavette 's method" and gave his report to the effect that the sample blood of the accused contained 0.207 mg.
+w/v of ethyl alcohol.
+The High Court also found on the expert evidence that blood alcohol concentration on taking a normal dose of tincture zingeberis mitis would be about 0.007 per cent.
+W/V and the accused should have taken roughly about 125 c.c. of tincture zingeberis to induce an alcohol content of 0.207 per cent.
+found in his blood by the Chemical Analyser.
+On the basis of the evidence of Dr. Deshmukh, the High Court also found that Tincture Zingeberis Mitis was a preparation which might be consumed for intoxication and that intoxication would not be accompanied by any other harmful effects.
+On the either hand the accused has not adduced any evidence that the said medicine is a medicinal preparation unfit for use as intoxicating liquor.
+361 The question whether the prosecution has discharged its burden of proof in this case will have to be considered on the basis of the said facts found by the High Court.
+Section 66(2) of the Act, which bears on the question of burden of proof, reads thus: "Subject to the provisions of sub section (3), where in any trial of an offence under clause (b) of sub section (1) for the consumption of an intoxicant, it is alleged that the accused person consumed liquor, and it is proved that the concentration of alcohol in the blood of the accused person is not less than 0.05 per cent.
+weight in volume then the burden of proving that the liquor consumed was a medicinal or toilet preparation. containing alcohol, the consumption of which is not in contravention of the Act or any rules, regulations or orders made thereunder, shall be upon the accused person, and the Court shall in the absence of such proof presume the contrary.
+" It has been proved in this case that the accused person consumed liquor and that the concentration of alcohol in his blood was more than 0.05 per cent.
+weight in volume.
+So in terms of sub section
+(2) of section 66 of the Act the burden of proving that the liquor consumed was a medicinal preparation containing alcohol, the consumption of which was not in contravention of the Act etc.
+or the rules made thereunder, shifted to the accused.
+He could have discharged this burden by proving, inter alia, that the medicinal preparation containing, alcohol which he had taken was unfit for use as an intoxicating liquor; if so much had been established, as under section 24A of the Act, the Act itself does not apply to such medicinal preparations, the accused would not have committed any offence under the Act.
+The High Court found that the accused had not placed any material to prove that tincture zincreberis mitis was unfit for use as an intoxicating liquor; indeed, it accepted the evidence adduced on behalf of the prosecution and held that it was fit for use as an intoxicating liquor.
+In this case not only the accused failed to discharge the burden so shifted to him by the statute, but the prosecution had also established that the said medicinal preparation was fit for use as an intoxicating liquor.
+Reliance is placed by the learned counsel for the appellant on the decision of this Court in The State of Bombay (now Gujarat) vs Narandas Mangilal Agarwal(1) wherein it was held, in the circumstances of the case, that it was for the State to prove that the medicinal preparation was not unfit for use as intoxicating liquor.
+But that decision was given on the relevant provisions of the Act before it was amended by the Bombay Act XII of 1959.
+Section 66(2) was added by the said Act which in express terms states that in the circumstances mentioned in the sub section the burden of proof shifts to the accused.
+The said (1) [1962] Supp. 1 S.C.R. 15.
+362 decision cannot, therefore, be invoked in the changed circumstances.
+The present case falls to be decided on the interpretation of section 66(2) of the Act.
+We, therefore, hold that the High Court came to the correct conclusion on the question of burden of proof and gave its finding on the evidence adduced before it.
+It was then argued that even if the burden of proof in the circumstances of the case shifted to the accused that burden was discharged by reason of section 6A of the Act.
+Under section 6A of the Act for the purpose of enabling the State Government to determine whether any medicinal preparation containing alcohol is an article tit for use as intoxicating liquor, the State Government shall constitute a Board of Experts , and under sub section
+(6) thereof, it shall be the duty of the Board to advise the State Government on the question whether any article mentioned in sub section
+(1) of section 6A is fit for use as intoxicating liquor and upon determination of the State Government that it is so fit, such article shall, until the contrary is proved.
+be presumed to be fit for use as intoxicating liquor.
+Under sub section
+(7) thereof, "Until the State Government has determined as aforesaid any article mentioned in sub section (1) to be fit for use as intoxicating liquor, every such article shall be deemed to be unfit for such use.
+" On the basis of this section, the argument proceeded that the State Government did not determine under section 6A of the Act that 'Tincture Zingeberis Mitis ' was fit for use as intoxicating liquor and, therefore, the said article shall be deemed to be unfit for such use, with the result the burden which shifted to the accused under section 66(2) of the Act was statutorily discharged.
+There is considerable force in this argument; but unfortunately this point was raised only for the first time before us.
+There is nothing on the record to show that the State Government has not decided that the said article is fit for use as intoxicating liquor.
+If this question had been raised at the appropriate time, the relevant material would have been placed before the Court.
+Even though the argument was raised no attempt was made even after the filing of the appeal or even at the time of the arguments to place the relevant material before this Court to sustain the said legal argument.
+We cannot, therefore, permit the appellant to raise the point for the first time before us, particularly when there is utter lack of factual basis.
+The next argument 'of the learned counsel that the High Court came to the conclusion it did on irrelevant evidence has no force.
+It is said that the prosecution did not adduce any evidence to prove that "Tincture Zingeberis Mitis" was not unfit for use as an intoxicating liquor.
+To state it differently, the argument is that unless it was established by the prosecution that the consumption of a medicinal preparation had no harmful effects on the health of the person consuming it.
+it could not be said that it was not unfit for use as intoxicating liquor.
+In the present case the High Court found on the evidence that "Tincture Zingeberis Mitis" was a preparation 363 which might be consumed for intoxication and that intoxication would not be accompanied by any harmful effects.
+This contention, therefore, must be rejected.
+The last argument turns upon the provisions of section 85(1)(1) and 2) of the Act.
+The relevant part of section 85 reads: (1) Whoever in any street or thoroughfare or public place or in any place to which the public have or are permitted to have access (1) is drunk and incapable of taking care of himself, (2) In prosecution for an offence under sub section (1), it shall be presumed until the contrary is proved that the person accused of the said offence has drunk liquor or consumed any other intoxicant for the purpose of being intoxicated and not for a medicinal purpose.
+It was contended that section 85 of the Act laid down two condi tions, namely, that the accused should have been drunk and incapable of taking care of himself and also that he should have taken the drink for the purpose of being intoxicated and not for a medicinal purpose.
+This conclusion, the argument proceeded, would low from sub section
+(2), for otherwise, so it was said, the presumptive rule of evidence enacted in sub section
+(2) would be unnecessary and even relevant if the purpose mentioned therein was not an ingredient of the offence.
+This raises an interesting question of law, but, in view of the finding of fact arrived at by the High Court it does not call for a decision in this appeal.
+Assuming without deciding that the argument has some substance, the finding of the High Court satisfies the lest suggested by the argument.
+Whatever meaning is given to the Expression "drunk", in this case there is clear evidence that the accused had taken the drink for the purpose of intoxication and not for medication and that under the influence of drink he had rashly driven his jeep into the office of the District Superintendent of Police and dashed it against the wall of that office.
+He was drunk and was, therefore, incapable of taking care of himself.
+On the facts found the High Court rightly held that the accused committed an offence under section 85(1) of the Act.
+In the result, the appeal fails and is dismissed.
+Appeal dismissed.

@@ -1,0 +1,71 @@
+The workmen of the respondent company raised an industrial dispute about bonus claimed by them for the year 1960 61.
+The Industrial Tribunal applying the Full Bench Formula held that the sum needed for rehabilitation of machinery exceeded the surplus otherwise available and therefore no bonus was payable.
+Against this decision of the Tribunal the workmen appealed to this Court and raised various objections as to the manner in which the available surplus was calculated by the Tribunal.
+HELD: (i) On the facts and the evidence produced in the case the life of the respondent company 's machinery should be taken at an average of 15 years if the machinery is worked in two shifts.
+and 10 years if it is worked in three shifts.
+The artificial rule laid down in the Income tax Act for calculation of notional depreciation can provide no criterion at all for determining the life of the machinery, and the Tribunal committed an error in proceeding on that basis.
+[319 H] The life of machinery taken in other cases is also not a correct basis for fixing the life of machinery in a particular case.
+Various factory come in that affect the useful life of a machinery.
+Factors such as the quality of the material used in the machines, and the nature of the material on which the machines are to operate, very materially affect their life.
+Further the life of a machine will also depend on the manner in which it is handled in a particular factory.
+Consequently the correct principle is to determine the life of machinery in each case on the evidence adduced by the parties.
+[319 E F; 320 D] Further what has to be determined is the useful life of the machinery rather than its economic life.
+In fact one of the very major considerations which should be taken into account is the actual practice of the manufacturers using the machinery and, if the evidence be available, to find out how long the manufacturers continue to use the machinery as a rule.
+[324 D H] The fact that in the Full Bench Formula the breakdown value of machinery is taken at 5% is certainly an aspect to be taken into account.
+but it cannot be accepted that a machinery should be deemed to have useful life until it reaches the stage of having a breakdown value of 5% No such absolute rule can be inferred.
+[328 A] The Tribunal was wrong in not taking into account machinery installed during the bonus year itself for making provision for rehabilitation.
+If any machinery is installed in.
+the bonus year, the company would be 312 justified in claiming that it must immediately Start making provision for its rehabilitation, though the period for rehabilitation of that machinery would only start at the end of the bonus year.
+[330 A C] ' (ii) The multipliers given by the company in the schedule originally submitted by the company which were not objected to by the workers were the correct basis for Calculation of the rehabilitation cost and the Tribunal should not have departed from them.
+There was no justification for taking an average of the multipliers submitted at first and those submitted thereafter in a second schedule.
+The Tribunal also was not justified in reducing the multipliers on the ground that the new machines which would be purchased to replace the original ones would necessarily have more ' productive capacity.
+There was no material at all from which the Tribunal could justifiably have inferred that the increase in production would be so.
+material as to, attract the principle of apportionment laid down by this Court in the case of the Associated Cement Companies Ltd. 1331 A F; 332 (iii) In calculating the rehabilitation requirement for the machinery the depreciation provision made in accordance with the principles of commercial accounting has to be deducted from the amount that would be required to purchase the new machinery for replacement.
+The contention that deduction should be made only of depreciation reserves available to the employer cannot be accepted.
+SUch an interpretation militates against the very purpose for which rehabilitation provision is allowed, namely, to enable the industry to cover the difference between the amount of depreciation which is recouped by making provision for it in accoromance with the, principles of commercial accounting and the amount that would be required to purchase the new machinery for replacement.
+Therefore, in the present case, the Tribunal erred when in calculating the provision for rehabilitation it took the entire price of the replacement machinery as required to be provided, entirely out of profits without reducing the price to the extent of the depreciation provided for in the accounts.
+[333 E 334 B F] (iv) The claim of the workmen that the sum shown in the balance sheet of the company as development rebate reserve should be deducted from the available surplus must be allowed.
+The mere statement of the General Manager on affidavit to.
+the effect that the reserves had been utilised as part of the working capital could not be aceepted as evidence of the fact.
+When the balance sheet itself showed that cash amounts in the form of fixed deposits were available which were far in excess of the development rebate reserve in question, there would be No. justification for holding that this development.
+rebate reserve was not available as a liquid asset and had been included by the company in the working capital.
+This development rebate reserve was a liquid asset available for rehabilitation and consequently liable to be deducted when calculating the rehabilitation requirement.
+[335 A G] (v) If some.
+machines have fully run out their lives, they must necessarily be replaced out of resources available immediately and there would be no justification for keeping the available resources in reserve for future rehabilitation while not providing out of those available resources for immediate.
+replacement of machinery.
+There is also the aspect that an employer in order to claim more and, more rehabilitation provision will have a tendency to keep old blocks of machinery running and to avoid adoption of such a device it would be fair that he is required to utilise available resources at the very first opportunity when the old blocks of machinery require replacement and claim annual provision for future only in respect of that machinery which will require replacement later 313 on.
+Consequently, in the present case the depreciation provision and the available development rebate reserve must be taken into account when calculating the annual provision for rehabilitation required for replacement of the earliest installed machinery until it was exhausted, whereafter 'the annual requirement for the remaining blocks of machinery would have to be calculated, ignoring these available resources.
+[336 G H; 337 C D] (vi) For the purpose of working 'out return on working capital in the year of bonus the origin of the fund used as working capital is immaterial and it cannot be said that the return must be allowed only on reserves used as working capital and not on any other funds used as such.
+However the fund must be available for investment before a claim can be made by the employer for a return on it.
+[340 E F] But, the mere existence of reserves and funds at the beginning of the year, even taken together with their existence at the end of the year cannot lead to any inference that these reserves and funds must have formed part of the working capital during the year and could not form part of other items such as fixed deposits, investments etc.
+The affidavit filed by the company in this connection did not exclude the possibility that they were utilised for purposes other than that of working capital.
+in the balance sheet the amounts which represented fixed assets, fixed deposits, investments and other loans and.
+advances could not be classified as part of the working capital.
+The items representing working capital were current assets, stock in trade, sundry debts, bank and cash.
+balances, certain loans and advances and insurance and other claims.
+The items representing working capital had a total value of Rs. 498.02 lacs.
+Deducting from this the sum of Rs. 377.34 lacs available from subscribed capital or other sources.
+there remained a balance of Rs. 120.68 lacs which must have necessarily come out of the various reserves including the depreciation, and this amount at least must be held to represent resources actually used as working capital during the year by the company.
+On this amount it would be fair to allow a 4% return to the company.
+[344 F H; 347 D E] (vii) The company 's claim that half the amount from the following sources, namely, (1) the profit in the profit and loss account worked out at the end of the year, (2) depreciation reserve for the year, (3) development rebate for the year, (4) value of discarded fixed.
+assets written off should be treated as 'a fund which was available during the bonus year for being available for being utilised as working capital, could not be accepted.
+There was nothing to show whether any of these amounts became available to the company during the year and if so when they came available.
+[347 F] (viii) In allowing 6% return on paid up capital in accordance with the Full Bench Formula no question could arise of deducting the amounts invested in subsidiary companies from the paid up capital because the said investment had not been held to have come out of paid up capital [348 [348 F] (ix) The income of the company from interest on fixed deposits was its extraneous income which accrued to the company without any contribution by the workmen.
+this income had therefore to be excluded in calculating the available surplus.
+At the same time the company could not on equitable grounds be permitted to claim the interest paid by it on its borrowings as business expenditure.
+Therefore the interest on fixed deposits was to be treated as extraneous income only after deducting from it the interest paid on the borrowings.
+[349 D F] 314 (x) The income received by the company from its foreign collaborators as commission on sales effected by the said collaborators of their own cars in India was extraneous income to which the company 's wOrkmen made no contribution.
+It was not therefore to be taken into account in calculating the available surplus.
+[349 C] (xi) Calculated in the above manner the available surplus came 10 Rs. 30.56 lacs.
+The Tribunal was not right in its decision that the company was not in a position to pay bonus at all.
+However, though the company had earned a large amount of profit in the year of bonus it had for quite a large number of years been running at a loss.
+The available surplus being only Rs. 30.56 lacs, the workmen 's demand of bonus equivalent to six months ' wages amounting to Rs. 24 lacs was too high.
+It would be just and proper to allow bonus at 20% of their annual wages which would come to Rs. 8.60 lacs.
+[352 A E] Associated Cement Companies Ltd. Dwarka Cement Works, Dwarka vs Its Workmen & Anr. , Saxby & Farmer Mazdoor Union, Calcutta vs M/s. Saxby & Farmer (India) Ltd. , Workmen M/s. Saxby & Farmer (India) Pvt. Ltd. vs M/s. Saxby & Farmer (India) Private Ltd. C.A. 152/64 dr. 12 4 1965, The Millowners ' Association, Bombay vs The Rashuriya Mill Mazdoor Sangh, Bombay, The Honorary Secretary South India Millowners ' Association & Ors.
+vs The Secretary, Coimbatore District Textile Workers ' Union.
+[1962] 2 Supp.
+S.C.R. 926, National Engineering Industries Ltd. vs The Workmen & Vice Versa, [1968] 1 S.C.R. M/s. Titaghar Paper Mills Co. Ltd. vs Its Workmen, [1959] Supp.
+2 S.C.R. 1012, Millowners, Association, Bombay vs The Rashtriya Mill Mazdoor Sangh, , Tata Oil Mills Co. Ltd. vs It 's Workmen & Ors.
+; , Anil Starch Products Ltd. vs Ahmedabad Chemical Workers ' Union & Ors., , Khandesh Spg & Wvg.
+Mills Co. Ltd. vs The Rashtriya Girni Karogat Sangh, Jalgaon, ; , Bengal Kagazkal Mazdoor Union & Ors.
+vs Titagarh Paper Mills Company, Ltd., [1963] II L.L.J. 358 and Voltas Limited vs Its Workmen, ; , considered.

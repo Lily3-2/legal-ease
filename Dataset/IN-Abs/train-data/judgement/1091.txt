@@ -1,0 +1,51 @@
+Appeal No. 311 of 1959.
+Appeal from the judgment and order dated October 31, 1955, of the Travancore Cochin High Court, Ernakulam, in Original Petition No. 75 of 1955.
+A. N. Kripal and D. Gupta, for the appellant.
+Sardar Bahadur, for the respondent.
+December 13.
+The Judgment of the Court was delivered by 238 KAPUR, J.
+This is an appeal pursuant to a certificate of the High Court of Kerala against the judgment and order of that court and the question for decision is the applicability of section 35 of the Indian Income tax Act (hereinafter termed the 'Act ').
+The facts which have given rise to the appeal are these: The respondent is a limited company which owns a spinning mills at Alwaye.
+It commenced business in January, 1951, and its first accounting year ended on December 31, 1951, and the relevant assessment year is 1952 53.
+It filed its return showing an income Rs. 3,21,284 without taking into account the amount allowable under section 15C of the Act.
+On February 2, 1953, the net assessable income of the respondent was determined at Rs. 1,47,083 after deducting Rs. 1,79,081 under section 15C.
+The respondent however declared a dividend of Rs. 4,72,415 which attracted the application of section 2 of the Finance Act, 1952, read with Part B, proviso (ii) of First Schedule and thus it became liable to the payment of additional income tax and this fact was overlooked by the Income tax Officer.
+After giving notice under section 35 of the Act, the Income tax Officer by an order dated January 25, 1954, rectified this error and imposed an additional tax at the rate of one anna in the rupee.
+He later discovered that this was also erroneous and the rate should have been 5 annas in a rupee.
+By an order dated August 12, 1954, he rectified the error.
+Under section 18A, advance income tax had to be paid and the respondent company had deposited only Rs. 5,000 and therefore became liable to penal interest under section 18A(8) of the Act.
+By the same order this omission to impose penal interest was ' corrected and this error was thus rectified.
+Against this order the respondent company went in revision under section 33A(2) to the Commissioner of Income tax but the revision was dismissed.
+Thereupon the respondent company filed a petition in the High Court of Kerala under article 226 of the Constitution on the ground that section 35 of the Act did not apply and that on the merits additional tax could not be imposed.
+The High Court by its judgment dated October 31, 239 1955 held that the orders made were without jurisdiction and therefore granted a writ of certiorari quashing the orders and the Income tax Officer has brought this appeal pursuant to a certificate of that High Court.
+According to the High Court, section 35 of the Act was a provision for rectification of "mistakes apparent on the record" and in the opinion of the High Court it was a mistake analogous to O. 47, r. 1 of the Code of Civil Procedure for grant of review on the ground of mistake or error apparent on the face of the record and it construed it in the following words: "i.e. an evident error which does not require any extraneous matter to show its incorrectness.
+The error may be one of fact but is not limited to matters of fact and include also errors of law.
+But the law must be definite and capable of ascertainment.
+An erroneous view of law on a debatable point or a wrong exposition of the law or a wrong application of the law or a failure to apply the appropriate law cannot be considered a mistake or error apparent on the face of the record.
+See Chitaley 's C.P.C. Col.
+III pp.
+3549 50, 5th edition.
+" On the ground that the applicability of proviso (ii) of Part B of the First Schedule of the Finance Act was a complex question which could not be said to be "apparent on the face of the record", the High Court held that the necessary foundation for the exercise of the powers under section 35 had not been laid and therefore the Income tax Officer had no jurisdiction to make the order that he did.
+The High Court also held that the levy of penal interest under section 18A(8) of the Act for failure to make advance deposit under section 18A(3) was also without jurisdiction.
+The learned Judges of the High Court seem to have fallen into an error in equating the language and scope of section 35 of the Act with that of O. 47, r. 1, Civil Procedure Code.
+The language of the two is different because according to section 35 of the Act which provides for rectification of mistakes the power is given to the various income tax authorities within four years from the date of any assessment passed by them to rectify 240 any mistake "apparent from the record" and in the Civil Procedure Code the words are "an error apparent on the face of the record" and the two provisions do not mean the same thing.
+This court in Maharana Mills (Private) Ltd. vs Income tax Officer, Porbandar (1) has laid down the scope of section 35 at p. 358 in the following words: "The power under section 35 is no doubt limited to rectification of mistakes which are apparent from the record.
+A mistake contemplated by this section is not one which is to be discovered as a result of an argument but it is open to the Income tax Officer to examine the record including the evidence and if he discovers any mistake he is entitled to rectify the error provided that if the result is enhancement of assessment or reducing the refund then notice has to be given to the assessee and he should be allowed a reasonable opportunity of being heard.
+" In that case the error arose because of an initial mistake in determining the written down value which was subsequently rectified.
+In an earlier case M. K. Venkatachalam vs Bombay Dyeing & Manufacturing Co. Ltd. (2) where as a consequence of a subsequent amendment of the law having retrospective effect, the Income tax Officer reduced the amount of interest under section 18A(5) of the Act and the assessee obtained from the High Court a writ of prohibition against the Income tax Officer on the ground that the mistake contemplated had to be apparent on the face of the order and not a mistake resulting from an amendment of the law even though it was retrospective in its effect, it was held that it was a case of error apparent from the record.
+Gajendragadkar, J. in his judgment said: "At the time when the Income tax Officer applied his mind to the question of rectifying the alleged mistake, there can be no doubt that he had to read the principal Act as containing the inserted proviso as from April 1, 1952.
+" Thus this court has held that discovery of an error on (1) (2) ; 241 the basis of assessment due to an initial mistake in determining the written down value is a mistake from the record and so is a misapplication of the law even though the law came into operation retrospectively.
+The Income tax Officer, can, under section 35 of the Act, examine the record and if he discovers that he has made a mistake he can rectify the error and the error which can be corrected may be an error of fact or of law.
+The restrictive operation of the power of review under 0.
+47 R. 1, Civil Procedure Code is not applicable in the case of section 35 of the Act and in our opinion it cannot be said that the order of the Income tax Officer in regard to assessment in dispute was without jurisdiction.
+In regard to section 18A (8) also the learned Judges have misdirected themselves because that section is mandatory.
+It provides: section 18A(8) "Where, on making the regular assessment, the Income tax Officer finds that no payment of tax has been made in accordance with the foregoing provisions of this section, interest calculated in the manner laid down in sub section (6) shall be added to the tax as determined on the basis of the regular assessment.
+" Therefore the Income tax Officer was required to calculate the interest in the manner provided under the provisions of that sub section and had to add it to the assessment.
+Counsel for the respondent sought to raise the question as to the applicability of proviso (ii) of Part B of First Schedule of the Finance Act 1952 and relied upon the judgments of this Court in Commissioner of Income tax vs Elphinstone Spinning & Weaving Mills Co. Ltd. (1) and similar cases reported as Commissioner of Income tax, Bombay City vs Jalgaon Electric Supply Co. Ltd.(1) and Commissioner of Income tax, Bombay City vs Khatau Makanji Spinning and Weaving Co. Ltd. (3); but the facts of those cases were different.
+In the first case there was no total income and the (1) (2) (3) [1960] 40 I.T.A. 189.
+31 242 Finance Act was not applicable in that case.
+In the second there was no profit in any preceding year and therefore the fiction failed because it postulates that there should be undistributed profits of one or more years immediately preceding the previous year.
+In the third case also the Finance Act was inapplicable because the additional tax was not properly laid upon the total income and what was actually taxed was never a part of the total income of the previous year.
+In our opinion the order of the High Court was erroneous.
+We therefore allow this appeal and set aside the judgment and order of the High Court with costs in this court and in the High Court.
+Appeal allowed.

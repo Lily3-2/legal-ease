@@ -1,0 +1,24 @@
+Section 10(2)(xi) of the Income Tax Act, 1922 provided for deduction of bad and doubtful debts.
+The proviso thereto laid down that if the amount ultimately recovered on any such debt was greater than the difference between the whole debt and the amount allowed the excess shall be deemed to be a profit of the year in which it was recovered.
+These provi sions were re enacted in the Income Tax, Act, 1961 as section 36(1)(vii) provides, subject to the provisions of sub section
+(2), for deduction of amount of any debt established to have become a bad debt in the previous year, whereas section 41(4) provides for bringing to tax amounts of such bad debts, if recovered subsequently, as the income of the previous year in which it was recovered, whether the business in respect of which the deduction had been allowed was in existence in that year or not.
+Certain amounts which had been allowed to be written off as bad debts in terms of section 10(2)(xi) of the Income Tax Act, 1922 in the year 1959 60, but subsequently received by the assessee were sought to be brought to tax in the assessment years 1964 65, 1965 66 and 1967 68 under section 41(4) of the Income Tax Act, 1961.
+The assessee 's business had discontin ued prior to the relevant years of recovery of the amounts.
+The orders of assessment were confirmed by the Appellate Assistant Commissioner.
+The Tribunal, however, held that the amounts could not be taxed under section 41(4) of the 1961 Act for that section had no application to amounts written off in 1959 60 in terms of section 10(2)(xi) of the 1922 Act when it was in force.
+On a reference, the High Court held that the amounts in question were includable in computing the taxable income of the assessee in respect of the relevant years under section 41(4) of the 1961 Act.
+It took the view that there was no incon sistency between the relevant provisions of the two enact ments and that section 24 of the was attracted as a result of which the order in terms of which the amounts 207 had been written off was deemed to have been made under the reenacted provisions, as contained in section 36(1)(vii).
+In these appeals by certificate, it was contended for the appellant that the relevant provisions of the 1922 Act and 1961 Act were not in pari materia, that section 41(4) would be attracted only where the bad debt had been written off in terms of section 36(1)(vii), and that what has been allowed as a deduction in terms of section 10(2)(xi) of the 1922 Act could not on recovery be brought to tax under section 41(4) of the 1961 Act, unless the business itself had continued to exist at the time of recovery.
+Dismissing the appeals, the Court, HELD: 1.
+If the amounts had been received prior to the repeal of the 1922 Act the entire transaction would have been covered by the provisions of section 10(2)(xi) of the Act, and the business having been discontinued prior to the relevant years of receipt, these amounts would not have been taxable.
+[209H; 210A] Commissioner of Income Tax, Madras vs Express Newspapers Ltd., referred to.
+2.1 The effect of section 24 of the , in so far as it is material, is that where the re pealed and re enacted provisions are not inconsistent with each other, any order made under the repealed provisions would be deemed to be an order made under the re enacted provisions.
+[212B] 2.2 Section 10(2)(xi) of the 1922 Act is equivalent to sections 36(1)(vii), 36(2) and 41(4) of the 1961 Act.
+The repealed section 10(2)(xi) is thus a composite section containing the ingredients of the re enacted sections 36(1)(vii), 36(2) and 41(4).
+Consequently, when a debt is written off by an order in terms of section 10(2)(xi) of the 1922 Act, the Income Tax Officer exercises the same power as he would have exercised on the enactment of section 36(1)(vii) of the 1961 Act.
+These two provisions are, there fore, consistent with each other.
+Section 36(1)(vii) is subject to the provisions of sub section (2) of that sec tion.
+Therefore, both sections 36(1)(vii) and 36(2) of the 1961 Act, being two of the ingredients of section 10(2)(xi) of the 1922 Act, must be read together with reference to an order under which debts had been written off.
+Accordingly, in the light of section 24 of the General Clause Act, 1897, the relevant order made under section 10(2)(xi) of the 1922 Act with reference to which the debt in question had been written off, would be 208 deemed to be an order made under section 36(1)(vii) of the 1961 Act and such order is what is contemplated under sec tion 41(4) of that Act.
+Any amount which is recovered on any such debt is attracted by the provisions of section 41(4) of the 1961 Act and is, therefore, chargeable to tax in terms of that sub section to the extent of the 'excess ' specified therein.
+[212C G]

@@ -1,0 +1,68 @@
+Civil Appeal No. 282 of 1960.
+Appeal from the judgment and order dated February 15, 1956, of the Madras High Court in Writ Petition No. 404 of 1952.
+K. N. Rajagopala Sastri and P. D. Menon, for the appellant.
+R. Gopalakrishnan, for the respondent.
+October 20.
+The Judgment of the Court was delivered by HIDAYATULLAH, J.
+Whether the legal representative of a deceased person, who is assessed in respect of the total income of the latter person, as if he were the assessee, can be ordered to pay a penalty under section 46(1) of the India Income tax Act, is the short question that arises in this appeal.
+One Ebenezer died intestate on November, 22, 1945, during his year of account which ended on March 31, 1946.
+He left behind him the respondent, E. Alfred, his son, and eight daughters.
+For the assessment year, 1946 47, the respondent was assessed under section 24B(2) of the Income tax Act, after a notice was issued to him under s.22(2), ibid.
+The assessment was completed on March 26, 1951, and a notice of demand was issued under section 29 of the Act.
+The respondent appealed against the order of assessment to the Appellate Assistant Commissioner, but during the pendency of the appeal, a penalty of Rs. 250/ was imposed upon 145 him under s 46(1) of the Act by the Income tax officer, as he had defaulted in payment of tax on the due date.
+After the appeal was disposed of with very minor modifications, a notice of demand was again issued to him to pay the tax on or before December 15, 1951.
+On his default, a second penalty of Rs. 10,000/ was imposed upon him on March 8, 1952.
+The respondent then filed a petition under article 226 of the Constitution in the High Court of Madras challenging the imposition and levy of penalty imposed upon him.
+The High Court held in his favour, and quashed the, two orders imposing penalty but granted a certificate of fitness to appeal to this Court.
+This appeal was then filed.
+In reaching the conclusion that section 46(1) of the Act did not apply to a legal representative, the learned Judges of the High Court held that a legal representative could not be said to be included within the words of that section.
+"when an assessee is in default in making a payment of Income tax" because of the scheme of the Act, particularly B. 29, where a distinction is made between "an assessee" and "other person".
+According to the learned Judges, a legal representative is assessed as an assessee under a fiction in section 24B(2), and that fiction comes to an end when the computation of the tax Or, in other words, the assessment is made.
+The learned Judges drew distinction between the three subsections of 8.
+24B, and pointed out that sub section
+(1) only created a liability on the legal representative for collection of tax but did not refer to him for that purpose as an assessee and sub s.(3) which did not concern itself with collection, did not refer to the legal representative as an assessee, and held that the fiction in sub section
+(2) was created for the limited purpose of assessment, and since that subsection also did not concern itself with collection, the fiction could not be carried beyond assessment resulting in the determination of the tax.
+146 Thereafter, according to the High Court, the legal representative is not an assessee within the meaning of section 29, but can only be brought under tho words "other person", and inasmuch as sections 45 and 46 refer to "an assessee in default", the legal 3.
+representative cannot be treated as such and no penalty can either be imposed upon him or recovered.
+We are concerned with the definition of "assessee" before its amendment in 1953.
+That definition read as follows: "assessee" means a person by whom income tax is payable" The generality of this definition is sufficient to include even a legal representative who is to pay the tax, though out of the assets of the deceased person.
+Section 24B, which makes it legal representative liable, is as follows: 24B. (1) Where a person dies, his executor, administrator, or other legal representative shall be liable to pay out of the estate of the deceased person to the extent to which the estate is capable of meeting the charge the tax assessed as payable by such person, or any tax which would have been payable by him under this Act if he had not died.
+(2) where a person dies before the publication of the notice referred to in subsection (1) of section 22 or before he is served with a notice under sub section (2) of section 22 or section 34, as the case may be, his executor, administrator or other legal representative shall, on the serving of the notice under subsection (2) of section 22 or under section 34, as the case may be comply therewith, and the Income tax officer may proceed to assess the total income of the deceased person as if such executor, administrator or other legal representative were the assessee.
+147 (3) where a person dies, without having furnished a return which he has been required to furnish under the provisions of section 22, or having furnished a return which the income tax officer has reason to believe to be incorrect, or incomplete, the Income tax officer may make an assessment of the total income of such person and determine the tax payable by him on the basis of such assessment and for this purpose may, by the issue, of the appropriate notice which would have had to be served upon the deceased person had he survived, require from the executor, administrator or other legal representative of the deceased person any accounts, documents or other evidence which he might under the provisions of sections 22 and 23 have required from the deceased person".
+The scheme of the section, which was inserted by the Second Amendment Act of 1933 and modified further by the Amendment Act of 1939 is as follows: Subsection (1) of a 24B makes, inter alia the legal representative liable to pay out of the estate of deceased person to the extent to which the estate is capable of meeting the charge, the tax assessed as payable by such person or any tax which would have been payable by him under the Act, if he had not died.
+By this sub section, a legal representative is made liable to pay the tax which might have been assessed but not paid by the deceased person or which might be assessed after his death.
+It covers all situations and contingencies and makes the liability absolute, limited, however, to the extent to which the estate of the deceased is capable of meeting the charge.
+The subsection does not provide for issue of notices, assessment collection or anything connected with the imposition, levy and collection of the tax, Subsection (2) and (3) next provide for different contingencies.
+Subsection (2) provides that where a person dies 148 before the publication of a general notice or before he is served with a special notice under s.22 or s.34 his legal representative shall, on the service of the special notices comply with these notices, and the Income tax officer may proceed to assess the total income of the deceased person as if the legal representative were the assessee.
+Sub section (3) provides that where a person dies after he has been required to furnish a return but without having furnished such return, or where he has furnished the return but the Income tax officer has reason to believe it to be incorrect, the Income tax officer may make the assessment of the total income of such deceased person, and determine, the tax after serving such notices, as may be required under s.22 or 23, upon the legal representative of the deceased person to produce the accounts, documents or other evidence.
+In the present case, the matter fell to be governed by the second sub section, because Ebenezer died before the end of his year of account.
+The service of the notice upon the respondent and his assessment, as if he were the assessee, were made under the second sub section.
+By reason of this assessment, the respondent became liable under the first sub section to pay out of the estate of Ebenezer the tax assessed, to the extent to which Ebenezer 's estate was capable of meeting the charge but he himself was deemed to be the assessee.
+No doubt, the fiction made the respondent an assessee for the purpose of assessing the total income of Ebenezer.
+But the question is whether the fiction came to an end after the assessment, so that he remained a mere debtor thereafter to the Department.
+The answer to this question would determine the further application of the other sections of the Act.
+When a thing is deemed to be something else it is to be treated as if it is that thing, though, in fact, it is not.
+The original assessee being dead before the notice, either general or 149 special, to him, he could not be treated as all assessee, and the process of the Act is, by the fiction made available against a different person like a legal representative, who is fictionally deemed to be an assessee for purposes of assessment.
+The word "assessment" bears different meanings, and in one sense, it comprehends the entire process of computation and levy of the tax.
+It is in this sense that the legal representative becomes an assessee by the fiction, and it is this fiction which has to be fully worked out, without allowing the mind "to boggle" as was said in Commissioner of Income Tax vs Teja Singh(1) applying the dictum of Lord Asquith in East End Dwellings Co., Ltd. vs Finsbury Borough Council(2).
+If we turn to the definition of "assessee", it says that an assessee means a person by whom income tax is payable.
+A legal representative who by fiction, is decreed to be an assessee therefore, comes within this definition, because he is a person by whom income tax is payable, though out of the assets left by a deceased person.
+The assessment of the legal representative is then made under section 23 of the Act, and he has the right to appeal under B. 30, which he would not have, if he ceased to be an assessee after the determination of the tax.
+We are not concerned in this case with the position of the legal representative under the third sub section of s.24 B, and are not required to consider what his position would be, if he made a default in the payment of the tax.
+The fiction is enacted at least for the purpose of sub section
+(2), and it is to that subsection that we are confined in this case.
+Nor can the fiction in that sub section be limited by provisions of law for a totally different situation.
+Under s.45, if a notice of demand is issued under s.29 on an assessee and has not been complied with the assessee is deemed to be in default, and under section 46 (1), if the assessee is in default, a penalty, can be imposed.
+All these stages the respondent (1) (1959) Supp.
+1 S.C.R. 394.
+(2) , 132. 150 went through in this case.
+He was himself an assessee qua the assets and liability to tax, of Ebenezer he was, therefore, an assessee in default and liable to the imposition of penalty for this default.
+The question is whether s.29, which makes a distinction between an assessee and "other person", makes any difference.
+The High Court as well as the learned counsel for the respondent (who pressed upon us the reasons of the High Court) referred to the words of s.29 where in addition to an "assessee" liable to pay the tax occur the words "other person" liable to pay such tax, and observed that the respondent would fall to be governed by the words "other person" liable to pay such tax and not by the words "the assessee" liable to pay such tax.
+The High Court reasoned, therefore, that the words "an assessee" in sections 45 and 46 in their application are limited to an assessee, who is assessed on his own behalf and not "other person", who is not an assessee.
+This distinction, it observed, must be borne in mind in interpreting the word "assessee" used in sections 45 and 46, and so construing, limited the word "assessee" in those two sections to an assessee proper.
+The words "other Person" cannot apply to a legal representative, if he is an assessee by fiction, and the section has to be worked out to its logical conclusion.
+If he falls within the word "assessee ', as has been shown above, he does not fall within the words "other person" and it is not necessary to find in this case what persons are there meant to be included.
+In our opinion, the penalty could be imposed on respondent as an assessee.
+The appeal thus succeeds, and is allowed with costs here and in the High Court.
+Appeal allowed.

@@ -1,0 +1,35 @@
+Under item 72(3) of the First Schedule to the Indian Customs Tariff, component parts of machinery as defined in item nos.
+72, 72(1) and 72(2) aand not otherwise specified are chargeable to customs duty.
+Item 73(21) comprises of "electric motors, all sorts, and parts thereof".
+On the strength of a licence for importing "complete continuous filament Rayon Plant with spares and accessories" certain spinning frames excluding pot motors were imported from Japan but not motors were imported from Germany by the appellants.
+The customs authorities accepted the claim of the appellants that the consignment of pot motors fell within item 72(3) and charged import duty accordingly.
+Sometime later, the Assistant Collector of Customs, claiming that customs duty on pot motors was short levied as they fell within item 73(21) called upon the appellants to pay the difference, against which the appellants made a representation to the Assistant Collector.
+But the Assistant Collector held against the appellants without giving any reasons.
+The appellants thereafter filed a representation to the Collector but he held that since the spinning frames and the pot motors were imported under separate contracts from separate countries the two consignments could not be treated as one article and hence rejected the representation.
+The appellants thereupon applied to the Government of India in revision but the revision application was also rejected.
+Allowing the appeal to this Court.
+^ HELD: (1) (i) Item 72(3) is a specific item covering pot motors as against item 73(21) which is a general item.
+Pot motors were, therefore, assessable under the former and not under the latter.
+The original assessment of the Assistant Collector was correct and the subsequent demand of differential duty which was confirmed by the Collector and the Government of India was unjustified (ii) Pot motors fell within the description given in item 72(3).
+They were specially designed for use in spinning machines for manufacturing rayon thread.
+and they were indubitably essential for the working of the rayon spinning machines and were incapable of being used for any other purpose.
+They were, therefore, clearly component parts of the rayon spinning machines.
+[495 D, 494A] (2 ) The argument of the respondents that if any component parts of machinery were specifically dealt with in any other item, they would go out of item 72(3) and since pot motors were electric motors within item 72(21) they were not covered by item 72(3) was clearly unsustainable.
+As a matter of both grammar and language the words "not otherwise specified" cannot be read as qualifying "component parts".
+They qualify "machinery".
+Otherwise the conjunction "and" would have no meaning.
+The sentence would become ungrammatical if the words "not otherwise specified" were read to govern "component parts".
+The description of the component parts which follows the words "not otherwise specified" starts with the words "namely" which shows that it is intended to be a complete description of the component parts covered 490 by this item and that would also not actually fit in with component parts "not otherwise specified".
+Therefore, pot motors could not be held to fall outside that item because they were otherwise specified in item 73(21).
+[494H] (3)(a) Where an authority makes an order in exercise of a quasi judicial function it must record its reasons in support of the order it makes.
+Every quasi judicial order must be supported by reasons.
+[495G] M. M. Desai vs The Testeels Ltd. & Anr.
+CA 245 of 1976, decided on 17th Dec. 1975, referred to.
+(b) If courts of law were to be replaced by administrative authorities and tribunals and with the proliferation of administrative law, they may have to be so replaced, it is essential that administrative authorities and tribunals should accord fair and proper hearing to the persons sought to be affected by their orders and give sufficiently clear and explicit reasons in support of the orders made by them.
+The rule requiring reasons to be given in support of an order is like the principal of audi alteram partem, a basic principle of natural justice which must inform every quasi judicial process and this rule must be observed in its proper spirit and mere pretence of compliance with it would not satisfy the requirement of law.
+[496B D] In the instant case the Assistant Collector did not give any reasons in support of his order which was in plain disregard of the requirement of law.
+The reason given by the Collector was hardly satisfactory.
+His order could have been a little more explicit and articulate so as to lend assurance that the case had been properly considered by him.
+The Government of India too failed to give any reasons in support of its order rejecting the revision application.
+[496 H] [The Court expressed the view that it would be desirable that in cases arising under customs and excise laws an independent quasi judicial tribunal is set up which would finally dispose of the appeals and revision applications under these laws instead of leaving the determination of such appeals to the Government of India.
+An independent quasi judicial tribunal would inspire greater confidence in the public mind.] [496F]

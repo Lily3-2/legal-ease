@@ -1,0 +1,76 @@
+Appeals Nos. 776 and 777 of 1957.
+Appeals by special leave from the judgment and order dated September 25, 1956, of the Bombay High Court in Income tax Application No. 48 of 1956; and from the judgment and order dated March 17,1954, of the Income tax Appellate Tribunal, Bombay, in E.P.T.A. Nos. 757, 903 and 944 of 1948 49, respectively.
+A. V. Viswanatha Sastri and G. Gopalakrishnan, for the appellants.
+A. N. Kripal and D. Gupta.
+for the respondent.
+November 30.
+The Judgment of the Court was delivered by HIDAYATULLAH, J.
+These are two appeals, with special leave, against an order of the High Court of Bombay rejecting a petition under section 66(2) of the Indian Income tax Act and the order of the Income tax Appellate Tribunal, Bombay, in respect of which the petition to the High Court was made.
+Messrs. section C. Cambatta & Co. (Private) Ltd., Bombay, have filed these appeals, and the Commissioner of Excess Profits Tax, Bombay, is the respondent.
+We are concerned in these appeals with three chargeable accounting periods, each ending respectively on December 31, beginning with the year, 1943 and ending with the year, 1945.
+807 The appellants carry on various businesses, and one such business was the running of a theatre and restaurant, called the Eros Theatre and Restaurant.
+In October, 1943, a subsidiary Company called the Eros Theatre and Restaurant, Ltd. was formed.
+The paid up capital of the subsidiary Company was Rs. 7,91,100 divided into 7,911 shares of Rs. 100 each.
+7,901 shares were allotted to the appellant Company as consideration for assets, goodwill, stock in trade and book debts which were taken over by the subsidiary Company, and the remaining 10 shares were held by the Cam batta family.
+The assets which were transferred were as follows: Assets: Assets transferred.
+Rs.1,28,968 Stock in trade.
+Rs.40,000 Book debts. .
+Rs.100 Rs.1,69,068 They together with the capital reserve of Rs. 6,21,032 made up the amount of Rs. 7,90,100.
+In the books of the subsidiary Company, the share capital account was shown separately as follows: Rs. 2,50,000 debited to the various assets account.
+Rs. 5,00,000 debited to the goodwill account.
+Rs. 40,000 debited to the stock in trade account.
+Rs. 100 debited to the book debts account.
+It will thus appear that goodwill was not shown separately in the appellants ' account books, but only in the accounts of the subsidiary Company.
+In working out the capital of the two Companies for excess profits tax, a sum of Rs. 5,00,000 was claimed as goodwill as part of the capital of the subsidiary Company.
+Both the Department as well as the Tribunal held that section 8(3) of the Excess Profits Tax Act applied; and the goodwill was not taken into account in working out the capital.
+The Tribunal declined to state a case, but the High Court directed that a reference be made on two questions, which were framed as follows: 808 "(1) Whether on the facts of the case, the Appellate Tribunal was right in applying section 8(3) of the Excess Profits Tax Act? (2).
+Whether in the computation of the capital employed. in the business of the assessee, the Tribunal erred in. not including the value of the goodwill or any "portion thereof?" The High Court by its judgment and order answered the first question in the negative and the second, in the affirmative.
+It held that sub section
+(5) and not sub section
+(3) of section 8 of the Excess Profits Tax Act was applicable.
+It, therefore, held that "the Tribunal should have allowed for the value of the goodwill whatever it thought was reasonable at the date of the transfer.
+" When the matter went before the Tribunal again, three affidavits and a valuation report by a firm of architects were filed.
+The goodwill, according to the report of the architects, amounted to Rs. 25 lakhs.
+It may be mentioned here that the subsidiary Company was using the premises under a lease granted on November 20, 1944, for three years beginning from April 1, 1944, on a rental of Rs. 9,500 per month.
+The Tribunal came to the conclusion that no goodwill had been acquired by the business of the Theatre as such, and that whatever goodwill there was, related to the site and building itself.
+They then proceeded to consider what value should be set upon the goodwill on the date of the transfer of the subsidiary Company as directed by the High Court.
+They took into account certain factors in reaching their conclusions.
+They first considered the earning capacity of the business, and held that prior to 1942 the business had not made profits, and that the name of Eros Theatre and Restaurant thus by itself had no goodwill at all.
+They, therefore, considered that the only goodwill which had been acquired attached to the lease, which the trustees had given to the Eros ;Theatre and Restaurant Ltd., and computing the goodwill as the value of the lease to the subsidiary Company, they felt that Rs. 2 lakhs was a liberal estimate of the value of the goodwill in the hands of Eros Theatre and Restaurant, Ltd. at the material time.
+809 Petitions under sections 66(1) and 66(2) read with a. 21 of the Excess Profits Tax Act were respectively rejected by the Tribunal and the High Court; but the appellants obtained special leave from this Court, and filed these appeals.
+In our opinion, a question of law did arise in the case whether the goodwill of the Eros Theatre and ' Restaurant, Ltd., was calculated in accordance with law.
+The Tribunal seems to have taken into account only the value of the leasehold of the site to the subsidiary Company, and rejected other considerations which go to make up the goodwill of a business.
+No doubt, in Cruttwell vs Lye(1), Lord Eldon, L. C. observed that goodwill was "nothing more than the probability that the old customers would resort to the old place".
+The description given by Lord Eldon has been considered always to be exceedingly narrow.
+The matter has to be considered from the nature of the business, because the goodwill of a public inn and the goodwill of a huge departmental stores cannot be calculated on identical principles.
+The matter has been considered in two cases by the House of Lords.
+The first case is Trego vs Hunt (2), where all the definitions previously given were considered, and Lord Macnaghten observed that goodwill is "the whole advantage, whatever it may be of the reputation and connection of the firm, which may have been built up by years of honest work or gained by lavish expenditure of money".
+In a subsequent case reported in Inland Revenue Commissioners vs Muller & Co.s.
+Margarin, Ltd. (3), Lord Macnaghten at pp.
+223 and 224 made the following observations:.
+"What is goodwill? It is a thing very easy to describe, very difficult to define.
+It is the benefit and advantage of the good name, reputation, and connection of a business.
+It is the attractive force which brings in custom.
+It is the one thing which distinguishes an old established business from a new business at its first start. . .
+If there is one attribute common to all cases of goodwill in it is the attribute (1) 346.
+(2) (3) 810 of locality.
+For goodwill has no independent existence.
+It cannot subsist by itself. 'It must be attached to a business.
+Destroy the business, and the goodwill perishes with it, though elements remain which may perhaps be gathered up and be revived again".
+These two cases and others were considered in two 'Australian cases.
+The first is Daniell vs Federal Com missioner of Taxation (1), where, Knox, C. J. observed: "My opinion is that while it cannot be said to be absolutely and necessarily inseparable from the premises or to have no separate value, prima facie at any rate it may be treated as attached to the premises and whatever its value may be, should be treated as an enhancement of the value of the premises".
+In the second case reported in Federal Commissioner of Taxation vs Williamson (2), Rich, J., observed at p. 564 as follows: "Hence to determine the nature of the goodwill in any given case, it is necessary to consider the type of business and the type of customer which such a business is inherently likely to attract as well as the surrounding circumstances. .
+The goodwill of a business is a composite thing referable in part to its locality, in part to the way in which it is conducted and the personality of those who conduct it, and in part to the likelihood of competition, many customers being no doubt actuated by mixed motives in conferring their custom".
+In Earl Jowitt 's Dictionary of English Law, 1959 Edn., "goodwill" is defined thus: "The goodwill of a business is the benefit which arises from its having been carried on for some time in a particular house, or by a particular person or firm, or from the use of a particular trade mark or trade name" It will thus be seen that the goowill of a business depends upon a variety of circumstances or a combination of them.
+The location, the service, the standing of the business, the honesty of those who run it, and the lack of competition and many other factors go individually or together to make up the goodwill, (1) ; (2) ; 811 though locality always plays a considerable part.
+Shift the locality, and the goodwill may be lost.
+At the same time, locality is not everything.
+The power to attract custom depends on one or more of the other factors as well.
+In the case of a theatre or restaurant, what is catered, how the service is run and what the competition is, contribute also to the goodwill.
+From the above, it is manifest that the matter of goodwill needs to be considered in a much broader way than what the Tribunal has done.
+A question of law did arise in the case, and, in our opinion, the High Court should have directed the Tribunal to state a case upon it.
+Civil Appeal No. 776 of 1957 is allowed.
+The High Court will frame a suitable question, and ask for a statement of the case from the Tribunal, and decide the question in accordance with law.
+The costs of this appeal shall be borne by the respondent; but the costs in the High Court shall abide the result.
+There will be no order in Civil Appeal No. 777 of 1957.
+C. A. No. 776 of 1957 allowed.

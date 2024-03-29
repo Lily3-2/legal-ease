@@ -1,0 +1,16 @@
+The respondent executed a deed of trust in respect of certain shares owned by him in a company.
+The deed directed the trustees to apply the income and property of the trust in the first instance for paying off the settlor 's debts, and thereafter for other purposes of the trust.
+In proceedings under the Indian Income tax Act, 1922 it was held by the Income tax Officer that the trust was a fictitious transaction.
+The Appellate Assistant Commissioner held that the transfer of the shares for the purpose of the trust was not irrevocable and therefore under the proviso to section 16(1)(c) the respondent could not escape liability.
+The Tribunal upheld the order of the Assistant Commissioner but referred to the High Court, inter alia, the question whether the income from the trust property could be taxed in the hands of the assessee.
+The High Court answered the question in the negative.
+The Commissioner of Income tax, appealed to this Court.
+HELD: After the execution of the deed of settlement the income from the shares arose to the trustees and was liable to be applied for the purposes mentioned in the de.ed.
+The income had first to be applied for satisfaction of debts which the settlor was under an obligation to pay, but this did not amount to a re transfer of the income or assets to the settlor, nor did it invest the settlor with a power to re assume the income or assets.
+The assests and the income were unmistakably impressed with the obligations arising out of the trust.
+The settlor certainly obtained a benefit from the trust consequent upon the satisfaction of his liability but on that account the first proviso to section 16(1) was not attracted.
+[690D F] The proviso contemplates cases in which there is a provision for retransfer of the income or assets and such provision is for retransfer directly or indirectly.
+It also contemplates cases where there is a provision which confers a right upon the settler to reassume power over the income or assets directly or indirectly.
+It is the provision for retransfer directly or indirectly of income or assets or for reassumption of power directly, or indirectly over income or assets which brings the case within the proviso.
+Cases in which there is a settlement, but there is no provision in the settlement for retransfer or right to reassume power do not fall within the proviso, even if as a result of the settlement, the settler obtains some benefit.
+1[690G, H] Ramji, Keshavji vs C.I.T. Bombay, and D.R. Shahapura vs C.I.T., Bombay approved.

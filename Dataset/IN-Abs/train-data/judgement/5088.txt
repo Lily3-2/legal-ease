@@ -1,0 +1,100 @@
+Civil Appeal No. 1348 (NT) of 1974 From the Judgment and order dated 7.1.1974 of the Allanabad High Court in I.T.R. No. 364 of 1971.
+S.C. Manchanda, V.J. Francis, N.M. Popli and Ujjal Singh for the Appellant.
+V. Gouri Shankar and Miss A. Subhashini for the Respondent.
+The Judgment of the Court was delivered by PATHAK, J.
+This appeal is directed against the judgment of the Allahabad High Court answering the following question in the negative: "1.
+Whether on the facts and in the circumstances of the case, the Tribunal was justified in holding that the provisions of sections 10(2) (vii) of the Income tax Act, 1922 were not attracted? 2.
+Whether on the facts and in the circumstances of the 201 case, the Tribunal was justified in holding that the sale had taken place before 1.4.1956 and, therefore, the provisions of section 12B of the Income tax Act 1922 were not attracted?" The assessee, a public limited company, was put into liquidation under the orders of the Allahabad High Court.
+An amount of Rs. 8,58,893/5/6 was payable by the assessee to the State of Uttar Pradesh on account of arrears of cane cess.
+In proceedings for recovery of that amount as arrears of land revenue, the Collector of Deoria attached the assessees mills and put them to auction sale on November 10, 1955.
+The land, building, machinery and parking grounds were sold for Rs. 24,00,000 while the moveable properties including mill stores, spare parts, tools and equipment were sold for Rs. 1,80,000.
+All the properties were purchased by the Kanpur Sugar Works (P) Ltd., Although the sale was held on November 10, 1955, the sale certificate under rule 285 M of the U.P. Zamindari Abolition and Land Reforms Rules, 1952 could not be issued till July 4, 1956 on account of objections raised by the assessee, in spite of the fact that the entire amount of purchase money of Rs.25,80,000 had been paid by the purchasers on December 8, 1955.
+During the period in which the objections were pending, i.e., November 10, 1955 to July 2, 1956, the Government of India appointed an Authorised Controller to run the sugar mills by a notification dated November 25, 1955.
+After possession of the mills was given to the purchasers, a suit was filed by them against the assessee claiming damages for loss of profits on account of the possession of the mills not having been delivered to them immediately after the auction sale.
+In the suit the purchasers claimed, in the alternative, compensation for loss of interest on Rs.25,80,000 from the date of deposit of the sale price to the date of delivery of the mills.
+The claim of the purchasers was ultimately settled by compromise for a sum of Rs.1,25,000.
+In assessment proceedings for the assessment year 1957 58, the relevant accounting period being the year ended October 31, 1956, the Income tax Officer called upon the assessee to explain why the excess amount which the assessee had received on sale of the building, machinery and plant over the difference between the original and the written down value should not be subjected to tax under cl.
+(vii) of sub section
+(2) of section 10 and under section 12B of the Indian Income Tax Act, 1922.
+The assessee replied stating that (1) simultaneous computation 202 of income under cl.
+(vii) of sub section
+(2) of section 10 and of capital gains under section 12B amounted to double taxation and was against the principles of natural justice and the legislative intention; (2) the sale being a compulsory sale was not a sale within the meaning of cl.
+(vii) of sub section
+(2) of section 10; (3) moveable property was exempt from capital gains tax; and (4) as the sale was complete before April 1, 1956 it did not attract the provisions relating to capital gains which became effective from April 1, 1956 only.
+Alternatively, it was claimed that the value of the mills as on January 1, 1954 was much higher than that determined and the assessee was not liable to tax on capital gains.
+The Income tax Officer rejected the contentions raised by the assessee, and completed the assessment under sub section
+(3) of section 23 read with sub section
+(1A) of section 34 of the Indian Income tax Act, 1922 on March 29, 1965, computing the profits under cl.
+(vii) of sub section
+(2) of section 10 at Rs. 10,07,000 and the capital gains at Rs. 10,23,210.
+The Income tax Officer did not find any substance in the assessee 's contention that the value of the fixed assets of the mills was Rs. 18,50,000 as on January 1, 1954 and that there was no justification for initiating the assessment proceedings under sub section
+(1A) of section 34 of the Indian Income tax Act, 1922.
+On appeal by the assessee the Appellate Assistant Commissioner, by his order dated May 1, 1968, agreed with the Income tax Officer that the sale attracted cl.
+(vii) of sub section
+(2) of section 10, that it took place on July 4, 1956 and that the assessee was, therefore, liable to capital gains under section 12B.
+But contrary to the view taken by the Income tax Officer, the Appellate Assistant Commissioner held that the assessee was entitled to substitute the market value of the machinery as on January 1, 1954 in place of its cost price under cl.
+(iii) of section 12B, and accordingly reduced the capital gains from Rs. 10,23,210 to Rs.4,89,343.
+Both the Revenue and the assessee filed appeals before the Income tax Appellate Tribunal.
+Before the Appellate Tribunal it was the case of the assessee that while an auction sale may be a sale within the meaning of section 12B it was not a sale as contemplated under cl.
+(vii) of sub section
+(2) of section 10.
+It was urged that a compulsory sale was not a sale for the purposes of cl.
+(vii) of sub section
+(2) of section 10.
+It was also urged that as the auction sale had taken place prior to March 31, 1956 the assessee was not liable to tax on capital gains at all.
+The Appellate Tribunal by its order dated January 31, 1970 allowed the assessee 's appeal and dismissed the Revenue appeal.
+It accepted both the contentions of the assessee and did not find it necessary to go into the question whether 203 the Appellate Assistant Commissioner was right in substituting the market value of the machinery as on January 1, 1954 in place of its cost price under cl.
+(iii) of section 12B.
+At the instance of the Commissioner of Income tax, Lucknow the Appellate Tribunal referred the two questions of law set out earlier to the High Court for its opinion.
+On January 7, 1974, the High Court pronounced judgment in the reference in favour of the Revenue.
+And now this appeal.
+Shri S.C. Manchanda, appearing for the assessee, has raised two points before us.
+The first contention is that cl.
+(vii) of sub section
+(2) of section 10 of the Indian Income tax Act 1922 has no application because a sale effected for recovering arrears of cane cess as an arrear of land revenue is not a voluntary sale and does not fall within the terms of the relevant statutory provisions.
+The second contention is that the sale must be regarded as having taken place on November 10, 1955 when the auction was held and not on July 4, 1956 when the sale certificate was issued, and that being so section 12B which took effect from April 1, 1956 does not extend to the sale.
+These are the only two contentions before us, and in our opinion, they can be disposed of shortly.
+Clause (vii) of sub section
+(2) of section 10 of the Indian Income tax Act, 1922 provides for the computation of profits and gains chargeable to tax under the head 'business ' after making the following allowances: "(vii) in respect of any such building, machinery or plant which has been sold or discarded or demolished or destroyed, the amount by which the written down value thereof exceeds the amount for which the building, machinery or plant, as the case may be, is actually sold or its scrap value: Provided that such amount is actually written off in the books of the assessee: Provided further that where the amount for which any such building, machinery or plant is sold, whether during the continuance of the business or after the cessation thereof, exceeds the written down value, so much of the excess as does not exceed the difference between the original cost and the written down value shall be deemed to be 204 profits of the previous year in which the sale took place: xxx xxxx xxxxx" The argument for the assessee is that the word "sold" in the clause refers to a sale transaction affected on the free volition of the seller and not where it is in the nature of a compulsory transfer for recovering an arrear of land revenue.
+Reliance is placed on Calcutta Electric Supply Corporation Ltd. vs Commissioner of Income tax, West Bengal, , where the Calcutta High Court laid down that the word "sale" in its ordinary meaning, was a transaction entered into voluntarily between two persons, the buyer and the seller, and that, therefore, the requisition of an electricity generating plant by the Government under sub rule (1) of rule 83 of the Defence of India Rules, not being a voluntary sale, did not fall within the mischief of cl.
+(vii) of sub section
+(2) of section 10.
+Our attention has also been drawn to Indian Steel & Wire Products Ltd vs State of Madras, ; In that case this Court was called upon to consider whether the supplies by the appellant of certain steel products to various persons in the State of Madras under the Iron and Steel (Control of Production and Distribution) Order, 1941 could be regarded as sales for the purposes of the Madras General Sales Tax Act.
+The Court observed that the transactions must be treated as sales because the element of mutual assent was not excluded altogether from the transactions.
+Learned counsel seeks support from that case in support of his submission that the element of consent is essential to the character of a sale.
+A third case, R.B. Lachman Das Mohanlal & Sons vs Commissioner of Income tax, U.P., has been placed before us but nothing said therein is truly apposite to the limited question before us.
+We have given the matter careful consideration and we think, for the reasons which follow, that there is no escape from the conclusion that the transaction in this case constitutes a sale for the purposes of cl.
+(vii) of sub section
+(2) of section 10.
+The levy of cane cess was imposed under a statute in respect of an activity carried on voluntarily by the assessee.
+When entering upon and carrying out that activity the assessee was fully conscious that he did so subject to the provisions of the statute.
+The statute provided for the levy of cane cess and its recovery, in the event of default of payment, as arrears of land revenue.
+What was done in the present case 205 was to recover the arrears of cane cess as arrears of land revenue.
+All along, therefore, the assessee was aware that when it entered upon and carried out an activity attracting cane cess it was exposing itself to recovery proceedings as arrears of land revenue.
+The assessee was aware that recovery could be affected by an auction sale of its properties.
+It can be inferred from the circumstance that by embarking upon the activity which attracted cane cess the assessee agreed to be bound by the structural framework imposed by the statute around that activity, and, therefore, agreed to an auction sale of its properties as arrears of land revenue in the event of its failure to pay the cane cess.
+We are not satisfied that the element of consent is absent altogether from the transactions considered in this case.
+We are clearly of opinion that the sale of the properties of the assessee fall within the scope of cl.
+(vii) of sub section
+(2) of section 10 of the Indian Income tax Act, 1922 and therefore, the first contention must be rejected.
+Turning to the second contention, the question is whether the sale can be said to have taken place when the properties were auctioned or on the date when the sale certificate was issued.
+The recovery of an arrear of land revenue in Uttar Pradesh is governed by the provisions of the U.P. Zamindari Abolition and Land Reforms Act and the Rules made thereunder.
+We have been taken through the pertinent provisions, of that Act and its Rules.
+The High Court, in the judgment under appeal, has made detailed reference to them and, in an admirable exposition of the law, has demonstrated that the date on which the sale certificate was issued is the date on which the sale must be regarded as having taken place.
+We have no hesitation in endorsing that view.
+Section 279 of the U.P. Zamindari Abolition and Land Reforms Act specifies the modes for the recovery of an arrear of Land revenue, and section 282 prescribes the procedure for the attachment and sale of moveable property.
+Section 286 empowers the Collector to proceed against other immoveable property belonging to the defaulter.
+Rule 281 authorises the Collecter to sell immovable property and upon the property being auctioned under the Rules, and the objections, if any, thereto having been considered and disposed of, provides for confirmation of the sale by an order of the Commissioner.
+Rule 285 M provides that the Collector shall thereupon put the person declared to be the purchaser into possession of the property, and shall grant him a certificate to the effect that he has purchased the property to which the certificate refers, and that such certificate shall be deemed to be a valid transfer of such property.
+It is apparent that it is only after the sale is confirmed and a certificate is granted that the 206 property stands transferred and the purchaser becomes the owner of the property.
+Rule 285 M is explicit.
+The certificate operates as a transfer of the property.
+As before the High Court, learned counsel for the assessee relies on section 65 of the Code of Civil Procedure in support of his submission that the property shall be deemed to have vested in the purchaser from the time when the property is sold and not from the time when the sale becomes absolute.
+The application of section 65 turns upon the scope of section 341 of the U.P. Zamindari Abolition and Land Reforms Act, which applies the provisions of the Code of Civil Procedure to the proceedings taken under that Act.
+section 341, however, applies the Code only so far as it can be applied consistently with the Act and not in derogation of it.
+As is clear, the procedure incorporated in the U.P. Zamindari Abolition and Land Reforms Act and the Rules made under it specifically exclude the operation of section 65.
+When the sale certificate itself operates as effecting the transfer of the property, no question arises of relating the transfer back to the date of auction.
+It is true that the order of the Commissioner confirming the sale refers back to the auction which has already taken place, but that is hardly of any moment in view of the terms of Rule 285M.
+We see no force in the second contention.
+In the result the appeal fails and is dismissed with costs.
+P.S.S. Appeal dismissed.

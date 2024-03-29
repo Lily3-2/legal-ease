@@ -1,0 +1,84 @@
+Appeal No. 147 of 1958.
+Appeal from the judgment and decree dated January 4, 1955, of the Allahabad High Court in Special Appeal No. 36 of 1955.
+A. V. Viswanatha Sastri, C. P. Lal and G. C. Mathur, for the appellants.
+K. B. Bagchi, section N. Mukherjee for P. K. Bose, for the respondent No. 1. 1961.
+April 18.
+The Judgment of the Court was delivered by SUBBA RAO, J.
+This appeal by certificate raises the question of construction of a will executed by one Pyare Mohan Bannerji.
+29 The facts giving rise to this appeal lie in a small compass and they are as follows: Pyare Mohan Bannerji died in October 1874 leaving behind him considerable property.
+He executed a will dated February 12, 1874, making various bequests, including the payment of certain amounts to the first respondent, Uttar para Hitakari Sabha.
+After his death, his widow held the property for life till her death on March 25, 1945.
+Thereafter, the property went into the possession of the appellants, who are the heirs at law of the testator.
+On March 17, 1950, the first respondent, Uttarpara Hitakari Sabha (hereinafter referred to as the Sabha) filed an application in the High Court of Judicature at Allahabad under section 10 of the Official Trustees Act (Act II of 1913) claiming that the late Pyare Mohan Bannerji had created a trust by his will and praying that an official trustee be appointed to be the trustee of the properties of the trust.
+This was registered as Testamentary Case No. 9 of 1950.
+The appellants contested the claim of the Sabha and contended, inter alia, that no trust had been created by the testator and that the appellants, being the legal heirs of the testator, were entitled to succeed to the entire pro perty left by him.
+Mootham, J., as he then was, who heard the said case at the first instance, held that by his last will Pyare Mohan Bannerji created a trust in favour of the Sabha, and appointed the Official Trustee a trustee of all the properties left by Pyare Mohan Bannerji specified in Schedule B to the petition.
+On appeal, a division bench of the said High Court, consisting of Malik, C. J., and Agarwala, J., agreed with Mootham, C. J., that the will created a trust in favour of the Sabha; but the learned Judges held that the Sabha was entitled only to a half share in the cash and properties pertaining to the estate of the said testator, and appointed the Official Trustee as trustee only in regard to the said share: on that basis, suitable directions were given.
+The first respondent accepted that position, but the appellants, i.e., the persons claiming to be the heirs at law, preferred the present appeal against the judgment of the High Court in so far as it went against them.
+30 Learned counsel for the appellants contends that under the will not a trust but only a charge was created in favour of the first respondent and, therefore, the first respondent could not invoke in aid the provisions of section 10 of the Act.
+Section 10 of the Act reads: "(1) If any property is subject to a trust other than a trust which the Official Trustee is prohibited from accepting under the provisions of this Act, and there is no trustee within the local limits of the ordinary or extraordinary original civil jurisdiction of the High Court willing or capable to act in the trust, the High Court may on application make an order for the appointment of the Official Trustee by that name with his consent to be the trustee of such property.
+" It is common case that if the will created a trust, it would not fall under any one of the exceptions mentioned in the section.
+Therefore, the only question is whether the will created a trust or a charge in favour of the first respondent.
+The concepts of trust and charge are well defined.
+A trust is "an obligation annexed to the ownership of property, and arising out of a confidence reposed in and accepted by the owner or declared and accepted by him, for the benefit of another, or of another and the owner.
+" Where property "of one person is made security for the payment of money to another, the latter person is said to have a charge on the property.
+" The boundaries between the two concepts are well demarcated; but, more often than not, courts found considerable difficulty in construing a particular document to place it in one or other of the categories.
+The same difficulty was encountered even in England.
+The test laid down for marking out the one from the other by some of the authoritative text books on the subject may be useful in construing the will in question.
+In Halsbury 's Laws of England, 2nd Edn.
+33 (Lord Hailsham), the distinction between the two concepts has been stated thus at p. 98: "Where property is given to a person upon condition that he does a certain act or confers a 31 certain benefit on another person, the condition may constitutes a trust if it is directed to be, or must necessarily be, performed and satisfied out of the property, and consequently imposes a fiduciary obliga tion in respect of the property; but it will not be construed as a trust if this is not the case and the condition merely imposes a collateral duty.
+Similarly, a devise of land upon condition of paying a sum of money or an annuity does not create a trust, though it may create a charge.
+A charge does not in itself create a trust, but it may do so if it is coupled with other trusts or the context, otherwise so requires.
+Conversely a trust may amount merely to a charge." Lord St. Leonards points out (Sugden on Powers, 7th Edn., p. 122) that, "What by the old law was deemed a devise upon condition, would now, perhaps, in almost every case be construed as a devise in fee upon trust, and by this construction, instead of the heir taking advantage of the condition broken, the cestui que trust can compel an observance of the trust by suit in equity.
+" In The Commissioners of Charitable Donations and Bequests vs Wybrants (1) a testator had devised lands to trustees and their heirs upon trust to grant and convey the same to the use of John Wybrants for life 'subject nevertheless to and charged and chargeable with ' four annuities, three of which were to be paid to charitable institutions and the fourth to the poor of a parish.
+In construing that provision, the Lord Chancellor said at p. 285: "It certainly is not necessary to use the word 'trust ' in order to create an express trust.
+I do not intend to lay it down that every charge creates a trust, although it imposes a burden; but a charge may create a trust; depending on the nature of the charge.
+In Bailey vs Ekins (2) Lord Elton said he was confident Lord Thurlow 's opinion was that a charge (of debts) is a devise of the estate, in substance and effect, pro tanto upon trust to pay the (1) (1845) 69 R.R. 278.
+(2) , 323.
+32 debts:and this is supported by the current of authorities.
+The principle is no less powerful in the case of charities, particularly where the charity is to a fluctuating, uncertain body, like the poor of a parish.
+The testator gives the estate to one, subject to this charge.
+Who is to pay the annuities but the person who is liable to the burden: and this, in the case of a charity, impresses him with the character of a trustee for the charity.
+By the ancient rule of equity, no one could acquire an estate, with notice of a charitable use, without being liable to it.
+" The fact that a beneficial interest is also created in favour of the trustees in respect of the property subject to a trust does not make the transaction any the less a trust.
+The law permits a person to bequeath his property to another subject to a trust in respect of a portion of the income in favour of a third party or a charity.
+On this subject in Lewin on Trusts, it is stated at P. 133: "Upon this subject a distinction must be observed between a devise to a person for a particular purpose with no intention of conferring the beneficial interest, and a devise with the view of conferring the beneficial interest, but subject to a particular injunction.
+" So too, Tudor in his book on Charities, 5th Edn., says much to the same effect at p. 52: "A charitable trust may be made to attach to a part of the property only, or it may be limited to particular payments directed to be made out of the income, as in the numerous cases where property has been given to a college, or municipal corporation, or city guild, upon trust or to the intent that certain specified charitable payments shall be made or subject to or charged with certain charitable payments.
+In these cases, as will be seen, the donees as a rule take beneficially, subject only to the specified charitable payments.
+" The said tests may afford a guide to ascertain whether a document creates a charge or a trust; but they are subject to the fundamental rule of construction that a trust may be created in language sufficient 33 to show the intention, and no technical words are necessary; the said intention must be gathered from a fair reading of the provisions of the document.
+In the light of the foregoing discussion, let us look at the provisions of the will to ascertain the express intention of the testator.
+At the time the testator executed the will he had a wife, and a nephew by name Sital Prasad Chatterji, but no children.
+He had many other close relatives and dependents.
+He was also charitably disposed.
+He executed the will making suitable provision for his wife, nephew, relatives and for charities.
+He could carry out his intention in two ways: he could bequeath his entire property to his widow and nephew subject to a fiduciary obligation imposed on them to pay certain amounts to the relatives and the charities; or, he could give the entire property to his widow and nephew subject to the payment of certain amounts charged on the said property.
+The question is, what did he intend to do by this document? He did not use either the word "trust" or "charge" and, therefore, we must gather the intention only from the circumstances obtaining at the time the document was executed and the recitals found therein.
+Under the will the testator made the following bequests depending upon different contingencies: Firstly, the property was given to his wife and nephew in equal shares for their lifetime subject to the payment of all his debts, annuities and charges; it is also provided therein for the sale of a standing jungle in Doomree and Sukhiae in the Gorakhpore District for the purpose of discharging the debts.
+The second contingency related to the event of the testator and his nephew begetting son or sons; in that event, after the lifetime of his wife and nephew the son or sons of his nephew would get one fourth share subject to their paying one fourth of the annuities and charges, and whole of the remainder was given to his son or sons subject to their paying the remaining three fourths of the annuities and charges.
+The third contingency related to the testator getting no children, but his nephew having sons; in that event, after the 34 death of his wife and nephew, the whole of his property would go to the said son or sons subject to the said annuities and charges.
+In the event of the testator having children and the nephew having no son or sons, after the death of his wife and nephew, the property would go to his children subject to the payment of annuities and charges mentioned in the first portion of the will.
+The last contingency contemplated was that neither the testator nor his nephew had any issue; in that event the whole of the property was given to his legal heirs subject to the payment of annuities and charges.
+The quantum of bequests made in favour of the Sabha expanded from contingency to contingency.
+During the lifetime of the nephew and the widow, the said Sabha got rupees fifteen per month.
+In the event of either the testator or his nephew not having any children, the direction was that the said Sabha should get rupees fifty per month.
+In that contingency not only the said Sabha but any other institution which took its place ' would get the said amount.
+It was also mentioned that the amount should be given only to be spent in paying the school fees of indigent boys of Coterie reading in the Ooterpara School and whose parents or guardians might not have the means to pay their school fees.
+On the happening of the last contingency, that is, both the testator and his nephew dying without children, his legal heirs took the property subject to the payment of half of the net income to the said Sabha or any institution which might take its place.
+The said amount was directed to be paid thus: "Rupees fifty per month in payment of schooling fees of indigent boys of Ooterpara reading in the Ooterpara school and the balance, if any, as scholarships to persons resident of Ooterpara or failing such of Bengal who after passing the entrance examination of the Calcutta University may wish to learn practical agriculture or Chemistry or Mechanics.
+" At present it is common case that all the relatives for whom provision was made in the will passed away, that there are no daughters of testator 's nephew and that the Sabha is the only institution entitled to receive the 35 amounts provided for under the will.
+We are, therefore, only concerned with the question whether a trust was created in favour of the first respondent or not, on the happening of the last contingency, namely, the testator leaving no children and his nephew no sons.
+On the happening of that event the property passed to his legal heirs.
+When that stage was reached the testator was more interested in charities than to make provision for persons for whom he had love and affection.
+The amount was payable to the Sabha or any other institution which might take its place.
+Further, there was a direction that the said amount should be spent towards specified charitable purposes.
+The direction was couched in an elastic form to prevent the charitable object being defeated.
+The charity was conceived to be a permanent one and it was necessary that the regular payment of the amount was secured.
+It is, therefore, clear that under the will, on the happening of the said contingency, the testator clearly intended that his legal heirs should regularly pay half the net income to the first respondent so that the specified charities may be carried out perpetually.
+That object would not be achieved if the first respondent was placed in the position of a creditor with a charge on the property with an off chance of the charge being defeated by a bonafide purchaser for value of the property bequeathed to the legal heirs.
+Learned counsel emphasized the fact that under the will the first respondent had to spend the moneys for specified objects and not the legal heirs and contended that the first respondent might be in the position of a trustee in respect of the amounts received from the legal heirs, but the legal heirs were not trustees in respect of the charity.
+The question is not whether the legal heirs, or the first respondent, are the trustees in respect of the fund after it reached the hands of the first respondent; but the question is whether the legal heirs, as owners of the property, were under a fiduciary obligation to pay the said amount for charitable purposes.
+Having regard to the circumstances visualized at the time the last contingency happened, 36 the fluctuating amount the donees had to pay, the permanent nature of the charity and the declared intention of the testator to pay as much as half the net income towards the carrying out of the said charitable object, we hold that the legal heirs took the property of the testator subject to a trust rather than a charge.
+No other question arises in this appeal.
+For the foregoing reasons, we hold that the conclusion arrived at by the High Court is correct.
+In the result, the appeal fails and is dismissed with costs.
+Appeal dismissed.

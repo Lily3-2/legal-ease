@@ -1,0 +1,63 @@
+N: Civil Appeal Nos.
+1629 to 1631 of 1968.
+Appeals from the judgment and order dated January 29, 1965 of the Calcutta High Court in Wealth Tax Matter No. 372 of 1961.
+B. Sen, T.A. Ramachandran, R.N. Sachthey and B.D. Sharma, for the appellant (in 'all the appeals).
+M.C. Chagla, R.K. Choudhury and B.P. Maheshwari, for the respondent (in all the appeals).
+The Judgment of the Court was delivered by Ramaswami, J.
+This appeal is brought by certificate granted under section 29(1) of the Wealth Tax Act,1957 (hereinafter referred to as the Act) against the judgment of the Calcutta High Court dated January 29, 1965 in Wealth Tax Matter No. 372 of 1961.
+The respondent is a company which is assessed to wealthtax for the assessment years 1957 58,1958 59 and 1959 60.
+In computing the net wealth of the respondent on the respective valuation dates the Wealth Tax Officer proceeded under section 7(2)(a) of the Act and included the full value of the fixed assets as shown by the respondent in the respective balance sheets without any adjustment, after rejecting its contention that the fixed assets should be assessed at their written down value as computed for the purposes of income tax.
+In the assessment order 791 for 1957 58 the Wealth tax Officer gave his reasons as follows : "The assessee claimed that since the full amount of depreciation which was admissible under the Incometax Act was not provided in the balance sheet the amount of depreciation not provided for earlier should now be deducted from the value of the assets in order to arrive at the net wealth.
+This contention can hardly be accepted.
+The depreciation allowable under the Income tax Act does not determine the market value of the assets.
+The object of allowing depreciation in the income tax assess ment is quite different For the purpose of the wealth tax assessment the value of the assets as estimated by the assessee itself in its balance sheet has been accepted".
+Similarly in his assessment order for 1958 59 the Wealth tax Officer stated as follows : "Excluding the value of land, the total value of the fixed assets as per balance sheet amounts to Rs. 60,53,811 whereas the assessee has shown in its return the value of the same at Rs. 7,69,435.
+These values have been shown by the assessee on the basis of income tax written down value and not on the basis of the balance sheet values as required under the global system of valuation.
+It is common knowledge that the values of the imported machinery has increased considerably during the last few years and, on the valuation date, I do not think that their value should be less than that provided for in the balance sheet".
+On appeal the Appellate Assistant Commissioner confirmed the valuation of the fixed assets.
+On further appeal the Income tax Appellate Tribunal held that it would be fair in the circumstances of the case to adopt the written down value of the assets as value thereof for all the years under appeal.
+In the course of its order the Appellate Tribunal said: "The income tax assessment depreciation is calculated upon the original cost in a scientific and systematic manner with due regard to the nature of the asset.
+Therefore, the written down value as determined in the income tax assessment may be taken as the fair index of the net value of the business assets in most cases . .
+It cannot however be laid down as an inflexible rule of law that in every case the written down value must be taken to be the net 792 value of the business assets.
+If that were so.
+the Legislature would have said so in clear terms instead of indulging in the circumlocution in section 7(2)(a).
+In this particular case, it appears, the assessee did not make any reserve for depreciation and the assets are old dating back from the inception of the business long ago.
+In these circumstances, in our opinion, it would be fair to adopt the written down value of the assets as the value thereof for all the years under appeal . " At the instance of the Commissioner of Income tax the Appellate Tribunal stated a case to the High Court under section 27(1) of the Act on the following question of law : "Whether on the facts and in the circumstances of the case, for the purpose of determining the net value of the assets of the assessee under section 7(2) of the the Tribunal was right in directing that the written down value of the fixed assets of the assessee should be adopted as the value thereof, instead of their balance sheet value ?" By its judgment dated January 29, 1965 the High Court answered the question in the affirmative and in favour of the respondent.
+Section 7 of the Act stood as follows at the material time : "(1) The value of any asset, other than cash, for the purposes of this Act, shall be estimated to be the price which in the opinion of the Wealth tax Officer it would fetch if sold in the open market on the valuation date.
+(2) Notwithstanding anything contained in subsection (1), (a) where the assessee is carrying on a business for which accounts are maintained by him regularly, the Wealth tax Officer may, instead of determining separately the value of each asset held by the assessee in such business, determine the net value of the assets of the business as a whole having regard to the balance sheet of such business as on the valuation date and making such adjustments therein as the circumstances of the case may require.
+793 In Kesoram Industries & Cotton Mills Ltd. vs Commissioner of Wealth Tax, (Central) Calcutta(1) the appellant company had shown in its balance sheet for the period ending March 31, 19.57, the appreciated value on revaluation of its assets, after making certain adjustments, at Rs. 2,60,52,357 and had introduced in the capital reserve surplus a corresponding balancing figure of Rs. 1,45,87,000 representing the increase in the value of the assets upon re valuation.
+For the purposes of wealth tax the officer took the sum of Rs. 2,60,52,357 as the value of the assets, whereas the company contended that an adjustment ought to be made in view of the increase in the value shown in the balance sheet on re valuation.
+It was held by this Court that as no one could know better the value of the assets than the assessee himself, the Wealth tax Officer was justified in accepting the value of the assets at the vigour shown by the appellant company itself.
+It was open to the appellant company to convince the authorities that that figure was inflated for acceptable reasons; but it did not make any such attempt.
+It was also open to the Wealth tax Officer to reject the figure given by the appellant company and to adopt another figure if he was, for sufficient reasons, satisfied that the figure given by the appellant was wrong.
+It is argued on behalf of the appellant in the present case that the High Court was not right in holding that the principle laid down by this Court in Kesoram Industries(1) case is not applicable.
+In our opinion there is justification for this argument.
+Under sub section (1 ) of section 7 of the Act the Wealth tax Officer is authorised to estimate for the purpose of determining the value of any asset, the price which it would fetch, if sold in the open market on the valuation date.
+But this rule in the case of a running business may often be inconvenient and may not yield a true estimate of the net value of the total assets of the business.
+The legislature has, therefore, provided in sub section (2) (a) that where the assessee is carrying on a business for which accounts are maintained by him regularly, the Wealth tax Officer may determine the not value of the assets of the business as a whole, having regard to the balancesheet of such business as on the valuation date and make such adjustments therein as the circumstances of the case may require.
+The power conferred upon the tax officer to make adjustments as the circumstances of the case may require is also for the purpose of arriving at the true value of the assets of the business.
+It is of course open to the assessee in any particular case to establish after producing relevant materials that the value given of the fixed as.sets in the balance sheet is artificially (1) ; 794 inflated.
+It is also open to the assessee to establish by acceptable reasons that the written down value of any particular asset represents the proper value of the asset on the relevant valuation date.
+In the absence of any material produced by the assessee to demonstrate that the written down value is the real value, the Wealth tax Officer would be justified in a normal case in taking the value given by the assessee itself to its fixed assets in its balance sheet for the relevant year as the real value of the assets for the purposes of the wealth tax.
+It is a question of fact in each case as to whether the depreciation has to be taken into account in ascertaining the true value of the assets.
+The onus of proof is on the assessee who must produce reliable material to show that the written down value of the assets and not the balance sheet value is the true value.
+If, therefore, the assessee merely claims that the written down value of the assets should be adopted but fails to produce any material to show that the written down value is the true value, the Wealth tax Officer is justified in rejecting the claims and adopting the values shown by the assessee himself in his balance sheet as the true value of his assets.
+In our opinion the High Court should have based its decision on the principle of Kesoram Industries(1) case and the question of law should be answered in the manner stated by us in this judgment.
+But it is necessary to give certain effective directions in this case.
+Section 27(6) of the Act requires the Tribunal on receiving a copy of the judgment of the Supreme Court or the High Court as the case may be to pass such orders as are necessary to dispose of the case conformably to such judgment.
+This clearly imposes an obligation upon the Tribunal to dispose of the appeal in the light and conformably with the judgment of the Supreme Court.
+Before the Tribunal passes an order disposing of the appeal there would normally be a hearing.
+The scope of the hearing must of course depend upon the nature of the order passed by the Supreme Court.
+If the Supreme Court agrees with the view of the Tribunal the appeal may be disposed of by a formal order.
+But if the Supreme Court disagrees with the Tribunal on a question of law, the Tribunal must modify its order in the light of the order of the Supreme Court.
+If the Supreme Court has held that the judgment of the Tribunal is vitiated because it is based on no evidence or because the judgment proceeds upon a misconstruction of the statute, the Tribunal would be under a duty to dispose of the case conformably with the opinion of the Supreme Court and on the merits of the dispute and re hear the appeal.
+In all cases, however, opportunity must be afforded to the parties of being heard.
+In Income(l) ; 795 tax Appellate Tribunal, Bombay vs
+S.C. Cambatta & Co. Ltd.(1) the Bombay High Court has explained the procedure followed in the disposal of an appeal conformably to the judgment of the High Court.
+Chagla C.J. in delivering the judgment .of the Court observed : ". . when a reference is made to the High Court e her under section 66(1) or section 66(2) the decision of the Appellate Tribunal cannot be looked upon as final; in other words, the appeal is not finally disposed of.
+It is only when the High Court decided the case, exercises its advisory jurisdiction, and gives directions to the Tribunal on questions of law, and the Tribunal reconsiders the matter and decides it, that the appeal finally disposed of . . it is clear that what the Appellate Tribunal is doing after the High Court has heard the case is to exercise its appellate powers under section 33 .
+The shape that the appeal would ultimately take and the decision that the Appellate Tribunal would ultimately give would entirely depend upon the view taken by the High Court.
+" This passage was quoted with approval by this Court in Esthuri Aswathiah vs Commissioner of Income tax(2).
+In the present case, therefore, the answer we have furnished to the question in the reference means that the Appellate Tribunal must now, in conformity with the judgment of this Court, act under section 27(6) of the Act, that is to say, dispose of the case after rehearing the respondent company and the Commissioner in the light of the evidence and according to law.
+There will be no order as to costs.
+G.C. (1) , 120.

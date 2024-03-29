@@ -1,0 +1,92 @@
+Civil Appeal No. 63 of 1971.
+Appeal by Special Leave from the Judgment and order dated the 19th February 1970 of the Andhra Pradesh High Court in R.C. No. 50 of 1966.
+section T. Desai and K. Rajendre Choudhary, for the Appellant G. C. Sharma and section P. Nayar, for the Respondent.
+The Judgment of the Court was delivered by GUPTA, J.
+This appeal by special leave is directed against an order of the High Court of Andhra Pradesh at Hyderabad answering in the negative and in favour of the revenue the following question referred to it under sec.
+66(1) of the Indian Income Tax Act, 192 (hereinafter referred to as the Act).
+"Whether the Assessee is entitled to registration under Section 26A of the Income Tax Act, 1922 for the assessment year 1961 62.
+" The assessee is a firm.
+The instrument of partnership was executed on January S, 1959 but the application for registration under sec.
+26A remained undisposed of until the assessment for the year 1961 62 was taken up.
+The instrument shows that three persons, Mandyala Narayana, Mandyala Venkatramaiah, Mandyala Srinivasulu and a minor, Mandyala Jaganmohan who was admitted to the benefits of the partnership, held the following shares: Narayana 31 per cent, Venkatramaiah 23 per cent, Srinivasulu 23 per cent, and minor Jaganmohan 23 per cent: Clause 2 of the instrument which sets out the 133 shares of the partners add that the profits of the above partnership A business shall be divided and enjoyed according to the shares specified above.
+" There is no clause in the instrument specifying the proportion in which the three adult partners were to share the losses, if any.
+Having set out all the terms of agreement, the instrument closes with clause 9 which states: "We (the partners) are bound to act according to the above mentioned stipulations and also according to the provisions of the Indian Partnership Act. " The High Court was of the view that unless the instrument of partnership specified the shares of the partners not only in the profits hut also in the losses, the firm would not be entitled to registration under sec.
+26A, and negatived the contention raised on behalf of the assessee that clause 9 of the instrument indicated how losses were to be apportioned between the partners.
+The correctness of this decision is challenged by the appellant firm.
+It is not that a firm to be able to trade must be registered under sec.
+26A. A firm, registered or unregistered, is an assessee under the Act and can do business as such.
+However, registration under sec.
+26A "confers on the partners a benefit", as would appear from the provisions of sec.
+23 (5) of the Act, "to which they would not have been entitled but for section 26A, and such a right being a creature of the statute, can be claimed only in accordance with the statute which confers it, and a person who seeks relief under section 26A must bring himself strictly within its terms before he can claim the benefit of it": Rao Bahadur Ravulu Subba Rao and others vs Commissioner of Income tax, Madras.(1) The question in this case is whether in the absence of a specific statement in the instrument as to the proportion in which the partners were to share the losses, the requirement of sec.
+26A can be said to have been satisfied.
+Sec 26A reads: "26A. (1) Application may be made to the Income tax officer on behalf of any firm, constituted under an instrument of partnership specifying the individual shares of the partners for registration for the purposes of this Act and of any other enactment for the time being in force relating to income tax or super tax.
+(2) The application shall be made by such person or persons, and at such times and shall contain such particulars shall be in such form, and be verified in such manner, as may be prescribed; and it shall be dealt with by the Income tax officer in such manner as may be prescribed.
+" The required particulars are specified in rules 2 and 3 of the Rules framed under the Act and the form of application including the Schedule annexed to rule 3.
+Paragraph 3 of the Form requires the partners to ` 'certify that the profits (or loss if any) " of the relevant period were or will (1) 134 be, as the case is, '`divided or credited, as shown in Section 8 of the Schedule".
+In Section 8 of the Schedule are to be recorded the "particulars of the apportionment of the income, profits or gains (or loss) of the business, profession or vocation in the previous year between the partners who in that previous year were entitled to share in such income, profits or gains (or loss)".
+Note (2) appended to this Schedule states that if any partner is entitled to share in profits but is not liable to bear a similar proportion of any losses, this fact should be indicated.
+It is clear therefore that the application for registration which has to be made in the prescribed form must include particulars of the apportionment of the loss, if any.
+It does not appear to have been considered in this case whether the application for registration made by the firm conforms to the prescribed rules; the dispute is confined to the question whether sec.
+26A requires the instrument of partnership to specify the individual shares of the partners in the profits as well as the losses of the business.
+Section 23(5) of the Act provides different procedures in the assessment of a registered firm and a firm that is unregistered.
+Without going into details, in the case of a registered firm the share of each partner in the firm 's profits is added to his other income and he is assessed on his total income which includes his share of the profits and the tax payable by him is determined accordingly.
+There is a proviso which lays down that "if such share of any partner is a loss it shall be set off against his other income or carried forward and set off in accordance with the provisions of section 24".
+Thus, the loss, if any, affects the assessment proceeding and therefore the Income tax officer has to know what are the respective shares of the partners in the losses before allowing the firm to be registered.
+It is not disputed that the Income tax officer must be in a position to ascertain how losses are to be apportioned; the question is whether it is a condition for registration under sec.
+26A that the instrument of partnership must specify the respective shares of the partners in the losses.
+According to the appellant sec.
+26A has no such requirement.
+The appellant contends that sec.
+26A does not require specification of the shares in losses in the instrument of partnership and it is sufficient if the proportion in which the losses are to be shared is otherwise ascertainable, and that, assuming the section did so require, clause 9 of the instrument satisfies that requirement.
+The contention that clause 9 specifies the respective shares of the partners in the losses is obviously untenable.
+This clause says that the partners are "bound to act according to the provisions of the Indian Partnership Act"; that they are in any case, and it is not clear which provision of the Partnership Act indicated the proportion in which the partners were to bear the losses in this case.
+Counsel for the appellant refers to sec.
+13(b) of the Partnership Act in this connection.
+12(b) reads: "Subject to contract between the partners (a) x x x x (b) the partners are entitled to share equally in the profits earned, and shall contribute equally to the losses sustained by the firm :" 135 We shall refer to sec.
+13(b) in more detail when we consider the other contention of the appellant, but assuming that this provision has any relevance to the facts of this case, which it has not, bringing in by implication sec.
+13(b) from a general statement that the partners are to act in accordance with the Partnership Act does not amount to specification of the partners ' shares in the losses, and the instrument of partnership, it must therefore be held, fails to comply with sec.
+26A of the Act, were this a requirement of that section.
+The other contention of the appellant is that it is not essential for registration under sec.
+26A of the Act that the shares of the partners in the losses must be specified in the partnership deed.
+In support of this contention reliance is placed mainly on two decisions, one of the Mysore High Court: R. Sannappa and Sons vs Commissioner of Income tax, Mysore (1) and the other of the Allahabad High Court: Hiralal Jagannath Prasad vs Commissioner of Income tax, U.P. (2) on behalf of the revenue it is claimed on the authority of a decision of the Gujarat High Court, Thacker & Co. vs Commissioner of Income tax, Gujarat (3), that the shares in the profits and losses have both to be specifically stated in the instrument of.
+partnership in order to comply with the conditions laid down in sec.
+26A to obtain registration.
+The view taken by the Gujarat High Court appears to have been followed by the Kerala High Court in the following cases among others: C. T. Palu & Sons vs Commissioner of Income tax, Kerala (4) and Commissioner of Income tax, Kerala vs Ithappiri & George (5), There is thus a conflict of opinion in the High Courts on the point.
+It will not be necessary, however, for the purpose of this appeal to consider at any length the conflicting views of the different High Courts and decide which view is correct according to us because on the facts of the case the appeal is bound to fail on any view.
+It is not, and it cannot be, disputed that the Income tax officer before allowing the application for registration must be in a position to ascertain the shares of the partners in the losses even if sec.
+26A did not require the shares in the losses to be specified in the instrument of partnership.
+Counsel for the appellant argues that clause 9 of the instrument refers to sec.
+13(b) of the Partnership Act by implication and, accordingly, in the absence of any contrary indication, it must be held that the partners are liable to share the losses equally.
+The argument is not based on a correct appreciation of the scope of sec.
+13(b) and the facts of the case.
+13(b), it seems plain to us, makes the partners liable to contribute equally to the losses only when they are entitled to share equally in the profits.
+In this case the shares of the partners are not equal.
+In the absence of any indication to the contrary, where the partners have agreed to share the profits in certain proportions, the presumption is that the losses are also to be shared in like proportions.
+Jessel M. R. states the principle in In re Albion Life Assurance Society (G) as follows: (1) (2) (3)[1966] (4) (5) (6) 16 Ch.
+83 (87).
+10 L1276SCI/75 136 "It is said, as a general proposition of law, that in ordinary mercantile partnerships where there is a community of profits in a definite proportion, the fair inference is that losses are to be shared in the same proportion.
+" In the case before us the partners having unequal shares in the profits, there can be no presumption that the losses are to be equally shared between them Sec.
+13(b) of the reproduces the provisions of the repealed sec.
+253(2) of the .
+In K. Pitchiah Chettiar vs G.Subramaniam Chettiar(1), Ramesam J. explained the scope of sec.
+253 (2) of the : "Section 253(2) of the lays down that all partners are entitled to share equally in the profits of the partnership business, and must contribute equally towards the losses sustained by the partnership.
+As I read the section, it lays down two presumptions with which the Court should start.
+The two presumption are clubbed in one sub section.
+The first is, if no specific contract is proved, the shares of the partners must be presumed to be equal.
+In the present case the plaintiff alleged unequal shares which were not denied by the defendants.
+So the parties being agreed on their pleadings as to the shares possessed by them in the profits, there is no scope for the application of this first presumption.
+The second presumption is that where the partners are to participate in the profits in certain shares they should also participate in the losses in similar shares.
+Now the section says that both should be in equal shares but implies that if unequal shares are admitted by the partners as to profits that applies equally to losses.
+In the absence of a special agreement, that this should be the presumption with which one should start is merely a matter of common sense and in India one has only to rely on section 114 of the Evidence Act for such a principle.
+" The law stated here in the context of sec.
+253(2) of the Contract Act, 1872 applies equally to sec.
+13(b) of the Partnership Act, 1932: the two provisions are in identical terms.
+On the facts of the present case, and having regard to the scope of sec.
+13(b), the section has plainly no application.
+(1) I. L. R. (28).
+137 The other rule that where the shares in the profits are unequal, the A losses must be shared in the same proportions as the profits if there is no agreement as to how the losses are to be apportioned, does not also apply to this case.
+In this case even if the adult partners bear the losses in proportion to their respective shares in the profits, the amount of loss in the minor 's share would still remain undistributed.
+Will the partners between them bear this loss equally, or to the extent of their own individual shares ? To this the instrument of partnership does not even suggest an answer.
+There is therefore no means of ascertaining in this case how the losses are to be apportioned.
+For the reasons stated above, the appeal fails and is dismissed with costs.
+P.H.P.Appeal dismissed.

@@ -1,0 +1,145 @@
+In exercise of powers conferred by s.2(a) of the Kerala Act, the State Government declared 'electricity ' as an essential article in 1965.
+In 1968, the State Government passed an Order called the Kerala State Electricity Supply (Kerala State Electricity Board and Licensees Areas) Surcharge Order, 1968, under s.3 of the Kerala Act, by which, the State Electricity Board was required to collect surcharge from non licensee consumers of electricity even though the Board may have entered into long term contracts with them with regard to the rate at which electricity was to be supplied to them.
+The respondents, who were bulk consumers of electricity, questioned before the High Court the validity of the order.
+The order having been struck down by the High Court, in appeal to this Court, the respondents supported the judgment of the High Court on the grounds: (i) The Kerala Act is repugnant to the Electricity Act, 1910 and the (both of which are Central Acts) and, in particular the latter, which falls within Entries 43 and 44 of List I; and that the State Act trenches upon the field occupied by the 1948 Act which falls partly under Entry 43 of List I and partly under Entry 38 of List III.
+On behalf of the appellants it was contended that the Kerala Act falls under Entries 26 and 27 of List II, and in any event, the Presidential assent to the Kerala Act has cured the repugnancy.
+Allowing the appeal (per majority Alagiriswami, Bhagwati, Goswami and Sarkaria, JJ.): ^ HELD: The Kerala Act, the declaration of 'electricity ' as an essential article under section 2(a), and the Surcharge Order made under section 3, are valid.
+[581 G] 1.
+The question of repugnance arises only in case both the legislations fall within the same List, namely, List III.
+If any legislation is enacted by a State Legislature in respect of a matter falling within List I that will be void.
+There can, therefore, be no question of repugnance between the Electricity Act, 1910 and the . 1948 on the one hand, and the Kerala Act on the other if the first two Acts fall in List I or List III and the State Act in List II.
+[562 D] Indu Bhushan vs Sundari Devi ; referred to.
+553 2.
+(a) The words "notwithstanding" in clause (1) and "subject to" in clause (3) of article 246 of the Constitution mean that where an entry is in general terms in List II and part of that entry is in specific terms in List I the entry in List I takes effect notwithstanding the entry in List II.
+This is also on the principle that the 'special" excludes the "general" and the general entry in List II is subject to the special entry in List I. [563 C] (b) The word "notwithstanding" also means that if it is not possible to reconcile the two entries the entry in List I will prevail.
+But before that happens attempt should be made to decide in which List a particular legislation falls.
+For deciding under which entry a particular legislation falls, the theory of "pith and substance" has been evolved by Courts.
+If in pith and substance a legislation falls within one list or the other, but some portion of the subject matter of that legislation incidentally trenches upon and might come to fall under another List, the Act as a whole would be valid notwithstanding such incidental trenching.
+[563 D E] (c) Both the 1910 Act as well as the 1948 Act are existing law as contemplated under article 372 of the Constitution.
+An existing law continues to be valid even though the legislative power with respect to the subject matter of the existing law might be in a different List under the Constitution from the List under which it would have fallen under the Government of India Act, 1935.
+But, after the Constitution came into force an existing law could be amended or repealed only by the Legislature which would be competent to enact that law if ' it were to be newly enacted.
+[566 G] 3(a) The Statement of Objects and Reasons though not relevant for the purpose of interpreting the sections of an Act, will throw light upon the object of the Legislature from the historical point of view [569 A] (b) The 1948 Act was enacted for the purpose of co ordinated development of electricity in India on a regional basis.
+The Statement of objects and Reasons states that there was necessity for the constitution of semi autonomous bodies like Electricity Boards to administer grid system on quasi commercial lines.
+The Act deals with the incorporation and regulation of Electricity Boards.
+It created a central authority (which is not an incorporated body) as well as various provincial Electricity Boards (which are incorporated bodies).
+A Provincial Electricity Board located in one Province and operating in a neighbouring Province could carry on its operations by agreement with the other Province or Provinces.
+The jurisdiction of an Electricity Board, however, was confined mainly to the jurisdiction of an Province under the Act the executive power vested in the Provinces.
+The Statement of objects and Reasons further says that the semi autonomous Electricity Boards contemplated under the Act could not be set up by provincial Governments under the then existing constitutional Act as they would be in the nature of trading corporation within the meaning of entry 33 of the Federal Legislative List of the Government of India Act, 1935.
+[568A H] 4.
+The argument that the 1948_Act falls under entries 43 and 44 of List I has no substance.
+[568 A] (a) A reading of the Statement of Objects and Reasons shows that the 1948 Act was a legislation under an entry in the Concurrent List.
+Although the Statement of objectcs and Reasons mentions entry 33 of the Federal List of the Government of India Act, 1935 (corresponding to entries 43 and 44 of List I of the Seventh Schedule to the Constitution) it does not show that the 1948 Act falls under entry 44.
+Nor is the fact that entry 33 of List I of the Government of India Act, 1935 was mentioned in the Statement of objects and Reasons a conclusive test.
+[568 E] (b) From an examination of the provisions of the 1948 Act it would be obvious that one part of the Act deals with the constitution of the Board,the incorporation of the Board and the regulation of its activities.
+But the main purpose of the Act is for, rationalising the production and supply of electricity.
+The regulation contemplated in entries 43 and 44 of List I is not regulation of the business of production, distribution and supply of electri 554 city of the Corporation.
+The provision regarding the incorporation and regulation of Electricity Boards should be taken to be only incidental to the provisions regarding production, supply and distribution of electricity.
+Therefore, the provisions of the 1948 Act regarding the Board 's functions do not make it one falling under entry 43 of List I. [570 H; 571A] R. C. Cooper vs Union and Ramtanu Housing society vs Maharashtra ; followed.
+(c) The 1948 Act in pith and substance, should be deemed to be one falling under entry 38 of List III.
+In the Present case the incorporation of the Stage Electricity Boards is merely for the rationalisation of the production and supply of electricity, for taking measures conducive to electrical development and for all matters incidental thereto.
+Furthermore, Electricity Boards are not trading corporations; they are established to promote co ordinated development of the generation, supply and distribution of electricity on a no profit no loss basis.
+In the discharge of their functions, they are guided by directions on questions of policy given by the State Governments.
+There are no shareholders and there is no distribution of profits.
+This is another reason why the 1948 Act cannot be said to fall under entry 43 of List I. [573 B D] (d) Even assuming that part of the 1948 Act is a legislation with respect to incorporation and regulation of a trading corporation, falling under entry 48 of List I of Schedule Seven, the rest of it will fall under entry 38 of List III.
+The Kerala Act has nothing to do with the incorporation and regulation of the Electricity Boards and, therefore, it can only relate to entry 38, List III, if at all.
+[573 F G] (e) The 1910 and 1948 Acts together form a complete code with respect to entry 38 in List III and the Board is only an instrument fashioned for carrying out this object.
+[571 A] (f) Therefore both the 1910 Act and 1948 Act could be amended or repealed by the Parliament and also by the State Legislature if it obtains Presidential assent to an Act amending or repealing the 1910 Act or 1948 Act.
+[566 H] A. K. Krishna vs State of Madras ; ; P. N. Kaul vs The State of J & K. [1959] Supp.2 SCR 270 and J & K State vs M. section Farooqi ; , referred to.
+(g) The assent of the President should be deemed not merely to the substitution of the words five years by the words seven years in the Kerala Act but to the Act as a whole and any repugnance between the Kerala Act on the one hand and the 1910 Act and 1948 Act on the other should be doemed to have been cured by such assent.
+The Kerala Act in so far as it deals with electrieity can be deemed to be legislation under entry 38 of List III Though the Act itself has not declared any article as an essential article, when the declaration was made under s.2(a) in 1965 it became part of the Act.
+When the President assented to the Amendment Act of 1967 the declaration of electricity as and essential article had been made and should be deemed to have become a part of the Act.
+[575 F; C] (5) But the Kerala Act is a matter falling under entries 26 and 27 of List II.
+[575 A] (a) "Essential article" is a term which has acquired a defining connotation in Indian legislative practice and is not a vague or a general term.
+"Essential commodity" defined in the includes practically every matter regarding industry within the legislative competence of Parliament.
+The term "essential commodity" is an expression corresponding to a commodity essential to the life of the community.
+It is not open to the authority exercising powers under s.2(a) of the Kerala Act to declare and any every commodity as an essential commodity.
+That Act deals with esential articles not being essential article dealth with the by Central Act of 1955.
+It is not a legislation with respect to electricity and, therefore, does not fall under entry 38 of List III.
+Electricity, being beyond doubt an essential article may be declared to be an essential article under the Act.
+In that case the power 555 exercised is not in relation to electricity qua electricity but electricity as an essential article.
+The Act, therefore in pith and substance is with respect to trade and commerce and production, supply and distribution of electricity.
+It is not a permanent legislation with respect to electricity but a temporary one dealing with a temporary situation.
+[574 A; F H] (b) The Surcharge order was necessary for the survival and existence of the Board without which there can be no production or supply of electricity.
+It is no valid criticism of this view to say that the powers of the Board under the 1948 Act are over ridden by the Surcharge order and the order is, therefore, repugnant to the 1948 Act.
+The Board was anxious to make no Surcharge order.
+This is a simple case of a contract being over ridden in exercise of statutory powers.
+[575 B] 6(a) It is not correct to say that in so far as the consequence of a declaration under s.2(a) of the Kerala Act was that the State Government was enabled to make orders regarding production, supply and distribution of electricity, there was a possibility of such orders being repugnant to the provisions of the 1910 Act and the 1948 Act and, therefore, any such repugnancy was cured by the assent given by the President.
+It is only the actual repugnancy that can be cured by Presidential assent and not the possibility of repugnancy.
+[575 G] (b) No Presidential assent was possible to the notification article 254(2) does not contemplate Presidential assent to notifications issued under the Act.
+The Article contemplates Presidential assent only to laws made by the Legislature of a State.
+[567 G] 7(a) Notwithstanding the fact that subordinate legislation is laid on the table of House of Parliament or State Legislature and being subject to such modification, annulment or amendment as they may make the subordinate legislation cannot be said to be valid unless it is within the scope of the rule making power provided in the statute.
+Where an executive authority is given power to frame subordinate legislation within stated limits, rules made by such authority, if outside the scope of the rule making power should not be deemed to be valid merely because such rules have been placed before the Legislature and are subject to such modification, annulment or amendment as the Legislature may think fit.
+The process of such amendment, modification or annulment is not the same as the process of legislation and in particular it lacks the assent either of the President or the Governor of the State.
+[576 E G] Minister of Health vs The King, and Institute of Patent Agents vs Lockwood, referred to.
+(b) If a declaration made under section 2(a) or an order made under s.3(a) is not within the scope of the Act, it should be held to be not valid.
+[576 H] (c) A declaration can still be attack if the power to make such a declaration was beyond the scope of the power delegated.
+even if subsequent to the declaration the Act was amended and the President had given his assent to the to Amending Act.[577 A] (d) But the power conferred by the Kerala Act is a case of conditional legislation.
+The various types of powers that can be exercised under that Act are enumerated in it.
+Only an article with reference to which those powers are to be exercised is left to be determined by the Executive.
+That will vary from time to time.
+It is the Exceutive that would be in a position to judge when and under what circumstances an article becomes an essential article and, therefore, it is necessary.
+to control the production, supply and distribution of trade.
+and commerce in that article.[578 H] The Queen vs Burah (5 L.R.178@ 194) State of Punjab vs Khan Chand ; and Gwalior Rayon Mills vs Asst.
+Commr.
+S.T. ; followed.
+556 The Kerala Essential Articles Control (Temporary Powers) Act, 1961 is an invalid piece of legislation on the ground of excessive delegation and the declaration and Surcharge order made respectively under s.2(a) and s.3 of that Act are of no consequence.[582 G] 1(a) The definition of essential article leaves it to the State Government to decide what should be an essential article for the purpose of the Act.
+The legislature is, of course presumed to know the limits of its competence and assuming it is permissible to attribute similar knowledge to the Government as to the bounds of its authority under s.2(a) an essential article may be any article covered by any of the entries in List II or List III except the classes of commodities mentioned as an essential commodity in the .
+Until, therefore, the Government issued a notification under s.2(a) declaring electrical energy to be an essential article almost four years after the Act came into force, it was not possible even to guess what the Act was about.
+Thus the Act as passed had no positive content, it was and empty husk and its insubstantiality, if by itself not an invalidating factor, exposes the want of a declared legislative policy in the Act.
+The Act does not provide any guidance or lay down any test to ascertain what makes an article essential for the purpose of the Act.
+The reference to the in s.2(a) which defines "essential article" is merely to exclude from its purview the commodities covered by the and only serves to emphasise its indefiniteness and makes it more difficult to find any clue to the nature of the articles the Legislature had in mind in enacting the Kerala Act.
+Almost the entire legislative field was left open to the Government to choose from and decide according to their own lights what should be an essential article.
+[583 C G] (b) The Legislature cannot delegate the essential legislative function, which means that the Legislature must declare the policy of the law and provide a standard for the guidance of the subordinate law making authority.
+The Kerala Act authorises the Government to declare any article as essential except those mentioned in the without laying down any definite criteria or standards.
+This is surrendering unguided and uncanalised power to the executive.
+The Act cannot be called an instance of conditional legislation.
+The powers conferred on the Government by the Kerala Act exceed the limits of permissible delegation.
+[583 H] (c) The Kerala Act of 1961 was to remain in force for a period of five years from January 1962.
+The Principal Act as well as the Amending Acts of 1967, 1969, and 1970 received the assent of the President.
+But the Act as passed in 1961 did not appear to contain any provision which was repugnant to any Central Act or existing law; that being so, the assent given to it seems redundant and of no consequence.
+Article 254(2) contemplates an existing repugnancy and not possible future inconsistencies.
+[Obiter: Assuming that assent given by the President to the amending Acts would have the effect of curing the repugnancy between the declaration under s.2(a) and the Surcharge Order under s.3 of the principal Act on the one hand and the Central Acts of 1910 and 1948 on the other, If the declaration and the Surcharge Order were outside the Act,could not cure the repugnancy arising from these two orders.[584 H] The orders made by the State Government under s.2(a) and s.3(1) of the impugned Act could not be called part of the Act.
+The Act did not even say that such orders were to be treated as if enacted in the Act.
+The President 's assent could not be said to have cured the repugnancy created by the Surcharge order.
+[585 G] Arguments for the appellant: The impugned Kerala Act is a legislation under Entry 26 of List II (Trade and Commerce).
+It may also fall under Entry 27, List II (Production, Distribution and Supply of Goods).
+Assuming that the Electricity Supply Act falls under Entries 43 and/or 44 of List I, the State Legislature is competent 557 to pass legislation relating to the trading and commercial activities of the Corporation set up under the Central Act passed under Entry 43 and/or 44 of List I. Assuming that the Kerala Act encroaches on the powers of the Electricity Board under s.49, such encroachment is incidental and is justified under the doctrine of pith and substance.
+Assuming that the Central legislation as well as the State legislation falls under Entry 38 of List III, there is no repugnancy or conflict between the powers of the Board under s.49 and the impugned Act and the orders because they are made within the provisions of the Act and to aid and support the powers of the Board.
+If the surcharge had not been introduced the Electricity Board would not have been able to carry on the business and would have been compelled to close down its business.
+Arguments on behalf of Electricity Board: The Act applies to essential commodities i.e. all essential commodities as understood at the time of legislation in 1962.
+In view of the programme of industrialisation, and the limited scope of the Central , the present Act was conceived.
+The background of the Act strongly indicates the content of the expression 'essential commodities ' as meaning the same thing as "essential to the life of the community".
+Under the impugned Act by s.2(a) the power to select the articles for control is delegated to the State Government.
+The power to take orders for control is delegated both to the State Government and authorised officers.
+The articles falling within the Central are excluded from the purview of the Act not because control of those articles is not desired but because the State Government have the necessary powers under the Central Act itself.
+The definition in s.2(a) should be understood to mean "essential articles" notified by the State Government and essential articles should be understood as those which are essential to the life of the community.
+The word 'control ' in the preamble is indicative of the limited scope of the Act.
+This interpretation saves the Act from the vice of abdication of essential legislative function by the Legistature.
+The preamble to the Act is a key note to the understanding of an Act as well as the Statement of Objects and Reasons clearly indicates the scope and purpose of the Act.
+"Trade and Commerce" as well as "supply and distribution" must be in respect of articles or goods but on that account it will not be permissible to dissect the Act and make it relatable to each commodity over which control is imposed.
+The pith and substance of the Act makes them fall within List II, Entries 26 and 27.
+The law is not a law relating to electricity as such nor relating to the incorporation or power of the Electricity Board established under the Electricity Supply Act, 1948.
+The Supply Act, 1948, as clearly expressed in the preamble and worked out in the Act through several agencies including the Board shows that the pith and substance of the Act is development of electricity and falls within List III, Entry 31 of the Government of India Act.
+The incorporation of State Electricity Board for each State is only one of the means of achieving the objective.
+Moreover, the Board is not a trading Corporation since it is not created to earn profits but to carry out development and supply energy at the most economical rate.
+Each Board is established by a State.
+The whole law falls in the Concurrent List and in any event not under List I, Entry 43 because the Board is not a trading corporation nor does it fall under Entry 44 because the Board is a State Board for the State.
+The Supply Act was passed under the Government of India Act, 1935 and was an "existing law" and not an impediment to the State passing a law within its competence.
+There is no conflict between the impugned notification and the exercise of powers of the Board under s.40 of the supply Act.
+Assuming that both the legislations fall under List III, the President 's assent to the impugned Act was operative, the conflict was immaterial.
+558 Arguments for the respondent: The Electricity Supply Act of 1948 is relatable partly to List I entry 43 and 44 (Government of India Act List I Entry 33) and partly to List III Entry 38 (Government of India Act List III Entry 31).
+Part of the Act is concerned with the constitution and powers of the Electricity Board which is something like the memorandum and Article of a Limited Company and another part of the Act may be said to be concerned with electricity.
+The Kerala Act is a vague piece of legislation.
+The Articles to which this Act may apply are not mentioned.
+It is only after the power under the Act is exercised that it is possible to say whether it would conflict with any other legislation.
+The impugned Act may be applicable to Articles relatable to as many as 20 legislative entires from List I, II and III at the discretion of the Government.
+Regulation and Control with regard to many of the matters are covered by existing Central Acts such as Industries Regulation and Development Act, Factories Act, Central Excise and Salt Act, Defence of India Act, , Electricity Supply Act, 1948.
+Every aspect of electricity in respect of generation, control price fixation must be relatable to entry 38 of List I and not Entry 26 or 27 of List II.
+The Central Legislature has already legislated on all these aspects in the of 1910 and Supply Act 1948.
+If these were the subject matter of Entries 26 and 27 of List II, the Central Legislature could not have legislated.
+Any argument on the basis that the Electricity Supply Act 1948 is existing law, is not relevant because the 1948 Act has been extensively amended in 1956 and 1966 and these amendments relate to the field of control under the Kerala Act, if the same is applied in respect of electricity.
+The Presidential assent given to the Kerala Act could be said to be an assent within the meaning of Article 254 since at the time when the assent was given the Act did not disclose any inconsistency with any Central Act since the items to which the Kerala Act was applicable did not appear in the statute.
+The conflict arose only when an order was made by the State Government applying the Act to electricity.
+No steps were even taken to incorporate in the Act the commodities to which the Act could apply and to take President 's assent thereon.
+The Kerala Act suffers from excessive delegation because at the will of the State Government the Act could be made applicable to any article, except those covered by the .
+The State Government could apply the Act even to items falling in List I since there is no guideline.

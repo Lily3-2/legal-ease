@@ -1,0 +1,274 @@
+Appeal No. 407 of 1962.
+Appeal from the judgment and decree dated January 31, 1957 of the Madras High Court in Appeal No. 969/1952.
+R.Mamamurthi Aiyar, T. section Rangaraian and R. Gopala krishnan, for the appellant.
+V.S. Venkataraman, M. R. Krishna Pillai and M. section K. lyengar, for the respondent No. 3.
+February 11, 1964.
+The Judgment of the Court was delivered by SUBBA RAO, J.
+This appeal on a certificate issued by the High Court of Judicature at Madras is preferred against the judgment and decree of the said High Court modifying those of the Subordinate Judge, Tanjore, in a suit filed by the appellant to enforce a mortgage by deposit of title deeds.
+The facts are as follows.
+The first defendant borrowed from the plaintiff from time to time on seven promissory notes.
+The plaintiff, alleging that the first defendant had created a mortgage by deposit of title deeds in his favour in respect of his half share in the properties specified in B Schedule, instituted O.S. No. 45 of 1951 in the Court of the Subordinate Judge, Tanjore, for enforcing the said mortgage against the said properties.
+The suit was for recovery of a sum of Rs. 20,435 15 0, made up of principal amount of Rs. 16,500/ and interest thereon.
+To that suit six persons were made defendants: defendant I was the mortgagor; defendant 2 was the subsequent purchaser of several of the items of the suit properties subject to plaintiff 's mortgage; defendant 3 was the subsequent morgagee; defendant 4 was the subsequent purchaser of one of the plaint schedule properties; and defendant 5 and 6 were sister and brother of the 1st defendant.
+The plaintiff also alleged that in a partition ,effected between the 1st defendant and his brother properties described in the C Schedule annexed to the plaint were ,allotted to the 1st defendant.
+He, therefore, asked in the alternative that the C Schedule properties should be sold for the realization of the amount due to him from the 1st defendant.
+730 As the only contesting party before us is the 3rd defendant (3rd respondent herein), it is not necessary to notice the defences raised by defendants other than the 3rd defendant.
+The 3rd defendant alleged that the 1st defendant had executed a security bond in his favour for a sum of Rs. 15,0001 on October 10, 1947 and that, being a bona fide purchaser for value, he had priority over the plaintiff 's security, even if it were true.
+He put the plaintiff to strict proof of the fact that the sum claimed in the plaint under several promissory notes was owing to him and also of the fact that the 1st defendant effected a mortgage of the suit properties by deposit of title deeds in favour of the plaintiff.
+The learned Subordinate Judge held that the suit loans were true, that the mortgage by deposit of title deeds was also true, but the plaintiff had a valid mortgage only of items 1 and 4 of the C Schedule in respect of a sum of Rs. 9,157 5 0 with interest at 6 per cent.
+per annum thereon.
+On that finding, he gave a decree in favour of the plaintiff against defendants 1 to 3 for the said amount with a charge over items 1 and 4 of the C Schedule properties, and he also gave a decree in favour of the plaintiff for a sum of Rs. 7,565 2 0 with further interest at 6 per cent.
+per annum from July 5, 1947, against the 1st defendant personally.
+The plaintiff preferred an appeal against the decree of the Subordinate Judge, insofar as it went against him, and the 3rd defendant filed cross objection in respect of that part of the decree which went against him.
+A Division Bench of the Madras High Court, which heard the appeal and the cross objections, held that the 1st defendant did not effect a mortgage by deposit of title deeds on May 10, 1947, in favour of the plaintiff for the entire suit claim, but that he effected such a mortgage in favour of the plaintiff on January 25, 1947, for a sum of Rs. 3,000 / in respect of two of the plaint schedule items described in exhibit A 8.
+On that finding, the High Court modified the judgment and decree of the Subordinate Judge by restricting the mortgage decree given to the plaintiff to the amounts covered by the first three promissory notes and interest thereon and to one half of the properties described in exhibit A 8 and by giving a money decree against the 1st defendant for the entire balance of the 731 decree amount.
+The plaintiff has preferred the present appeal against the decree of the High Court.
+Learned counsel for the appellant contends, (1) that the finding of both the lower courts that no mortgage by deposit of title deeds was effected for the entire plaint claim was vitiated by the fact that they had ignored exhibit A 19, a registered agreement entered into between the plaintiff and the 1st defendant on July 5, 1947, wherein the said fact was clearly and unambiguously recorded; and (2) that, even if such a mortgage was not effected on May 10, proprio vigore effected such a mortgage to come into effect at any rate from the date of the execution of the agreement.
+Learned counsel for the contesting 3rd respondent argues that the definite case of the plaintiff was that such a mortgage was effected only on May 10, 1947, and that both the Courts below on a consideration of the oral and documen tary evidence concurrently found that no such transaction was effected on that date and that, therefore, this Court should not interfere with such a finding of fact.
+He further contends that in exhibit A 19 the parties only recorded that a mortgage by deposit of title deeds was effected on May 10, 1947 and that, if that fact was not true, exhibit A 19 could not be of any help to the plaintiff.
+If there was no mortgage on May 10, 1947, the argument proceeds, exhibit A 19 by its own force could not create a mortgage by deposit of title deeds on July 5, 1947, as in terms it only referred to a mortgage alleged to have been effected on May 10, 1947.
+That apart, it is argued that as a mortgage by deposit of title deeds could only be effected at Madras and that, as one of the important ingredients of such a mortgage is that the delivery of the said title deeds to the creditor should have been given at Madras, no such mortgage could have been effected in law in the present case, as the delivery of the title deeds was given by the bank to the representative of the plaintiff at Kumbakonam.
+Before we advert to the arguments advanced in the case it would be convenient at this stage to notice the relevant aspects of the law pertaining to mortgage by deposit of title deeds.
+732 Section 58(f) of the Transfer of Property Act defines a mortgage by deposit of title deeds thus: "Where a person in any of the following towns, namely, the towns of Calcutta, Madras and Bombay. . . delivers to a creditor or his agent documents of title to immovable property, with intent to create a security thereon, the transaction is called a mortgage by deposit of title deeds.
+" Under this definition the essential requisites of a mortgage by deposit of title deeds are, (i) debt, (ii) deposit of title deeds, and (iii) an intention that the deeds shall be security for the debt.
+Though such a mortgage is often described as an equitable mortgage, there is an essential distinction between an equitable mortgage as understood in English law and the mortgage by deposit of title deeds recognised under the Transfer of Property Act in India.
+In En land an equitable mortgage can be created either, (1) by actual deposit of title deeds, in which case parole evidence is admissible to show the meaning of the deposit and the extent of the security created, or (2) if there be no deposit of title deeds, then by a memorandum in writing, purporting, to create a security for money advanced: see White and Tudor 's Leading Cases in Equity, 9th edition, Vol. 2, at p. 77.
+In either case it does not operate as an actual conveyance though it is enforceable in equity; whereas under the Transfer of Property Act a mortgage by deposit of title deeds is one of the modes of creating a legal mortgage whereunder there will be transfer of interest in the property mortgaged to the mortgagee.
+This distinction will have to be borne in mind in appreciating the scope of the English decisions cited at the Bar.
+This distinction is also the basis for the view that for the purpose of priority it stood on the same footing as a mortgage by deed.
+Indeed a proviso has been added to section 48 of the Registration Act by Amending Act 21 of 1929.
+It says: "Provided that a mortgage by deposit of title deeds as defined in section 58 of the , shall take effect against any mortgage deed subsequently executed and registered which relates to the same property." 733 Therefore, under the law of India a mortgage by deposit of title deeds, though it is limited to specific cities, is on a par with any other legal mortgage.
+The text books and the cases cited at the Bar give some valuable guides for ascertaining the intention of parties and also the nature of delivery of the documents of title requisite for constituting such a mortgage Fisher in his book on The Law of Mortgage., 2nd edition, p. 32, suggests how the intention to create such a security could be established.
+He says: "The intent to create such a security may be established by written documents, alone or coupled with parol evidence; by parol evidence only that the deposit was made by way of security; or by the mere inference of an agreement drawn from t he very fact of the deposit.
+" In Norris vs Wilkinson(1) the Master of the Rolls in the context of that case where documents 'were delivered to the Attorney of the creditor for the purpose of enabling the attorney to draw a mortgage which it was alleged that the debtor had agreed to give, made the following observations: "It is clear, that these deeds, if voluntarily delivered at all, were not delivered by way of deposit, in the sense in which that word has been used in the cases : i.e., as a present and immediate security; but were delivered only for the purpose of enabling the attorney to draw the mortgage, which it is alleged, Wilkinson the father had agreed to give." The learned Master of the Rolls distinguished the cases cited before him thus: "Now in all the cases, that have been referred to.
+the deeds were delivered by way of deposit.
+Such deposit was indeed held to imply an obligation to execute a legal conveyance, whenever it should be required.
+But the primary intention was to execute an immediate pledge; with an implied engagement to do all, that might be necessary to render the pledge effectual for its purpose.
+" (1) ; , 76.
+734 These passages indicate that an intention to create a mortgage deed in the future is not inconsistent with the intention to create in presenting a mortgage by deposit of title deeds.
+Both may co exist.
+In Keys vs Williams(1) it was held that an agreement to grant a mortgage for money already advanced and a deposit of deeds for the purpose of preparing a mortgage, was, in itself, an equitable mortgage by deposit.
+Though the facts of the case do not appear in the report, this decision indicates that the fact that deposit of title deeds was given for the purpose of preparing a mortgage does not in itself without more, exclude the inference to create an equitable mortgage if the.
+requisite conditions for creating thereof are satisfied.
+The decision in Whitbread, Ex Parte(2) throws some light on the legal requirements of delivery of title deeds.
+There, the petitioner claimed a lien, as an equitable mortgagee, by deposit in 1808 of the lease of a public house as a collateral security for pound 1,000, lent to the lessee on his promissory note, and a subsequent advance of pound 100 made in January 1810.
+One of the points mooted was whether the subsequent advance of pound 100 was also charged on the property covered by the document.
+The learned Chancellor in that context made the following observations : "If the original bargain did not look to future advances, no subsequent advance can be a charge, unless the subsequent transaction is equivalent to the original transaction.
+If it is equivalent to a re delivery of the deed, receiving it back as a security for both sums, that will do; as it cannot depend upon that mere form : but I shall require them to swear expressly, that when the sum of pound 100 was advanced, it was upon the security of the deposit.
+" The said observations emphasize the substance of the trans action rather than the form.
+It implies that a debtor, who has already affected a mortgage by deposit of title deeds in respect of an earlier advance, need not go through the forma (1) (1838) 51 Revised Reports, 339.
+(2) ; 735 lity of receiving back the said documents from the creditor and formally re delivering them to the creditor as security for further advances taken by him.
+It would comply with the requirements of law if there was clear evidence that the documents already deposited with the creditor would also be charged by way of deposit of title deeds in respect of the further advances.
+The doctrine accepted by this decision may, for convenience of reference, be described as the doctrine of constructive delivery.
+Learned counsel for the respondent attempted to confine the scope of this decision to a case of further advances on the basis of documents already deposited with the creditor in respect of earlier advances.
+It is true that the principle was enunciated in the context of the said facts, but it is of wider application.
+In our view, the same principle will have to be invoked wherever documents of title have already been in the possession of creditor at the time when the debtor seeks to create a mortgage by deposit of title deeds.
+In re Beetham, Ex Parte Broderick(1) the facts were A, being indebted to a banking company in respect of an overdrawn account, wrote to the directors promising to give them, when required, security over his reversionary interest in one fifth share of a farm, to come into possession on the death of the life tenant; but no formal security was ever executed in accordance with this promise.
+After the death of the life tenant the deeds of the farm came into the possession of A 's brother, the manager of the bank , for the purpose of paying the succession duty.
+As regards A 's share therein the brother claimed to hold them for the banking company with the consent of A as security for the overdrawn account.
+There was no memorandum of the deposit in the bank books, nor was the usual printed form of deposit of title deeds by way of security made use of with reference to the transaction.
+A subsequently became bankrupt.
+The Queen 's Bench held that the banking company had no valid equitable mortgage on the bankrupt 's share in the farm and that it could not hold the rents as against his trustee in bank ruptcy.
+On appeal the Court of Appeal confirmed the said decision of the Queen 's Bench.
+It is contended that this decision negatives the doctrine of constructive deposit.
+for (1) 736 it is said that though the manager of the bank with the con sent of A, held the title deeds as security for the bank, the Court did not accept that fact for holding there was an equitable mortgage.
+In our view, this decision does not lay down any such proposition.
+The main reason for the aforesaid conclusion of the Court of Appeal is found in the judgment of Lord Esher, M. R. at pp.
+768 769 of ',he said Report.
+After considering the facts of the case, the Master of the Rolls proceeded to state: "If this be so, there was nothing but the oral promise of the bankrupt to give the bank security, and that is not enough to satisfy the Statute of Frauds.
+In order to take the case out of the statute it must be shown that there has been performance or part performance of the rat promise. . .
+But nothing more was done with the deeds; they were left in precisely the same position.
+Nothing was done, except that the one brother said something, and the other said something in reply.
+Was this such a part performance of the original oral promise as will take the case out of the statute?" His Lordship concluded: "I take that proposition to amount to this that where there is a mere oral promise to do something, and nothing takes place afterwards but the speaking of more words by the parties when nothing more is done in fact there is no part performance which can exclude the application of the Statute of Frauds. " The entire judgment was based upon the doctrine of part performance and the Court of Appeal held that the facts established did not constitute part performance of the oral agreement.
+The doctrine of constructive deposit was neither raised nor touched upon in that case.
+Now let us consider some of the Indian decisions cited at the Bar.
+In Dayal Jairaj vs Jivraj Ratansi(1), the plaintiff (1) Bom. 237.
+737 had advanced to the 1st defendant Rs. 38,000/ , and had agreed to advance Rs. 27,000/ more, the whole of Rs. 65,000/ to be secured by a mortgage of the 1st defendant 's immovable property.
+The 1st defendant had deposited with the plaintiff the title deeds of his immovable property, for the purpose of enabling him to get a mortgage deed prepared, and had agreed to execute such mortgage deed on payment to him by the plaintiff the balance of the amount of Rs. 65,000/ .
+The title deeds were afterwards returned by the plaintiff to the 1st defendant for the purpose of enenabling him to clear up certain doubts as to his title to some of the premises comprised in the deeds, but the said deeds were neither subsequently returned by the 1st defendant, nor were others deposited in lieu thereof.
+The balance of the Rs. 65.000/ was not paid by the plaintiff to the 1st defedant The Court held that there was an equitable mortagag of the said property to secure the sum of Rs. 38,000,/ The fact that the title deeds were deposited for the purpose of executing a mortgage deed, which did not fructify.
+did not in any way preclude the Court from holding on the facts of the case that a mortgage by deposit of title deeds was created in respect of the amount that had already been paid to the debtor.
+The court relied upon the principle enunciated by earlier English decisions based upon the fact wither amounts were lent before or after the deposit of In Jaitha Bhima vs Haji Abdul Vyad Cosman(1) the facts were these: The plaintiff consented to lend Rs. 10,000/ to the defendant.
+The latter deposited with him on April 2, 1883, the title deeds of a certain property.
+On receiving them the plaintiff told the defendant that he would take them to his attorney, have a deed drawn and then advance the money.
+The defendant applied to the plaintiff for the money before the deed was prepared, but the plaintiff refused, saying, he would not advance the money until he was satisfied by his attorney, and the deed had been prepared.
+At the time the deeds were handed over to the plaintiff, there was no existing debt date by the defendant to the plaintiff.
+On April 6, 1885, the mortgage deed was executed, and on the same day the money was advanced by the plaintiff to the defendant.
+The mortgage deed was not registered.
+The plaintiff filed a suit for a declaration (1) Bom.
+134 469 B.C. 47.
+738 that he was entitled to an equitable mortgage upon the said property and for the sale thereof.
+The court held that on the facts no equitable mortgage was created.
+From the aforesaid narration of facts it would be obvious that the plaintiff lent the money immediately before the execution of the document indicating thereby that it was paid under that document.
+Farran, J., who delivered the judgment, relied upon the following passage from Seton on Decrees, p. 1131: "If deeds be delivered to enable a legal mortgage for securing an existing debt to be prepared, there is an equitable mortgage until the legal mortgage is completed; secus is to secure a fresh loan yet to be made." Then the learned Judge cited the following passage from the judgment in Keys vs Williams(1): "Certainly, if, before the money was advanced, the deeds had been deposited with a view to prepare a future mortgage, such a transaction could not be considered as an equitable mortgage by deposit; but it is otherwise where there is a present advance, and the deeds are deposited under a promise to forbear suing, although they may be deposited only for the purpose of preparing a mortgage deed.
+In such case the deeds are given in as part of the security, and become pledged from the very nature of the transaction.
+" These two passages also indicate that the fact that title deeds were deposited for the purpose of preparing a future mortgage is in itself not decisive of the question whether such a mortgage was effected or not.
+A Division Bench of The Bombay High Court in Behram Bashid Irani vs Sorabji Rusfomji Elavia(2) held that in that case there was no evidence, whatever of intention to connect the deposit of title deeds with the debt.
+The plaintiff therein deposited with the defendant in Bombay title deeds of his property situate at Nasik and borrowed a sum from the defendant.
+He also executed a document but that was held to be inadmissible for want of registration.
+There was no other (1) (1838) 51 R.V. Rep. 339.
+(2) Bom.
+372, 374.
+739 evidence to show under what circumstances the documents were deposited.
+Beaman, J., made the following observations: "The doctrine thus created, amounted at that time to very much what the law now is, as I have just expressed it, although the learned Chancellor, I think, lent strongly to the supposed legal presumption arising from the fact of indebtedness and the contemporaneous or subsequent deposit of title deeds.
+Then for the better part of a century, the Courts in England virtually adopted this presumption as a presumption of law and the need of proving intention almost disappeared.
+Latterly, however, the legal doctrine in England veered in the opposite direction and the Courts began to insist more and more strongly upon the proof of intention as a question of fact, and that has been embodied in our own statute law and that is the law we have to administer.
+" This decision only negatives the presumption of law, but does not exclude the presumption of fact of a mortgage arising under certain circumstances from the very deposit of titledeeds.
+An elaborate discussion of the subject is found in V.E.R.M.A.R. Chettyar Firm vs Ma Joo Teen(1).
+The main question decided in that case was, what did the terms "documents of title" and "title deeds" denote? The Court held that they denoted such a document or documents as show a prima facie or apparent title in the depositor to the property or to some interest therein.
+But what is relevant for the present purpose is that the learned Chief Justice, who spoke for the Court, after considering the leading judgments on the subject, observed: "If the form of the documents of title that have been delivered to the creditor is such that from the deposit of such documents alone the Court would be entitled to conclude that the documents were deposited with the intention of creating a security for the repayment of the debt, prima (1) Rang.
+239, 253.
+740 facie a mortgage by deposit of title deeds would be proved; although, of course, such an inference would not be irrebuttable, and would not be drawn if the weight of the evidence as a whole told against it.
+" The learned Chief Justice accepted the principle that if title deeds, as defined by him, were deposited and the money was lent, prima facie an inference of a mortgage could be drawn, though such an inference could be displaced by other evidence.
+It is not necessary to pursue the matter further.
+The foregoing discussion may be summarized thus: tinder the a mortagage by deposit of title deeds is one of the forms of mortgages whereunder there is a transfer of interest in specific immovable property for the purpose of securing payment of money advanced or to be advanced by way of loan.
+Therefore, such a mortgaae of property takes effect against a mortgage deed subsequently executed and registered in respect of the same property.
+The three requisites for such a mortality are, (1) debt, (ii) deposit of title deeds; and (iii) an intention that the deeds shall be security for the debt.
+Whether there is an intention that the deeds shall be security for the debt is a question of fact in each case.
+The said fact will have to be decided just like any other fact on presumptions and on oral, documentary or circumstantial evidence.
+There is no presumption of law that the mere deposit of title deeds constitutes a mortgage, for no such presumption has been laid down either in the Evidence Act or in the Transfer of property Act.
+But a court may presume under section 114 of the Evidence Act that under certain circumstances a loan and a deposit of titledeeds constitute a mortgage.
+But that is really an inference as to the existence of one fact from the existence of some other fact or facts.
+Nor the fact that at the time the titledeeds were deposited there was, an intention to execute a mortgage deed in itself negatives, or is inconsistent with.
+the intention to create a mortgage by deposit of title deeds to be in force till the mortgage deed was executed.
+The decision of English courts making a distinction between the debt preceding the deposit and that following it can at best to only a guide; but the said distinction itself cannot be con 741 sidered to be a rule of law for application under all circumstances.
+Physical delivery of documents by the debtor to the creditor is not the only mode of deposit.
+There may be a constructive deposit.
+A court will have to ascertain in each case whether in substance there is a delivery of title deeds by the debtor to the creditor.
+If the creditor was already in possession of the title deeds,it would be hypertension to insist upon the formality ofthe creditor delivering the title deeds to the debtor and thedebtor redelivering them to the creditor.
+What would be necessary in those circumstances is whether the parties agreed to treat the documents in the possession of the creditor or his agent as delivery to him for the purpose of the transaction.
+With this background we shall now proceed to consider the questions that arise for consideration on the facts of the present case.
+The first question is whether there was a mortgage by deposit of title deeds of the B Schedule properties on May 10, 1947.
+To put it in other words, whether on that date there was a loan and whether the first defendant delivered to the appellant the documents of title of B Schedule properties with the intent to create a security thereon.
+Learned Subordinate Judge and, on appeal, the High Court.
+held on the evidence that there was no such deposit of title deeds with the requisite intention on May 10, 1947.
+Learned counsel for the respondent pressed on us to follow the usual practice of this Court of not interfering with concurrent findings of fact.
+But the question whether on facts found a transaction is a mortgage by deposit of title deeds is a mixed question of fact and law.
+That apart, both the courts in coming to the conclusion which they did missed the importance of the impact of the terms of exhibit A 19 on the question raised.
+We, therefore, propose to consider the evidence on the said question afresh, along with exhibit A 19.
+In para 5 of the plaint, after giving the particulars of the promissory notes executed by the first defendant in favour of the plaintiff, it is stated: "On 10th May 1947, the first defendant deposited with the plaintiff at Madras other title deeds and 742 papers relating to his half share in items specified in 'B ' schedule hereunder with intent to create a security over the same in respect of advances made and to be made by the plaintiff.
+The first defendant has further executed a memorandum of agreement, dated 5th July 1947, in which the equitable martgage thus created and the amount borrowed by him till then were acknowledged and he has undertaken to repay the said sum of Rs. 16,500 with interest at 6 per cent.
+per annum and to obtain a return of the title deeds and documents deposited by him with the plaintiff.
+This memorandum of agreement has been duly registered and the same is herewith produced.
+The plaintiff prays that its contents may be read as part and parcel of this plaint.
+" There is, therefore, a clear averment in the plaint that an equitable mortgage was created on May 10, 1947, and that was acknowledged by the agreement dated July 5, 1947.
+The 1st defendant did not file any written statement denying the said allegations.
+The 3rd defendant, the only contesting defendant, filed a written statement wherein he put the plaintiff to strict proof of the fact that the sums claimed in the plaint were due to him from the 1st defendant and of the fact that the first defendant effected a mortgage in his favour by deposit of title deeds.
+Before we consider the oral evidence, we shall briefly notice the documentary evidence in the case.
+Exhibit A 1 dated January 25, dated February 13, dated March 2, dated April 7, dated April 13, dated May 10, 1947, and exhibit A 1 8 dated July 4, 1947 are the promissory notes executed by the 1st defendant in favour of the plaintiff.
+The total of the amounts covered by the said promissory notes is Rs. 16,500/ .
+It is not disputed that the promissory notes were genuine and that the said amounts were lent by the plaintiff to the 1st defendant on the dates the promissory notes bear.
+On January 26, 1947, i.e., a day after the first promissory note was executed, a list of tittle deeds of the properties belonging to the 1st defendant in 743 Tanjore was given to the plaintiff as collateral security and by way of equitable mortgage for the loan of Rs. 1,500 borrowed under exhibit A 1.
+On April 7, 1947, the 1st defen dant executed an unregistered agreement in favour of the plaintiff whereunder, as the plaintiff agreed to lend to the 1st defendant a sum of Rs. 15,000/ to discharge his earlier indebtedness and also his indebtedness to the Kumbakonam Bank and to enable him to do business, the 1st defendant agreed to execute a first mortgage of the Tanjore properties as well as of the properties mortgaged to 'the Kumbakonam Bank.
+He also undertook to bring all the title deeds from the Kumbakonam Bank and hand them over to the plaintiff for preparing the mortgage deed.
+This agreement shows that the 1st defendant was willing to execute a mortgage deed of his properties to the plaintiff and with that object undertook to bring the title deeds and hand them over to the plaintiff for preparing the mortgage deed.
+Pursuant to this agreement, the plaintiff on the same day advanced to the 1st defendant a sum of Rs. 3,000/ under a promissory note of the same date.
+On April 13, 1947, the plaintiff lent an other sum of Rs. 3,000/ under a promissory note to the 1st defendant.
+The 1st defendant did not bring the title deeds, but by a letter dated April 27, 1947, (exhibit B 2), he authorised the Managing Director of the Kumbakonam Bank to hand over the title deeds and the mortgage deed duly discharged to the plaintiff or his representative on his paying the amount due by him to the Bank.
+On May 5, 1947, the plaintiff wrote a letter, exhibit B 1, to the Kumbakonam Bank informing it that one section Narayana Ayyar of Madras would discharge the mortgage amount due to the Bank from the 1st defendant and authorizing the Bank to deliver to the said Narayana Ayyar the cancelled mortgage deed and the relative title deeds.
+The said Narayana Ayyar took the letter.
+exhibit B 1, to the Bank, paid the amount due to it from the 1st defendant and took the title deeds on behalf of the 1st defendant and sent them on to the plaintiff at Madras by registered post.
+On May 10, 1947, the 1st defendant executed another promissory note, exhibit A 17, for a sum of Rs. 7,100/ in favour of the plaintiff in regard to the amount paid by Narayana Ayyar to the Bank.
+On July 4, 1947, the 1st defendant executed another promissory note, exhibit A 18, in favour of the plaintiff for a sum of Rs. 400.
+The total 744 of the amounts advanced up to that date by the plaintiff to the 1st defendant was Rs. 16,500/ .
+exhibit A 19 dated July 5, 1947, is a registered memorandum of agreement executed between the plaintiff and the 1st defendant.
+Though it was executed on July 5, 1947, it was presented for registration on October 31, 1947 and was eventually registered on June 22, 1948.
+It is not disputed that the said agreement was executed on July 5, 1947.
+Under section 47 of the Registration Act the said document would have legal effect from date of execution i.e., July 5, 1947.
+Under that document the 1st defendant, after acknowledging that between January 25, 1947, and July 4, 1947, he had received from the plaintiff a sum of Rs. 16,500/ under various promissory notes executed in favour of the plaintiff, proceeded to state: "The borrower hereby acknowledges having deposited with the lender at Madras on 25th January 1947 the title deeds relating to the borrower 's undivided half share in items 17 to 2C mentioned in the B schedule hereunder and also having deposited with the lender on 10th May 1947 the title deeds and other papers relating to the borrower 's undivided half share in items 1 to 16 mentioned in B schedule hereunder with interest to create a security over the deposit of title deeds.
+" This acknowledgment is couched in clear and unambiguous terms.
+The 1st defendant acknowledges in express terms that a mortgage by deposit of title deeds was effected on May 10, 1947.
+If there was no oral evidence adduced in this the said documentary evidence prima facie would establish that the 1st defendant borrowed a sum of Rs. 16.500/ from time to time from the plaintiff and effected a mortgage by deposit of title deeds on May 10, 1947, as security for the repayment of the said amount.
+Exhibit A 19 contains a clear admission by the 1st defendant that he effected a mortgage by deposit of title deeds in favour of the plaintiff.
+As the mortgage deed in favour of the 3rd defendant was executed subsequent to exhibit A 19, he is bound by that admission, unless there is sufficient evidence on the record to explain away the said admission.
+The 1st defendant.
+who could explain the circumstances under which exhibit A 19 was executed was 745 not examined as a witness in this case.
+But it is said that the evidence of P.Ws 1, 2 and 3 displaces the evidentiary value of the recitals of the said document.
+P.W. 1 is the plaintiff.
+He says in his examination in chief: "On 10th May 1947 defendant I and Narayana Ayyar met my lawyer at Madras and I was sent for.
+Exhibit A 17 is the pro note executed for Rs. 7,100/ for the payment made to the bank.
+Defendant I then personally handed over the documents to me by way of deposit of titledeeds as security for the advance made and to be made.
+Defendant I did not execute any mortgage.
+In July 1947, defendant I asked for Rs. 400/ to buy stamps for the mortgage.
+1 paid Rs. 400/ under Exhibit A 18.
+On 5th July 1947 the memorandum, Exhibit A 19, was executed in my lawyer 's house.
+My lawyer attested the document as well as Narayana Ayyar.
+They saw defendant I sign the docu ment.
+" If this evidence is accepted, the plaintiff 's case will be established to the.
+But in the cross examination he deposed: "On 5th July 1947, the agreement about executing a simple mortgage was changed into one of equitable mortgage.
+Defendant I suggested it and I was advised to accept and I accepted.
+" Reliance is placed upon this statement to show that the idea of effecting an equitable mortgage dawned on the parties only on July 5, 1947, and.
+therefore.
+the case that sect a mortgage was effected on May 10, 1947 ', must be untrue.
+We do not see any inconsistency between the statement made by the plaintiff in the examination in chief and that made in the cross examination.
+What he stated in the cross exami nation is that though it was agreed earlier that a formal mortgage deed should be executed, on July 5, 1947, the parties, for one reason or other.
+were content to have a deed of equitable mortgage.
+It is too much to expect this witness to bear in mind the subtle distinction between the execution of an equitable mortgage on July 5.
+1947, and the acknowledgment of an emitable mortgage that had already been effected.
+In this statement he emphasized more on the 746 document than on the contents of the document.
+So under stood, this evidence does not run counter to the express recitals found in exhibit A 19.
+There is also nothing unusual that on the advice of the advocate the formalities of actual delivery were complied with in the presence of the advocate.
+But one need not scrutinize the version of this witness meticulously in that regard, if in law a constructive delivery would be as good as a physical delivery.
+We, therefore, do not see in the evidence of P.W. 1 anything to discountenance the admission made by the 1st defendant in exhibit A 19.
+P.W. 2.
+the advocate, also says in his evidence that he gave the title deeds to the 1st defendant and asked him to hand them over to P.W. 1 and to state that these and documents already deposited would be security for the loans advanced till that date.
+There would be nothing unequal if an advocate, who knew the technicalities of a mortgage by de posit of title deeds, advised his client to conform to the formalities.
+Even if the parties accepted constructive delivery, the evidence given by this witness is more an embellishment than a conscious effort to depart from the truth.
+As to what happened on July 4, 1947, this witness says that on that date the 1st defendant and Narayana Ayyar came to him and suggested that the memorandum may be registered instead of executing a simple mortgage as that would be cheaper.
+There is nothing usual in this conduct of the parties either.
+If there was a mortgage by deposit of title deeds at an earlier stage, even though there was at that time an agreement to execute a formal document later on, there would be nothing out of the way in the parties for their own reasons giving up the idea of executing a formal document and being satisfied with a memorandum acknowledging the earlier form of security.
+In the cross examination this witness stated that till July 4, 1947, the idea was only to make a simple mortgage over the half share covered by all the title deeds given to P.W. 1.
+This statement only means that till that date the parties had no idea of executing a document acknowledging the earlier mortgage by deposit of title deeds, for they wanted a formal document.
+This answer is in no way inconsistent with the statement of the advocate at the earlier stage that there was a mortgage by deposit of title deeds on May 10.
+So too, Narayana Ayyar.
+as P.W. 3, supports the evi 747 dence of P.Ws. 1 and 2.
+He too in his cross examination says that it was only on July 4, 1947, the idea of executing an equitable mortgage was suggested by the 1st defendant and that on May 10, 1947, he did not suggest to the 1st defendant to execute any document.
+Here again, his statement in the cross examination would not be inconsistent with that made by him in the examination in chief, if the former statement was understood to relate to exhibit A 19.
+This witness only meant to say that the idea of executing exhibit A 19 dawned on the parties only on July 4, 1947.
+The evidence of these three witnesses is consistent with the admission made by the first defendant in exhibit A 19.
+The evidentiary value of the recitals in exhibit A 19 is in no way displaced by the evidence of the said witnesses: indeed, it supports the recitals therein in toto.
+In the circumstances, we hold that on May 10, 1947, the 1st defendant deposited the title deeds with the plaintiff physically as security for the amounts advanced by the plaintiff to the 1st defendant up to that date.
+Even if the evidence of the witnesses as regards the handing over of the documents physically by the 1st defendant to the plaintiff was an embellishment of what took place on that date and that there was only constructive delivery, we think that such delivery satisfied the condition laid down by section 58(f) of the .
+Even so, it is contended by learned counsel for the res pondent that the delivery of the title deeds was to the appellant 's representative, Narayana Ayyar, at Kumbakonam and, therefore, the mortgage by deposit of title deeds, even if true, must be deemed to have been effected at Kumbakonam and that under the law such a mortgage could not be effected at Kumbakonam as it was not one of the places mentioned in section 58(f) of the .
+But Narayana Ayyar, as P.W. 3, stated in his evidence that he had authority to take the title deeds on behalf of the 1st defendant and that, after having taken delivery of them on his behalf, he sent them to the plaintiff at Madras by registered post.
+But whether Narayana Ayyar received the title deeds from the Bank as agent of the 1st defendant or as that of the plaintiff.
+it would not affect the question to be decided in the present case.
+We shall assume that Narayana Ayyar was the agent of the plaintiff.
+But mere delivery of title deeds without the. 748 intention to create a mortgage by deposit of title deeds would not constitute such a mortgage.
+On May 5, 1947, when the title deeds were received by the plaintiff through his agent, Narayana Ayyar, at Kumbakonam, they were received only for the purpose of preparing the mortgage deed.
+The plaintiff had the physical possession of the title deeds at Madras on May 10, 1947.
+On that date the possession of the titledeeds by the plaintiff was as agent of the 1st defendant.
+He was not holding the said documents in his own right on the basis of his title or interest therein.
+The agent 's possession was the possession of the 1st defendant, the principal.
+On May 10, 1947, the creditor and the debtor, i.e., the plaintiff and the 1st defendant, met in the house of P.W. 2 and the 1st defendant agreed to deposit the said title deeds already in the physical possession of the plaintiff as his agent in order to hold them thereafter as security for the moneys advanced.
+From May 10, 1947, the plaintiff ceased to hold the titledeeds as agent of the 1st defendant but held them only as a mortgagee.
+If the plaintiff physically handed over the title deeds to the 1st defendant and the 1st defendant immediately handed over the same to the plaintiff with intention to mortgage them, it is conceded that a valid mortgage was created.
+To insist upon such a formality is to ignore the ,substance for the form.
+When the principal tells the agent "from today you hold my title deeds as security", in substance there is a physical delivery.
+For convenience of reference such a delivery can be described as constructive delivery of title deeds.
+The law recognizes such a constructive delivery.
+We, therefore, hold that, even on the assumption that the form of physical.
+delivery had not been gone through though we hold that it was so effected on May 10, 1947there was constructive delivery of the title deeds coupled with the intention to create a mortgage by deposit of titledeeds.
+The last argument of learned counsel for the appellant is that even if there was no mortgage by deposit of titledeeds on May 10, 1947, under exhibit A 19 such a mortgage created at any rate from July 5, 1947.
+It is true that ,he ,document in express terms says that the documents of title were deposited on May 10, 1947, with intention to create a mortgage by deposit of title deeds.
+Assuming it was not so 749 done on that date.
+can ' such an intention be inferred from the document as on July 50 1947 ? Admittedly on July 5, 1947 '. the title deeds were in the possession of the plaintiff.
+If on that date the 1st defendant had expressed his intention 'that from that date he would consider the title deeds as security for the loans already advanced,, to him, 'all the necessary conditions of a mortgage by deposit of title deeds would be present, namely, (i) debt, (ii) constructive delivery, and (iii)) intention.
+The fact that% he had such an intention, from an.
+earlier date could not make any difference ' in law, as the intention expressed was a continuing one.
+On July 5, 1947, according to the 1st defendant, the mortgage by deposit of ' title deeds was in existence and, therefore, on that date the, said three necessary ingredients of a mortgage by deposit of title deeds were present.
+We, therefore, hold that even if there was no mortgage by deposit of title deeds on May 10, 1947, it was effected on July 5, 1947.
+If the mortgage by deposit of title deeds was effected on.
+May 10, 1947, or on July 5, 1947, the legal position wouldbe the same, as the mortgage deed in favour of the 3rd defen dant was executed only on October 10, 1947.
+Though exhibit A 19 was registered on June 22, 1948, under section 47 of the.
+Registration Act the agreement would take effect from July 5, 1947.
+It is not disputed that in the partition that was effected ' between the 1st defendant and his brother the properties.
+specified in 'C ' schedule were allotted to the share of the 1st defendant.
+If so, the plaintiff would be entitled to have a mortgage decree in respect of the said properties.
+In the result there will be a preliminary decree in favour of the plaintiff for the recovery of the sum of Rs. 20,434 15 0, with interest at 6 per cent.
+per annum thereon till the said amount is paid The period of redemption will be three,, months from today and in default the 'C ' schedule properties will be sold for the realization of the same.
+Liberty isreserved to the plaintiff to apply for personal decree against the 1st defendant in case there is any deficiency after the.
+hypothetic has been sold.
+The decree of the Subordinate Judge and of the High Court are set aside and there will be.
+a decree in the said terms.
+The 1st and 3rd defendants will pay the costs of the plaintiff throughout.

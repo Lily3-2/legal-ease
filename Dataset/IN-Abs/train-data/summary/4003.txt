@@ -1,0 +1,51 @@
+In Income Tax Officer, Kolar Circle and Anr.
+vs Seghu Buchiah Setty. , this Court held that the recovery proceedings initiated against the assessee respondent on the basis of the original demand notice were had as it was of the view that the amount of tax assessed when reduced as a result of the appellate orders a fresh demand notice had to be served on the respondent before he could be treated as a defaulter.
+To get over the difficulties in the collection of income tax and other direct taxes created by the decision in Seghu Chetty 's case, the was passed with retrospective effect by an express provision in section 5.
+The property belonging to two brothers, the certificate debtors in C.A. 1575(NT) 71 and C.A. 1965 (NT) of 1963 respectively were purchased by M/s Jurdine Henderson (Ltd.) on September 20, 1954, i.e. after service of notices under section 7 of the Bengal Public Demands Recovery Act, 1913.
+The objections raised by the certificate debtors were rejected and the property came to be sold.
+In both cases the Company received a notice on August 6, 1956 fixing a date for settling the terms of the sale proclamation in respect of the respective one half share of each of the two Certificate debtors.
+Immediately thereafter the respondent company made an application in each of the two cases that it had purchased the property being unaware of the pendency of any Certificate case against any of its vendors for realization of incometax dues and that the Company was the owner of the property and it was not liable to be sold as that of the Certificate debtor.
+The Certificate Officer rejected the objection holding that the purchase having been made after service of notice under section 7 of the Bengal Act on the Certificate debtor, was void as against any claim enforceable in execution of the Certificate and hence the Company had no right to object to the sale.
+The Company went up in appeal before the Commissioner and succeeded in both the cases.
+Two revisions were filed before the Board of Revenue which were allowed.
+The respondent company then moved the High Court under Article 227 of the Constitution.
+The petition giving rise to Civil Appeal No. 1575 was allowed.
+The other petition giving rise to C.A. 1965 of 1971 was dismissed by the same Bench.
+556 Two questions, namely (a) the locus standi of the purchaser Company to prefer a claim objecting to the sale of the property and (b) the effect of section 3(1)(a) and (b) of the Validation Act, 1964 read with Section 35(4) of the Income Tax Act, 1962 arose for decision in these appeals.
+Allowing C.A. 1575/71 and dismissing C.A. 1965/71 (both by certificates) the Court.
+^ HELD: 1.
+The Company as a purchaser of the property of the certificate debtors had locus standi to prefer the claim.
+The company preferred a claim objecting to the sale of property on the ground that it was not liable to be sold as it had purchased the property from the two certificate debtors.
+In the Bengal Public Demands Recovery Act, 1913, there is no express provision enabling a person other than the Certificate debtor claiming an interest in the property to be sold to file any objection.
+He, of course, under section 22 can take recourse to the said provision by filing an application to set aside the sale of immovable property on deposit of the amounts provided therein.
+But the rules in Schedule II under section 38 have the effect as if enacted in the body of the Act.
+In Schedule II is to be found rule 39 which is very much like rule 58 of Order 21 of the Code of Civil Procedure, 1908.
+[561 F G] (a) It was open to it to show under rule 40 that at the date of the service of notice under section 7 it had some interest in the property in dispute.
+If the notice served at the beginning of the two Certificate cases under section 7 on the two Certificate debtors was not a valid notice in the sense that in one case on the reduction of the amount of the Certificate it became necessary to give a fresh notice and in the other without a fresh demand notice under the Income tax Act for the enhanced amount, the Certificate case could not proceed, then the Company had validly purchased the property and its purchase was not void.
+The property purchased by it could not then be sold for realization of the income tax dues against the two brothers.
+If, however, no fresh notice was necessary to be served in either of the two cases then it is plain that the Company 's purchase was void as against the claim enforceable in execution of the Certificate.
+[561 H, 562 A C] (b) It is clear from sections 7, 8, 9 and 10 of the Bengal Public Demands Recovery Act, 1913, that if the Certificate is modified or varied by the certificate officer under Section 10, while disposing of the petition of objection filed by the Certificate debtor under section 9, then the Certificate case proceeds further without a fresh notice under section 7.[561 D E] In the instant case, the amount was not reduced on the objection of the Certificate debtor but it was reduced on receipt of the information from the Income Tax Officer.
+[561 E] 2.
+The transfer was void against the Certificate claims in both cases under section 8(a) of the Bengal Public Demands Recovery Act, 1913.
+In both the cases notices under section 7 of the Bengal Act had been served upon the Certificate debtor before the property in question was transferred by them to the company.
+In neither of the two cases did the certificate proceeding became invalid, in one case by reduction of the demand and in the other by an enhancement, since clause (c) of section 3(1) of the Validation Act clearly and expressly provides that no proceedings in relation to Government dues 557 shall be invalid merely because no fresh notice was served upon the assessee, after the dues were enhanced or reduced in any appeal or proceeding.
+[566 E F] Ram Swarup Gupta vs Behari Lal Baldeo Prasad and Ors., ; Distinguished.
+(a) On a plain reading of clause (a) of section 3 of the Validation Act, it is clear that the intention of the Legislature is not to allow the nullification of the proceedings which were initiated for recovery of the original demand.
+On the basis of another notice of demand for the enhanced amount two courses are open to the department (i) to initiate another proceedings for the recovery of the amount by which the dues are enhanced treating it as a separate demand or (2) to cancel the first proceedings and start a fresh one for the recovery of the entire amount including the enhanced one.
+In the latter case, the first proceedings started for the recovery of the original amount will lose its force and the fresh proceedings will have to proceed de novo.
+But in the former, the proceedings are not affected at all.
+[564 E G] 3.
+(b) The argument that the effect of sub section (4) of section 35 of the Income Tax Act has not been done away with by clause (a) of section 3 of the Validation Act, 1964 is not correct.
+Firstly on a correct interpretation of sub section (4) of section 35 it would be noticed that though the expression used is "the sum payable" but in the context it would mean only the "extra enhanced sum payable" and not the whole of the enhanced amount.
+The expression "sum payable" had to be used in sub section (4) because that sub section was also providing for a contingency where by the rectification order the amount of refund was reduced.
+In such a case the expression "the sum payable" would obviously mean the difference between the amount refunded and the reduced amount which was liable to be refunded.
+Secondly, even if it were to be held that in the case of enhancement the expression "the sum payable" in sub section (4) means the whole of the enhanced amount by a rule of harmonious construction it has got to be held that in view of section 3(1)(a) of the Validation Act even in the case of a rectification a notice of demand is to be served now only in respect of the amount by which the Government dues are enhanced.
+[565 B E] 4.
+Sub clause (i) of clause (b) of sub section (1) of section 3 of the Validation Act clearly provides that it is not necessary for the Taxing Authority to serve upon the assessee a fresh notice of demand.
+The only thing which he is required to do that he has to give intimation of the fact of such deduction to the assessee and to the Tax Recovery officer.
+The purpose of giving intimation to the assessee is to bring it to his pointed knowledge that the demand against him has been reduced, although by other methods also such as by service of a copy of the Appellate Order or the revisional order being served on him he may be made aware of that.
+The intimation to the Tax Recovery Officer is essential as without that intimation from the Taxing Authority he cannot reduce the amount of the Certificate debt in the proceedings already commenced.
+[565 E H] (a) The view of the High Court that the provision contained in subclause (ii) of clause (b) of section 3(1) of the Validation Act is mandatory and in absence of a formal intimation to the assessee and to the Tax Recovery Officer as required by the said provision the proceedings initially started could not be continued under sub clause (iii), is not sustainable in law.
+[565 H, 566 A] 558 (b) On the facts of the case in C.A. 1575(NT)/71, the requirement of sub clause (ii) stood fulfilled and nothing further had to be done in the matter by the Taxing Authority.
+That being so the proceedings initiated on the basis of the notice of demand served upon the assessee before the reduction of the amount in appeal could be continued in relation to the amount so reduced from the stage at which such proceedings stood immediately before such disposal as provided for in sub clause (iii).
+[566 C D]

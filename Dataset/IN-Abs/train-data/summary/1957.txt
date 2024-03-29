@@ -1,0 +1,19 @@
+On 17th March 1948, the assessee entered into an agreement to sell his factory to a company, and on the very same day possession of all the assets of the factory was handed over to the company.
+A few days later an entry was made in the company 's account showing that a sum of Rs. 2,00,000/ had been paid to the assessee and there were corresponding entries in the assessee 's accounts also.
+In fact only a lakh and odd was paid to the assessee and even that amount was paid only in March 1949.
+In November 1948 a sale deed was executed and registered and in March 1949 the Board of Directors of the Company ratified the sale.
+For the assessment year 1948 49, the assessee had included in his return the sum of Rs. 2 lakhs as capital gains.
+The Income tax Officer held that the assessee realised an excess of Rs. 79,494/ over and above the original cost, as capital gains assessable under section 12B of the Income tax Act.
+The Appellate Assistant Commissioner, and the Tribunal confirmed the order.
+In reference, the High Court held that it was immaterial as to when the money was actually paid because the transfer had already been made to the company by possession, that for the purpose of the section the assessee should have the right to receive the profits and not that he should have in fact received it, that entire property was transferred by giving possession to the company in the year of account, and that the income had arisen to the assessee in the year of account.
+In appeal to this Court, it was contended that as the sale took place only in March 1949, when the Directors ratified the agreement of sale, no sale or transfer took place before 1st April 1948, as required by section 12B, and hence the amount was not liable to tax.
+HELD: Title to the assets could not pass to the company till the conveyance was executed and registered and consequently no sale, in the instant case, took place of the assets before 1st April 1948 as required by section 12B. [574B] Commissioner of Income tax vs Bhurangya Coal Co. 34 I.T.R. 802, referred to.
+Before section 12B can be attracted, title must pass to the company by any of the modes mentioned in section 12B i.e., sales exchange or transfer It is true that the word 'transfer ' is used in addition to the word 'sale ' but even so, in the context, transfer must mean effective conveyance.
+of the capital asset to the transferee.
+Delivery of possession of immovable property cannot by itself be treated as equivalent to conveyance of the immovable property.
+[574E] The date of sale or transfer according to section 12B is the date when the sale or transfer takes place, and the entries in the account books are irrelevant for the purpose of determining such a date.
+[574F G] In the present case, machinery, electrical fittings, buildings and site were not sold or transferred in the relevant year of account; only 568 one asset, namely, furniture was transferred on 17th March 1948 as title to furniture can pass by delivery.
+Capital gains, if any, made by the transfer of furniture accrued on that date.
+The position of goodwill is however different.
+It is an intangible asset and it ordinarily passes along with the transference of the whole business and so it was not transferred before 1st April 1948.
+[575A E]

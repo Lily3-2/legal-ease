@@ -1,0 +1,49 @@
+The two assessees are individually assessed to wealth tax under the Wealth Tax Act, 1957.
+They had purchased one annuity policy each, and claimed exemption of the value thereof under 8. 5 (1) (vi) of the Act, alleging that the annuity policies fell within the expression "any policy of insurance" occurring in that provision.
+The Wealth Tax Officer rejected the claim and included the value of the annuity policies in the assessees ' net wealth on the ground that the exemption was allowable only to insurance policy whereas the policy taken out by the assessee was an annuity policy whereunder the assessee had made lumpsum payment and he would be getting periodical returns after the lapse of a number of years and as such annuity policy could not be considered as insurance policy.
+The Appellate Assistant Commissioner allowed the assessees ' appeals holding that the annuity policies were covered by the term "any policy of insurance" and, therefore, they were entitled to exemption under section 5 (1) (vi).
+This view was confirmed by the Appellate Tribunal in appeals and in Reference by the High Court.
+In the appeals by the Revenue to this Court it was contended: (1) that a contract for deferred annuity is quite 566 distinct from a "policy of insurance"; an annuity contract is operative from the date on which annuity vests and thereafter there is no element of insurance in the contract covering the risk of human life and, therefore, a contract for deferred annuity cannot be treated as a policy of insurance and the value thereof would not be exempted under section 5 (1) (vi) of the Act; (2) that the ambit or scope of the expression "any insurance policy" occurring in section 5 (1) (vi) should be confined to the usual life policies or endowment policies; (3) that the proviso to sub clause (vi) suggests that the legislature intended to confine the expression "any insurance policy" to the exclusion of annuities on life and that since non commutable annuities only have been excluded from the definition of 'assets ' given in section 2 (e), the legislature could not have intended to exempt annuities based on human life under section 5 (1) (vi) by bringing them within the expression "any policy of insurance" and (4) that it would be incongruous for the legislature to include commutable annuities on life within the expression assets under section 2 (e) on the one hand and at the same time to exempt such annuities from the charge including them within the expression "any policy of insurance" under section 5 (1) (vi).
+Dismissing the Appeals, ^ HELD: 1.
+Commutable annuities on life, like the ones in the instant case, would fall under 8.5(1)(vi) of the Wealth Tax Act 1957 and the value thereof would qualify for the exemption from the charge.
+[581 D] 2.
+The exemption contemplated by 6.5(1)(vi) covers interests of an assessee in all types of insurance policies and the expression" any policy of insurance" in that provision would fortiori attract within its ambit or scope a deferred annuity policy based on human life, it being a species of life insurance policies and, therefore, unless there is some warrant to cut down the ambit or scope of that expression, the right of interest of an assessee in such a policy would be exempt from the charge of wealth tax unless my moneys thereunder have become due and payable to the assessee on the valuation date.
+[577 E G] 3.
+The definition of "life insurance business" as given in s.2(11) of clearly includes by a teeming provision, the business of granting of annuities upon human life within the expression "life insurance business".
+[575 F] 4.
+A contract of insurance based on human life can be effected in two ways, (a) the insurer, in consideration of 567 payment of periodical premia, undertakes to pay the person for whose benefit the insurance is made a stipulated lumpsum upon the death of the person whose life is insured or the happening of any contingency dependent on human life (e.g. usual life policies or endowment policies) and (b) the insurer, in consideration of payment of a gross sum premium undertakes to pay the person for whose benefit the insurance is made annuity equivalent (either annual or monthly instalments) after a certain age on the happening of a contingency depending upon the duration of human life (e.g. deferred annuity policies).
+In either case it is insurance against the risk of penury and as such is a contract of insurance.
+[574 D F] In the instant case, each annuity policy stipulate that the monthly payments are guaranteed for a period of 35 years commencing from 22.1.1984 even if the death occurs before the expiry of the period but in case the annuitant lives beyond the period of 35 years the monthly payments shall continue to be made till he dies .
+Thus the annuity policies evidence a contract of insurance covering the risk of human life and as such would fall with in the expression "policy of insurance" occurring in s.5 (1) (vi) of the Act.
+[576 D f] C.I.T. vs General Family Pension Fund, (1952) 22 Com.
+Cas 89, approved.
+Chandulal Harjiwandas vs Commissioner of Income Tax, Gujrat, , Halsbury 's Laws of England, Fourth Edition, Vol.
+25, p. 13 and Bouvier 's Law Dictionary (Rawle 's Third Revision) Vol. 2, p. 1619, relied on.
+The object of the provision in section 5 is the encouragement of thrift which element is present in both types of life insurance.
+The provision should hence be interpreted as not to nullify that object.
+Moreover, section 5 deals with exemptions in respect of certain assets and one of such exempted assets under sub cl.
+(vi) in any policy of insurance before the monies covered by the policy become due and payable to the assessee".
+While granting this exemption the legislature has used the expression "any policy of insurance" which is of very wide import.
+The exemption is not confined to rights or interests in life insurance policies alone, but extends the rights or interests of an assessee in other types of insurance policies also, such as a marine or life insurance policy etc.
+[577 A C] 568 6.
+The proviso to sub cl.
+(vi) has the effect of cutting down the exemption contained in the sub clause to some extent.
+The main provision creates an exemption in respect of the assessee 's "right or interest in any policy of insurance" and the proviso seeks to cut down that exemption to a limited extent, namely, whenever there is a policy of insurance in respect whereof periodical premia are payable for a duration of less than 10 years then in such a case a proportionate Exemption specified therein will be available to the assessee irrespective of what type of policy it is; the proviso has no other effect.
+That such was the object or purpose of inserting the proviso will be clear if regard is had to the Notes on Clauses accompanying the Bill and the speech of the Finance Minister while introducing the Bill.
+There 18 therefore, no warrant to put a narrow construction on the expression "any policy of insurance" occurring in sub cl.
+(vi) of 8. 5 (1).
+[578 C; 579 A C; 579 E] 7.
+The definition of 'assets ' in 8. 2 (e) of the Act is in two parts; the first part defines assets as including property of every description moveable or immovable, while the second part excludes certain items of property from falling within the expression 'assets ' and one of the item coming within this esclusionary part 18: "(iv) a right to any annuity in any case where the terms and conditions relating thereto preclude the commutation of any portion thereof into a lumpsum grant".
+This excludes only non commutable annuities from 'assets '.
+Clause (lv) of 8 2 (e) does not exhaustively deal with all type of annuities.
+Two types of annuities are separately and specifically dealt with under 8. 5 (i) (vi a) and 5 (i) (vii).
+Section 2 (e) defines 'assets ' to include property of every description movable or immovable excluding certain items from the purview of the charge by excluding them from the definition of 'assets '; while 8. 5 (1) (vi) exempts certain assets from the tax by declaring that tax will not be payable on them.
+in order to be covered by the exemption under 8. 5 (1) (vi) a property must in the first instance be an asset under 8. 2 (e).
+The question of exempting commutable annuity policies of insurance arises only because they fall within the definition of 'assets '.
+It is, therefore, fallacious to contend that because commutable annuity policies fall within 'assets ' they should not be exempted under 8. 5 (1) (vi).
+[579 ; 580 A H] 8.
+A reading of 8. 2 (e) together with 8. 5 (1) (vi a) and 5 (1) (vil) negates the view that legislative intention was to deal exhaustively with annuities under section 2 (e) (iv).
+A commutable 569 life annuity received from an employer would undoubtedly be exempt from the charge of wealth tax under 8 5 (1) (vil) If 8. 2 (e) 16 construed as confining, by implication, the exemption from wealth tax to non commutable annuities alone, then there would be an obvious conflict between 8. 5 (1) (vii) and 8. 2 (e).
+Therefore, a harmonious reading of 8. 2 (e) (iv) with 8. 5 (1) (vi) and 8. 5 (1) (vii) would be that while non c .
+mutable p annuities are wholly outside the purview of the wealth tax, non commutable annuities are exempt under 8. 5 (1) (vi) and 5 (1)(vii) to the limited extent mentioned in each.
+[581 A C]

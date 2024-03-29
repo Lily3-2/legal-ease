@@ -1,0 +1,567 @@
+Civil Appeal No. 76 of 1952.
+Appeal from the judgment and order dated September 22, 1959 of the Calcutta High Court in Appeal from original order No. 230/1958.
+A.N. Sinha and P.K. Mukherjee, for the appellant.
+D.N. Mukherjee, for the respondent.
+The following judgments were delivered: Sarkar, J.
+On May 1, 1947, a decree was passed in favour of the appellant bank against the respondents by consent of parties for payment of Rs. 31,000/ in the manner specified.
+The decree provided that if the respondents failed to pay any of the instalments mentioned in it within four months of the date of its becoming due, the appellant bank "shall deem all . instalments in default and shall be entitled to realise all the said amounts by execution".
+The amounts payable under the decree by May 30, 1947 were all duly paid.
+That left a sum of Rs. 21,000/ payable by six annual instalments, each payable on the 30th December of a year, the first instalment being payable in 1947 and the last in 1952.
+None of these instalments was paid and an application for realising them by execution was made on August 26, 1957.
+In the meantime a petition for winding up the appellant bank had been presented on May 11, 1948 and an order for winding up had been made on August 3, 1948.
+Since then the appellant bank has been in the course of winding up.
+The application for execution was made by the liquidator in the course of the winding up.
+Under article 182(7) of the First Schedule to the Limitation Act 1908 an application for execution is barred if not made within three years from the date on which the amount sought to be realised was payable under the decree.
+On December 30, 1953, section 45 O was introduced in the Banking Companies Act, 1949 by the Banking Companies (Amendment) Act, 1953.
+Sub section (1) of that section is in these terms: section 45 0.
+(1) Notwithstanding anything to the contrary contained in the Indian Limitation Act, 1908 or in any other law for the time being in force, in computing the period of limitation prescribed for a suit or application by a banking company which is being wound up, the period commencing from the date of the presentation of the petition for the winding up of the banking company shall be excluded.
+The appellant bank claims that this section saves its application for execution from the bar of limitation imposed by article 182(7).
+The respondents ' answer to this contention is first that section 45 O has no retrospective operation; it does not revive a debt which was already barred at the date of its enactment.
+Then they say that 713 all the instalments fell due on April 29, 1948 by the operation of the default clause and therefore, they were all barred under article 182(7) by December 30, 1953 when section 45 O was brought on the statute book.
+Thirdly they say that if it is held that the default clause gave the appellant bank an option which it had not exercised and the right to apply for execution in respect of the instalments arose on the dates they respectively fell due, the instalments which fell due on December 30 of the years 1947, 1948 and 1949 had become barred before the date of the enactment of section 45 0 and that section could not revive them and the instalments which fell due in the years 1948, 1949, 1950, 1951 and 1952 were not saved from the bar of limitation by section 45 0 as it provided for exclusion of a period commencing from the presentation of the petition for winding and was, therefore, confined to cases where the right had arisen before such presentation, which the right in regard to these instalments had not.
+First, as to the effect of the default clause, no real difficulty arises.
+It obviously gave an option to the appellant.
+As was said in Ram Culpo Bhattacharji vs Ram Chunder Shome(1), "The proviso by which the whole amount of the decree becomes due upon default in payment of any one instalment is a proviso which, look at it how you will, is put in for the benefit of the creditor, the decree holder, and his benefit alone; and when a proviso is put into a contract or security, and in 'security ' I include 'decree, ' for the benefit of one individual party, he can waive it, if he thinks fit.
+" There is not the least doubt that the default clause in the case in hand was intended for the benefit of the appellant bank; the clause had no operation till the appellant bank wanted to take advantage of it.
+The High Court took that view and with that I am in full agreement.
+The High Court further held that the appellant bank had not exercised the option to enforce that clause.
+Bachawat J. expressly said that the appellant "in fact has waived the benefit of that option." The learned Chief Justice held in view of the option, that "the starting point of limitation will be the dates On which each instalment became due.
+" He could have held this only in the view that the option had not been exercised.
+None of the parties appears to have contended to the contrary in the High Court.
+This being a question of fact it cannot be raised for the first time in this Court.
+On such a question of fact, the High Court 's finding is binding on us.
+Furthermore, undoubtedly if the respondents wished to contend that the option had been exercised, it was for them to have given evidence of such exercise but they did not do so.
+No such evidence has been brought to our notice from the records of the case.
+It has, therefore, to be held that the right to apply for execution in respect of the instalments under the decree arose on the dates on which they respectively fell due.
+The next question as to whether section 45 0 (1) has a retrospective operation is of real difficulty.
+Having.
+given the matter my (1) C.I 352, 354.
+714 most anxious consideration, it seems to me that the better view would be to hold that it has such an operation.
+The general rule no doubt is, as was stated by Wright J. in In re. Athlumney,(1) "Perhaps no rule of construction is more firmly established than this that a retrospective operation is not to be given to a statute so as to impair an existing right or obligation, otherwise than as regards matter of procedure, unless that effect cannot be avoided without doing violence to the language of the enactment.
+If the enactment is expressed in language which is fairly capable of either interpretation, it ought to be construed as prospective only.
+" It can no doubt be argued with force that no violence will be done to the language used in sub section
+(1) of section 45 O if it is read as applying only to cases where the right to apply has not become barred at the date of its enactments.
+But there are other considerations.
+Two reasons have operated on my mind to lead me to the conclusion that the general rule should not be applied in the present case.
+First, it is recognised that the general rule is not invariable and that it is a sound principle in considering whether the intention was that the general rule should not be applied, to "look to the general scope and purview of the statute, and at the remedy sought to be applied, and consider what was the former state of the law and what it was that the Legislature contemplated.": see Pardo vs Bingharn(2).
+Again in Cries on Statute Law, 6th ed., it is stated at p. 395, "If a statute is passed for the purpose of protecting the public against some evil or abuse, it may be allowed to operate retrospectively, although by such operation it will deprive some person or persons of a vested right.
+" To the same effect is the observation in Halsbury 's Laws of England, 3rd ed., vol.
+36 p. 425.
+This seems to me to be plain commonsense.
+In ascertaining the intention of the legislature it is certainly relevant to enquire what the Act aimed to achieve.
+In Pardo vs Bingham(2) a statute which took away the benefit of a longer period of limitation for a suit provided by an earlier Act was held to have retrospective operation as otherwise it would not have any operation for fifty years or more in the case of persons who were at the time of its passing residing beyond the seas.
+It was thought that such an extraordinary result could not have been intended.
+In R.v.
+Vine(3) the words "Every person convicted of felony shall for ever be disqualified from selling spirits by retail . and if any person shall, after having been so convicted, take out or have any licence to sell spirits by retail, the same shall be void to all intents and purposes" were applied to a person who had been convicted of felony before the Act was passed though by doing so vested rights were affected.
+Melior J. observed (pp. 200 201).
+"It appears to me to be the general object of this statute that there should be restraints as to the persons who should be (1) , 551 552.
+(2) , 740.
+(3) 715 qualified to hold licences, not as a punishment, but for the public good, upon the ground of character .
+A man convicted before the Act passed is quite as much tainted as a man convicted after; and it appears to me not only the possible but the natural interpretation of the section that any one convicted of felony shall be ipso facto disqualified, and the licences, if granted, void.
+" Now the object of the present Act is beyond doubt.
+It is well known that prior to 1949 in our country a large number of mushroom banks had come into existence and were in the control of persons not very scrupulous or competent.
+Many banks came to grief and failed with the result that the depositors largely lost their moneys.
+It was with the object of giving relief to these innocent depositors that the original Act of 1949 and the Acts amending it were passed.
+A few of the sections may be referred to by way of illustration.
+Section 43 of the Act provides that every depositor shall be deemed to have proved his claim for the amount shown in the books of the bank until the liquidator showed reasons for doubting the correctness of the entry.
+Section 43A gives a right to preferential payment upto a sum of Rs. 250/ to such depositors.
+Indeed in Joseph Kuruvilla Vellukunnel vs The Reserve Bank of India) it was observed by this Court at p. 656, "the whole intend (sic.) and purpose of that Act is to secure the interests of the depositors.
+" There need now be no doubt about the object of the Act.
+One of the methods by which that object can be achieved clearly is by extending the period of limitation for the enforcement of the claims of a bank in liquidation so that more money may be collected for payment to the depositors.
+That is why section 45 O and its predecessor section 45 F had been enacted.
+Both extended the existing period of limitation in regard to claims by a bank against its debtors.
+That being so, it would be natural to think that the largest extension which the language used is capable of giving was intended.
+Then I find no reason why a distinction should have been intended between debtors the claims against whom might have become barred before the section was enacted and those the claims against whom became barred thereafter.
+The object would be better achieved by applying the section to both classes.
+I, therefore, think that the Act was intended to have a retrospective operation.
+The other reason why I think that sub section
+(1) of section 45 0 has a retrospective operation is provided by the terms of sub section
+(3) of that section.
+Retrospective operation is of course a question of the intention of the legislature and that intention has to be gathered from the whole statute.
+The two sub sections have, therefore, to be considered together: see Barber vs Pigden(1) and Hutchinson vs Jauncey (3).
+How sub section
+(3) is in these terms: The provisions of this section, in, so far as they relate to banking companies being wound up, shall also apply to a banking company in respect of which a petition (1) [1962] Suppl.
+3 section C.R. 622.
+(2) (1937)IK.B. 664.
+(3) (1950)IK.B. 574.
+(D)5SCI 7 716 for the winding up has been presented before the commencement of the Banking Companies (Amendment) Act, 1953.
+It expressly makes sub section
+(1) applicable to a banking company being wound up on a petition presented before the amending Act.
+That would indicate that the first sub section was intended to apply to suits and applications by a banking company in liquidation even where the winding up petition had been filed before the amending Act.
+It should, therefore, apply to all such suits or applications even when they had become barred before the amending Act.
+Again it is indubitable that as a result of the third subsection a period which had started to run before the amending Act is to be excluded under the first sub section.
+The third subsection gives no hint that such exclusion is to be confined to cases where the right had not become barred before that Act.
+1t expressly gives the first sub section a retrospective operation by permitting exclusion of an antecedent period.
+All this is strong indication that sub section (1) is to have a retrospective operation.
+If that is not the intention, then it is clear to me that sub section
+(3) need not have been enacted at all for clearly the first sub .section would by its own terms have applied to cases of winding up on a petition presented before the amending Act.
+It applies to all banking companies being wound up and.
+therefore, also to such companies as are being wound up on a petition presented before that Act.
+It could be said that even then the first sub section not have a retrospective operation but would only apply prospectively to a banking company being wound up on a petition presented before the Act.
+This may be illustrated by two cases.
+In R.v.
+St. Mary, Whitechapel (Inhabitants)(1) Lord Denman C.J. said that a statute "is not properly called a retrospective statute because a part of the requisites for its action is drawn from time antecedent to its passing." Again in Master Ladies Tailors Organisation vs Minister of Labour and National Service(2) it was observed, "The fact that a prospective benefit is in certain cases to be measured by or depends on antecedent facts does not necessarily . make the provision retrospective.
+" Why then was sub section
+(3) enacted? It must have been to give sub section
+(1) full retrospective operation, to make it affect vested rights.
+If it were not so, sub section
+(3) would have been a mere surplusage or enacted ex abundanti cautela.
+A statute is not to be so read unless that reading is compelled by the words used.
+There are no such words and I do not think that reading is justified by the rule of presumption that a. statute is not intended to have a retrospective operation.
+In this case particularly because of the clear intention of the Act to protect a sizable section of the public consisting of the depositors, I feel that a reading of sub section
+(1) ; at.
+p. 127.
+(2) (1950) 2 All.
+F.R. 525, 527. 717 (3) as a surplusage or ex abundanti cautela would be unwarranted.
+Furthermore, if that sub Section was enacted merely ex abundanti cautela, then why did it not also say that the provisions of section 45 O would apply to a case where the winding up order had been made before the Act? Why was it not thought that caution was necessary to provide for such a case also? I am not saying that sub section
+(3) does not make the section apply to a case where the winding up order had been made before the amending Act.
+All that I am saying is that the omission of a reference to the case of a winding up under such an order shows that sub section
+(3) was not ex abundanti cautela.
+It must have been intended to give full retrospective effect to section 45 0 including sub section
+(1) of that section.
+It remains now to deal with the last point.
+It is said that ' since sub section
+(1) allows the period commencing from the date of the presentation of the petition for winding up to be excluded in the computation of the period of limitation, it can only apply to a case where the period of limitation had commenced to run before that date.
+The contention is, unless it did so, the whole of the period cannot be excluded and the section permits exclusion of the whole or none.
+It is, therefore, said that even if the first subsection had a retrospective operation, it could result in saving the bar of limitation only so far as the application concerned the instalment which fell due on December 30, 1947 for the petition for the winding up of the appellant bank had been presented on May 11, 1948 and, hence, before the other instalments became due and the period of limitation in respect of them commenced to run.
+I am not inclined to accept this contention.
+I see no reason why it should have been intended that debts which fell due before the winding up petition was presented but were not barred on that date could be recovered and not those which became due thereafter.
+It has to be remembered that a liquidator is not always appointed on the presentation of the petition for winding up and It does not infrequently happen that a long time elapses between the two.
+It has also to be remembered that liquidator would require quite some time after his appointment to get acquainted with the state of affairs of the company in liquidation and start taking steps for the recovery of its dues.
+Therefore, there is no reason to think that it was not intended to give the benefit of the Act to a debt accruing due to a banking company after the presentation of a petition for its winding up.
+No doubt if sub section
+(1) is applied to a case of a debt accruing due after the presentation of the petition for winding up, such a debt would be completely free from the bar of limitation.
+But, is there any reason to think that this was not intended? I find none apart from a rigid and somewhat technical reading of the words used and this I am unable to accept, as it, to my mind, manifestly defeats the object of the Act.
+I here wish to point out that the bar of limitation is completely lifted in the case of a debt accruing due before the presentation of the petition for winding up which had not become time barred 718 then, and it is natural to think that the intention must also have been to lift the bar completely in the case of debts accruing due subsequently.
+There is no reason to make a distinction between the two classes of debts.
+I may add that the complete lifting of the ban of limitation would not produce an astounding result or a great hardship.
+It has to be remembered that the Act is geared up to seeing that the winding up proceedings are concluded as quickly as possible.
+To ensure that, large powers have been given to the Reserve Bank of India.
+Therefore, the removal of the bar of limitation should not keep a debtor in suspense for an inordinately long time.
+It is true that the sub section does not expressly say that the bar of limitation is totally removed in certain cases.
+That however is no reason for saying that it has not that effect.
+It clearly has that effect in the case of debts which accrued due prior to the presentation of the winding up petition and had not become barred on that date, even though the sub section does not expressly say so.
+The absence of these words, therefore, is not a reason leading to the view that debts which became due after the presentation of the petition for winding up were not intended to be protected.
+In my view, the first sub section should be read as permitting the exclusion of the entire period commencing from the date of the presentation of the petition for winding up where the debts became due before that date and in cases where the debt became due subsequently, such part of that period as commences from the date of the accrual of the debt.
+I think such a reading has the support of authority.
+In Cortis vs The Kent Water works Company(1) it was held that a statute which enabled a rate to be made upon certain persons and permitted a person against whom the rate had been made to file an appeal against the order making it on his entering into a recognizance, allowed a corporation which could not enter into a recognizance, to prefer the appeal without doing so.
+It was said that any other reading of the Act would defeat the object of the statute which was to subject corporations to rates.
+Bailey J. observed, "But assuming that they cannot enter into a recognizance, yet if they are persons capable of being aggrieved by and appealing against a rate, I should say that part of the clause which gives the appeal applies to all persons capable of appealing, and that the other part of the clause which requires a recognizance to be entered into applies only to those persons who are capable of entering into a recognizance, but is inapplicable to those who are not." (p. 331).
+On the same principle I would hold that the section permitted the whole of the period commencing from the presentation of the petition for winding up to be excluded where it could in fact be so done and a part of that period only where the whole of it could not be excluded.
+Any other reading would, to my mind, defeat the object of the Act and should, therefore, be avoided.
+(1).7 B.& C. 314.
+719 In the result 1 would allow the appeal, set aside the judgment of the appellate bench of the High Court, and hold that the decree was fully executable.
+The appellant will be entitled to take all steps for such execution as arc permitted to it in law.
+The appellant will get the costs here and below.
+Wanchoo, J.
+This appeal on a certificate granted by the Calcutta High Court raises a question as to the interpretation of section 45 0 of the Banking Companies Act, No. X of 1949, (hereinafter referred to as the Act).
+The section was enacted in the present form by the Banking Companies (Amendment) Act, No. LII of 1953.
+It is necessary to state certain facts which are not in dispute now in order to see how the question arises.
+The appellant bank (in liquidation) through its Midnapore branch got a compromise decree against the respondent on May 1, 1947, for the sum of Rs. 31,000/ of which Rs. 2,155 were paid by the respondent that very day.
+The decree provided that Rs. 6,885/ were to be paid by May 9, 1947 and the balance of Rs. 22,000/ in seven instalments as under: 1.
+Rs. 1,000/ on May 30, 1947.
+Rs. 2,000/ on December 30, 1947.
+Rs. 4,000/ on December 30, 1948.
+Rs. 4,000/ on December 30, 1949.
+Rs. 4,000/ on December 30, 1950.
+Rs. 4,000/ on December 30, 1951.
+Rs. 3,000/ on December 30, 1952.
+The sum of Rs. 6,885/ and the first instalment of Rs. 1,000/were duly paid, but the respondent did not pay the second instalment due on December 30, 1947, nor did he pay the subsequent instalments.
+On May 11, 1948, a winding up petition was presented in consequence of which the appellant bank was wound up by an order dated August 3, 1948.
+Paragraph 5 of the compromise, which was part of the decree provided that if the judgment debtor did not pay any instalment and committed default, then four months after such default, all the instalments shall be deemed to be in default and the decree holder would be entitled to recover the entire amount of the decree by execution proceedings.
+It appears that the appellant attempted by applications presented in 1948 and 1950 to execute decree.
+It is, however, unnecessary to set out the details of those proceedings at this stage.
+Suffice it to say that nothing was realised in those proceedings and that the proceedings started on the application presented in 1950 were subsequently transferred to the High Court in view of the relevant provisions of the Act, which had come into force meanwhile.
+On August 24, 1957, the appellant presented an application in tabular form for execution of the decree on the ordinary original 720 civil side of the Calcutta High Court, and the present appeal has arisen out of the proceedings following thereon.
+It was stated in the application that the respondent had failed to pay the amount of the decree under execution and that the appellant had been wound up by an order of the court dated August 3, 1948 on a petition for winding up presented to it on May 11, 1948.
+It was prayed therefore that the High Court liquidator who was the official receiver of the appellant be appointed receiver without security and without remuneration to collect and realise amounts payable to the respondent by the Executive Engineer, Works and Buildings Department, Midnapore Division up to a maximum limit of Rs. 35,000/ .
+A prayer was also made for the appointment of an interim receiver and an interim order for appointment of such receiver was made on August 26, 1957, which order was confirmed on June 2, 1958.
+The respondent thereupon appealed and the main question that was raised then on its behalf was that the execution of the decree was barred by limitation.
+The appellant the other hand contended that in view of the provisions contained in section 45 0 of the Act, the application was within time.
+The appeal court held on an interpretation of section 45 O that the execution was barred by limitation.
+It is against this order that the present appeal has been flied on a certificate granted by the High Court.
+The contention of the respondent was that the execution application flied in 1957 was a fresh application and was clearly barred by time.
+The appellant met this objection on the basis of the provisions of section 45 O of the Act which reads as under: "(1) Notwithstanding anything to the contrary contained in the Indian Limitation Act, 1908 or in any other law for the time being in force, in computing the period of limitation prescribed for a suit or application by a banking company, which is being wound up, the period commencing from the date of presentation of the petition for the winding up of the banking company shall be excluded.
+(2) . . (3) The provisions of this section, insofar as they relate to banking companies being wound up, shall also apply to a banking company in respect of which a petition for the winding up has been presented before the commencement of the Banking Companies (Amendment) Act, 1953.
+" I have already mentioned that the application for winding up the appellant was presented on May 11, 1948.
+The winding up order was made by the High Court on August 3, 1948.
+The Act came into force on March 16, 1949.
+On March 18, 1950, the Banking Companies (Amendment) Act, No. XX of 1950 721 came into force.
+On October 24, 1953 the Banking Companies (Amendment) Ordinance No. IV of 1953 was promulgated and lastly on December 30, 1953, the Banking Companies (Amendment) Act.
+No. LII of 1953 came into force.
+The case of the appellant throughout has been that the period from May 11, 1948 (when the winding up petition was made) to August 26, 1957 (when the execution application was made) had to be excluded in computing the period of limitation in view of sub sections
+(1) and (3) of section 45 O of the Act.
+This contention was rejected by the High Court.
+It was held that section 45 O did not have retrospective effect in the sense of reviving rights which had become barred on the date it came into force and in this view an application for execution of the entire amount was barred by time counting from the first default.
+In the alternative it was held that instalments 2, 3 and 4 had become time barred before the coming into force of section 45 O on December 30, 1953 and as there was nothing in section 45 O which could revive claims which had become time barred no execution could be taken out in respect of them.
+The High Court further held that section 45 O could not apply to instalments 5, 6 and 7 as the cause of action to execute the decree for realisation of amounts due under those instalments arose subsequent to the date on which the petition for winding up was presented and the language of sub section
+(1) of section 45 O indicated that its provisions were to apply only to cases where the period for the presentation of an application had commenced to run prior to presentation of the winding up application.
+The High Court consequently held the application for execution to be barred by time.
+It is well settled that provisions of an enactment operate prospectively.
+and that the right to sue or apply, which has become barred by lapse of time under the previous law, does not revive unless the new law, expressly or by necessary implication, so provides.
+The High Court held that there was nothing in section 45 0 which could lead to the conclusion that its provisions had retrospective effect in the sense that the right to apply which had become time barred on December 30, 1953 when the Amendment Act came into force, could revive, and consequently enable the appellant to apply for execution.
+The principal question therefore is whether the language of section 45 O (1) read with section 45 O (3) is retrospective in operation and revives claims that might have become barred by Limitation on the date when that section came into force i.e. December 30, 1953.
+Now so far as sub section
+(3) is concerned, that provision is certainly retrospective in the sense that it applies the provisions of section 45 O (1) to all banking companies which were being wound up on December 30, 1953, and thereafter, even though the application for winding up might have been made before December 30, 1953.
+The main purpose of sub section
+(3) obviously is to make it clear that section 45 O (D applies not only to those cases of banking companies where application for winding up is made on or after December 30, 1953 but also to those where the application for winding up had 722 been made before December 30, 1953 so long as the conditions for the application of section 45 0 (1) are fulfilled.
+The effect of this on the construction of sub section
+(1) will be considered presently.
+Section 45 O (1) begins with a non obstante clause and prescribes a special manner of computing the period of limitation in cases governed thereby notwithstanding anything to the contrary in the Indian Limitation Act, 1908.
+The first condition that is necessary for the application of section 45 O O) is that the suit or application should be by a banking company which is being wound up.
+Thus section 45 O (1) will not apply to a banking company which is not being wound up or where the winding up is over.
+It thus applies to a banking company between the date of the winding up petition and the conclusion of the winding up proceedings after a winding up order has been made.
+Where a suit or application is made by a banking company which is being wound up, the sub section provides for exclusion of a certain period in computing the period of limitation prescribed in the Indian Limitation Act, 1908.
+The exclusion is of the time commencing from the date of presentation of the petition for the winding up of a banking company to the date of suit or application.
+Thus where a banking company which is being wound up files a suit or makes an application on or after December 30, 1953, when section 45 O (1) came into force, the subsection directs that in such circumstances the period of limitation shall be calculated by excluding the period commencing from the date of presentation of the petition for winding up upto the date of the filing of the suit or application.
+These words in my opinion are categorical and lay down what period shall be excluded when a suit or application is filed by a banking company.
+which is being wound up.
+I cannot agree with the High Court that in applying section 45 O (1) the court has to consider whether the relief claimed in the suit or application by a banking company which is being wound up had become barred by limitation before December 30, 1953.
+when section 45 0 came into force.
+The condition necessary for the application of section 45 O (1) is that the suit or application should be filed by a banking company which is being wound up.
+Once it is clear that the suit or application is filed by a banking company which is being wound up, the court must exclude the period of limitation from the date of presentation of the petition for winding upto the date of the filing of the suit or application.
+In what manner the exclusion can be made will be considered later.
+But these words leave no scope to the court to consider whether the suit or application, if filed before December 30, 1953, would be barred by limitation or not.
+They imperatively lay down that where an application or suit is flied by a banking company (which is being wound up) on or after December 30, 1953, when section 45 O (1) came into force, the court must exclude the period commencing from the date of presentation of the petition for winding up to the date of the suit or application in computing the period of limitation.
+Further by virture of sub section
+(3), sub section
+(1) applies not only 723 to those banking companies which were being wound up on applications presented on or after section 45 O (1) came into force, but also to those banking companies where the application for winding up was made before December 30, 1953, provided the banking company was in the process of being wound up when the suit or application was filed.
+The Act was passed for the benefit of depositors and to give time to liquidators to familiarise themselves with the affairs of banks.
+That is why sub section
+(3) applied sub section
+(1) to all banking companies in liquidation even though the petition for winding up might have been made before the Act came into force.
+It follows that the legislature intended to help depositors in all banks in which liquidation proceedings were not over.
+Sub section (3) would lose a large part of its efficacy if sub section
+(1) and sub section
+(3) read together are not interpreted to provide for retrospective operation of the provisions of sub section
+It will be giving full effect to the intention of the legislature and advancing the remedy intended to be given to depositors if sub section
+(1) and sub section
+(3) are read together to be retrospective in the manner indicated above.
+The language of sub section
+(D on its plain reading necessarily implies that it was meant to be retrospective and that conclusion becomes inevitable when it is read with sub section
+(3) in the background of the remedy that the legislature intended to provide for the benefit of depositors.
+It may be mentioned that the Banking Companies (Amendment) Act, No. XX of 1950, had also provided a special period of limitation by section 45 F which was in these terms: "45 F. Special period of limitation Notwithstanding anything to the contrary contained in the Indian Limitation Act, 1908 (IX of 1908) or in any other law for the time being in force, in computing the period of limitation prescribed for any suit or application by a banking company, the period of one year immediately preceding the date of the order for the winding up of the banking company shall be excluded.
+" That provision however only excluded one year immediately preceding the date of the order for the winding up of the banking company.
+It seems thereafter the Banking Companies Liquidation Proceedings Committee 1952 was appointed and had recommended that "provisions may be made by the legislature to the effect that limitation will stop running against a banking company from the date of the winding up order." This recommendation appears to be the basis of section 45 0.
+Even so the words of section 45 O have to be interpreted as they stand whatever may have been the recommendation of the committee and on a plain construction of those words it is quite clear that sub section
+(1) of section 45 0 provides in the case of a suit or application filed by a banking company which is being wound up that the period commencing from the date of presentation of the petition for winding up of the banking company 724 to the date of suit or application shall be excluded.
+It will however be seen that though the committee recommended that limitation should stop running against a banking company from the date of the winding up order, the legislature made two changes when it proceeded to enact section 45 O (1) of the Act.
+In the first place it did not provide for stopping of the running of limitation; it provided for exclusion of a certain period.
+It further provided for exclusion of the period commencing from the presentation of a winding up petition and not from the winding up order as recommended by the committee.
+Now exclusion has been provided in sections 12 to 16 of the Limitation Act also.
+It is well settled that exclusion of time cannot take place where time has not begun to run before the date from which the exclusion begins or the time limited has already expired before such date.
+There can thus be no question of exclusion where the time has not begun to run and is not continuing to run.
+Therefore, though the committee might have recommended that limitation should stop running from the date of the winding up order, the legislature adopted the well known device of exclusion in order to help banking companies in realising their dues.
+I may add that in the earlier provision in Act XX of 1950 also.
+the legislature had only provided for exclusion and the same device was continued when section 45 O (1) was introduced by the Amendment Act of 1953.
+It is therefore clear that when the legislature enacted section 45 O (1) it made two changes already indicated in the recommendation of the committee and those changes are clear from the words of section 45 O.
+Therefore, in order that section 45 O (1) should apply, it is necessary firstly that the banking company should be in the process of being wound up when the suit or application is being filed, and secondly that the period of limitation for the suit or application should have begun to run before the date of the winding up petition but should not have run out before such date.
+Otherwise there can be no question of excluding the period beginning from the date of presentation of the petition for winding Up of the banking company.
+Further in view of sub section
+(3) of section 45 O, sub section
+(1) thereof will apply to all banking companies which are in the process of being wound up, even if the petition for winding up was made before section 45 0 (1) came into force and even if the winding up order was made in such case whether before or after the date on which section 45 O (1) came into force i.e. December 30, 1953.
+It is however urged that on this interpretation there may be some anomalies, particularly in the cases of instalment decrees.
+For example, it is said that where an instalment decree provides for six yearly instalments and does not provide for any default clause it may happen that some instalments may become due and may not be paid before a winding up petition while other instalments may become due after the winding up petition.
+In such a situation, the instalments which became due and were not paid before the winding up petition may be recoverable by execution 725 under section 45 0 (1) for the period of limitation having begun and not having run out the exclusion provided by section 45 O (1) comes into play, while in the case of instalments, which became due after the presentation of the winding up petition, the period of limitation not having begun exclusion could not come into play.
+It is said that it would be rather anomalous that earlier instalments should be recoverable but not later ones.
+It is submitted that if the subsection is interpreted to lay down stoppage of the period of limitation after the presentation of the winding up petition it will equally cover all instalments.
+It may be accepted that there would be this anomaly on the interpretation which I have accepted.
+But the language is clear and provides for exclusion which can only take place after the period of limitation has begun and before it has run out.
+Therefore, whatever the anomaly where the language is clear and unambiguous it has to receive the only construction of which it is capable.
+As against this I may point out that if the language of section 45 O (1) is interpreted as stopping of limitation in all cases after the presentation of the winding up petition it will result in equal anomalies.
+Take a case where a liquidator files a suit and gets a decree.
+Was it the intention of the legislature by this provision to lay down that there would be no limitation in such a case for the execution of the decree? That would be the result if the provision in section 45 0 (1) is interpreted as meaning stoppage of all limitation from the date of the presentation of winding up petition.
+But it could hardly be the intention of the legislature that the liquidator in such a case should not execute the decree which he gets within the period of limitation provided by the Indian Limitation Act.
+The reason for exclusion provided in section 45 0 (1) appears to be that after a winding up order the liquidator takes charge and he will naturally take time to familiarise himself with the affairs of the company.
+So in all cases where time has begun to run before the winding up petition and has not run out, the liquidator should get some breathing space and that is why the period from the date of the winding up petition is excluded.
+But where the time has not begun to run before the windings petition, the liquidator would have ample time within which to know the true state of affairs and in such a case the legislature did not intend that there should be no limitation as provided in the Indian Limitation Act.
+That is why one finds the language of exclusion in section 45 O (1).
+The benefit of that provision is meant for cases where time has begun to run but has not run out before the presentation of the winding up petition; it is not meant to provide that there would be no limitation in all cases where banking companies are in the process of liquidation.
+In any case if the legislature wanted to make such a sweeping provision I should have found appropriate language for that purpose in section 45 O (1).
+In the absence of such appropriate language, the provisions of section 45 O (D which appear to be clear and unambiguous, must receive their only proper construction already set out above.
+726 Let me now see how this construction applies to the facts of the present case.
+The present case is governed by section 45 O (3) because the winding up petition was presented before section 45 O (1) came into force, but by virtue of sub section
+(3) of section 45 O, sub section
+(1) would apply to the present case.
+The question then is whether limitation had begun to run before May 11, 1948 on which date the winding up petition was presented and if so for which instalments or for the whole of the amount.
+If limitation had begun to run before May 11, 1948.
+the period from May 11, 1948 upto the date of the application for execution on August 26, 1957, would have to be excluded.
+Now the evidence is that there was default in payment of the instalment due on December 30.
+So the period of limitation for that instalment certainly began to run from that date.
+Further paragraph 5 of the compromise to which I have already referred lays down that if payment was not made of any instalment within after four months of the due date, the entire remaining decretal amount would also become due.
+These four months expired on April 30, 1948 and from May 1, 1948 the appellant bank was entitled to execute the entire decretal amount that remained due.
+Therefore the right to execute all the remaining instalments arose on May 1, 1948.
+Thus limitation for all the instalments from second to seventh began on May 1, 1948 while the application for winding up was made on May 11, 1948.
+In view of the interpretation of section 45 0 (1) which I have accepted, the appellant would be entitled to exclusion of the entire period from May 11, 1948 upto the 6ate of the execution application, and would thus be entitled to execute the decree for Rs. 12,000/which is the total of instalments 2 to 7 with interest.
+But it is said that the appellant cannot execute the whole decree as it had waived the first default.
+I have already indicated that the High Court had considered the matter both from the point of view of the whole amount and of each instalment.
+No question of waiver was raised by the respondent in his objection petition.
+On the other hand it seems to have been urged before the High Court that limitation started from the first default i.e., May 1, 1948 and so there was no question of considering the matter of later instalments at all.
+This was negatived by the High Court on the authority of Ranglal Aggarwalla vs Shyrnlal Tamuli(1) and that is how the High Court came to consider the question of instalments in the alternative.
+Besides it appears that two execution applications were made in this case one in February 1948 and the other in.
+July 1950.
+When the first execution application was made the default clause had not come into operation and the appellant only wanted execution of the second instalment of Rs. 2,000/ and prayed for attachment for Rs. 2,030/ , including interest.
+So there could be no waiver then.
+The second execution application was made not only after (1) 727 the first default but after two other defaults also of the instalments of Rs. 4,000/ each due on December 30, 1948 and December 30, 1949.
+The total of instalments then in default was only Rs. 10,000/ .
+Though a copy of the second execution application is not printed in the record, it is clear from the particulars in the present tabular form filed in 1957 that the relief sought at the second execution was by attachment for Rs. 26,070/ .
+Clearly therefore the appellant was executing the whole decree after the default and there can be no question of waiver in the circumstances: (see also the appellant 's statement of case paragraph 20).
+Bachawat J. (as he then was) who delivered a short separate judgment has certainly said that the present appellant could waive and had in fact waived the benefit of the default.
+But that with respect does not appear to be accurate.
+I am therefore of opinion that there was no waiver of the first default and so the appellant can take advantage of section 45 0 and execute the decree for the entire amount.
+I would therefore allow the appeal and set aside the order of the High Court, and order that execution should proceed according to law.
+The appellant will get its costs incurred before the appeal court and this court from the respondent.
+The remaining costs will abide the result.
+Raghubar Dayal, J.
+This appeal, by certificate under article 133(1)(a) of the Constitution, requires the construction of section 45 0 of the Banking Companies Act, 1949 (Act X of 1949), hereinafter called the Act.
+This section was enacted in its present form by the Banking Companies (Amendment) Act, 1953 (Act LII of 1953).
+hereinafter called the Amending Act.
+The question arises on these facts.
+The appellant bank, through its Midnapore Branch, obtained a compromise decree against the respondent in O.S. No. 25 of 1947 of the First Court of the Subordinate Judge, Midnapore, on May 1, 1947.
+The decree was for an amount of Rs. 31,000/ of which Rs. 2,115/were paid by the respondent that very day.
+The decree provided that Rs. 6,885/ were to be paid by May 9, 1947 and the balance of Rs. 22,000/ in seven instalments as under: 1.
+Rs. 1,000/ on May 30, 1947.
+Rs. 2,000/ on December 30, 1947.
+Rs. 4,000/ on December 30, 1948.
+Rs. 4,000/ on December 30, 1949 5.
+Rs. 4,000/ on December 30, 1950.
+Rs. 4,000/ on December 30, 1951.
+Rs. 3,000/ on December 30, 1952.
+The judgment debtor respondent did not pay the second and subsequent instalments.
+Paragraph 5 of the compromise which formed part of the decree provided that if the plaintiff decree holder 728 did not get the amount due to it on account of the instalments within 4 months from the time of default, it was to deem, on the expiry of the said 4 months, all the other instalments to be in default and would be entitled to realise the entire amount of the decree then due through execution proceedings.
+The appellant attempted, by applications presented in 1948 and in 1950, to execute the decree.
+The details relating to these applications and the proceedings thereon need not be set out here as they do not affect the question for consideration.
+Suffice it to say that nothing was realised in these proceedings and that the proceedings started on the application presented in 1950 were subsequently transferred to the High Court in view of the relevant provisions of the Act.
+On August 24, 1957, the appellant presented an application in a Tabular form for execution of the decree, on the ordinary original civil side of the Calcutta High Court.
+It was stated in column 10 meant for noting the mode in which the assistance of the Court was required that the defendant judgment debtor had failed to pay any portion of the decretal amount or interest, that the decree holder Bank was wound up by an order of the Court dated August 3, 1948 on a petition for winding up presented to it on May 11, 1948 and that the Court Liquidator, High Court, and the Official Liquidator of the decree holder Bank, be appointed receiver without security and without remuneration, to collect and realise the amount payable to the defendant firm and/or Sukumar Dutta.
+one of its partners, by the Executive Engineer, Works & Building Department, Midnapur Division, upto a maximum limit of Rs. 35,000/ .
+A further prayer was made that an interim receiver be appointed before issue of any notice of the application to the judgment debtor.
+On this application an interim order for the appointment of a receiver was made on August 26, 1957.
+This order was confirmed on June 2, 1958.
+The judgment debtor respondent appealed against this order contending that the execution of the decree was barred by limitation.
+The High Court agreed with the contention and dismissed the application and also set aside the order for appointment of receiver.
+It is against this order that this appeal has been presented under a certificate from the High Court.
+The contention for the judgment debtor is that the execution to realise intsalments number 2 to 7 had expired long before August 24, 1957 when the execution application in tabular form had been presented as the date for the payment of the last instalment was December 30, 1952.
+The period of 4 months after the expiry of December 30, 1952 within which the decree holder could execute the decree expired on May 1, 1953.
+The execution application was presented after the expiry of 3 years of this date.
+This 729 objection on the ground of limitation was met by the decree holder Bank on the basis of the provisions of section 45 O of the Act which reads: "(1) Notwithstanding anything to the contrary contained in the Indian Limitation Act, 1908 or in any other law for the time being in force, in computing the period of limitation prescribed for a suit or application by a banking company which is being wound up, the period commencing from the date of presentation of the petition for the winding up of the banking company shall be excluded.
+(2) Notwithstanding anything to the contrary contained in the Indian Limitation Act, 1908 or section 543 of the or in any other law for the time being in force, there shall be no period of limitation for the recovery of arrears of calls from any director of a banking company which is being wound up or for the enforcement by the banking company against any of its directors of any claim based on a contract, express or implied; and in respect of all other claims by the banking company against its directors, the period of limitation shall be twelve years from the date of the accrual of such claims or five years from the date of the first appointment of the liquidator, whichever is longer.
+(3) The provisions of this section, in so far as they relate to banking companies being wound up, shall also apply to a banking company in respect of which a petition for the winding up has been presented before the commencement of the Banking Companies.
+(Amendment) Act, 1953.
+" To appreciate the contention based on this section it is necessary to mention a few more facts.
+On May 11, 1948, a petition for winding up by the Bank was presented.
+The winding up order was made by the High Court on August 3, 1948.
+The Act came into force on March 16, 1949.
+On March 18, 1950, the Banking Companies (Amendment) Act, 1950 (Act XX of 1950) came into force.
+On October 24, 1953, the Banking Companies (Amendment) Ordinance IV of 1953 was promulgated and lastly, on December 30.
+1953, the Amending Act came into force.
+The contention for the appellant before the High Court and in this Court is that the period between May 11, 1948 when the windings application was filed and August 1957 when the execution application was presented, is to be excluded from the computation of the period of limitation, in view of sub sections
+(I) and (3) of section 45 O of the Act.
+This contention was rejected by the High Court on the ground that instalments Nos. 2, 3 and 4 had become time barred before the coming into force of section 45 O on December 30, 730 1953 and that there was nothing in section 45 0 to revive the claims which could not be enforced due to the lapse of time under the provisions of the Limitation Act.
+Section 45 0 was not held to apply to the case of instalments 5, 6 and 7 as the cause of action to execute the decree for the realisation of the amounts due under these instalments arose subsequent to the date on which the petition for winding up was presented and the language of sub section
+(1) of section 45 O indicated that its provisions were to apply only in cases where the period for the presentation of an application had commenced to run prior to the presentation of the winding up application.
+The High Court, consequently, held the application for execution to be barred by time and dismissed it.
+The contentions urged before the High Court by the respective parties have been repeated before us.
+It is thus that the question of the construction of section 45 O of the Act has arisen.
+It is no doubt true that the provisions of an enactment operate prospectively and that the consensus of opinion is that unless they expressly or by necessary implication provide otherwise.
+the right to sue or apply which had become barred by lapse of time under a previous enactment is not revived by the succeeding enactment.
+The High Court was of opinion that there is nothing in section 45 0 which could lead to the conclusion that its provisions had retrospective effect in the sense that the right to apply which had become time barred on December 30, 1953, when the Amending Act came into force, could revive and consequently enable the Banking Company to apply for that relief.
+Lahiri, C.J. said: "On this point it is significant to note that sub section 3 of section 45 O makes the provisions of the section applicable only to a banking company in respect of which a petition for winding up has been presented before the commencement of the Banking Companies (Amendment) Act of 1953; but does not make the provisions of the section applicable to debts due to the banking company which had become barred by lapse of time before the date of such commencement.
+Then again sub section 1 of section 45 0 provides that the period commencing from the date of the presentation of the petition for winding up of the banking company shall be excluded and does not say that this period shall always be deemed to have been excluded.
+The use of the future tense in sub section (1) indicates that the Legislature did not intend its provisions to operate on decrees which had before the date of its commencement become unenforceable by lapse of time.
+There is therefore neither any express word nor any necessary implication in section 45 0 to indicate that its provisions were intended by the Legislature to have retrospective effect." 731 Bachawat J., practically took the same view and said that sub section
+(1) of section 45 0 did not provide that the period from the date of presentation of the petition for winding up of the banking company would be always deemed to have been excluded and that though sub section
+(3) of section 45 O specially provided for the retrospective application of the section to a banking company the Legislature deliberately had not provided that sub section
+(1) of section 45 O would have a larger retrospective operation.
+I am of opinion that sub section
+(1) and specially when read with sub section
+(3)of section 45 0.) operates retrospectively and that the appellant 's application for execution presented to the High Court in 1957 for executing the decree for the realisation of the instalments in the payment of which the respondent judgment debtor made default was maintainable and not barred by time.
+It is not necessary for the retrospective operation of the provision of an Act that it must be stated that its provisions would be deemed to have always existed.
+That is one mode and may be an effective mode of providing that the provisions would have retrospective effect.
+Retrospective effect of an enactment can also be gathered from its language and the object and intent of the legislature in enacting it.
+In The Queen vs Vine(1) an enactment which was penal in nature was construed to have retrospective effect despite the rule that when an enactment is penal in nature it is not to be construed retrospectively if the language is capable of having a prospective effect given to it and is not retrospective, as the object of the ' enactment was not to punish offenders but to protect the public against public houses in which spirits were retailed being kept by persons of doubtful character.
+Government had been making laws for exercising control over the Banks since 1936 upto which time the Indian , 19 13, governed the working of Banking Companies as well.
+In that year, was added to the Indian .
+Amendments were made to this Part subsequently and, ultimately, it was repealed by the Banking Companies Act, 1949.
+In this Act too, Part 3A was added by the Amending Act of 1950.
+The Amending Act of 1953 substituted the present Part 3A in the Act for the Part originally introduced in 1950.
+Section 45 F which was inserted in the Act by the Amending Act of 1950 may be quoted, as some reference to it would be made subsequently.
+It reads: "45F. Special period of limitation Notwithstanding anything to the contrary contained in the Indian Limitation Act, 1908 (IX of 1908), or in any other law for (1) L.R. 10 Q.B. 195.
+(D)5SCI 8 732 the time being in force, in computing the period of limitation prescribed for any suit or application by a banking company, the period of one year immediately preceding the date of the order for the winding up of the banking company shall be excluded.
+" A scrutiny of the provisions of the Act and especially of Part 3A clearly indicates that the object of the Legislature in enacting these measures was to protect the interests of the depositors of the banking company and to expedite winding up proceedings.
+We need not refer to the provisions which would indicate such a purpose of the Legislature.
+The expeditious disposal of the winding up proceedings is clear by the provisions by section 40 which provides that notwithstanding anything to the contrary contained in section 466 of the , the High Court shall not make any order staying the proceedings in relation to the winding up of a banking company, unless the High Court is satisfied that an arrangement has been made whereby the company can pay its depositors in full as their claims accrue.
+In Joseph Kuruvila Vellukunnel vs The Reserve Bank India(1), it was observed: "An examination of the Banking reveals two things prominently.
+The first is that the whole intent and purpose of that Act is to secure the interests of the depositors. " It can be presumed that companies which are wound up had been usually mismanaged.
+Mismanagement can also account for the failure of the banking company to sue the debtors for the recovery of the amounts due to the banking company within limitation.
+This injures the interests of the depositors and others concerned in the proper running of the banking company.
+It is again within the range of possibility, nay probability, that the liquidator appointed for the banking company when it is ordered to be wound up would require some substantial time to acquaint himself with the complete position about the affairs of the company and that during such period limitation for instituting suits or making applications in the interests of the banking company may expire.
+This aspect is fully explained in paragraph 57 of the Report of the Banking Companies Liquidation Proceedings Committee, 1952, which is set out below: "The Committee has also considered the question as to whether the law of limitation should be further relaxed in favour of the Liquidator.
+The Liquidator has already been granted a year 's grace by Section 45F of the: (1) [1962] Supp. 3 S.C.R. 632, 656. 733 Banking .
+Most of the witnesses examined by us were of opinion that the Liquidator 's year was inadequate.
+They urged that in many cases it takes the Liquidator a long time to ascertain who the debtors are and the amounts due from them, particularly where the records are distributed in different parts of India or are incomplete.
+Under the procedure envisaged above the debtor is liable to be arraigned in the winding up proceedings, and is entitled to claim relief in such proceedings.
+As regards creditors, it is settled law that 'the Limitation Act ceases to run as from the winding up order so that a creditor whose claim is not then barred will not be barred by subsequent delay '.
+We see no reason why limitation should not cease to run against the banking company from the date of the winding up order.
+If the procedure envisaged above is adopted, the necessity for the Liquidator to file suits against the debtors of the bank will rarely arise.
+Further, the Liquidator shall have no scope for unconscionable delay in proceeding against the debtor.
+He is required to bring the debtor before the Court within 6 months from the date of the winding up order unless further time is granted by the Court.
+We therefore recommend that provision may be made by the Legislature to the effect that limitation will stop running against a banking company from the date of the winding up order.
+" It appears that the Legislature mostly accepted this view of the Committee and enacted section 45 O providing mainly that there would be no running of limitation against the banking company subsequent to the date of the petition for winding up with the result that limitation would run in the ordinary course upto the winding up petition.
+There is much logic behind it.
+Non action upto the date of the petition for winding up was on account of the mismanagement of the banking company.
+The debtor of the banking company gets advantage of the negligence of the company to sue him or apply against him within the period of limitation.
+Since the presentation of the petition for winding up of the company, the Court gets control over the affairs of the company and supervises the acts of the liquidator, in accordance with the provisions of the Act which, to secure necessary action in all matters within a reasonable time, provide certain periods for certain actions to be taken by the liquidator of the Court.
+It is to be presumed therefore that any delay in the taking up of any legal action by the Banking Company would be for good reasons.
+The Legislature seems to have been of the opinion that the interests of the banking companies, especially of its depositors, should not suffer on account of the delay which could not be avoided even when the Court was in charge of the affairs of the banking company.
+Viewed in this 734 perspective, it should appear that the relevant date for considering whether action can be taken by the banking company by suit or application is the date of presentation of the winding up petition.
+If the banking company had a right to sue or to apply on the date the petition for winding up was presented, that right should not be lost to it.
+I may now consider how far the legislature succeeded in making section 45 0 of the Act, specially its sub sections (1) and (3) carry out this object and intention.
+For the application of sub section
+(1), two things are necessary: (i) that a company is being wound up and (ii) that a suit is instituted or an application is made by such a banking company.
+If these two things exist, the period commencing from the date of presentation of the petition for winding up is to be excluded in computing the limitation prescribed for such a suit or application.
+The first condition would be satisfied by all companies with respect to which winding up orders had been made either before the commencement of the Amending Act of 1953 or thereafter.
+There is nothing in the language of the sub section to limit the expression companies being wound up ' to those companies with respect to which winding up orders are made subsequent to December 30, 1953.
+There seems to be no good reason why such a limitation on this expression be imposed.
+The provision is not for the benefit of such companies only but is for the benefit of all the companies which would be in the process of winding up during the enforcement of the Act.
+The process might have commenced before or after the enforcement of the Act.
+Naturally, petitions for the winding up of companies with respect to which winding up orders had been made prior to December 30, 1953, must have been made before that date.
+The language of sub section
+(1) plainly applies to companies which were being wound up when the Act came into force.
+I may refer to certain cases in which expressions of general import have been so construed.
+In Weldon vs Winslow(1) the provision of law for construction was: "a married woman shall be capable . of suing and being sued either in contract or in tort, or otherwise, in all respects as if she were a feme sole, and her husband need not be joined with her as plaintiff or defendant, or be made a party to any action or other legal proceeding brought by or taken against her, and any damages or costs recovered by her in any such action or proceeding shall be her separate property . " Brett, M.R. said at p. 787 that the section dealt with an action for tort and that after the Act came into operation a married woman (1) I.R.13 Q.B.D. 784.
+735 might bring such an action in her own name and the damages and costs recovered shall be her separate property.
+He continued: "It is said that this is a retrospective construction, because the cause of action arose before the statute came into operation; but the section does not say anything about cause of action; it deals with bringing the action.
+and there is nothing in it to limit its provisions to causes of action arising after the statute came into operation.
+I think, therefore, that an action brought after the statute came into operation is within the plain words of section 1, and it is necessary to distort the grammatical meaning of the words to arrive at the interpretation proposed by the defendant 's counsel.
+" These remarks can apply aptly to the construction of sub section
+(1) of section 45 O.
+That sub section deals with the computation of limitation with respect to suits and applications filed after the coming into force of the Amending Act of 1953 and do not apply to suits and applications which had been filed earlier.
+The provisions say nothing about the time when the petition for winding up be presented.
+There is nothing to limit the provisions to petitions for winding up which had been presented after the Amending Act came into force.
+In Bank of Athens Societe Anonyme vs Royal Exchange Assurance(1) an application under sub section
+(1) of section 3 of the Law Reform (Miscellaneous Provisions) Act, 1934, empowering the Court to award interest on the whole or any part of the debt or damages for the whole or any part of the period between the date when the cause of action arose and the date of the judgment, was construed not to be restricted to proceedings taken after the Act had come into force.
+It was said by Branson J., at p. 773: "I think that on the true construction of that section the court in any proceeding, whenever commenced, whether before or after the Act, has the discretion which the section gives it.
+The words as they stand are applicable in that sense.
+" The construction I put on the provisions of sub section
+(1) gets support from the provisions of sub section
+It is to be noticed that sub section (3) does not provide that the provisions of sub section
+(1) would apply to banking companies with respect to which winding up orders had been made prior to the commencement of the Amending Act of 1953.
+If it had said so, the question we are considering now would not have arisen as that would expressly apply the provisions of sub section
+(1) to the companies which were being wound up on December 30, 1953.
+Sub section
+(3) provides that the provisions of the section, viz., of sub sections
+(1) and (2), shall also apply in so far as they relate to banking companies being wound up to a banking (1) 736 company in respect of which a petition for winding up has been presented before the commencement of the Amending Act.
+Sub section
+(3) contemplates cases in which the petitions for winding up had been made prior to the enforcement of the Act but no orders for the winding up of the company had been made.
+If the provisions of sub section
+(1) can apply to the companies with respect to which proceedings on a winding up petition were pending on December 30, 1953, it would be very anomalous if they would not apply to the companies with respect to which winding up orders had been made prior to December 30, 1953.
+This leads to the inference that sub,S. (1) by its own language applies to banking companies which were being wound up on December 30, 1953.
+Further, this would be apparent if we combine the provisions of sub sections
+(1) and (3) together, which could be read thus: "Notwithstanding. in force, in computing the period of limitation prescribed for a suit or application by a banking company which is being wound up, or in respect of which a petition for the winding up has been presented before the commencement of the Banking " Companies (Amendment) Act, 1953, the period commencing from the date of the presentation of the petition for winding up of the banking company shall be excluded." So read, it becomes clear that the period of exclusion would be available in connection with suits or applications by a banking company which is being wound up or with respect to which a petition for winding up has been made prior to December 30, 1953.
+I am further of opinion that if a restricted construction be placed on the provisions of sub section
+(1) of section 45 O, the effect of sub section
+(3) would be very much reduced.
+In fact, it will probably have no utility.
+If the cause of action for a suit or application had lapsed by efflux of time prior to or on December 30, 1953, the advantage of sub section
+(1) will not be available to the banking company on account of the provisions of sub section
+Sub section
+(3) itself does not give any particular right to the banking company.
+It only provides that whatever advantage a banking company can derive from the provisions of sub section
+(1) when it is being wound up, would be available to it even if it be not being wound up, if a petition for its winding up had been presented prior to the enforcement of the Amending Act of 1953.
+The only case in which the banking company can take advantage of sub section
+(3) then would be when the cause of action for the suit or application has not lapsed by December 30, 1953 and the proceedings on a winding up application were pending on that date.
+Such cases would be covered by the language of sub section
+(1) if the cause of action was alive on December 30, 1953.
+The order for the winding up of the company would be made subsequent to the date and therefore suits or 737 applications covered by sub section
+(1) would get the advantage of the provisions of that Act.
+The expression 'the period commencing from the date of the presentation of the petition for the winding up of the banking company shall be excluded ' fixes the point of time from which the excluded period will commence, and cannot be limited to the dates of such petitions which be presented after December 30, 1953.
+It is true, as stated in Jwala Prasad vs Official Liquidator(1), that the only purpose which sub section
+(3) of section 45 0 serves is to make it clear that sub section
+(1) will apply even when the petition for the winding up of a company is presented prior to the commencement of the Amending Act of 1953.
+I do not think that a separate subsection was enacted merely for the clarification of the point that the provisions of sub section
+(1) of section 45 O would take in such cases firstly because such cases would be covered by the language of sub section
+(1) and, if not, it could have been stated in sub section (1) itself that those provisions would apply where the petition for winding up was presented before or after the commencement of the Act by simply adding the expression 'presented before or after the commencement of the Act ' between the words 'banking company ' and 'shall be excluded '.
+I am therefore of the view that the effect of sub section
+(1) of section 45 0 is that if suits or applications made by a ,banking company which is being wound up or for whose winding up a petition has been presented prior to December 30, 1953, the period of limitation is arrested on the date of the presentation of the petition for winding up of the company and that it is not material whether such a date is earlier than December 30, 1953, or not and that therefore suits can be instituted and applications made even in regard to matters with respect to which such action could be taken on the date of presentation of the application for winding up of the company but could not be taken on the date the Amending Act of 1953 came into force.
+I may now refer to the case law on the point which is so far quite meagre.
+In Punjab Commerce Bank vs Brij Lal(2) the suit was filed on March 31, 1952 under section 45 B of the Banking Companies Act, 1949, as amended by Act XX of 1950.
+The cause of action arose on October 9, 1946.
+The application for winding up was made on February 17, 1948 and the winding up order was made on October 11, 1952.
+The suit was dismissed on December 2, 1952 as barred by time and an appeal against the dismissal was pending in the High Court on December 30, 1953 when the Amending Act of 1953 came into force.
+The suit was certainly time barred as the law (1) A.I.R. 1962 All. 486.
+(2) A.I.R, 1955 Punj, 45.
+738 stood on the date of its institution.
+It was urged for the appellant that the Amending Act was retrospective in effect, that it applied to all suits which were pending on the date it came into force and as the appeal was a re hearing of the case the suit would still be within time as the Amending Act would be applicable to the case on the date of its decision.
+This contention was repelled.
+Bishan Narain J., said at p. 46: "I have carefully read this section and in my opinion section 45 0 is not retrospective in effect expressly or by necessary implication and further there is nothing in this section so retrospective in effect as to revive a claim which before that date had become unenforceable by lapse of time.
+" These observations apparently go against the appellant.
+They were, however, made in connection with the provisions of section 45 O applying to a suit pending on the date the Amending Act came into force and their import is limited by the other observations made when dealing with the provisions of section 45 O.
+These observations, on pp.
+46 and 47, are: "It will be noticed that neither sub section
+(D nor sub section
+(3) makes any mention of a pending suit at the time when the Amending Act of 1953 came into force although the legislature does provide under section 45 C provisions for transferring such a suit to the High Court.
+In the absence of any specific mention of pending suits it not possible to hold that the section would apply to them.
+Sub section (3) is to a certain extent retrospective in effect because it makes sub section
+(1) applicable to those cases in which a petition for winding up had been presented before the Amending Act, 1953 came into force, but this retrospective effect cannot be extended to claims or suits pending in the High Court at the time that the Amending Act came into force." "Applying this test I hold that section 45 O does not apply to pending suits.
+" Sub section
+(3) of section 45 O has been considered to be retrospective to a certain extent.
+It was not necessary for the purpose of this case to consider in what cases and in what manner its retrospective provisions could be used.
+In Suburban Bank Ltd., vs Nistaran(1) the plaintiff had claimed inter alia several sums advanced as loans to the defendant on June 27, 1945.
+Winding up application was made on May 12, 1948; the winding up order was passed on June 30, 1948 and the suit was instituted on December 3, 1949 when section 45 F of the , (1) A.I.R. 1955 Cal. 172.
+739 Banking Companies Act, introduced by the Amending Act 23 of 1949, provided a special period of limitation.
+The suit was clearly time barred in view of article 59 of the Limitation Act and section 45 F of the Banking Companies Act.
+Consequently, the question arose as to whether section 45 O, in view of the alteration of the law during the pendency of the suit, could apply to that suit.
+It was held that the question whether the proceeding is barred by the law of limitation must depend on the law in force when the proceeding was instituted and that sub section
+(1) of section 45 O does not refer to pending proceedings either in express words or by necessary implication.
+When considering the effect of section 45 O, it was said at p. 175: "The general words 'a suit or application ' can be given full effect by limiting them to suits and applications commenced after the sub section came into force. " No occasion arose to consider the effect of the provisions of sub section
+(3) of section 45 O in proceedings instituted after it came into force.
+In M/s. Kesarichand vs
+S.B. Corporation(1) the period of limitation was to commence from December 29, 1950.
+Article 85 of the Limitation Act was held applicable to the case.
+The application for winding up of the company was made on February 26, 1953 and winding up order was made on May 26, 1953.
+An application under section 45 D of the Act was presented on June 28, 1954, more than three years from the commencement of the period of limitation but within 6 months from the commencement of the Amending Act of 1953.
+December 29, 1950, being the starting point for limitation, the period of limitation for the application expired before December 30, 1953, a day before the Amending Act came into force and the question did arise whether the applicant could be allowed to get the advantage of section 45 O.
+It was contended that even if the benefit of section 45 O was given to the plaintiff bank, the application would be barred by limitation as the period which was to be excluded in view of sub section
+(1) of section 45 O commenced from the date of the presentation of the petition for winding up and ended on the date on which the winding up order was made.
+This contention was negatived.
+It was held that section 45 O was retrospective in operation.
+In Jwala Prasad 's Case(2) the period of limitation for taking proceedings under section 235 of the Indian Companies Act, 1913, commenced on November 1, 1947.
+The period prescribed was 3 years from the date of the first appointment of the liquidator or from the arising of the cause of action.
+The application for winding up was made on February 17, 1950 and the liquidator was appointed the same day.
+The liquidator applied for action under section 235 on (1) A.I.R. 1959 Assam 162.
+(2) A.I.R. 1962 All.
+740 September 30, 1953, before the enforcement of the Amending Act of 1953.
+It was not a case therefore where an application was made by the banking company subsequent to the enactment of section 45 O. The question about the application being made within ,time was to be decided on the law of limitation as it stood on September 30, 1953.
+The law of limitation as laid down in section 235 was to apply taking into consideration the provisions of section 45 F of the Act as it stood on September 30, 1953.
+The Court held that the application could not be held to be in time even if the advantage of the provisions of section 45 F be given.
+It however considered the effect of section 45 O and said at p. 494 that there was nothing in the section to show that it was intended to be retrospective in effect in the sense that it revived remedies which had already come to art end and reliance was placed on the earlier Calcutta, Punjab ,and Assam cases referred to above.
+I therefore hold that the provisions of sub section
+(1) of section 45 0 are retrospective in effect and are applicable to suits or applications by a banking company in respect of causes of action for the suit or an application about which suits could be instituted or applications made on the date of the presentation of the winding up petitions made before the commencement of the Amending Act of 1953, even though the specified period of limitation for such action had expired before the enforcement of the Amending Act.
+In the present case, judgment debtor respondent defaulted in payment of the second installment due on December 30, 1947.
+On May 1, 1948, the appellant 's right to execute the decree for the entire amount due under the decree arose.
+The petition for the winding up of the company was made on May 11, 1948.
+The appellant 's application for execution presented in 1957 for the entire decretal amount due to it would not be time barred if it had exercised its option to have realised the entire decretal amount in default of payment of the second instalment.
+The right to exercise such an option arose on May 1, 1948, earlier than the presentation of the winding up application, but the appellant decree holder, however, appeared to have waived its such right and to have sought execution for the realisation of the various installments.
+Bachawat J., said in his judgment: "The respondent could waive and in fact has waived the benefit of that option and became entitled to enforce payment of each installment as and when it fell due.
+" It was therefore that an objection was raised to the execution of the decree for the installments failing due after the presentation of the winding up application on May 11, 1948 on the ground that the provisions of sub section
+(1) of section 45 0 applied only to such suits or applications the causes of action for which accrued before the relevant date, i.e., the date of the presentation of the application for winding up.
+The contention is that the provision about the 741 exclusion of time in the period of limitation predicate that the period of limitation had commenced to run prior to the beginning of the period to be excluded and that therefore the provisions of sub section
+(1 ') of section 45 O would apply only to suits or applications with respect to such causes of action which had accrued prior to the date of the winding up petition.
+This contention for the respondent has been accepted by the High Court.
+In this the High Court was in error.
+It is clear that the object of the Legislature was that the running of time during the period when the winding up proceedings were pending in Court and when the Court supervised those proceedings be not included in the period of limitation prescribed under the ordinary law of limitation.
+The banking company is entitled for the exclusion of the period from the date on which the application for winding up had been presented up to the date of institution of the suit or filing of an application, from the period of limitation prescribed for any suit or application and it would be illogical to hold that it is not entitled to ask that a shorter period, as the case would be when cause of action arose subsequently to the presentation of the application for winding up, be also excluded from the period of limitation prescribed for any suit or application.
+It appears to me that the object and intention of the Legislature in enacting sub section
+(1) of section 45 O was that the period subsequent to the presentation of the petition for winding up be not taken into consideration in computing the period of limitation.
+The entire period will be excluded from consideration if the limitation had begun to run prior to the presentation of the petition for winding up and the relevant lesser period i.e., the period commencing from the accrual of the cause of action subsequent to the date of presentation of the petition for winding up of the company would be excluded from the period of limitation which also commences from the accrual of the cause of action.
+It may be said that this means that the entire period of limitation is abrogated with respect to causes of action arising subsequent to the date of presentation of the petition for winding up.
+Such may be the result, but that does not mean construing the provisions of sub section
+(1) of section 45 O in the context of the circumstances and reasons for the enactment of those provisions.
+It would be anomalous to hold that action can be taken with the help of the provisions of sub section
+(1) of section 45 O with respect to causes of action which had arisen much earlier than the date of the presentation of the petition for winding up but action cannot be taken with respect to causes of action arising subsequent to such a date if it had not been taken within the prescribed period of limitation.
+There is nothing in the language of the sub section, in my opinion, to accept the contention for the respondent whose acceptance would lead to results which would not have been contemplated by the Legislature.
+742 I am therefore of opinion that the appellant 's application for execution presented in August 1957 was presented within limitation.
+I would accordingly allow the appeal with costs, set aside the order of the Division Bench of the High Court on Letters Patent Appeal and restore that of the Single Judge.
+ORDER This appeal is allowed.
+The appellant will get its costs in this Court and in the High Court.

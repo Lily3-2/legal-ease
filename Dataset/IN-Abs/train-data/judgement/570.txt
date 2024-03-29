@@ -1,0 +1,102 @@
+Appeal No. 197 of 1956.
+Appeal from the judgment and order dated August 6,1954, of the Bombay High Court in Appeal No. 30 of 1954, arising out of the judgment and order dated January 28, 1954, of the said High Court in Insolvency No. 74 of 1951.
+1385 M. C. Setalvad, Attorney General for India, section N. Andley and J. B. Dadachanji, for the appellants.
+Purshottam Tricumdas and I. N. Shroff, for the respondent.
+February 20.
+The following Judgment of the Court was delivered by GAJENDRAGADKAR J.
+This appeal by special leave arises from the notice of motion taken out by the respondent official assignee under section 55 of the Presidency towns Insolvency Act against the appellants for a declaration that a deed of gift executed by the insolvent Daulatram Hukamchand on May 22, 1950, in favour of the appellants was void.
+It appears that some creditors of Daulatram filed a petition in the High Court of Judicature at Bombay, Insolvency Case No. 74 of 1.951, for an order that the said Daulatram be adjudged insolvent as he had given notice of suspension of payment of the debts on August 2, 1951.
+Daulatram was adjudicated in solvent on August 21, 1951, with the result that the estate of the insolvent vested in the respondent under section 17 of the Act.
+On September 26, 1951, the respondent took out the present notice of motion.
+The impugned deed of gift has been executed by the insolvent in favour of his wife and three sons who are the appellants before us.
+In reply to the notice of motion appellants I to 3 filed a joint affidavit setting out the facts and circumstances under which the said deed of gift had been executed by the insolvent in their favour.
+In substance, the appellants ' case was that, though the document purported to be a gift, it was really a transaction supported by valuable con sideration and as such it did not fall within the mischief of section 55 of the Act.
+At the hearing of this notice of motion before Mr. Justice Coyajee, when the appellants sought to lead evidence in support of this plea, the respondent objected and urged that the evidence which the appellants wanted to lead was inadmissible under section 92 of the Indian Evidence Act.
+The learned Judge, however, overruled the respondent 's objection and allowed the appellants to lead 1386 their evidence.
+In the end the learned Judge did not accept the appellants ' contention and, by his judgment delivered on January 28, 1954, he granted the declaration claimed by the respondent under section 55 of the Act.
+Against this judgment and order the appellants preferred an appeal (No. 30 of 1954) which was heard by Chagla C. J. and Shah J.
+The learned Judges took the view that Mr. Justice Coyajee had erred in law in allowing oral evidence to be led by the appellants in support of their plea that the transaction evidenced by the deed of gift was in reality a transfer for consideration.
+The learned Judges held that the gift in question had been executed by the donor in favour of the donees out of natural love and affection and that, under section 92, it was not open to the appellants to lead evidence to show that the transaction was supported not by the consideration of natural love and affection but by another kind of valuable consideration .
+On this view of the matter the learned Judges did not think it necessary to consider the oral evidence actually led by the appellants and decide whether Mr. Justice Coyajee was right or not in rejecting the said evidence on the merits.
+That is how the appeal preferred by the appellants was dismissed on August 6, 1964.
+On September 23, 1954, the application made by the appellants for a certificate was rejected by the High Court at Bombay; but special leave was granted to the appellants by this Court on November 3, 1954, and that is how the appeal has come before us for final disposal.
+The principal point which arises in this appeal is whether the appellants were entitled to lead oral evidence with a view to show the real nature of the impugned transaction.
+In deciding this question, it would be necessary to consider the true scope and effect of sections 91 and 92 of the Evidence Act.
+Chapter VI of the Evidence Act which begins with section 91 deals with the exclusion of oral by documentary evidence.
+Section 91 provides that, " when the terms of a contract, or of a grant, or of any other disposition of property, have been reduced to the form of a document, 1387 and in all cases in which any matter is required by law to be reduced to the form of a document, no evidence shall be given in proof of the terms of such contract, grant or other disposition of property, or of such matter, except the document itself, or secondary evidence of its contents in cases in which secondary As, evidence is admissible under the provisions hereinbefore contained.
+" The normal rule is that the contents of a document must be proved by primary evidence which is the document itself in original.
+Section 91 is based on what is sometimes described as the " best evidence rule ".
+The best evidence about the contents of a document is the document itself and it is the production of the document that is required by section 91 in proof of its contents.
+In a sense, the rule enunciated by section 91 can be said to be an exclusive rule inasmuch as it excludes the admission of oral evidence for proving the contents of the document except in cases where secondary evidence is allowed to be led under the relevant provisions of the Evidence Act.
+Section 92 excludes the evidence of oral agreements and it applies to cases where the terms of contracts, grants or other dispositions of property have been proved by the production of the relevant documents themselves under section 91 ; in other words ' it is after the document has been produced to prove its terms under section 91 that the provisions of section 92 come into operation for the purpose of excluding evidence of any oral agreement or statement, for the purpose of contradicting, varying, adding to or subtracting from its terms.
+The application of this rule is limited to cases as between parties to the instrument or their representatives in interest.
+There are six provisos to this section with which we are not concerned in the present appeal.
+It would be noticed that sections 91 and 92 in effect supplement each other.
+Section 91 would be frustrated without the aid of section 92 and section 92 would be inoperative without the aid of section 91.
+Since section 92 excludes the admission of oral evidence for the purpose of contradicting, varying, adding to or subtracting from the terms of the document properly proved 176 1388 under section 91, it may be said that it makes the proof of the document conclusive of its contents.
+Like section 91, section 92 also can be said to be based oil the best evidence rule.
+The two sections, however, differ in some material particulars.
+Section 91 applies to all documents, whether they purport to dispose of rights or not, whereas section 92 applies to documents which can be described as dispositive.
+Section 91 applies to documents which are both bilateral and unilateral, unlike section 92 the application of which is confined only to bilateral documents.
+Section 91 lays down the rule of universal application and is not confined to the executant or executants of the documents.
+Section 92, on the other hand, applies only between the parties to the instrument or their representatives in interest.
+There is no doubt that section 92 does not apply to strangers who are not bound or affected by the terms of the document.
+Persons other than those who are parties to the document are not precluded from giving extrinsic evidence to contradict, vary, add to or subtract from the terms of the document.
+It is only where a question arises about the effect of the document as between the parties or their representatives in interest that the rule enunciated by section 92 about the exclusion of oral agreement can be invoked.
+This position is made absolutely clear by the provisions of section 99 itself.
+Section 99 provides that " persons who are not parties to a document or their representatives in interest may give evidence of any facts tending to show a contemporaneous agreement varying the terms of the document.
+" Though it is only variation which is specifically mentioned in section 99, there can be no doubt that the third party 's right to lead evidence which is recognized by section 99 would include, a right to lead evidence not only to vary the terms of the document, but to contradict the said terms or to add to or subtract from them.
+If that be the true position, before considering the effect of the provisions of section 92 in regard to the appellants ' right to lead oral evidence, it would be necessary to examine whether section 92 applies at all to the present proceedings between the official assignee who is the respondent and the 1389 donees from the insolvent who are the appellants before us.
+Does the official assignee represent the insolvent, and can he be described as the representative ininterest of the insolvent, when he moves the Insolvency Court under section 55 of the Presidency towns Insolvency Act ? It is true that, under section 17 of the Act, on the making of an order of adjudication, the property of the insolvent wherever situate vests in the official assignee and becomes divisible among his creditors; but the property in respect of which a declaration is claimed by the official assignee under section 55 has already gone out of the estate of the insolvent, and it cannot be said to vest in the official assignee as a result of the order of adjudication itself.
+Besides, when the official assignee makes the petition under section 55 he does so obviously and solely for the benefit of the creditors.
+An insolvent himself has, and can possibly have, no right to challenge the transfer effected by him.
+In this respect the official assignee has a higher title than the insolvent and, when, under section 55, he challenges any transfer made by the insolvent, he acts not for the insolvent or on his behalf, but in the interest of the whole body of the insolvent 's creditors.
+In theory and on principle, as soon as an order of adjudication is made, all proceedings in regard to the estate of the insolvent come under the control of the Insolvency Court.
+It may be said that the official assignee in whom the estate of the insolvent vests is to guard not only the interests of the creditors of the insolvent but also " public morality and the interest which every member of the public has in the observance of commercial morality "(1).
+There is no doubt that it is the Insolvency Court alone which has jurisdiction to annul the insolvent 's transactions, whether the case is governed by the Presidency towns Insolvency Act or by the Provincial Insolvency Act; and so the proceedings taken under section 55 cannot be deemed to be proceedings taken for and on behalf of the insolvent at all.
+(1) " The Law of Insolvency in India " By Rt.
+Sir D. F. Mulla, Kt. 2nd Ed., p. 231.
+1390 The provisions of section 55 themselves support the same conclusion.
+Under section 55, any transfer of property not being a transfer made before and in consideration of marriage or made in favour of a purchaser or encumbrancer in good faith and for valuable consideration shall, if the transferor is adjudged insolvent within two years of the date of transfer, be void against the official assignee.
+This section, like section 53 A of the Provincial Insolvency Act, makes the impugned transfers voidable at the instance of the official assignee or the receiver.
+The transfers in question are not declared void as between the parties themselves; they are avoided by the official assignee or the receiver and their avoidance is intended to enure for the benefit of the whole body of the creditors of the insolvent.
+The relevant sections of the two Insolvency Acts in effect require the Insolvency Courts to set aside the impugned transactions in exercise of the Insolvency Courts ' exclusive jurisdiction in that behalf The obvious object of these provisions is to bring back to the insolvent 's estate, property which has left the estate by the impugned act of the insolvent himself and make the said property available for distribution amongst his creditors.
+It would, therefore, be impossible to hold that, when the official assignee makes a petition under section 55 of the Act, he is acting as a representative ininterest of the insolvent.
+In this connection it would be relevant to remember that, in cases governed by the Presidency towns Insolvency Act, the practice in Calcutta and Bombay consistently allows a creditor who has proved his debt to file a petition to set aside the transfer under section 55 of the Act if he shows that the official assignee, on being tendered a reasonable indemnity has unreasonably refused to make an application.
+Similarly, under section 54 A of the Provincial Insolvency Act, a creditor himself can make the application if the receiver refuses to take any action.
+Now, if an application is made by a creditor for setting aside a voluntary transfer effected by the insolvent, there can be no doubt that the creditor is not the representative 1391 in interest of the insolvent and the creditor would obviously not be affected by the provisions of section 92 of the Indian Evidence Act.
+It would really be anomalous if section 92 were to apply to proceedings instituted by the official assignee under section 55 though the said section cannot and would not apply to similar proceedings instituted by a creditor.
+Having regard to the object with which section 55 has been enacted, the nature of the proceedings taken under it, and the nature and effect of the final order which is contemplated under it, it is clear that, like the creditor who may apply, the official assignee also cannot be said to be the representative in interest of the insolvent in these proceedings.
+If that be the true position, section 92 cannot apply to the present proceedings between the respondent and the appellants; and so there can be no doubt that the respondent would not be precluded from leading evidence of an oral agreement for the purpose of contradicting, varying, adding to or subtracting from the terms of the impugned document.
+The question raised by Shri Purushottam which still remains to be considered is whether the appellants who undoubtedly are the representatives in interest of the insolvent can avoid the application of a. 92.
+In our opinion, the answer to this question must be in favour of the appellants.
+It is urged before us by Shri Purushottam that the scheme of the relevant provisions of Ch.
+VI of the Indian Evidence Act is inconsistent with the appellants ' contention that they can lead oral evidence about the alleged agreement which may tend to change the character of the transaction itself.
+Shri Purushottam bases his argument mainly on the provisions of section 91 read with section 99 of the Act.
+He contends that section 91 requires the production and proof of the document itself for the purpose of proving the contents of the document; and by necessary implication all evidence about any oral agreement which may affect the terms of the document is excluded by section 91 itself.
+We are not impressed by this argument.
+As we have already observed, sections 91 and 92 really supplement each other.
+It is because section 91 by itself would not have excluded 1392 evidence of oral agreements which may tend to vary the terms of the document that section 92 has been enacted; and if section 92 does not apply in the present case, there is no other section in the Evidence Act which can be said to exclude evidence of the agreement set up by the appellants.
+What section 91 prohibits is the admission of oral evidence to prove the contents of the document.
+In the present case, the terms of the document are proved by the production of the document itself.
+Whether or not the said terms could be varied by proof of an oral agreement is a matter which is not covered by section 91 at all.
+That is the subject matter of section 92; and so, if section 92 does not apply, there is no reason to exclude evidence about an oral agreement solely on the ground that if believed the said evidence may vary the terms of the transaction.
+Shri Purushottam 'also relied upon the provi sions of section 99.
+His argument is that it is only persons who are not parties to a document or their representatives in interest who are allowed by section 99 to give evidence of facts tending to show a contemporaneous agreement varying the terms of the document.
+lit other words, the effect of section 99 is not only to allow strangers to lead such evidence, but to prohibit parties or their representatives in interest from leading such evidence independently of tile provisions of section 92 of the Evidence Act.
+We do not read section 99 as laying down any such prohibition by necessary implication.
+As a matter of fact, from the terms of section 92 itself, it is clear that strangers to the document are outside the scope of section 92 ; but section 99 has presumably been enacted to clarify the same position.
+It would be unreasonable, we think, to hold that section 99 was intended not only to clarify the position with regard to the strangers to the document, but also to lay down a rule of exclusion of oral evidence by implication in respect of the parties to the document or their representatives in interest.
+In our opinion, the true position is that, if the terms of any transfer reduced to writing are in dispute between a stringer to a document and a party to it or his representative in interest, the restriction imposed by section 92 in regard to 1393 the exclusion of evidence of oral agreement is inapplicable; and both the stranger to the document arid the party to the document or his representative in interest are at liberty to lead evidence of oral agreement notwithstanding the fact that such evidence, if believed, may contradict, vary, add to or subtract from its terms.
+The rule of exclusion enun ciated by section 92 applies to both parties to the document and is based on the doctrine of mutuality.
+It would be inequitable and unfair to enforce that rule against a party to a document or his representative in interest in the case of a dispute between the said.
+party or his representative in interest on the one hand and the stranger on the other.
+In dealing with this point we may incidentally refer to the relevant statement of the law by Phipson in his treatise on " Evidence": " Where the transaction has been reduced into writing merely by agreement of the parties ", it is observed, " extrinsic evidence to contradict or vary the writing is excluded only in proceedings between such parties or their privies, and not in those between strangers, or a party and a stranger; since strangers cannot be precluded from proving the truth by the ignorance, carelessness, or fraud of the parties (R. vs Cheadle, 3 B. and Ad. 833); nor, in proceedings between a party and a stranger, will the former be estopped, since there would be no mutuality " (1).
+The result is that section 92 is wholly inapplicable to the present proceedings and so the appellants are entitled to lead evidence in support of the plea raised by them.
+It appears that the attention of the learned Judges who heard the appeal in the High Court at Bombay was not drawn to this aspect of the matter.
+That is why they proceeded to deal with the question about the admissibility of oral evidence led by the appellants on the assumption that section 92 applied.
+We must accordingly set aside the decree passed by the court of appeal in the High Court at Bombay and send the appeal back to that Court for disposal on the merits in accordance with law.
+In the circum (1) Phipson on Evidence 9th Ed., p. 602.
+1394 stances of this case, we think that the fair order as to costs of this appeal would be that the costs should abide the final result in the appeal before the High Court at Bombay.
+Appeal allowed.
+Case remanded.

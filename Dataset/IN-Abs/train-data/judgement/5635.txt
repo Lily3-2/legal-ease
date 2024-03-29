@@ -1,0 +1,42 @@
+Civil Appeal No. 571 of 1987.
+From the order dated 5.12.1986 of the Customs Excise and Gold (Control) Appellate Tribunal, New Delhi in Appeal No. 424/86 B 2.
+T.R. Andhyarujina, F.H.J. Talyarkhan, Shri Narain, R.K. Krishnamurthi and Sandeep Narain for the Appellants.
+A.K. Ganguli, P. Parmeswaran and Ms. Radha Rangaswamy for the Respondents.
+39 The Judgment of the Court was delivered by A RANGANATH MISRA, J.
+This appeal under section 130 E of the is directed against the decision of the Customs, Excise & Gold (Control) Appellate Tribunal, New Delhi, by which the Tribunal has reversed the appellate decision of the Collector of Customs (Appeals), Bombay.
+The short point involves in this appeal is as to whether the imported "special purpose complex machine" has to be charged to customs duty under item 89.59(1) as claimed by the Revenue or under 84.45/48 of the tariff schedule as maintained by the appellant.
+If the appellant 's claim is accepted the duty is at the rate of 40 per cent while if the department 's stand is maintained it is at the rate of 60 per cent.
+The Assistant Collector took the view that the imported machine was not manufacturing carburettors and was discharging an individual function of plugging holes in the carburettor body with the help of lead shots.
+Therefore, the appropriate entry was 84.59(1) of the Customs Tariff.
+The appellant challenged the order of the Assistant Collector by preferring an appeal to the Collector (Appeals).
+He took the view that the imported machine by plugging holes on the carburettor body with the help of lead shots was clearly a machine which was fully conforming to the description of a machine for treating metals inasmuch as it was treating carburettor body and preparing it for being revetted.
+The plugging on the carburettor body, the Collector felt, was, therefore, in the nature of treatment on the metalic body for making it revetable subsequently; even otherwise also the machine by plugging holes on the carburettor body was confirming to the description of a machine tool as given under heading 84.54/48 of the Customs Tariff.
+He therefore, accepted the appellant 's contention.
+On further appeal the Tribunal after discussing the stand point of the two sides came to the following conclusion: "Our considered view is that the function of the machine is to plug the holes of carburettor body.
+The cutting or trimming operation is incidental to this function as it removes the extruded portion of the lead shots.
+The function of checking is also a part of the main function of plugging as the object of checking is to ensure that the plugging has been done perfectly to make it air tight.
+None of these functions can be considered to be treating metal within the meaning of sub heading (2) of Tariff Heading 40 84.59.
+The function of plugging the holes of carburettor body does not amount to working metal.
+It does not change the shape or form of the metal.
+The portion of the machine which cuts the extruded portion of lead shot is not a reaming machine working the internal surface of an existing hole to exact dimension within the meaning of Explanatory Note 84.45(A)(5) of the CCC N (Volume 3), Chapter 84.45.
+The imported machine in question does not fall within the definition of machine tool given in MC.
+Graw Hill Dictionary of Scientific and Technical Term as cited by the learned S.D.R. Classification of the impugned machine under Tariff Heading 84.45/48 is, therefore, ruled out.
+Even by taking all the functions of the machine into consideration, the classification for the purpose of customs duty will have to be determined keeping in view Section Note 3 in Section XVI and Chapter Note 5 of Chapter 84 of the First Schedule to the , according to which the principal function will be determining factor.
+The principal function of this machine is to plug the holes of carburettor body.
+The machine does not fall under any of the heading of Chapter 84 of the Tariff." 84.59 of Schedule I provides: "Machines and mechanical appliances having individual functions, not falling within any other heading of this Chapter: (1). . . (2). . . 60%.
+" The entry is, therefore, a residuary one and indisputably if any other entry applies, application of entry 84.59 is ruled out.
+The appellant maintains that the appropriate entry to apply to its case is 84.45/48.
+That provides: "Machine tools for working metal . 40%." Machine tool, according to Tool Engineers Handbook published by Mc Graw Hills means "any machine operating other than by man power which employs a contact tool for working natural or synthetic 41 material.
+Graw Hill Dictionary of Scientific and Technical Terms A gives the following meaning: "A stationary power driven machine for the shaping, cutting, turning, boring, drilling, grinding or polishing of solid parts, especially metals." Even according to the Department, machine tools coming under entry 84.45 are machines used for shaping or surface working metal or metal carbides by either: (i) cutting away or otherwise removing metal or metal carbides (for example, lathes, drilling, planing, slotting, milling or grinding machines).
+(ii) changing the shape or form of the metal without removing any of it.
+The note indicates that machine tools in general remain classified under this heading even if specialised for a particular industry.
+Machine tools include slotting machines, drilling and boring machines, tapping machines, reaming machines and riveting machines.
+Counsel for the appellant produced before us a carburettor without being treated by the machine and another which has already been treated.
+He also produced a lead shot as also a nozle and indicated the drilling process which is carried on by the machine on the carburettor.
+We are of the view that the machine in question is indeed a multy purpose one and keeping its performance in view we are inclined to agree with the submission of the counsel for the appellant that the machine is a "machine tool working on metal" and should legitimately find its way into entry 84.45/48.
+Once it is so identified it does not get into the residuary entry.
+In our view the Collector had reached the correct conclusion.
+The appeal is allowed.
+The order of the Tribunal is vacated and that of the Collector is restored.
+Parties are directed to bear their own costs.
+N.V.K. Appeal allowed.

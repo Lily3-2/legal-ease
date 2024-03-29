@@ -1,0 +1,47 @@
+Civil Appeal No. 1282 of 1976.
+246 From the Judgment and Decree dated the 8th and 9th January 1976 of the Karnataka High Court in Misc.
+First Appeal No. 19 of 1973.
+K.N. Bhatt for the Appellant.
+K.C. Dua for the Respondent.
+The Judgment of the Court was delivered by CHANDRACHUD, C.J.
+This appeal by certificate of fitness arises out of the judgment of the Karnataka High Court dated January 9, 1976 in Misc.
+First Appeal No. 19 of 1973.
+On April 5, 1970, the appellant 's husband was driving a scooter, MYL 8574, on the Kasturba Road, Bangalore, when a goods truck, MYT 3298, knocked him dead.
+The owner of the truck had taken a statutory insurance policy with the respondent.
+The Premier Insurance Co. Ltd., Gandhinagar, Bangalore, which was operative from June 30, 1969 to June 29, 1970.
+The appellant filed an application before the Motor Accidents Claims Tribunal, Bangalore, under section 110 A of the , seeking compensation for her husband 's death.
+The respondent denied its liability on the ground, amongst others, that its record did not disclose that it had issued any insurance policy in respect of the particular truck.
+On a consideration of the entire evidence, the Tribunal passed an award on November 20, 1972, holding that the appellant was entitled to recover compensation in the sum of Rs. 60,000 for herself and her children.
+The Tribunal limited the liability of the respondent insurer to a sum of Rs. 50,000.
+The respondent filed an appeal in the High Court contending that on the date on which the insurance policy was alleged to have been issued by it, its statutory liability was limited to a sum of Rs. 20,000 only and, therefore, the Tribunal was in error in passing an award against it in the sum of Rs. 50,000.
+This contention was accepted by the High Court and hence this appeal by the claimant.
+Chapter VIII of the (The Act), bears the heading "Insurance of motor vehicles against third party risks".
+By section 94 (1) of the Act, no person can use a motor 247 vehicle in a public place, except as a passenger, unless there is in force in relation to the use of the vehicle a policy of insurance complying with the requirements of the chapter.
+Section 95 prescribes the requirements of the insurance policy and the "limits of liability" thereunder.
+Broadly, by sub section (1) of section 95, a policy of insurance must insure the person or classes of persons specified in the policy to the extent specified in sub section (2) against any liability which may be incurred by him or them in respect of the death of or bodily injury to any person caused by or arising out of the use of the vehicle in a public place.
+Section 95 (2) (a) of the Act, with which alone we are concerned in this appeal, was originally cast thus: "95 (2) Subject to the proviso to sub section (1), a policy of insurance shall cover any liability incurred in respect of any one accident upto the following limits, namely (a) where the vehicle is a vehicle used or adapted to be used for the carriage of goods, a limit of twenty thousand rupees.
+" This section was amended by Amendment Act 100 of 1956 which, inter alia, introduced therein the words "in all" after the words "twenty thousand rupees".
+We are not concerned with that amendment.
+What we are concerned with is the amendment made to clause (a) of section 95 (2) by the Motor Vehicles (Amendment) Act 56 of 1969, which substituted therein the word "fifty" for the word "twenty".
+Section 95 (2) (a) so amended reads thus: "95 (2) Subject to the proviso to sub section (1), a policy of insurance shall cover any liability incurred in respect of any one accident upto the following limits, namely: (a) where the vehicle is a goods vehicle, a limit of fifty thousand rupees in all. ." Thus, the insurer 's liability under the statutory policy was increased by this amendment from twenty thousand rupees to fifty thousand rupees.
+The amendment came into force on March 2, 1970.
+248 The question which arises for consideration is whether the insurer 's liability for third party risks under the statutory policy must be held to be limited to Rs. 20,000 according to the relevant legal provision as it existed on the date on which the policy came into force or, whether, that liability can be extended to Rs, 50,000 in accordance with the legal provision as it stood on the date of the accident, the accident having occurred during the currency of the policy.
+The relevant dates which have to be borne in mind in this behalf are these: The insurance policy came into force on June 30, 1969 and covered the period from June 30, 1969 to June 29, 1970; the amendment by which the statutory liability of the insurer was increased from Rs. 20,000 to Rs. 50,000 came into force on March 2, 1970, and the accident which gave rise to these proceedings occurred on April 5, 1970.
+The High Court, in its judgment, has referred to the principles governing retrospective of statutes and has held by the application of those principles that the amendment introduced by Amending Act 56 of 1969 is prospective in nature and cannot be given any retrospective effect.
+We consider that the High Court, with respect, has failed to appreciate the true nature of the issue before it.
+The certificate of insurance, Exhibit p.9, which was issued by the respondent 's agent on May 31, 1969 for the period June 30, 1969 to June 29, 1970 shows that the respondent insurer had undertaken "liability as the one under Chapter VIII of the ".
+That must mean liability as determinable under Chapter VIII at the relevant time, that is to say, at the time when the liability arises.
+Since the liability of the insurer to pay a claim under a motor accident policy arises on the occurrence of the accident and not until then, one must necessarily have regard to the state of the law obtaining at the time of the accident for determining the extent of the insurer 's liability under a statutory policy.
+In this behalf, the governing factor for determining the application of the appropriate law is not the date on which the policy of insurance came into force but the date on which the cause of action accrued for enforcing liability arising under the terms of the policy.
+That we consider to be a reasonable manner in which to understand and interpret the contract of insurance entered into by the insured and the insurer in this case.
+The contracting parties did not incorporate the provisions of Chapter VIII of the Act in their contract.
+That is to say, they did not identify the liability of the promisor on 249 the basis of the provisions of Chapter VIII as they stood on the date when the contract was made.
+They merely referred to the provisions of Chapter VIII, which means "the provisions of Chapter VIII in force at any given time", the given time being the date on which the right to sue accrues or, correspondingly, the liability arises.
+If the parties to a contract agree that one shall pay to the other damages for breach of contract in accordance with the law contained in any particular statute, without identifying the law as the provision which is in force on the date of the contract, the law which will apply for determining the quantum of damages is the one which is in force on the date on which the breach of contract is committed, that being the date on which the cause of action arises, and not the law which was in force on the date on which the contract was made.
+Thus, there is no question here, as the High Court thought, of giving retrospective operation to the amendment introduced by Amending Act 56 of 1969, by which the statutory liability of the insurer was increased from twenty thousand rupees to fifty thousand rupees with effect from March 2, 1970.
+That question would have arisen if the accident had happened prior to that date.
+The accident having happened on April 5, 1970, the question as to the extent of the insurer 's liability must be determined by the application of the law introduced by the Amendment which had come into force before the date of the accident.
+The application of a law to facts which come into existence after that law has come into force does not involve giving retrospective operation to the law, merely because the facts to which the law is being applied are relatable to a contract or an instrument which had come into operation prior to the date on which the law itself had come into force.
+We endorse the view taken by the Full Bench of the Karnataka High Court in Sanjiva Shetty section vs Anantha.(1) The Full Bench overruled the judgment which is under appeal in the instant case and held that the material date for ascertaining the extent of liability of the insurer is the date of the accrual of the cause of action for a claim arising out of an accident, which in general would be the date of the accident and therefore, the insurer 's liability arising out of an accident which happens after March 2, 1970, has to be 250 determined on the basis of the amended provisions of section 95 (2) (a) of the Act, even though the policy of insurance may have been issued prior to the date of the amendment, that is, prior to March 2, 1970.
+For these reasons, we set aside the judgment of the High Court, restore the award of the Tribunal dated November 20, 1972 and allow the appeal with costs throughout.
+N.V.K. Appeal allowed.

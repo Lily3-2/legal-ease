@@ -1,0 +1,38 @@
+A firm doing business in Bombay entrusted goods worth Rs. 35,500 the Railway for delivery in Delhi.
+The goods were consigned to "self" and the firm endorsed the railway receipts to a Bank against an advance of Rs. 20,000 made by the Bank to the firm.
+The firm also executed a promissory note in favour of the Bank for that amount.
+When the goods reached the destination, the Bank refused to take delivery, on the ground that they were not the goods consigned by the firm.
+The Bank, thereafter filed a suit for the recovery of the value of the goods.
+The trial court dismissed the suit.
+On appeal by the Bank, the High Court allowed the appeal and decreed the claim for Rs. 20,000 on the ground that as pledgee of the goods, the Bank suffered loss only to the extent of the loss of its security.
+Both the Bank and the Railway appealed to this Court, and it was contended on behalf of the Railway that the endorsement of the railway receipt in favour of the Bank, did not constitute a pledge of the goods covered by the receipt and that the Bank had no right to sue for compensation.
+HELD: (Per Subba Rao, Raghubar Dayal and Bachawat, J J): The firm by endorsing the railway receipts in favour of the Bank, for consideration.
+pledged the goods covered by the said receipts, to the Bank, and the Bank being the pledgee could maintain the suit for the recovery of the full value of consignment amounting to Rs. 35,500.
+[264 H; 265 D E] On a reasonable construction of section 178 of the Contract Act, 1872, sections 4 and 137 of the , and sections 30 and 53 of the Indian , an owner of goods, can make a valid pledge of them by transferring the railway receipt representing the said goods.
+To the general rule expressed by the Maxim nemo dat quod non habet (no one can convey a better title than what he had), to facilitate mercantile transactions.
+the Indian Law has grafted some exceptions, in favour of bonafide pledgees by transfer of documents of title from persons.
+whether owners of goods who do not possess the full bundle of rights of ownership at the time the pledges are made, or their mercantile agents.
+To confer a right to effect a valid pledge by transfer of document of title relating to goods on persons with defects in their title to the goods.
+and on mercantile agents, and to deny it to the full owners thereof, is to introduce an incongruity into the Act.
+On the other hand, the real intention of the legislature will be carried out if the said right is conceded to the Full owner of goods and extended by construction to persons with defects in their title to the goods or to mercantile agents.
+A pledge being a bailment of goods under section 172 of the Contract Act, the pledgee, as a bailee.
+will have the same remedies as the owner of the goods would have against a third person for deprivation of the said goods or injury to them under section 180 of the Act.
+[264 A C, H] 255 Ramdas Vithaldas Durbar vs
+section Amarchand and Co., (1916) L.R. 43 I.A. 164 and The Official Assignee of Madras vs The Mercantile Bank of India, Ltd. (1934) L.R. 61 I.A. 416, referred to.
+Per Mudholkar and Ramaswami JJ.
+(dissenting): There was no valid pledge of the consignments of goods represented by the railway receipt in favour of the Bank and the Bank was not entitled to sue the Railway for compensation for the loss of goods, relying upon the endorsements of the railway receipts in its favour.
+[272 G H] After the passing of the , the legal position with regard to the pledge of railway receipts, is exactly the same in Indian Law as it is in English Law, and consequently, the owner of the goods cannot pledge the goods represented by a railway receipt, by endorsing the railway receipt, unless the railway Authorities were notified of the transfer, and they agreed to hold the goods as bailee of the pledgee.
+Under the amended law a valid pledge can no longer be made by ever.v person "in possession" of goods.
+It can only be made by a mercantile agent as provided in section 178 of the Contract Act (after amendment in 2930) or by a person who has obtained possession of goods under a contract voidable under section 19 or section 19A of the Contract Act, as provided by section 178 0 the Act.
+or by a seller or buyer in possession of goods, after sale.
+as provided in section 30 of the Indian .
+[271 F G; 272 C D] Further, though a railway receipt and all other documents enumerated in section 2(4) of the are assimilated to bills of lading for the purpose of the right to stoppage in transit and a pledge under section 178 of the Contract Act, its legal position is the same as in English law, so that, no rights are created, merely by reason of the endorsement of a railway receipt by the consignee between the endorses and the railway company which had issued the receipt to the consignee the only remedy of the endorsee being against the endorser.
+The negotiation of the receipt may pass the property m the goods, but it does not transfer the contract contained in the receipt or the statutory contract under section 74E of the Indian Railways Act.
+Negotiability is a creature of a statute or mercantile usage, not of Judicial decisions apart from either.
+So, in the absence of any usage of trade or any statutory provision to that effect, a railway receipt cannot be accorded the benefits which flow from negotiability under the Negotiable Instruments Act, so as to entitle the endorsee, as the holder for the time being of the document of title, to sue the carrier the railway authority in his own name.
+If the claim of the Bank was as an ordinary assignee of the contract of carriage, then it had to prove the assignment.
+In the absence of proof of such assignment, or of the existence of any practice of merchants treating a railway receipt as a symbol of goods making a pledge of the receipt a pledge of goods, and in view of cl.
+(3) of the notice printed at the back of the receipt that an endorsement made on the face of the receipt by the consignee was only meant to indicate the person to whom the consignee wished delivery of goods to be made if he himself did not attend to take delivery, the Bank had no right to sue the Railway.
+[273 E G; 274 D G] Since the language of section 178 of the Contract Act is clear and explicit, if any hardship and inconvenience is felt because such a practice of treating the receipt as a symbol of goods were not recognised.
+it is for Parliament to take appropriate steps to amend the law and it is not for courts to legislate under the guise of interpretation.
+[275 G] 256

@@ -1,0 +1,103 @@
+Appeal No. 1164 of 1966.
+66 Appeal by special leave from the judgment and order dated September 27, 1965 of the Kerala High Court ' in O.P. No. 688 of 1965.
+D. Narsaraju, S.A.L. Narayana Rao, R.N. Sachthey and B.D. Sharma, for the appellant.
+The respondent did not appear.
+The Judgment of the Court was delivered by Grover, J.
+The short but important question which is involved in this appeal 'by special leave from a judgment of the Kerala High Court is whether the Appellate Income tax Tribunal has the power, under the relevant provisions of the Income tax Act, 1961, (hereinafter called the Act) to stay the recovery of the realization of the penalty imposed by the departmental authorities on an assessee during the pendency of an appeal before it.
+The assessee, who is the respondent, was imposed penalties in the sum of Rs. 18,000/ , 1,700/ and 14,000/ respectively in respect of the assessment years 1954 55, 1960 61 and 1961 62.
+These penalties were imposed .under section 271(1)(c) read with section 274(2) of the Act for concealment of particular income and furnishing inaccurate particulars.
+The assessee preferred appeals to the Income tax Appellate Tribunal and made an interim prayer for stay of collection of the penalties imposed.
+The Tribunal declined to order any stay holding that it had no power to grant such a prayer.
+The assessee then moved the High Court under article 226 of the Constitution.
+The High Court held that the Tribunal had the power to stay the proceedings as also the collection of the penalties pending the appeal since that power was incidental and ancillary to its appellate jurisdiction.
+The Tribunal was consequently directed to dispose of the stay application in accordance with law.
+The relevant provisions.
+of the Act may be first noticed.
+Section 156 provides that when any tax, interest, penalty, fine or any other sum is payable in consequence of any order passed under the Act, the Income tax Officer shall serve upon the assessee a notice of demand in the prescribed form specifying the sum so payable.
+Under section 220( 1 ) any amount specified in the notice of demand under section 156 has to be paid within 35 days of the service of the notice or within such lesser period as may be specified under the proviso to sub section
+If the amount is not paid within the period limited or extended (the assessee can ask for an extension) the assessee shall be deemed to be in default.
+Sub section (6) of section 220 provides that where an assessee has presented an appeal under section 246 the Income tax Officer may, in his discretion and subject to such conditions as he may think fit, treat the assessee as not being in default so long as the appeal .remains pending.
+67 Section 221 provides for the imposition of penalty when the assessee is in default.
+Sections 222 to 224 relate to the issuance of a certificate to the Tax Recovery Officer.
+Under section 225 the Income tax Officer can order stay of proceedings, even after the certificate has been issued to the Tax Recovery Officer.
+It may be mentioned that the last four sections in terms relate to recovery of tax, but by virtue of section 229 any penalty imposed is also recoverable in the same manner.
+Section 246 to which reference has been made in section 220(6) gives the appealable orders against which an assessee may appeal to the Appellate Assistant Commissioner.
+Appeals to the Tribunal are dealt with by sections 252 to 255.
+Section 252 provides merely for constitution of the Tribunal.
+Section 253 says that any assessee aggrieved by the orders set out in cls.
+(a), (b) and (c) of sub section
+(1) may appeal to the Tribunal.
+The Commissioner is also entitled to direct the Income tax Officer to file an appeal against the order of an Appellate Assistant Commissioner made under section 250.
+Section 254 specifies the orders which the Tribunal can make.
+Sub section (1 ) which is material may be reproduced below : "254.
+Orders of Appellate Tribunal. ( 1 ) The Appellate Tribunal may, after giving both the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit.
+" Section 255 gives the procedure of the Appellate Tribunal.
+Subsections (5) and (6) of this section need alone be noticed.
+"255 (1) . . . . . (2) (3) (4) (5) Subject to the provisions of this Act, the Appellate Tribunal shall have power to regulate its own procedure and the procedure of Benches thereof in all matters arising out of the exercise of its powers or of the discharge of its functions, including the places at which the Benches shall hold their sittings.
+(6) The Appellate Tribunal shaH, for the purpose of discharging its functions, have all the powers which are vested in the Income tax authorities referred to in section 131, and any proceeding before the Appellate Tribunal shall be deemed to be a judicial proceeding within the meaning of sections 193 and 68 228 and for the purpose of section 196 of the Indian Penal Code (XLV of 1860) and the Appellate Tribunal shall be deemed to be a civil court for all the purposes of section 195 and Chapter XXXV of the Code of Criminal Procedure, 1898 (V of 1898).
+" Section 131 may at this stage be referred to.
+It gives to the Income tax Officer, the Appellate Assistant Commissioner and the Commissioner the same powers as are vested in the court under the Code of Civil Procedure when trying a suit in respect of the matters specified in the section.
+But these powers relate to discovery and inspection; enforcing the attendance of witnesses; compelling production of books of account etc.; issuing commissions and allied matters.
+There can be no manner of doubt that by the provisions of the Act or the Income tax Appellate Tribunal Rules, 1963 powers have not been expressly conferred upon the Appellate Tribunal to stay proceedings relating to the recovery of penalty or tax due from an assessee.
+At the same time it is significant that under section 220 (6) the power of stay by treating the assessee as not being in default during the pendency of an appeal has been given to the Income tax Officer only when an appeal has been presented under section 246 .which will be to the Appellate Assistant Commissioner and not to the Appellate Tribunal.
+There is no provision in section 220 under which the Income tax Officer or any of his superior departmental officers can be moved for granting stay in the recovery of penalty or tax.
+It may be that under section 225 notwithstanding that a certificate has been issued to the Tax Recovery Officer for the recovery of any tax (the position will be the same with regard to penalty) the Income tax Officer may grant time for the payment of the tax.
+In this manner he can probably keep on granting extensions until the disposal of the appeal by the Tribunal.
+It may also be that as a matter of practice prevailing in the department the Commissioner or the Inspecting Assistant Commissioner in exercise of administrative powers can give the necessary relief of staying recovery to the assessee but that can hardly be put at par with a statutory power as is contained in section 220(6) which is confined only to the stage of pendency of an appeal before the Appellate Assistant Commissioner.
+The argument advanced on behalf of the appellant before us that in the absence of any express provisions in sections 254 and 255 of the Act relating to stay of recovery during the pendency of an appeal it must be held that no such power can be exercised by the Tribunal, suffers from a fundamental infirmity inasmuch as it assumes and proceeds on the premise that the statute confers such a power on the Income tax Officer who can give the necessary 69 relief to an assessee.
+The right of appeal is a substantive right and the questions of fact and law are at large and are open to review by the Appellate Tribunal.
+Indeed the Tribunal has been given very wide powers under section 254(1) for it may pass such orders as it thinks fit after giving full hearing to both the parties to the appeal.
+If the Income tax Officer and the Appellate Assistant Commissioner have made assessments or imposed penalties raising very large demands and if the Appellate Tribunal is entirely helpless in the matter of stay or recovery the entire purpose of the appeal can be defeated if ultimately the orders of the departmental authorities are set aside.
+It is difficult to conceive that the Legislature should have left the entire matter to the administrative authorities to make such orders as they choose to pass in exercise of unfettered discretion.
+The assessee, as has been pointed out before, has no right to even move an application when an appeal is pending before the Appellate Tribunal under section 220 (6 ) and it is only at the earlier stage of appeal before the Appellate Assistant Commissioner that the statute provides for such a matter being dealt with by the Income tax Officer.
+It is a firmly established rule that an express grant of statutory.
+power carries with it by necessary implication the authority to use all reasonable means to make such grant effective (Sutherland Statutory Construction, Third Edition, articles 5401 and 5402).
+The powers which have been conferred by section 254 on the Appellate Tribunal with widest possible amplitude must carry with them by necessary implication all powers and duties incidental and necessary to make the exercise of those powers, fully effective.
+In Domat 's Civil Law Cushing 's Edition, Vol. 1 at page 88, it has been stated: "It is the duty of the Judges to apply the laws, not only to what appears to be regulated by their express dispositions, but to all the cases where a just application of them may be made, and which appear to be comprehended either within the consequences that may be gathered from it." Maxwell on Interpretation of Statutes, Eleventh Edition, contains a statement at p. 350 that "where an Act confers a jurisdiction, it impliedly also grants the power of doing all such acts, or employing such means, as are essentially necessary to its execution.
+Cui jurisdiction data est, ea quoque concessa esse videntur, sine quibus jurisdiction explicari non potuit.
+" An instance is given based on exhibit parte Martin(x) that "where an inferior court is empowered to grant an injunction, the power of punishing disobedience to it by commitment is impliedly conveyed by the enactment, for the power would be useless if it could not be enforced." (1) , 491. 70 The High Court in the present case has referred to certain decisions under the Motor Vehicles Act in which the question arose whether an interim order of stay could be passed although section 64(2) of the Motor Vehicles Act as amended did not expressly confer a power on the authority to pass such an order.
+It was held in those cases that the power to stay was a necessary corollary to the power to entertain an appeal or revision: Swarnambikar Motor Service vs Wahite Motor Service(D; Themmalpuram Bus Transport Ltd. vs The Regional Transport Officer, Malabar(2).
+The full bench decision in Dharmadas vs State Transport Appellate Tribunal(3) related to the question whether a remand could be ordered in exercise of appellate jurisdiction under section 64 of the Motor Vehicles Act in the absence of any express power to that effect existing in the statute.
+It was held that the power to remand was incidental to and implicit in the appellate jurisdiction created by section 64.
+According to the decision in the Burhanpur Tapti Mill Ltd. vs The Board of Revenue, Madhya Pradesh & Ors.
+(4), since the Board of Revenue had the power to adjudge the correctness of an order passed by the Commissioner under section 22B reopening an assessment the Board had also the power to stay the fresh assessment proceedings started by the Assistant Commissioner in pursuance of that order.
+It was said that the general principle was that in a taxing statute there was no room for what could be called the equitable construction, but that principle applied only to the taxing part of the statute and not to the procedural part.
+It has further been observed that "where the legislature invests an Appellate Tribunal with powers to prevent an injustice, it impliedly empowers it to stay the proceedings which may result in causing further mischief.
+" It is well known that an Income tax Appellate Tribunal is not a court but it exercises judicial powers.
+The Tribunal 's powers in dealing with appeals are of the widest amplitude and have in some cases been held similar to and identical with the powers of an appellate court under the Civil Procedure Code.
+(See Commissioner of Income tax, Bombay City vs Hazarimal Nagji & Co.(5) and New India Assurance Co. Ltd. vs Commissioner of Income tax, Excess Profits, Bombay City(6).
+In Polini vs Grey(7), this is what Jessel M.R. said about the powers of the Court of Appeal to.
+grant stay at page 443: "It appears to me on principle that the Court ought to possess that jurisdiction, because the principle which underlies all orders for the preservation of property pending litigation is this, that the successful party, is to Shortnotes (1956) 2M.L.J. 12.
+(2) A.I.R. 1957 Kerala.
+(3) [1962] Kerala L.J. 1133.
+(4) (1955) 6 S.T.C. 670.
+(5)46 I.T.R. 1168.
+(6) 31 I.T.R. 844.
+(7) 71 reap the fruits of that litigation, and not obtain merely a barren success.
+That principle, as it appears to me, applies as much to the Court of first instance before the first trial, and to the Court of Appeal before the second trial, as to.
+the Court of last instance before the hearing of the final appeal".
+There are certain decisions, however, in which difficulty was felt that the Appellate Tribunal did not possess the power to stay recovery during the pendency of an appeal.
+In Vetcha Sreeramamurthy vs The Income tax Officer Vizianagram & Another(1), the assessee had to file a writ petition because the realisation of the tax assessed had not been stayed during the pendency of an appeal before the Tribunal.
+The controversy centred in that case mainly on the scope of the discretionary power conferred by section 45 of the Indian Income tax Act, 1922, on the Income tax Officer.
+It was held that a writ petition to compel the Income tax Officer to exercise his discretion under section 45 or to exercise it honestly and, objectively was not barred.
+But on the merits the Court declined issue a writ.
+Viswanatha Sastri J., in his separate judgment made the following observations at page 271: "Lastly it has to 'be observed that section 45 of the Income tax Act is somewhat cryptic in its terms and merely gives the Income tax Officer power to declare a person to be not in default pending the appeal.
+There is no provision for stay similar to Order XLI, Rules 5 & 6, of the Civil Procedure Code.
+There is no conferment of an express power of granting a stay of realisation of the tax, though the effect of an order in favour of the assessee under section 45 of the Act is a stay.
+Nor is there a provision for allowing the tax to be paid in instalments or for taking security for deferred payment.
+Neither the Appellate Assistant Commissioner nor the Appellate Tribunal is given the power to stay the collection of tax.
+Whether the law should not be made more, liberal so as to enable an assessee who has preferred an appeal, to obtain from the appellate forum, a stay of collection of the tax, either in whole or in part, on furnishing suitable security, is a matter for the legislature to consider.
+" It is interesting that in another case Pollisetti Narayana Rao vs Commissioner of Income tax, Hyderabad(2), the same High Court held that stay could be granted by it pending reference of a case by the Appellate Tribunal to the High Court.
+This power the High Court had under section 151 of the Civil Procedure Code and under article 227 of the Constitution.
+(1) (2) 72 The High Court, in the present case, referred to a passage from Halsbury 's Laws of England, 3rd Edition, Vol. 20, p. 705 where it is stated that "no tax is payable while the assessment is the subject matter of an appeal except such part of the tax assessed as appears to the Commissioners seized of the appeal not to be in dispute.
+" This statement is apparently based on the provisions of the English Statutes and it is not possible to derive any assistance from it.
+Section 255(5) of the Act does empower the Appellate Tribunal to regulate its own procedure, but it is very doubtful if the power of stay can be spelt out from that provision.
+In our opinion the Appellate Tribunal must be held to have the power to grant stay as incidental or ancillary to its appellate jurisdiction.
+This is particularly so when section 220(6) deals expressly with a situation when an appeal is pending before the Appellate Assistant Commissioner, but the Act is silent in that behalf when an .appeal is pending before the Appellate Tribunal.
+It could well be said that when section 254 confers appellate jurisdiction, it impliedly grants the power of doing all such acts, or employing such means, as are essentially necessary to its execution and that the statutory power carries with it the duty in proper cases to make such orders for staying proceedings as will prevent the appeal if successful from being rendered nugatory.
+A certain apprehension may legitimately arise in the minds of the authorities administering the Act that if the Appellate Tribunals proceed to stay recovery of taxes or penalties payable by or imposed on the assessees as a matter of course the revenue will be put to great loss because of the inordinate delay in the disposal of appeals by the Appellate Tribunals.
+It is needless to point out that the power of stay by the Tribunal is not likely to be exercised in a routine way or as a matter of course in view of the special nature of taxation and revenue.
+It wilt only be when ' a strong prima facie case is made out that the Tribunal will consider whether to stay the recovery proceedings and on what conditions and the stay will be granted in most deserving and appropriate cases where the Tribunal is satisfied that the entire purpose of the appeal will be frustrated or rendered nugatory by allowing the recovery proceedings to continue during the pendency of the appeal.
+For all the reasons given above, the appeal fails and it is hereby dismissed.
+But in view of the entire circumstances the parties are left to bear their own costs.
+V.P.S. Appeal dismissed.

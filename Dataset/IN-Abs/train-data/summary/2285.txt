@@ -1,0 +1,74 @@
+Under s.10(1) of the Central Provinces and Berar Sales Tax Act 1947 every dealer required so to do by the Commissioner by notice, and every registered dealer, shall furnish such returns by such dates and so such authority as may be prescribed, and r.19 of the Rules framed under the Act provides that every registered dealer should furnish quarterly returns accompanied by a treasury challan in proof of payment of the tax payable.
+If the registered dealer does not so furnish his return, the Commissioner may, after giving the dealer a reasonable opportunity assess him to the best of his judgment (4)(a).
+Under s.11(4) (a).
+Rule 32 prescribes that ordinarily not less than 30 days notice should be given to an assessee for submitting his explanation before action is taken under s.11(4)(a).
+In 1953, s.11A was added to the Act.
+Under s.11A(1) if in consequence of any information which has come into his possession, the other Commissioner is satisfied that any turnover of a dealer has escaped assessment, the Commissioner may, within three calendar years from the expiry of such period, after giving the dealer a reasonable opportunity of being heard, proceed to re assess the tax payable on any such turnover and also direct the dealer to pay a penalty.
+In 1959, s.11A(3) was added by which, nothing in s.11A(1) shall apply to any proceeding including any notice under s.11, that is, the period of limitation of 3 years mentioned in s.11A(1) shall not apply to a proceeding under s.11(4)(a) on best judgment basis.
+The appellants were registered dealers.
+Their assessment year was from 1st November to 31st October.
+They submitted their quarterly returns upto 30th April 1952.
+Since no returns were submitted thereafter, on 13th September 1955, the assessing authority issued a notice with respect to the period 1st January 1953 to 31st December 1953 calling upon them to show cause why action should not be taken against them under s.11(4) (a).
+A similar notice was issued on 27th October 1955 for the period 1st January 1954 to 31st December 1954, and on 7th July 1956, for the period 1st January 1955 to 31st December 1955.
+The appellants repeatedly took time for submitting their explanation.
+In 1958, fresh notices were issued for L/P(N) 7SCI (3)(a) 662 the calendar years1952 to 1955 and the appellants raised the objection, for the first time, that their assessment year was not the calendar year, but 1st November to 31st October.
+In view of that objection, the first respondent issued another set of notices on 8th July 1959 for the periods 1st May 1952 to 31st October 1952, 1st November 1952 to 31st October 1953, 1st November 1953 to 31st October 1954 and 1st November 1954 to 31st October 1955 respectively.
+The appellants contended that those notices were barred by the 3 year period of limitation under s.11A(1), but the assessing authority assessed the appellants on best judgment basis under section 11 (4) (a).
+The appellants thereupon filed writ petitions in the High Court challenging the validity of the notices and the order of assessment, but the petitions were dismissed.
+In appeals to this Court, the appellant contended that: (1) Section 11(4), (a) read with s.11A(3) contravenes article 14 of the Constitution, because, a registered dealer who had failed to submit his return could be proceeded against either under s.11(4)(a) or s.11A(1), but, whereas s.11A(1) provides a 3 year period of limitation, a proceeding under section 11(4)(a) could be initiated at any time in view of s.11A(3); (2) the notices of 1959 were barred by time; and (3) the notices of 1955 and 1956 were not valid, because, (a) the issue of one notice for several quarters was contrary to law, (b) that portion of the printed notice which said that the appellants had failed to furnish the return as required by a notice in that behalf served on them under s.10(1) did not apply to the appellants as no notice under s.10(1) had been given to them, (c) the assessment year mentioned in the notice was the calendar year which was not the assessment year of the appellants, and (d) though r. 32 provides that ordinarily not less than 30 days notice should be given to the assessee for submitting his explanation, the first notice gave to the appellants only 9 days time.
+Held: (Per Wanchoo C. J., Mitter and Hegde, JJ.) (1) Section 11(4) (a) is void as it is violative of article 14.
+The expression 'dealer ' in s.11A(1) includes both registered and unregistered dealers, and it cannot be contended that dealers are classified into registered and unregistered dealers, the former coming under s.11(4)(a) and the latter under s.11A(1).
+To be a valid classification, it must not only be founded on an intelligible differential which distinguishes persons and things that are grouped together from others left out of the group, but that differentia must have a reasonable relation to the object sought to be achieved.
+In the present case, both s.11(4)(a) and section 11A(1) are concerned with taxing escaped assessments, and judged from this object sought to be achieved by the Act, the classification of dealers into registered and unregistered dealers is not reasonable.
+Therefore, even registered dealers are covered by section 11A(1).
+As the 'information ' contemplated by s.11A(1) need not be from outside sources but could be gathered by the assessing authority from his own records, his knowledge of the facts that the appellants had not submitted quarterly returns and treasury challans and that they were notassessed to tax with respect to the turnovers in question constituted 'information ' to the assessing authority from which he could be satisfied that the turnovers had escaped assessment.
+It would thus be open to the assessing authority to proceed against the appellants either under s.11(4)(a) or s.11A(1).
+But as they were proceeded against under section 11(4)(a), they could not get the benefit of the limitation prescribed under section 11A(1).
+It follows that section 11(4)(a) has become a discriminatory provision in view of section 11A(3), [672 B; 674 D E; 675 H; 676 A G].
+663 Ghanshyam Das vs Regional Assistant Commissioner of Sales tax, Nagpur ; and Suraj Mall Mohta & Co. vs A, V. Visvanatha Sastri & Anr. ; , followed.
+Maharaj Kumar Kamal Singh vs Commissioner of Income tax, Bihar & Orissa [1959] Supp. 1 S.C.R. 10, Commissioner of Incometax, Bombay City vs M/s. Narsee Nagsee & Co. Bombay, Salem Provident Fund Society Ltd. vs C. I, T. Madras, and United Mercantile Co. Ltd. vs Commissioner of Income tax, Kerala, referred to.
+(2) But s.11(4)(a) is severable from the rest of the Act and its severance does not affect the implementation of the other provisions of the Act.
+Therefore, the validity of the notices should be tested under s.11A(1).
+So tested, the notices of 1959 are all barred by the 3 year period of limitation.
+[676 G H].
+(3) Since there was no valid notice for the period 1st May 1952 to 31st October 1952, there could be no assessment in respect of that period.
+As regards the quarter 1st November 1952 to 31st January 1953 also, there was no valid notice.
+The notice issued on 13th September 1955, no doubt refers to the period 1st January 1953 to 31st January 1953, but that is only a part of the quarter.
+As a quarter is a unit in itself and there should be a notice for the entire quarter, the proceeding in respect of the quarter from 1st November 1952 to 31st January 1953 is also barred by limitation [677 E F].
+But the notices issued in 1955 and 1956 are valid notices in so far as they relate to the period 1st February 1953 to 31st October 1955.
+Any irregularity in the issue of the notices does not vitiate the proceeding, because, the liability to pay tax is founded on the charging sections.
+[680 B C].
+Chatturam & Ors.
+vs C.I.T. Bihar, ; , applied.
+Further, (a) The issue of one notice for several quarters is not contrary to law.
+[678 E].
+State of Orissa and Anr.
+vs M/s. Chakobhai Chelabhai & Co. ; , followed.
+(b) The assessing authority, by mistake, had failed to strike out the portion in the printed form which was inapplicable to the appellants who were registered dealers and on whom no notice need be served to furnish a return.
+But this circumstance could not have prejudiced the appellants and such a mistake does not vitiate the notice.
+[678 H].
+Chakobhai Chelabhai 's case; , , followed.
+(c) The mistake as regards the assessment year in the notices does not render the notices invalid.
+The assesses deliberately kept silent and when they felt that the period of limitation prescribed by section 11A had expired, brought the fact to the notice of the authority.
+The assesses were not prejudiced and could not be permitted to take advantage of such a mistake.
+[679 G H].
+(d) Rule 32 prescribes that ordinarily 30 days ' notice should be given.
+Therefore, the period is not mandatory.
+All that ss.11(4) and 11A require is that an assessee should be given a reasonable opportunity before he is proceeded against.
+Since, in the present 664 A case, the appellants appeared before the assessing authority and did not object to the validity of the notices but asked for sub mitting their explanation, and as the time asked for was given, the appellants had a reasonable opportunity, for submitting their explanation.
+[679 D G].
+(Per Bachawat and Ramaswami JJ.) (1) Section 11(4) is not violative of article 14.
+Construing ss.11(4)(a) and 11A(1) together it must be held that cases falling within s.11(4)(a) are excluded from the purview of S.11A(1).
+Section 11(4)(a) specially provides for the initiation of proceedings against a registered dealer.
+Having made this special provision, the legislature must be taken to have intended that the sales tax authorities must proceed against.
+a registered dealer under s.11(4)(a) and not under s.11A(1).
+[683 C B].
+The classification and differential treatment of registered and unregistered dealers are based on substantial difference having a reasonable relation to the object of the Act.
+The legislature did not prescribe a period of limitation for a proceeding initiated under section 11(4)(a) against a registered dealer, because, (i) the registered dealer is under a statutory obligation to file a return, (ii) no penalty is leviable under s.11(4) and (iii) the registered dealer is given many advantages under the Act which are denied to an unregistered dealer.
+Therefore, the bar of limitation in the case of an unregistered dealer and the absence of such a bar in the case of a registered dealer cannot be regarded as unjust or discriminatory.[684 B, G H].
+Ghanshyam Das vs Regional Assistant Commissioner of sales Tax Nagpur, [1964]4 S.C.R. 436, Maharaj Kumar Kamal Sing vs Commissioner of Income tax, Bihar & Orissa, [1959] Supp. 1 S.C.R. 10 and Commissioner of Income tax vs Narsee Nagsee & Co. , explained.
+(2) Section 11A(3) expressly provides that nothing in section 11 A(1) shall apply to any proceeding including any notice under section 11 and the section is retrospective.
+It follows that the period of limitation provided by s.11A(1) cannot be applied to a proceeding or notice under section 11(4).
+Consequently, the impugned notices of 1959, issued under s.11(4) are not barred by limitation and are not invalid [682 H; 683 A].
+Ghanshyam Das 's Case; , , referred to (3) Even the notices issued in 1955 and 1956 initiated proceedings validly under section 11(4) for the period from 1st February 1953 to 31st October 1955, as the irregularities in the notices did not invalidate them.
+[685 B C].

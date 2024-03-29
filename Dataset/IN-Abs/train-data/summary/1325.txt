@@ -1,0 +1,28 @@
+The appellant companies which were carrying on business in Calcutta in petroleum and petroleum products maintained supply depots at Dum Dum Airport from which motor spirit for B the purposes of aviation was sold and delivered to aircraft which either proceeded to foreign countries directly from that Airport or did so ultimately, though landing en route at some place or places in the Indian territory.
+Dum Dum Airport was a customs aerodrome and all aircraft coming into it or leaving it had to comply with ordinary customs formalities.
+The sales tax authorities of West Bengal sought to levy tax on the sales of motor spirit as aforesaid under the provisions of the Bengal Motor Spirit Sales Taxation Act, 1941, as amended.
+The appellant companies claimed that the sales were exempted from taxation under both the clauses (a) and (b) of article 286(i) of the Constitution of India on the grounds (i) that the sales in question had taken place outside the State of West Bengal, as they did not .come within the Explanation to article 286(1)(a), (2) that aviation spirit was delivered outside the customs barrier and therefore the sales were outside the State, and (3) that the sales had taken place in the course of export, as aviation spirit was taken out of the territory of India.
+Held: (i) that by sale in article 286(i)(a) is meant a completed transaction by which property in the goods passes.
+Before property in the goods passes the contract of sale is only executory and the buyer has only a chose in action.
+The taxable event is not to be found at an earlier stage because the critical taxable event is the passing of property.
+The Explanation to cl.
+(1) of article 286 was added to avoid, among other things, multiple taxation of the same transaction.
+It indicates the State where the tax can be levied and also the State where it cannot.
+It achieves it by excluding from consideration the place where the property in the goods passed according to the law relating to sale of goods.
+The non obstante clause establishes this.
+By the fiction created by the Explanation a sale is deemed to have taken place in the State where the goods are delivered as a direct result of the sale for purposes of consumption in that State.
+Where there are more States than one involved, any State claiming to tax a sale by reason of something anterior to the passing of property would not be able to claim that the sale took place there unless it was also the State of delivery.
+The Explanation is meant to explain the Article and must be interpreted according to its tenor and the Explanation is not to be explained with the aid of the Article because that would reverse their roles.
+The Explanation is not applicable unless there are more States than one involved.
+The State of Bombay vs The United Motors (India) Ltd., , State of Travancore Cochin vs Shanmugha Vilas Cashewnut Factory, ; , Ramnayain Sons Ltd. vs Asst.
+904 Commissioner of Sales Tax; , and The Bengal Immunity Company Ltd. vs The State of Bihar, [1955] 2 S.C.P. 603, considered.
+(2) that to exclude the power of taxation of the State of West Bengal under article 286(i)(a), read with the Explanation, the appellant companies must be able to point out some other State where the goods could be said to have been delivered as a result of the sale for the purpose of consumption in that other State, and that where, as in the present case, aviation spirit was delivered to the aircraft, there was no such rival State, and therefore, the ban contained in article 286(i)(a) and the Explanation, did not apply.
+(3) that in the phrase " in the course of export out of the territory of India " in article 286(i)(b) the word " export " does not merely mean 'taking out of the country '.
+Export here means that the goods are being sent to a foreign destination at which the goods can be said to be imported.
+In the Article the notions of import and export go in pairs.
+State of Travancore Cockin vs The Bombay Co. Ltd., ; and State of Travancore Cochin vs Shanmugha Vilas Cashew Nut Factory, ; , relied on.
+(4) that aviation spirit loaded on board the aircraft for consumption, though taken out of the country, was not exported since it had no destination where it could be said to be imported.
+The sales in question could not, therefore, be said to have occasioned the export, nor were they in the course of export.
+Accordingly, article 286(i)(b) was not applicable.
+(5) that the sales must be treated as made within the State of West Bengal.
+The customs barrier did not set a terminal limit to the territory of West Bengal for the purposes of sales tax, and the sales, though beyond the customs barrier, were still within the territory of the taxing State.

@@ -1,0 +1,39 @@
+Under section 10(2) of the , where an insurer carries on the business of life insurance, all receipts due in respect of such business shall be carried to and form a separate fund called the life insurance fund.
+Section 11 (c) provides for keeping a revenue account in Form D of the Third Schedule, which applies to life insurance business also.
+This account, on the receipt side, has mainly income from premiums and out of investments from life fund and, on he expenditure side, all expenses and bad debts connected with the life business.
+A balance is struck after taking into account the balance of the fund at the beginning of the year and after making some adjustments and transfers, and the "life insurance fund" is arrived at.
+Form 1 of the Fourth Schedule to the , provides for determining the surplus or deficit, which is the difference between the net liability in business determined by actuarial valuation of policies in force and the Life Insurance Fund.
+If there is a surplus, section 49(1) of the provides, that 712 1/2 % of the surplus shall be allocated to shareholders, and the balance shall remain in the fund for policy holders.
+When transfer of life insurance business from the life insurance companies to the Life Insurance Corporation took place, a provision had to be made for carrying out the effect of s.49(1).
+That provision was made in Cl.
+(d) of para.
+4 of Part B of the First Schedule to the , according to which, where there is surplus in the life insurance fund, as a result of the actuarial valuation of policy liabilities under Cl.
+(b) of the same Para.
+4, 96 % of such surplus shall be shown as a liability, that is, 96% of that surplus shall go to the Corporation in order to meet the liabilities, and to that extent the compensation to be paid to the insurance company would be reduced.
+Part B applies to those insurers, who, having a surplus in Form 1 have not allocated the whole or any part of such surplus to policy Holders, and also provides, how compensation is to be paid to companies who had no surplus as disclosed in Form T.
+In the latter case, that is, if there was a deficit in Form 1, there could be no allocation to the policy holders under s.49(1) of the , and there would be no liability under Cl.
+On the taking over of the business of the respondent, a life insurance company incorporated in Canada, by the appellants, under the , the respondent claimed Rs. 27 lacs and odd as compensation.
+The respondent contended that the words "life insurance fund" in Cl.
+(d) referred to above had the same meaning as those words in the , and since there was deficit in its working as shown by Form 1.
+no amount was to be deducted as liability under Cl.
+The appellant was prepared to Day only Rs. 1 lac and odd, on the basis that, the words "life insurance fund" in Cl.
+(d) meant the difference between the total assets and the liabilities 475 under Cls.
+(a) and (c) and since there was a surplus of Rs. 27 lacs 'And odd, a sum of Rs. 26 lacs and odd, forming, 96% of it, was to be debited towards the liabilities of the respondent.
+The Insurance Tribunal accepted the respondent 's contention and awarded the compensation claimed by it.
+In its appeal to this Court, the appellant contended that: (i) the words "life insurance fund" under the have more than one meaning under that Act, and therefore it was not possible to give the meaning, claimed by the respondent, to those words in Cl.
+(d) under the Corporation Act, and (ii) even if those words have only one meaning under the , they have a different meaning under the Cl.
+HELD: (i) A combined reading of sections 10(2), 11 and 13 of the and Form D of the Third Schedule and Form 1 of the Fourth Schedule to the , shows, that the words "life insurance fund", "surplus" and "deficit" have only the definite meaning set out above, as contended by the respondent.
+[480B C] The contention, that the words "life insurance fund" have different meanings in sections 56(2) and 58(3), and in regulation 7 of of the First Schedule to the , has no force, because when the marginal note of section 56(2) refers to surplus assets of life insurance fund it means in reality the surplus to be found in Form 1 and the same applies to section 58(3); and as regards regulation 7, the plural is used in the words "life insurance funds" merely due to exigencies of grammar.
+[46OF: 481D E F G] It cannot be said that because section 27(1) of the lays down that an insurer is required to keep certain sums invested to meet his liabilities mentioned therein, the entire assets of the insurer are security for the policy holders and not merely the life insurance fund.
+This section only provides that when life insurance fund shows a deficit in Form 1 it would be the duty of the insurer to see that he has further assets to cover the deficit, and that these assets are always kept invested in accordance with the ; but the section does not provide that the assets brought in to cover the deficit would become part of the life insurance fund.
+It is only such moneys which are included in the revenue account, Form D, and which are not of a capital nature that form part of the life insurance fund.
+Since, in the instant case the business of the respondent in India had admittedly shown a deficit in Form 1, and the funds brought in by the respondent from outside to cover the deficit were never put in the revenue account, they were never made part of the life insurance fund, though they remained vested in a trustee under section 27(6) of the .
+[48 2B G] (ii) The Tribunal was right in its conclusion that the words "life insurance fund" as used in Cl.
+(d) of the aforesaid fourth paragraph have the same meaning as that given to them in section 10(2) of the read with section 11 and Form D of the Third Schedule to the .
+[483H] When Cl.
+(d) speaks of the life insurance fund being in surplus that surplus has to be determined in accordance with Form 1 subject to certain modifications indicated in Part B of the Corporation Act.
+The context.
+therefore, instead of showing that there is any other meaning of the words "life insurance fund" in Cl.
+(d), shows that they have the same meaning in that clause as in Form J. [485D, E] Section 35(1) and (2) of the Corporation Act also point to the same conclusion.
+because, these provisions show that where the legislature intended to refer to all the assets and liabilities it said so in terms and did not use the words "life insurance fund", Besides, if these 476 words were given the meaning for which the appellant contended, there would be an inconsistency between Cl., (d) and section 35, in that, the insurer would get away with a much larger amount if he applied for repatriation of excess assets under section 35, and would get a much smaller amount if he did not choose to apply under the section, a result which the legislature could not have intended.
+Moreover, the share capital of an insurance company cannot obviously form ptrt of the life insurance fund; but on the interpretation urged on behalf of the appellant, even 96% of the share capital may be lost to an insurance company, as part of the life insurance fund in conceivable,, circumstances, [486A C, F; 487G].

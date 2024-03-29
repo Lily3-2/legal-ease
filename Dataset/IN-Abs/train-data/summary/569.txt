@@ -1,0 +1,43 @@
+The appellant company, carrying on business as manufacturer of iron and steel, with its factory and works at Jamshedpur in Bihar, was assessed to sales tax for two periods prior to the Constitution, under the Bihar Sales Tax Act, 1947 (No. XIX Of 1947), enacted by the Bihar Legislature in exercise of its exclusive power under the Government of India Act, 1935.
+The company used to send its goods from Jamshedpur to various parts of India.
+In the railway receipt the company itself figured as the consignee, it paid the freight and the receipt was sent either to its branch offices or bankers to be handed over to the purchaser when he paid the price.
+From the amounts shown as gross turn over in the two returns for the two periods, the company claimed deduction of certain amounts, being the valuable consideration for the goods manufactured in Bihar but sold, delivered and consumed outside, on the ground that in none of the transactions in respect of the said sums did property in the goods pass to the purchasers in Bihar.
+The appellant claimed further deductions on account of the railway freight paid by it.
+The Sales Tax Officer disallowed both the claims and added the amounts of sales tax realised by the appellant from its purchasers to the taxable turnover.
+The company appealed against the orders of assessment, but the Commissioner of Sales Tax dismissed its appeals.
+The Board of Revenue, in revision, confirmed the orders of the Commissioner with certain modifications and remanded the matters to the Sales Tax Officer.
+On the appellant 's application for reference of certain questions of law, the Board referred them to the High Court.
+One of them related to the legality of adding the Sales Tax to the turn over and was answered in favour of the appellant and the respondent did not appeal.
+The other questions decided by the High Court against the appellant related to the vires of the Act and the validity of retrospective levy of sales tax under section 4(1) of the Act.
+The appellant 's contentions in the appeals were that the tax levied under section 4(1) read with section 2(g) second proviso, cl.
+(II), of the Act, was not a sales tax within the meaning of Entry 48 in List II of the Seventh Schedule to the Govern ment of India Act, 1935, but was in the nature of excise duty 172 1356 which a provincial legislature had no power to impose, that the theory of territorial nexus was inapplicable to sales tax and, in any case, there was no real or sufficient nexus in the present cases and that retrospective levy of the sales tax under section 4(1) Of the Act destroyed the indirect nature of the tax, thus making it a direct tax on the dealer which could not be passed on to the consumer: Held, (per Das, C. J., Venkatarama Aiyar, section K. Das and A.K. Sarkar, jj., Bose, J. dissenting), that the contentions raised on behalf of the appellant must be negatived.
+The provisions of section 4(1) read with section 2(g), second proviso, of the Bihar Sales Tax Act, as amended by the Bihar Sales Tax (Amendment) Act, 1948, (VI Of 1949), were within the legislative competence of the Legislature of the Province of Bihar.
+Both before and after the amendment, the word 'sale ' as used in section 4(1) and as defined by section 2(g) of the Act, meant the transfer of property in the goods sold.
+The second proviso added by the amending Act did not extend that meaning so as to include a contract of sale.
+What it actually did was to lay down certain circumstances in which a sale, although completed elsewhere, was to be deemed to have taken place in Bihar.
+Those circumstances did not constitute the sale, but only located the situs of the sale.
+Sales Tax Officer, Pilibhit vs Messrs. Budh Prakash jai Prakash; , , distinguished.
+Nor was it correct to contend that the tax levied under section 4(1) read with section 2(g) Of the Act was in the nature of excise duty.
+Under cl.
+(ii) of the second proviso to section 2(g) of the Act the producer or manufacturer became liable to pay the tax not because he produced or manufactured the goods but because he sold them.
+Province of Madras vs Boddu Paidanna and Sons, [1942] F.C.R. go and Governor General vs Province of Madras, (1945) L.R. 72 I.A. 91, referred to.
+There can be no doubt that the theory of territorial nexus does apply to sales tax legislation.
+Although sales tax can be levied only on a completed sale, this theory has its use in indicating the circumstances in which the tax may be enforced in a particular case.
+One or more of the several ingredients of a sale may furnish the connection between the taxing State and the sale.
+State of Bombay vs United Motors (India) Ltd., [1953] S.C.R. 1069, Poppatlal Shah vs The State of Madras, [1953] S.C.R. 677 and The State of Bombay vs R.M.D. Chamarbaugwala, ; , relied on.
+Bengal Immunity Co. Ltd. vs The State of Bihar, , considered.
+Case law reviewed.
+1357 As in a sale of goods, the goods must necessarily play an important part, the circumstances mentioned in the proviso to section 2(g) of the Act, namely, the presence of the goods in Bihar at the date of the agreement of sale or their production or manufacture there must be held to constitute a sufficient nexus between the taxing province and the sale wherever that might take place.
+Governor General vs Raleigh Investment, , relied on.
+Province of Madras vs Boddu Paidanna and Sons, [1942] F.C.R. go, distinguished.
+It would not be correct to contend that the theory of nexus might lead to multiple taxation or obstruct inter State trade.
+Article 286(2) of the Constitution and the relevant entries in the Legislative List are a complete safeguard to any such contingency.
+Although as a matter of economic theory, sales tax maybe an indirect tax realisable from the consumer, it need not be legally so and is not so under the Bihar Sales Tax Act, 1947, which imposes the primary liability on the seller.
+A buyer, moreover, is not bound to pay sales tax over and above the agreed sale price unless he is by contract bound to do so.
+There can, therefore, be no scope for the argument that the retrospective enforcement of the tax under section 4(1) of the Act could destroy the character of the tax or that it was beyond the legislative competence of the Bihar Legislature.
+Love vs Norman Wright (Builders) Ltd., L.R. (1944) 1 K.B. 484, referred to.
+Per Bose, J. Sales tax can be imposed only on the sale.
+It is, therefore, wrong to look to the goods or the agreement to sell or any other elements that constitute a sale in order to impose the tax.
+A State can tax a sale of goods that takes place within its boundary.
+It has no power to tax extra territorially, and since a completed sale can have only one situs no State Legislature can be allowed to break up a sale into its component parts, which are separate and distinct from the sale itself, and by an application of the theory of nexus claim that ,,he sale wholly took place within it.
+The nexus can only be in respect of the entire sale, wherever it may take place and not of its several parts.

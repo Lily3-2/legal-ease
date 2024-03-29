@@ -1,0 +1,176 @@
+Appeal No. 297 of 1955.
+Appeal from the judgment and decree dated April 7, 1954, of the Patna High Court in Misc.
+Judicial Case No. 327 of 1951.
+A. V. Viswanatha Sastri and B. K. Sinha, for the appellant.
+K. N. Rajagopala Sastri, R. H. Dhebar and D. Gupta, for the respondent.
+October 1.
+The Judgment of the Court was delivered by GAJENDRAGADKAR J.
+This is an appeal with the, certificate issued by the High Court of Judicature at Patna under section 66A(2) of the Income tax Act (hereinafter called the Act) and it raises a, short question of the construction of section 34(1)(b) of the Act.
+This 12 question arises in this way.
+Proceedings.
+taken by the Income tax Officer, Special Circle, Patna, against Maharaja Bahadur Rama Rajaya Prasad Singh, the father of the appellant, to levy income tax for the year 1945 46.
+The total income assessed to income tax by the said order was Rs. 1,60,602.
+This amount included the sum of Rs. 93,604 received by the assessee on account of interest on arrears of rent due to him after deduction of collection charges.
+It was urged before the Income tax Officer by the assessee that this amount was not liable to be taxed in view of the decision of the Patna High Court in Kamakshya Narain Singh vs Commissioner of Income Tax (1).
+The Income tax Officer, however, held that, since the department had obtained leave to appeal to the Privy Council against the said decision, the matter was sub judice and so be would not be justified in accepting the assessee 's contention.
+In the result, he included the said amount in the total income for the purposes of assessment, but ordered that the realisation of the tax on the &aid amount should be stayed till the decision of the Privy Council or March 31, 1947, whichever was earlier.
+This order was passed under section 23(3) of the Act on December 31, 1945.
+Against this order the assessee preferred an appeal before the Appellate Assistant Commissioner of Income tax, Patna.
+On May 8, 1946, the appellate authority held that the Income tax Officer was bound to follow the decision in the case of Kamakshya Narain Singh (supra) (1) and so, he set aside the order under appeal in regard to the amount of Rs. 93,604 and directed the Income tax Officer to make fresh assessment.
+He also observed that it was not clear as to what portion of the said amount was interest on arrears of agricultural rents and what portion related to interest on arrears of non agricultural rents.
+The Income Tax Officer was accordingly directed to determine the latter amount and to levy tax on it.
+Pursuant to this appellate order the Income tax Officer made a fresh assessment under sections 23(3) and 31 of the Act on August 20, 1946.
+By this order the (1) [1946) 13 total amount of income liable to tax was determined after deducting the whole of the amount of Rs. 93,604 from it.
+Some other minor reductions were also allowed in compliance with the appellate order.
+The department did not challenge either the appellate order or the subsequent order passed by the Income tax Officer in pursuance of the said appellate order.
+Subsequently, on July 6, 1948, the appeal preferred by the department to the Privy Council against the decision of the Patna High Court in Kamakshya Narain Singh 's case (1) was allowed and it was held that interest on arrears of rent payable in respect of agricultural land is not agricultural income for it is neither rent nor revenue derived from land.
+As a result of this decision, the Income tax Officer issued a notice to the assessee under section 34 of the Act on September 25, 1948.
+This notice called upon the assessee to file a fresh return as the Income tax Officer had reason to believe that a part of the assessee 's income assessable to income tax for the year ending March 31, 1946, had escaped assessment.
+It appears that this notice was found to be defective, and so under the provisions of section 34, as amended, a fresh notice was issued by the officer to the assessee on March 18, 1949.
+The proceedings thus taken by the officer under section 34 ultimately led to a revised assessment order passed under section 23(3) and section 34 of the Act and the amount of Rs. 93,604 was added to the assessment amount as interest on arrears of rent.
+This revised assessment order was passed on April 30, 1949.
+The assessee appealed against this order but the appellate authority dismissed the assessee 's appeal and confirmed the said order on July 26, 1949.
+He held that the subsequent decision of the Privy Council in the case of Kamakshya Narain Singh (supra) (1) was information within the meaning of cls.
+(a) and (b) of section 34(1) and that the Income tax Officer bad reason to believe that a part of the assessee 's income had escaped assessment.
+The assessee then moved the Income tax Appellate Tribunal; but on August 21, (1) 14 1950, the tribunal confirmed the order passed by the appellate authority and dismissed the assessee 's appeal.
+It was held that the provisions of a. 34 as amended in 1948 applied to the case and that the decision of the Privy Council brought it within the purview of sub section
+(1)(b) of section 34.
+Meanwhile the assessee died and the appellant succeeded to the estate of his deceased father.
+He then filed an application under section 66(1) of the Act requiring the tribunal to refer the question of law raised in the case to the Patna High Court for its opinion.
+The tribunal rejected this application on February 27, 1951.
+Thereupon the appellant moved the Patna High Court under section 66(2) of the Act; his application was allowed and the tribunal was directed by the High Court on December 15, 1951, to state the case and refer the question of law for its opinion.
+In compliance with the requisition of the High Court the tribunal by its order passed on July 23, 1952, submitted a statement of the case and referred to the High Court for its opinion the question of law raised by the appellant.
+The question thus raised is: " Whether in the circumstances of the case the assessment order under section 34 of the Act of the interest on arrears of rent is legal ?" On April 7, 1954, this reference was heard by V. Ramaswamy and C. P. Sinha JJ.
+of the Patna High Court and the question was answered by them in favour of the department.
+The appellant then applied for and obtained a certificate from the Patna High Court on September 13, 1954.
+The High Court has certified under section 66A, sub section
+(2), of the Act that the case raises a question of law of a substantial kind and is otherwise a fit case for appeal to this court.
+That is how the present appeal has come before us; and the question which it raises for our decision is about the true construction of section 34(1)(b) of the Act.
+Section 34 of the Act has been amended in 1939 and in 1948.
+It is conceded by Mr. Viswanatha Sastri, for the appellant, that the present case is governed by the section as it was amended in 1948.
+This amended section 34, sub section
+(1), deals with cases of income escaping assessment in two clauses.
+Clause (a) covers cases 15 where income has escaped assessment by reason of the omission or failure on the part of the assessee to make a return of his income under section 22.
+We are not concerned with this clause.
+Clause (b) of section 34(1) provides inter alia that " notwithstanding that there has been no omission or failure as mentioned in cl.
+(a) on the part of the assessee, if the Income tax Officer has, in consequence of information in his possession, reason to believe that income, profits or gains chargeable to income tax have escaped assessment for any year, or have been under assessed, or assessed at too low a rate, or have been made the subject of excessive relief under the Act, or that excessive loss or depreciation allowance have been computed, he may, at any time within four years of the end of that year serve on the assessee a notice containing all or any of the requirements, which may be included in a notice under sub section
+(2) of section 22, and may proceed to assess or reassess such income, profits or gains or recompute the loss or depreciation allowance, and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under that sub section ".
+It is clear that two conditions must be satisfied before the Income tax Officer can act under section 34(1)(b).
+He must have information in his possession, which, in the context, means that the relevant information must have come into his possession subsequent to the making of the assessment order in question and this information must lead to his belief that income chargeable to income tax has escaped assessment for any year, or that it has been under assessed or assessed at too low a rate or has been made the subject of excessive relief under the Act.
+Two questions are raised by Mr. Sastri under this sub section in the present appeal.
+He contends that the relevant information means information as to facts and cannot include the decision of the Privy Council on a point of law; and he argues that, where income has been duly returned for assessment and an assessment order has been passed by the Income tax Officer, it cannot be said that any income has escaped assessment within section 34(1)(b).
+Thus the appellant 's case is that both the conditions required by section 34(1)(b) 16 have not been satisfied and so the order of revised assessment passed against the appellant is illegal.
+It is not disputed that, according to its strict literal ' meaning, the word " information " may include knowledge even about a state of tile law or a decision on a point of law.
+The argument, however, is that the context requires that the word " information " should receive a narrower construction limiting it to facts or factual material as distinguished from information as to the true state of the law.
+In support of this argument Mr. Sastri referred to the marginal notes of sections 19A and 20A as well as the province, s of section 22(3) and section 28 and urged that the information contemplated by these provisions is information as to facts or parti culars and has no reference to the state of law or to any question of law; and so the said word in section 34(1)(b) should be construed to mean only factual information.
+We are not impressed by this arguments If the word " information" used in any other provision of the Act denotes information as to facts or particulars, that would not necessarily determine the meaning of the said word in section 34(1)(b).
+The denotation of the said word would naturally depend on the context of the particular provisions in which it is used.
+It is then contended that sections 33B and 35 confer ample powers on the specified authorities to revise Income tax Officer 's orders and to rectify mistakes respectively and so it would be legitimate to construe the word "information " in section 34(1)(b) strictly and to confine it to information in regard to facts or particulars.
+This argument also is not valid.
+If the word "information " in its plain grammatical meaning includes information as to facts as well as information as to the state of the law, it would be unreasonable to limit it to information as to the facts on the extraneous consideration that some cases of assessment which need to be revised or rectified on the ground of mistake of law may conceivably be covered by sections 33B and 35.
+Besides, the application of these two sections is subject to the limi tations prescribed by them; and so the fact that the said sections confer powers for revision or rectification would not be relevant and material in construing 17 section 34(1)(b).
+The explanation to section 34 also does not assist the appellant.
+It is true that under the explanation production before the Income tax Officer of account books or other evidence from which material facts could with due diligence have been discovered by the Income tax Officer would not necessarily amount to disclosures within the meaning of the said section; but we do not see how this can have any bearing oil the construction of cl.
+(b) in section 34(1).
+On the other hand, one of the cases specifically mentioned in section 34(1)(b) necessarily postulates that the word "information" must have reference to information as to law.
+Where, in consequence of information in his possession, the Income tax Officer has reason to believe that income has been assessed at too low a rate, he is empowered to revise the assessment; and there can be no doubt that the belief of the Income tax Officer that any given income has been assessed at too low a rate may in many cases be due to information about the true legal position in the matter of the relevant rates.
+If the word " information " in reference to this class of cases must necessarily include information as to law, it is impossible to accept the argument that, in regard to the other cases falling under the same provision, the same word should have a narrower and a more limited meaning.
+We would accordingly hold that the word " information " in section 34(1)(b) includes information as to the true and correct state of the law and so would cover information as to relevant judicial decisions.
+If that be the true position, the argument that the Income tax Officer was not justified in treating the Privy Council decision in question as information within section 34(1)(b) cannot be accepted.
+in regard to the other condition prescribed by section 34(1)(b).
+When can income be said to have escaped assessment? Mr. Sastri argued that the word "assessment " does not mean only the order of assessment, but it includes all steps taken for the purpose of levying the tax and during the process of taxation.
+That no doubt is true; but the wide denotation of the word 3 18 " assessment" does not really assist the appellant; it only shows that along with the order of assessment which is an important act in the process of taxation, other acts and steps adopted in the course of taxation are also included in the word ; but it is with this " most critical act in the process of taxation " with which we are concerned in the present appeal.
+Then it is urged that the word "escaped " according to the Oxford English Dictionary means "to elude (observations, search, etc.); to elude the notice of a person " ; and the contention is that it is only where income has not been returned for assessment that it can be reasonably said that income has escaped assessment.
+The dictionary meaning of the word does not support Mr. Sastri 's contention.
+According to the same dictionary the word " escape " also means " to get clear away from (pursuit or pursuer); to succeed in avoiding (anything painful or unwelcome)"; so that judging by +,he dictionary meaning alone it would be difficult to ( confine the meaning of the word " escape " only to cases where no return has been submitted by the assessee.
+Even if the assessee has submitted a return of his income, cases may well occur where the whole of the income has not been assessed and such part of the income as has not been assessed can well be regarded as having escaped assessment.
+In the present case, interest on arrears of rent received by the assessee from his agricultural lands were brought to the notice of the Income tax Officer; the question as to whether the said amount can be assessed in law was considered and it was ultimately held that the relevant decision of the Patna High Court which was binding on the department justified the assessee 's claim that the said income was not liable to be assessed to tax.
+There is no doubt that a part of the assessee 's income had not been assessed and, in that sense, it has clearly escaped assessment.
+Can it be said that, because the matter was considered and decided on the merits in the light of the binding authority of the decision of the Patna High Court, no income has escaped assessment when the said Patna High Court decision has been subsequently reversed by the Privy Council ? We see no 19 justification for holding that cases of income escaping assessment must always be cases where income has not been assessed owing to inadvertence or oversight or owing to the fact that no return has been submitted.
+In our opinion, even in a case where a return has been submitted, if the Income tax Officer erroneously fails to tax a part of assessable income, it is a case where the said part of the income has escaped assessment.
+The appellant 's attempt to put a very narrow and artificial limitation on the meaning of the word escape " in section 34(1)(b) cannot therefore succeed.
+Mr. Sastri, however, argues that the narrow construction of the expression "has escaped assessment " for which he contends has been approved by the Privy Council in Rajendranath Mukherjee vs Income tax Commissioner (1).
+He relies more particularly on the observation made in the judgment in this case that "the fact that section 34 requires a notice to be served calling for a return of income which has escaped assessment ,strongly suggests that income which has already been duly returned for assessment cannot be said to have escaped 'assessment within the statutory meaning".
+In order to appreciate the effect of this observation it would be necessary to examine the material facts in the case and the specific points raised for the decision of the Privy Council.
+It appears that, in 1930 the Income tax Officer had made an assessment order on Burn & Co., which was an unregistered firm, assessing them ' to income tax and super tax for the year 192728 under the Act.
+The individual partners of Burn & Co., who were the appellants before the Board, contended that it was not competent to the officer to make the impugned assessment on the firm after the expiry on March 31, 1928, of the year in respect of which the assessment was made.
+The Commissioner of Income tax met this plea by referring to the other relevant facts which explained the delay in making the assessment order.
+Towards the end of 1926 27, the partners of the registered firm of Martin & Co., had purchased the business and assets of Burn & Co. This transaction was effected not on behalf of the firm (1) (1933) 61 I.A. IO, 16.
+20 of Martin & Co., but by the partners of the firm as individuals.
+In April 1927, the Income tax Officer of District I issued a notice to Burn & Co., under section 22(2) calling for a return of their total income for the year ending March 31, 1927, with a view to assessing them for the year 1927 28.
+A similar notice was issued by the Income tax Officer of District 11.
+When these notices were issued both the officers did not know that the business of Burn & Co., had been bought by the partners of Martin & Co. Subsequently this transaction was brought to the knowledge of the income tax authorities whereupon Burn & Co. 's file was transferred by the officer dealing with District 11, and in February 1928, an assessment order was made on Martin & Co., in respect of the combined incomes returned by Martin & Co., and Burn & Co., on the footing that the business of Burn & Co., had become a branch of Martin & Co. Martin & Co., appealed against this assessment and their appeal was allowed by the High Court in May 1930.
+It was held that an income of a registered firm cannot, for the purpose of the Act., be aggregated with the income of an unregistered firm but that the income of each must be separately assessed irrespective of the fact that the persons interested in the profits of both concerns are the same.
+In consequence of this decision, the assessment made on Martin & Co., was amended by the elimination therefrom of the income returned by Burn & Co., and in November 1930, an assessment was made on Burn & Co., on their income as returned by them in Janu ary 1928.
+It was this assessment which was the subject matter of the appeal before the Privy Council.
+It would thus be noticed that the principal question which the appellants raised before the Privy Council was: Whether the assessment made under section 23(1) on the appellants in November 1930 for the year 1927 28 was a legal assessment ? The argument was that, on a true construction of the Income tax Act, it was obligatory on the Income tax Officer to complete the assessment proceedings within the year of assessment, and in the event of such assessment not being so completed the only remedy open to the income tax 21 authorities was to proceed under section 34.
+This argument was repelled by the Privy Council.
+Their Lordships held that neither section 23 nor any other express provision of the Act limited the time within which an assessment must be made.
+They then examined the other argument urged by the appellants that section 34 implied a prohibition against the making of an assessment after the expiry of the tax year.
+In dealing with this argument, section 34 was construed and it was observed that the argument sought to put upon the word "assessment " too narrow a meaning, and upon the word " escaped " too wide a meaning.
+It was in this connection that their Lordships approved of the observation made by Rankin C. J. in Re: Lachhiram Basantlal (1) that I. . income has not escaped assessment if there are pending at the time proceedings for the assessment of the assessee 's income which have not yet terminated in a final assessment thereof ".
+In other words, the conclusion of the Privy Council was that so long as assessment proceedings are pending against an assessee and no final order has been passed thereon, it would be premature to suggest that any income of the assessee has escaped assessment.
+It is only after the final order levying the tax has been passed by the Income tax Officer that it would be possible to predicate that any part of the assessee 's income has escaped assessment.
+In the result their Lordships held that " since proceedings pursuant to the notice issued against the appellants under section 22(2) had been pending and no order had been passed against the appellants in the said proceedings, it would not be possible to accept their argument that the Income tax Officer should have taken action against them in respect of the income for the relevant year under section 34 of the Act ".
+If this decision is considered in the light of the relevant facts and the nature of the argument raised before the Privy Council by the appellants, it would be difficult to accept the contention that, according to the Privy Council, section 34 would be inapplicable wherever notice under section 22(2) has been issued against an assessee, a return has been submitted by him and (1) (1030) I.L.R. , 912.
+22 a final order has been passed by the Income tax Officer in the said assessment proceedings.
+To say that, so long as the assessment proceedings are pending, it is impossible to assume that any income has escaped assessment is very much different from saying that income cannot be said to have escaped assessment wherever assessment proceedings have been taken and a final order has been passed on them.
+We must, therefore, hold that this decision does not support Mr. Sastri 's contention about the inapplicability of section 34 in the present case.
+In this connection it may be relevant to refer to the decision of the Calcutta High Court in Be: Lachhiram Basantlal (supra) (1) because, as we have already pointed out, the statement of the law made by Rankin C. J. in regard to the effect of section 34 of the Act in this case has been expressly approved by the Privy Council in the case of Rajendra Nath Mukherjee (supra) (2).
+While dealing with the assessees ' argument that the order of assessment was invalid Since it had been passed more than one year after the expiry of the relevant financial year and that the Income tax Officer might have acted under section 34, Rankin C. J. stated that income cannot be said to have escaped assessment except in the case where an assessment has been made which does not include the income.
+It is true that this observation is obiter but it is fully consistent with the subsequent statement of the law made by the learned Chief Justice which has received the approval of the Privy Council.
+Mr. Sastri has also relied on the decision of this Court in Messrs. Chatturam Horliram Ltd. vs Commissioner of Income tax, Bihar & Orissa (1) in support of his construction of section 34.
+In Chatturam 's case (supra) (3) the assessee had been assessed to income tax which was reduced on appeal and was set aside by the Income tax Appellate Tribunal on the ground that the Indian Finance Act of 1939 was not in force during the assessment year in Chota Nagpur.
+On a reference the decision of the tribunal was upheld by the High (1) Cal.
+909, 912.
+(2) (1933) 61 I.A.10, 16.
+(3) ; 23 Court.
+Subsequently the Governor of Bihar promulgated the Bihar Regulation IV of 1942 and thereby brought into force the Indian Finance Act of 1939 in Chota Nagpur retrospectively as from March 30, 1939.
+This ordinance was assented to by the Governor General.
+On February 8,1944, the Income tax Officer passed an order in pursuance of which proceedings were taken against the assessee under the provisions of section 34 and they resulted in the assessment of the assessee to income tax.
+The contention which was raised by the assessee in his appeal to this Court was that the notice issued against him under section 34 was invalid.
+This Court held that the income, profits or gains sought to be assessed were chargeable to income tax and that it was a case of chargeable income escaping assessment within the meaning of section 34 and was not a case of mere non assessment of income tax.
+So far as the decision is concerned, it is in substance inconsistent with the argument raised IVY Mr. Sastri.
+He, however, relies on the observations made by Jagannadhadas J. that " the contention of the learned counsel for the appellant that the escapement from assessment is not to be equated to non assessment simpliciter is not without force " and he points out that the reason given by the learned judge in support of the final decision was that though earlier assessment proceedings had been taken they had failed to result in a valid assessment owing to some lacuna other than that attributable to the assessing authorities notwithstanding the chargeability of income to the tax.
+Mr. Sastri says that it is only in cases where income can be shown to have escaped assessment owing to some lacuna other than that attributable to the assessing authorities that section 34 can be invoked.
+We do not think that a fair reading of the judgment can lead to this conclusion.
+The observations on which reliance is placed by Mr. Sastri have naturally been made in reference to the facts with which the Court was dealing and they must obviously be read in the context of those facts.
+It would be unreasonable to suggest that these observations were intended to confine the application of section 34 only to cases where 24 income escapes assessment owing to reasons other than those attributable to the assessing authorities.
+Indeed Jagannadhadas J. has taken the precaution of adding that it was unnecessary to lay down what exactly constitutes escapement from assessment and that it would be sufficient to place their decision on the narrow ground to which we have just, referred.
+We are satisfied that this decision is of no assistance to the appellant 's case.
+It appears that the construction of section 34 has led to a divergence of judicial opinion in the High Courts of this country, and so it would be necessary to refer briefly to the decisions to which our attention was invited in this appeal.
+In Madan Lal vs Commissioner of I. T., Punjab (1), the majority decision of the Full Bench of the Lahore High Court held that section 34 of the Act, as it stood then, was not confined to cases where income had not been returned at all.
+It applied also to cases where an item of income is included in the return made by the assessee but is left unassessed by the Income tax Officer, or, if assessed in the first in stance, the assessment is cancelled by any appellate or revisional authority.
+Din Mohammad J. who delivered the majority judgment has expressed his agreement with the opinion of Coutts Trotter C. J. in The Commissioner of Income tax vs Raja of Parlakimedi (2) that the words " escaped assessment " apply even " to cases where the Income tax Officer has deliberately adopted an erroneous construction of the Act as much as to a case where an officer has not considered the matter at all, but simply omitted the assessable property from his view and from his assessment ".
+The next case which has been cited before us is the decision of the Bombay High Court in The Commissioner of Income tax, Bombay vs Sir Mahomed Yusuf Ismail (3).
+In this case Beaumont C. J. construed the word " definite information " in section 34 and held that in order to take action under the said section, there must be some information as to a fact which leads the Income tax Officer to discover that income (1) (2) , 28.
+(3) [1944] 12 I.T.R. B. 26 has escaped assessment or has been under assessed.
+The learned Chief Justice, however, added that the fact may be as to the state of the law, for instance, that a case has been overruled or that a statute has been passed which has not been brought to the attention of the Income tax Officer.
+Chagla J. who delivered a concurring judgment was inclined, to hold that the word " information " in the section must be confined only to information as to facts or particulars and cannot include information as to law.
+In his opinion, " a mistake of law or misunderstanding of the provisions of the law is not covered by the language of the section as amended in 1939 ".
+It may be pointed out that in coming to this conclusion the learned judge appears to have relied on the observations of Rowlatt J. in Anderton and Halstead Ltd. vs Birrell (1) that "the word I discover ' in section 125 of the English Act does not include a mere change of opinion on the same facts and figures upon the same question of account ancy, being a question of opinion ".
+Incidentally, we may observe that this statement of the law by Mr. Justice Rowlatt appears to have been overruled by the Court of Appeal in Commercial Structures Ltd. vs R. A. Briggs (2).
+Soon after the decision of the Bombay High Court was reported the same question was raised before the Madras High Court in Raghavalu Naidu & Sons vs Commissioner of Income tax, Madras (3).
+Leach C. J. who delivered the judgment of the court agreed with the construction which had been put on the expression "definite information " by the Bombay High Court on the ground that "it is very desirable to avoid conflict on such a question ".
+He, however, added that in view of the opening words of the amended section as it was amended in 1939, the word " discovers " means something more than 'has reason to believe ' or ' satisfies himself ' and that consequently it would not be right to regard the English decisions on the meaning of the word " discovers " in section 125 of (1) [1932] I. K. B. 271.
+(2) [1949] 117 I.T.R. Supplement 30.
+(3) , 197.
+4 26 the English Act as being in point.
+He also made it clear that in following the Bombay, decision they did not imply that the definite information must relate to a pure question of fact because it was impossible to lay down a rule to cover all cases in which this section can be invoked.
+In the Calcutta High Court, conflicting views have been expressed on this point.
+In Maharaja Bikram Kishore of Tripura vs Province.
+of Assam (1), Harries C. J. and Mukherjea J. had to deal with the construction of section 30 of the Assam Agricultural Income tax Act (Assam IX of 1939) which corresponds to section 34 of the Act.
+They held that where a certain income has been included in his return by the assessee but was not assessed on the ground that it was not assessable, it cannot be treated as income which has escaped assessment and reassessed under section 30 of the Assam Agricultural Income tax Act.
+In his judgment the learned Chief Justice has mentioned that the earlier decisions of the Calcutta High Court were no doubt against the contentions of the appellant but he took the view that the question was really concluded by the decision of the Privy Council in Rajendra Nath Mukherjee 's case (supra) (2).
+The Privy Council decision was read by the learned Chief Justice as supporting the view that section 34 would be inapplicable to cases where income has been returned, assessment proceedings have been taken and a final order of assessment has been passed by the Income tax Officer against the assessee.
+We have already pointed out that the decision of the Privy Council does not support this view.
+In Raja Benoy Kumar Sahas Roy vs Commissioner of 1.
+T., West Bengal(1), Chakravartti C. J. and Lahiri J. have taken a contrary view.
+They have held that information as to the true state or meaning of the law derived freshly from an external source of authoritative character is definite information within the meaning of section 34.
+It appears that, in construing the scope and effect of the provisions of section 34, the High Courts have had (1) (2) (1933) 61 1,A. 10, 16.
+(3) 27 occasion to decide whether it would be open to the Income tax Officer to take action under section 34 on the ground that he thinks that his original decision in making the order of assessment was wrong without any fresh information from an external source or whether the successor of the Income tax Officer can act under section 34 on the ground that the order of assessment passed by his predecessor was erroneous, and divergent views have been expressed on this point.
+Mr. Rajagopala Sastri, for the respondent, suggested that under the provisions of section 34 as amended in 1948, it would be open to the Income tax Officer to act under the said section even if he merely changed his mind without any information from an external source and came to the conclusion that, in a particular case, he had erroneously allowed an assessee 's income to escape assessment.
+We do not propose to express any opinion on this point in the present appeal.
+In the result we hold that the Patna High Court was right in coming to the conclusion that the decision of the Privy Council was information within the meaning of section 34 (1)(b) and that the said decision justified the belief of the Income tax Officer that part of the appellant 's income had escaped assessment for the relevant year.
+The appeal accordingly fails and must be dismissed with costs.
+Appeal dismissed.

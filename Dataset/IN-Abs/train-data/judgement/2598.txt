@@ -1,0 +1,60 @@
+Appeal No. 2456 of 1966.
+Appeal from the judgment and order dated January 27, 1964 of the Patna High Court in Misc.
+Judicial Case No. 299 of 1958.
+D. Narsaraju, section K. Aiyar, R. N. Sachthey and B. D. Sharma, for the appellant.
+C. K. Daphtary, Narain Rao, V. D. Narayan and D. Goburdhun, for the respondent.
+The Judgment of the Court was delivered by Shah, J.
+Indetermining the taxable income of the respondent firm for the assessment year 1948 49 the Income tax Officer added to the income returned a sum of Rs. 1,60,000 as 'undisclosed receipts '.
+The order was confirmed in ' appeal by the Appellate Assistant Commissioner, and by the Tribunal.
+The Income tax Officer had in the meantime commenced a proceeding for the levy of penalty and in exercise of the power under section 28 (1) (c) of the Indian Income tax Act, 1922 he directed the respondent firm to pay Rs. 60,000 as penalty.
+The Appellate Assistant Commissioner in appeal confirmed the order.
+The Income tax Appellate Tribunal rejected the contention of the respondent that the order imposing penalty upon the firm after the original firm was dissolved was without jurisdiction.
+The Tribunal referred at the instance of the respondent firm the following question to the High Court of Patna for opinion; "Whether on the facts and in the circumstances of the case the imposition of penalty under section 28 (1) (c) of the Indian Income tax Act, upon the petitioner firm (respondent) as constituted at the time of levy of penalty was legal and valid?" The High Court called for a supplementary statement of the case and pursuant thereto the Tribunal submitted a statement on the specified points raised by the order of the High Court that (1)The firm which carried on the business during the calendar year 1947 was dissolved on July 7, 1951 when Butto Kristo Roy, one of the partners, died.
+(2)During the previous year 1947 there was no instrument of partnership in existence, but the terms of the oral partnership were the same as set out in the partnership deed dated October 17, 1949.
+985 (3) The business of the firm was continued with effect from July 8, 1951 by the new firm as successor to the business of the old firm.
+The terms of the partnership were the same as set out in the deed dated October 17, 1949 and the partners and their shares were also the same except that Baidyanath Roy took the place of Butto Kristo Roy.
+(4) With effect from April 28, 1952, the business was carried on by a partnership constituted by Baidyanath Roy and Bijali Kanti Roy under an instrument dated August 27, 1952.
+There was no dissolution of the firm, which was carrying on the business; there was only a change in the constitution of the old firm from April 28, 1952.
+The High Court held that penalty could be legally levied only upon the original firm constituted in the account year relevant to the assessment year 1948 49 and not upon the new firm constituted under the deed dated April 27, 1952.
+The Tribunal and the High Court approached the problem before them on the assumption that the source of the power of the Income tax Officer to impose a penalty was in section 44 of the Indian Income tax Act, 1922.
+In so assuming, in our judgment, they were in error.
+Section 44 of the Indian Income tax Act, 1922, as it stood at the relevant date, in so far as it is material provided : "Where any business, profession or vocation carried on by a firm has been discontinued every person who was at the time of such discontinuance a partner of such firm shall, in respect of the income, profits and gains of the firm be jointly and severally liable to assessment under Chapter IV and for the amount of tax payable and all the provisions of Chapter IV shall, so far as may be, apply to any such assessment".
+The section is fairly plain : it applies to cases of discontinuance of the business of a firm and not where there is dissolution of the firm but not discontinuance of its business.
+In section M. section Karuppiah Pillai vs Commissioner of Income tax, Madras(1), in dealing with the effect of section 44 of the Indian Income tax Act, 1922, before it was amended by Act 7 of 1939, a Full Bench of the Madras High Court observed "This section (s.44) only applies when there has been discontinuance of the, business, The section (1) 911.T.R. I. 986 says that if a business is discontinued the partners shall nevertheless be jointly and severally liable for the profits which had been earned".
+In Shivram Poddar vs Income tax Officer, Central Circle II, Calcutta and Anr.(1) this Court examined the scheme of section 44 (before it was amended by the Finance Act of 1958) and its inter relation with the provisions of sections 25(1), (2), 26(1), (2) and 28 (1) (c) in some detail.
+The Court observed : "Section 44 operates in two classes of cases; where there is discontinuance of business, profession or vocation carried on by a firm or association, and where there is dissolution of an association.
+It follows that mere dissolution of a firm without discontinuance of the business will not attract the application of s.44 of the Act. .
+The reason for this distinction appears from the scheme of the Income tax Act in its relation to assessment of the income of a firm.
+A firm whether registered or unregistered is recognised under the Act as a unit of assessment (sections 3 and 2(2)), and its income is computed under clauses (3) and (4) of section 23.
+as the income of any other unit.
+Section 25(1) relates to assessment in cases of a discontinued business whether the business is carried on by a firm or by any other person. . .
+Then there is the special provision relating to assessment when at the time of making an assessment it is found that a change has occurred in the constitution of a firm, or a firm has been newly constituted : section 26(1).
+The date on which the change has occurred is immaterial; it may be in the year of account, in the year of assessment or even after the close of the year of assessment, The Income fax Officer has under section 26(1) to assess the firm as constituted at the time of making the assessment, but the income, profits and gains of the previous year have, for the purpose of inclusion in the total income of the partners, to be apportioned between the partners who were entitled to receive the same.
+Subsection (2) of section 26 relates to assessment in the case of succession to a person (which expression includes a firm) carrying on a business by another person in such capacity. . .
+Discontinuance of business has the same connotation in section 44 as if has in section 25 of the Act; it does not (1) 987 cover mere change in ownership or in the constitution of the unit of assessment.
+Section 44 is, therefore, attracted only when the business of a firm is discontinued, i.e. when there is complete cessation of the busi ness and not when there is a change in the ownership of the firm, or in its constitution, because by reconstitution of the firm, no change is brought in the personality of the firm, and succession to the business and not discontinuance of the business results. .
+But the Income tax Act recognises a firm for purposes of assessment as a unit independent of the partners constituting it; it invests the firm with a personality which survives reconstitution.
+A firm discontinuing its business may be assessed in the manner provided by section 25(1) in the year of account in which it discontinues its business; it may also be assessed in the year of assessment.
+In either case it is the assessment of the income of the firm.
+Where the firm is dissolved, but the business is not discontinued, there being change in the constitution of the firm, assessment has to be made under section 26 (1), and if there be succession to the business assessment has to be made under section 26(2).
+The provisions relating to assessment on reconstituted or newly constituted firms, and on succession to the business are obligatory.
+Therefore, even when there is change in the ownership of the business carried on by a firm on reconstitution or because of a new constitution, assessment must still be made upon the firm.
+When there is succession, the successor and the person succeeded have to be assessed each in respect of his actual share.
+This scheme of assessment fumishes the reason for omitting reference to dissolution of a firm from section 44 when such dissolution is not accompanied by discontinuance of the business".
+Two other cases decided by this Court may be briefly noticed.
+In C. A. Abraham vs Income tax Officer, Kottayam and Another(1) there was discontinuance of the business of the firm consequent upon dissolution of the firm, section 44 was held applicable, and it was held that imposition or penalty being a process of assessment the.
+Income tax Officer was not incompetent to levy penalty after discontinuance of the business.
+In Commissioner of Income tax, Madras and Another vs section V. Angidi Chettiar (2) this Court held that the Income tax Officer could exercise under section 44 read with section 28 power to impose penalty upon the firm which discontinued its business on dissolution caused by the death of one of the partners (1) (2) 988 Section 44 therefore only applied to those cases in which there had been discontinuance of the business and not to case, in which the business continued after reconstitution of the firm or there was succession to the business.
+Cases of reconstitution of the firm or succession to the business of the firm are covered by sections 26(1) and (2).
+"Assessment" in Chapter IV of the Income tax Act, 1922, includes a proceeding for imposition of penalty.
+Section 28 of the Act authorises the Income tax Officer, if satisfied, in the course of any proceeding under the Act that any person has, inter alia, concealed the particulars of his income or deliberately furnished inaccurate particulars of such income, to direct that such person shall pay by way of penalty, a sum of money not exceeding the amount specified therein in addition to the incometax and super tax payable by such person.
+The expression " person" includes for the purpose of section 28, a firm registered or unregistered.
+If there is reconstitution of the firm, by virtue of section 26, the Income tax Officer will in imposing the penalty proceed against the firm.
+If there is discontinuance of the business penalty will be imposed against the partners of the firm.
+Before the Tribunal and the High Court the case was argued on the footing that section 44 alone was applicable.
+Whether under the terms of section 26 read with section 28, penalty may be imposed upon the new partners for the failure of the partners of the firm constituted in the year of account relating to the assessment 1948 49 was never investigated.
+The question raised by the Tribunal is in terms sufficiently comprehensive to embrace an enquiry whether partners of the firm in existence on July 30, 1954, were liable to be assessed to penalty as successors in interest of the partners of the original firm in existence in the year of account relating to the assessment year 1948 49.
+But in a reference under section 66 of the Indian Income tax Act, 1922, only the question which was either raised or argued before the Tribunal may be answered, even if the language of the question framed by the Tribunal may apparently include an enquiry into other matters which could have been, but were not, raised or argued.
+The appeal fails and is dismissed.
+In the circumstances of the case there will be no order as to costs in this Court.
+G.C. Appeal dismissed.

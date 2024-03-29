@@ -1,0 +1,6 @@
+For purposes of assessment to income tax, a firm is a different entity distinct from its partners, and a mere change in the constitution of the firm does not bring into existence a new assessable unit or a distinct assessable entity.
+(1) 67 I.A. 464,481.
+172 A firm consisting of three partners, A, B and C, carried on the business of tea brokers and paid income tax under the Income tax Act of 1918.
+There were several changes in the personnel of the partners and in 1939 the firm consisted of C, D and E. C retired and in 1945 a new partnership deed was written up between D, E and F and they carried on the business.
+In 1947 the partnership was converted into a limited company.
+The Income tax authorities refused to give relief under section 25(4) of the Income tax Act as the partners of the firm in 1939 were different from the partners of the firm in 1947: Held, that in spite of the changes in the constitution of the firm, the business of the firm as originally constituted continued right from its inception to the time it was succeeded by the limited company and the firm was the same unit all through; the reconstitution of the firm in 1945 did not make it a different unit, and the firm was therefore entitled to relief under section 25(4) of the Act.

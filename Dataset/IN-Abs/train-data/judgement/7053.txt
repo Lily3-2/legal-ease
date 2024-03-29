@@ -1,0 +1,115 @@
+Appeal No. 5897 of 1983.
+From the Judgment and Order dated 25.7.1979 of the Madras High Court in Tax Case No. 54/76 (Reference No. 35/76.) T.A. Ramachandran and Janki Ramachandran for the Appellant.
+J. Ramamurthy, P. Parmeswaran (NP), Ranbir Chandra (NP), T.V. Ratnam and Ms. A. Subhashini (NP) for the Respondent.
+The Judgment of the Court was delivered by R.M. SAHAI, J.
+Legal issues that arise for consideration in this appeal, directed against the decision of the High Court in Commissioner of Income Tax, Tamil Nadu vs Universal Radiators, on questions of law referred to it in a reference under the Income Tax Act (in brief 'the Act ') are, if the excess amount paid to the assessee due to fluctuation in exchange rate was taxable either because the payment being related to trading activity it could not be excluded under Section 10(3) of the Act even if it was casual and non recurring in nature or it was stock in trade, therefore, taxable as revenue receipt or in any case the compensation for the loss of goods could not be deemed anything but profit.
+Shorn of details the assessee, a manufacturer of radiators for automobiles booked copper ingots from a corporation in the United States of America for being brought to Bombay where it was to be rolled into strips and sheets and then despatched to assessee for being used for manufacture.
+While the ingots were at sea, hostilities broke out between India and Pakistan and, the vessel carrving the goods was seized by the authorities in Pakistan.
+The claim of the assessee for the price paid by it for the goods was ultimately settled in its favour by the insurer in America.
+Meanwhile the Indian Rupee had been devalued and, therefore, in terms of rupees the appellant firm got Rs. 3,43,556 as against their payment 780 of Rs. 2,00,164 at the old rate.
+The difference was credited to profit on devaluation in the Profit and Loss Account.
+The claim of the appellant that the difference being a casual receipt and non recurring in nature, it was not liable to tax, was not accepted by the Income Tax Officer.
+In appeal the Appellate Assistant Commissioner was of opinion that the receipt was one which did not arise directly from carrying on business by the assessee but was incidental to it.
+But he did not find any merit in the submission that the ultimate realisation was in nature of capital gains and not revenue receipt.
+In further appeal the Tribunal held that when the goods were seized by the Pakistan authorities the character of the goods changed and it became sterlised and, therefore, it ceased to be stock in trade of the assessee.
+The Tribunal held that the devaluation surplus was in nature of.
+capital receipt and not a profit made by the assessee in course of business.
+It further found that the money which came to the assessee was as a result of the settlement of the insurance claim and, therefore, the profit that resulted from it could not be considered to have arisen in normal course of business.
+When the matter came to the High Court, in its advisory jurisdiction, at the instance of the department, on the following questions of law, (i) Wether, on the facts and in the circumstances of the case, the Appellate Tribunal was right in law, in holding that the devaluation surplus earned by the assessee consequent to the settlement of the claim by the insurance company is not assessable as revenue receipt for the assessment year 1967 68 ? (ii)Whether on the facts and in the circumstances of the case, the Appellate Tribunal was right in holding that the profit earned by the assessee on account of devaluation of Indian Currency was not in the course of carrying on of the business or incidental to the business ? It did not agree with the Tribunal as according to it if the assessee had got the goods imported into India and sold them it would have got higher amount as a result of devaluation.
+Therefore, it held that there could be no dispute that the assessee was liable to pay tax on difference of the sale price and the cost.
+The High Court further held that the nature of the amount which came in the hands of the assessee was revenue receipt.
+It 781 did not agree that the payment made to the assessee was otherwise than for business, as the whole transaction was part and parcel of the business carried on by the assessee and could not be described as extraneous to it.
+The High Court thus negatived the claim of assessee for two reasons, one, the difference in the cost price and the sale price, and the other, that it was revenue receipt.
+In observing that, 'If the assessee had got the goods imported into India and had sold them at a higher rate, which would have increased as a result of devaluation, then there can be no dispute that the assessee would be liable to tax on the difference between the sale price and the cost ', the High Court oversimplified the issue.
+May be any profit or gain accruing to an assessee as a result of difference between the sale price and the cost price in a year is income.
+And by that yardstick the devaluation surplus, irrespective of any other consideration, may be receipt which in common parlance may be income.
+But liability to pay tax under the Act arises on the income accruing to an assessee in a year.
+The word 'income ', ordinarily in normal sense, connotes any earning or profit or pin periodically, regularly or even daily in whatever manner and from whatever source.
+Thus it is a word of very wide import.
+Clause (24) of Section 2 of the Act is legislative recognition of its elasticity.
+Its scope has been widened from time to time by extending it to varied nature of income.
+Even before it was defined as including profits, gains, dividends and contributions received by a trust it was held to be a word, 'of broadest connotation ' which could not be 'understood in restricted or technical sense '.
+The wide meaning of the word was explained by this Court in Raghuvanshi Mills Ltd., Bombay vs Commissioner of Income Tax, Bombay city, and it was emphasised that the expression, 'from whatever source derived ' widened the net.
+But exigibility to tax is not the same as liability to pay tax.
+The former depends on charge created by the Act and latter on computation in accordance with the provisions in the Act and the rules.
+Surplus in consequence of devaluation of the currency was undoubtedly receipt, but the liability to pay tax on it could arise only if it was income for purposes of the Act and was not liable to be excluded from computation under any of the provisions of the Act or the rules framed thereunder.
+Section 10 of the Act provided for exclusion of certain income from computation.
+One of its subsection, which is relevant for this appeal, during the period under dispute, stood as under, In computing the total income of a previous year of any 782 person, any income failing within any of the following clauses shall not be included (3) any receipts which are of a casual and non recurring nature, unless they are (i) (ii)receipts arising from business or the exercise of a profession or occupation; or (iii) In substantive clause, an income which was casual and non recurring in nature was excluded from being charged as income of the assessee.
+Due to use of word, 'and ', existence of both the conditions was mandatory.
+Absence of any disentitled the assessee from claiming any benefit under the clause.
+C Casual ' according to dictionary means 'accidental or irregular '.
+this meaning was approved by this Court in Ramanathan Cheuiar vs Commissioner of Income Tax, Madras, Non recurring is one which is not likely to occur again in a year.
+But an income even after satisfying the two conditions may still not have been liable to be excluded if it fell in one of the exceptions carved out by the proviso.
+In other words, the receipt should not only have been casual and non recurring only but it should not have been 'receipts arising from business '.
+To put it the other way, if an income arose in the usual course of business, then it would not have been liable for exclusion even if it was casual or non recurring in nature. 'Casual ', as explained earlier, means accidental or irregular.
+But if the irregular or the accidental income arose as a result of business activity, then even if it was non recurring, it may not have fallen outside the revenue net.
+The real test, therefore, was the nature and character of income which accrued to the assessee.
+The casual nature of it or non recurring nature were only aids to decide if the nature of income was in the course of business or otherwise.
+In Raghuvanshi Mills Ltd. (Supra) it was held by this Court that a receipt even if it was casual and non recurring in nature would be liable to tax if it arose from business. 'Business ' has been defined in Clause ' 13 of Section 2 of the Act as including 'any trade, commerce or manfacture or any adventure or concern in the nature of trade, commerce or manufacture '.
+In Barendra Prasad Ray and Ors.
+vs Income Tax Officer, it has been held, by this Court, that the expression, 783 'business ' is of very wide import and it means an activity carried on continuously and systematically by a person by the application of his labour and skill with a view to earning the income.
+The width of the definition has been recognised, by this Court, even in S.G. Mercantile Corporation Pvt. Ltd. vs Commissioner of Income Tax and Commissioner of Income Tax vs Calcutta National Bank, And even a single venture has been held to amount to business and the profit arising out of such a venture has been held to be taxable as income arising from business.
+In Commissioner of Income Tax, Mysore vs Canara Bank Ltd., (1967) LXIII ITR 328 it was held, by this Court, that where money was lying idle and the blocked balance was not employed for internal operation or for business by the bank the profit accruing to the assessee on the blocked capital due to fluctuation in exchange rate could not be held to be income arising out of business activity or trading operation.
+The ratio reflects the rationale implicit in sub section (3) of Section 10 of the Act.
+An income which was casual in nature could be brought in the revenue net only if it arose from business.
+In other words the receipt or profit of the nature covered by Section 10(3) could be brought to tax if it was result of any business activity carried on by the assessee.
+The assessee carried on business of manufacturing radiators and not ingots.
+They were imported to be converted into strips and sheets at Bombay.
+The link which could create direct relationship between the finished goods and raw material was snapped even before it reached Bombay.
+Payment made for loss of such goods did not bear any nexus with the assessee 's business.
+May be that if it would have reached, it could have been after conversion into strips and sheets used as raw material.
+But so long it did not reach Bombay and was not converted into raw material, the connection it bore with the assessee 's business was remote.
+And any payment made in respect of it could not be said to accrue from business.
+In Strong and Company of Romsay, Limited vs Woodifield (Surveyor of Taxes), 5 Tax Cases p.215, a converse case where the assessee claimed deduction of certain payments made to a customer, for the injury caused to him by falling off a chimney due to the assessee 's servant 's negligence, it was held, "it does not follow that if a loss is in any sense connected with the trade, it must always be allowed as a deduction; for it may be only remotely connected with the trade or 784 it may be connected with something else quite as much as or even more than with the trade.
+I think only such losses can be deducted as are connected with it in the sense that they are really incidental to the trade itself.
+" The word 'from ' according to dictionary means 'out of.
+The income thus should have accrued out of the business carried on by the assessee.
+An income directly or ancillary to the business may be an income from business, but any income to an assessee carrying on business does not become an income from business unless the necessary relationship between the two is established.
+What was lost on the seas was not raw material, but something which was capable of being converted into raw material.
+The necessary nexus between ingots and radiators which could have resulted in income from ingots never came into being.
+Thus any devaluation surplus arising out of payment paid for loss of ingots could not be treated as income from business of the.
+assessee.
+For deciding the next aspect, namely, if the excess payment due to devaluation could be treated as revenue receipt, two questions arise, one, if the ingots were stock in trade and other the effect in law of its being blocked or sterlised.
+Stock in trade is goods or commodity in which the assessee deals in course of business activity.
+Good or commodity may be capital or revenue depending on.
+if it is bought or sold or is used or exploited by the assessee.
+Since the ingots by itself were not raw material and were not usable by the assessee for the business of manufacturing radiators, unless they were converted into strips and sheets, they could not be treated as stock in trade.
+The buying of the ingots by the assessee was not a part of its trading activity.
+Income from goods purchased for business is not an income from business.
+Ratio in State Bank of India vs Commissioner of Income Tar, Emakultam, relied on behalf of department is not helpful ' as the Bank of Cochin, as part of its banking business, had been purchasing cheque payment orders, mail transfers, demand drafts etc.
+drawn in foreign currencies which were sold or en cashed through assessee correspondent banks in foreign currencies concerned and proceeds credited to the current account of the assessee and therefore the foreign exchange was held to be stock in trade of the assessee, and any increase in value of foreign currency resulting in excess credited to the a 'ssessee 's account as a result of devaluation was held to be in consequence of assessee 's business activity.
+785 Even assuming it was stock in trade, it was held by this Court in Commissioner of Income Tax vs Canara Bank Lid, (supra) that stock intrade, if it gets blocked and sterlised and no trading activity could be carried with it, then it ceased to be stock in trade, and any devaluation surplus arising on such capital due to exchange rate would be capital and not revenue.
+Applying the ratio of this case, the copper ingots, which even if assumed to be stock in trade, were blocked and sterlised due to hostilities between India and Pakistan, and, therefore, it ceased to be stockin trade and any surplus arising due to exchange ratio in the circumstances was capital receipt only.
+Coming to the issue whether devaluation surplus earned by the assessee consequent on the settlement of the claim by the insurance company could be treated as revenue receipt, it may be stated that taxability on profit or deduction for loss depends on whether profit or loss arises in course of business.
+The courts have maintained a distinction between insurance against loss of goods and insurance against loss of profits.
+The latter is undoubtedly taxable as is clear from the decision in Raghuvanshi Mills (supra) where any amount paid by the insurance company 'on account of loss of profit ' was held taxable.
+But what happens where the insurance company pays any amount against loss of goods.
+Does it by virtue of compensation become profit and is taxable as such.
+Taxability of the amount paid on settlement of claim by the insurance company depends both on the nature of payment and purpose of insurance.
+Raghuvanshi Mills ' decision is an authority for the proposition where the very purpose of insurance itself is profit or gain.
+Result may be the same where the payment is made for goods in which the assessee carried on business.
+Any payment being accretion from business, the excess or surplus accruing for any reason may be nothing but profit.
+(see the King vs B. C Fir and Cedar Lumber Company, Ltd. , Green (HM Inspector of Taxes) vs J. Gliksten & Son, Ltd Reports of Tax Gases Vol.14 p.365, Commissioner of Income Tax, Bombay City III vs Popular Metal Works & Rolling Mills (1983) ITR Vol.
+142 p.361.
+But where payment is made to compensate for loss of use of any goods in which the assessee does not carry on any business or the payment is a just equivalent of the cost incurred by the assessee, but excess accrues due to fortuitous circumstances or is a windfall, then the accrual may be a receipt, but it would not be income arising from business, and, therefore, not taxable under the Act.
+In Commissioner of Inland Revenue vs William 's Executors, 26 Tax Cases p.23, 786 the distinction was explained thus, "A manufacturer can, of course, insure his factory against fire.
+The receipts from that insurance will obviously be capital receipts.
+But supposing he goes further, as the manufacturer did in that case, and insures himself against the loss of profits which he will suffer while his factory is out of action; it seems to me it is beyond question that sums received in respect of that insurance against loss of profits must be of a revenue nature.
+" The assessee did not carry on business of buying and selling ingots.
+The compensation paid to the assessee was not for any trading or business activity, but just equivalent in money of the goods lost by the assessee which it was prevented from using.
+The excess arose onsuch payment in respect of goods in which the assessee did not carry on any business.
+Due to fortuitous circumstances of devaluation of currency, but not due to any business or trading activity the amount could not be brought to tax.
+The Appellate Tribunal in the instant case had found, "the profit on account of devaluation is not business profit or income as it has nothing to do with the business or trading activity of the assessee.
+The profit arose since the clai m was settled by the Insurance Company and the Indian rupee was devalued.
+Even without paying for the goods contracted for, the assessee by an extraordinary set of fortuitous circumstances earned a profit which by its very nature is causal and non recurring.
+In this view of the matter the profit cannot be charged to tax." The High Court of Kerala in Commissioner of Income Tax vs Union Engineering Works, held : "In the instant case, the excess profit, as found by the Tribunal, was not a receipt arising from business; nor was it, as admitted on both sides, capital gains.
+This was part of the compensation received by the assessee from the insurer for damage caused to its goods.
+The claim for the compensation for damage caused to the goods had. been 787 settled with the insurer, and the sum, so settled did am include any excess profit.
+The excess profit arose entirely due to the , devaluation.
+This excess amount was in the nature of a windfall, being the unexpected fruit of devaluation, and it can not, therefore, be regarded as a receipt arising from business though it may be said in a sense to be a receipt in the course, of business.
+We hold that the Tribunal had correctly held that the sum of Rs.13,455.75 received by the assessee was not a recipt arising from its business within the meaning of section 10(3)(ii) 'of the Income Tax Act, 1961.
+" We are of the view that on the facts of that case, the High Court of Kerala was right in law in upholding the findings of the Tribunal while on the facts found in the instant case, the High Court, of Madras was wrong in law in reversing the well considered order of the Tribunal.
+For reasons stated by us this appeal suceeds and is allowed.
+Both the questions referred by the Tribunal to the High Court are answered in the affirmative, i,e, in favour of assessee and against the department.
+The assessee shall be entitled to its costs.
+N. V. K. Appeal allowed.

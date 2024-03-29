@@ -1,0 +1,49 @@
+The petitioners challenged the constitutional validity of the Orissa Mining Areas Development Fund Act, 1952, which by section 3 empowered the State Government to constitute mining areas for the purpose of providing them with certain amenities after hearing objections from the lessees, by section 4 to impose and collect a cess not exceeding 5% of the valuation of the minerals at the pit 's mouth and by section 5 created a fund to which the cess was to be credited.
+The petitioners ' case, inter alia, was that the impugned Act and the rules made thereunder were ultra vires the powers of the State Legislature, the cess levied thereunder was not a fee but a duty of excise on coal within Entry 84 of List I of the Seventh Schedule to the Constitution and repugnant to Coal Mines Labour Welfare Fund Act, 1947 (Act XXXII of 1947), and, alternatively, even supposing it was a fee relatable to Entries 23 and 66 of List II, it was hit by Entry 54 of List I read with the Mines and Minerals (Regulation and Development) Act 1948 (Act LIII of 1948), or by Entry 52 of List I read with the Industries (Development and Regulation) Act, 1951 (Act LXV of 1951).
+It was urged on behalf of the State, inter alia, that the cess was a fee and not a duty of excise and the competence of the State Legislature to levy it was not affected by the Central Acts.
+Held (per Gajendragadkar, Sarkar, Subba Rao and Mudholkar, JJ.), that the cess imposed by the Act was a fee relatable to Entries 23 and 66 of List II of the Seventh Schedule to the Constitution and the Constitutional validity of the impugned Act was beyond question.
+Although there can be no generic difference between a tax and a fee since both are compulsory exactions of money by public authorities, there is this distinction between them that whereas a tax is imposed for public purposes and requires no consideration to support it, a fee is levied essentially for services rendered and there must be an element of quid pro quo between the person 538 who pays it and the public authority that imposes it.
+While a tax invariably goes into the consolidated fund, a fee is earmarked for the specified services in a fund created for the purpose.
+Whether a cess is one or the other would naturally depend on the facts of each case.
+If in the guise of a fee, the Legislature imposes a tax, it is for the Court on a scrutiny of the scheme of the levy, to determine its real character.
+The distinction is recognised by the Constitution which while empowering the appropriate Legislatures to levy taxes under the Entries in the three lists refers to their power to levy fees in respect of any such matters, except the fees taken in court, and tests have been laid down by this Court for determining the character of an impugned levy.
+Matthews vs Chicory Marketing Board, ; , The Commissioner, Hindu Religious Endowments, Madras vs Sri Lakshmindra Thirtha Swamiar of Sri Shirur Mutt, ; , Mahant Sri Jagannath Ramanuj Das & Any.
+vs The State of Orissa, ; , and Ratilal Panachand Gandhi vs The State of Bombay, [1954] S.C.R. 1055, referred to.
+P. P. Kutti Keva & Ors.
+vs The State of Madras, A.I.R. , Attorney General for British Columbia vs Esquimalt and Nanaimo Railway Co., and Parton & Any.
+vs Mils Board (Victoria), (1949) 80 C.L.R. 229, considered and held inapplicable.
+In determining whether a levy is a fee the true test must be whether its primary and essential purpose is to render specific services to a specified area or class, it being of no consequence that the State may ultimately and indirectly be benefited by it.
+So judged, the scheme of the impugned Act leaves no manner of doubt that the levy authorised by it is a fee and not a tax.
+The amount of the levy must depend on the extent of the services sought to be rendered and if they are proportionate, it would be unreasonable to say that since the impost is high it must be a duty of excise.
+The rate specified by section 4(2) of the Act, therefore, cannot by itself alter the character of the levy and constitute a trespass by the State Legislature on the legislative powers of the Parliament under Entry 84 of the List I.
+Nor can the method prescribed by the Legislature for re covering the levy by itself alter its character.
+The method is a matter of convenience and, though relevant, has to be tested in the light of other relevant circumstances.
+It is not permissible to challenge the vires of a statute relatable to an Entry in List II solely on the ground that the method adopted for the recovery of the impost can and generally is adopted in levying a duty of excise.
+Ralla Ram vs The Province of East Punjab, , Byramjee Jeejeebhoy vs The Province of Bombay & Anr.
+I.L.R. 539 and Governor General in Council vs Province of Madras, (1945) 'L.R. 72 I.A. 91, considered.
+The limitation imposed by the latter part of Entry 23 of List II is a limitation on the legislative competence of the State ' Legislature itself and the test whether a statute passed by the State Legislature thereunder was ultra vires would be whether the requisite declaration under Entry 54, List I, has been made by Parliament by law covering the same field or not; it is not necessary in order to make the declaration effective that rules should also be made and enforced.
+Although by operation of article 372 of the Constitution Act LIII of 1948 was an existing Act substantially covering the same field as covered by the impugned Act, there was no adaptation of section 2 of that Act whereby a declaration implied by it could be said to have been adapted to a declaration by Parliament.
+Clause 16 of the Adaptation of Laws Order, 1950, properly construed, cannot be held to refer to the Dominion Legislature and equate it with the Parliament.
+It can be resorted to only where the existing law expressly refers to some authority that can be equated with the corresponding new authorities.
+Since the Dominion Legislature was not so referred to, its competence under the Constitution Act of 1935, repealed by the Constitution of India, was clearly outside the clause.
+Nor can Cl.
+21 of the order be of any help to the petitioners.
+Consequently, in the absence of the requisite Parliamentary declaration, the competence of the Orissa State Legislature under Entry 23 read with Entry 66 of the List II was not impaired and the impugned Act must be deemed to have repeal ed the Central Act, so far as that State was concerned.
+This case incidentally discloses that in regard to the requisite Parliamentary declaration prescribed by Entry 54 in List I in its application to the pre constitution Acts under corresponding Entry 36 in List I of the Constitution Act of 1935, there is a lacuna which has not been covered by any clauses of the Adaptation of Laws Order, 1950.
+Nor was the impugned Act ultra vires the State Legislature by operation of Entry 52 of List I read with section 2 of the Industries (Development and Regulation) Act, 1951 (LXV of 1951).
+That Act, in pith and substance, deals more directly with the control of certain specified industries including the coal industry, while the impugned Act is concerned with the development of the mining areas notified under it.
+The field covered by the two Acts was not, therefore, the same.
+per Wanchoo, J.
+In order to determine whether a levy is a tax or a fee, what has to be considered is the pith and sub stance of the levy.
+Where the levy in pith and substance is not essentially different from a tax, it cannot be converted into a fee by crediting it to a special fund and attaching certain services to it.
+540 The Commissioner, Hindu Religious Endowments, Madras, vs Sri Lakshmindra Thirtha Swamiar of Sri Shirur Mutt, ; , Mahant Sri Jaannath Ramanuj Das vs The State of Orissa, ; and Ratilal Panachand Gandhi vs The State of Bombay, [1954] S.C.R. 1055, discussed.
+A duty of excise in pith and substance is primarily a duty levied on a manufacturer or producer in respect of the commodity manufactured or produced.
+It is different and distinct from a sales tax and in law they do not overlap.
+Governor General in Council vs Province of Madras, 72 I.A. 91, referred to.
+What the impugned Act did was to provide for the levying of the cess on the goods produced at a rate not exceeding five per centum of the value at the pit 's mouth.
+The cess was, therefore, in pith and substance a duty of excise falling within Entry 84 of List I, which the State legislature could not levy.
+It was not correct to say that the method employed by the impugned Act for realising the cess was a mere method of quantification and did not affect its character which was that of a fee.
+In the present case the very mode of the levy of the cess is nothing other than the levy of a duty of excise, and, therefore, the principle of quantification for purposes of a fee could not be so extended as to convert what was in pith and substance a tax into a fee.
+Sri Byramjee Jeejeebhoy vs The Province of Bombay, I.L.R. , Municipal Corporation, Ahmedabad vs Patel Gor dhandas Hargovandas, I.L.R. and Ralla Ram vs The Province of East Punjab, , considered.
+K. C. Gajapati Narayan Deo vs The State of Orissa, ; , referred to.
+The cess levied under section 4 of the Act could not be justified as a tax on mineral rights under Entry 50 of List II of the Seventh Schedule and the impugned Act was in effect a colourable piece of legislation.

@@ -1,0 +1,78 @@
+The by section 391 enables a member or a creditor of the company or a company which is being wound up, its liquidator, to make an application to the court proposing a compromise or arrangement between the company and its creditors or any class of them or between the company and its members or any class of them and seeking directions of the court to convene a meeting of each class of creditors and/or each class of members to whom the compromise or arrangement is offered.
+On the court giving the directions, the meeting would be convened in which the proposed scheme of compromise and/or arrangement would be submitted for consideration and each class will have to vote upon it and if the scheme is accepted by a majority in number representing three fourths in value of the creditors or members or class of members as the case may be, present and voting either in person or where proxy is allowed by proxy, such approved scheme has to be placed before the court for sanction of the court as envisaged in section 391(2).
+Under section 392 of the Act, the High Court which has sanctioned the scheme has the power to supervise the carrying out of it and to give directions in regard to any matter or to make modifications in it as it may consider necessary for its proper working.
+But if the court is satisfied that the scheme cannot work satisfactorily with or without modifications, it can either suo motu or on an application of any person interested in the company 's affairs order its winding up.
+The holding company proposed a scheme of compromise/arrangement between its subsidiary and the unsecured creditors of the subsidiary company.
+After obtaining the approval of the shareholders the holding company obtained the sanction of the company court.
+A large number of shares in the subsidiary company held by it and its claim for a sum of Rs. 23 lacs recoverable from the subsidiary company were transferred by the holding company to the appellants.
+The appellants then applied to the court to make an appropriate modification and/or grant further direction for implementing the scheme sanctioned by the court in respect of the subsidiary company by substituting them (the appellants) in place of the holding company as proponents of the scheme.
+The respondent in the mean while made an application to the company court under section 392 of the to hold that the scheme sanctioned by the court could not work satisfactorily with or without modification and that, therefore, the court should 1185 make an order of winding up.
+The company judge allowed substitution of the appellants as proponents of the scheme and rejected the respondents ' application for winding up of the subsidiary company.
+On appeal by the respondents under section 483 of the a Division Bench held: (1) that since the substitution of a new propounder in a scheme sanctioned by the court in place of the original propounder was a change of a basic nature which would not be comprehended within the meaning of the expression "modification" in section 392 and, therefore, the company judge could not have granted substitution of the propounder of the scheme without referring the proposed modified scheme to the creditors who approved the original scheme, (2) that since the transfer of the shares in favour of the appellants had not been effected in the company 's registers, the appellants were not members of the subsidiary, (3) that the debt owed by the subsidiary to the holding company was not assigned according to law in favour of the appellants and, therefore, they were not creditors and (4) that not being either members or creditors of the subsidiary, the appellants had no locus standi to move an application under section 392 for the modification of the scheme.
+On the question whether the court had power to grant an application under section 392 of the Act.
+Allowing the appeal, ^ HELD: 1.
+Though a large number of provisions of the are in pari materia with the provisions of Companies Act, 1948 of the U.K. there is no provision analogous to section 392 in the U.K. Act.
+The court under the U.K. Act has no power to modify the scheme either at the time when it is offered for its sanction or at any time subsequent thereto.
+The Parliament has in its wisdom, conferred a power of wide amplitude on the High Court in India to provide for its continuous supervision of the carrying out of compromise and/or arrangement and also the consequential power to make the supervision effective by removing the hitches, obstacles or impediments in the working of compromise or arrangement by conferring power to give such directions for the proper working of the compromise and/or arrangement.
+[1193 D F] This power of widest amplitude being conferred on the High Court is a basic departure from the scheme of the U.K. Act in which provision analogous to section 392 is absent.
+The sponsors of the scheme under section 206 of the U.K. Act have tried to get over the difficulty by taking power in the scheme of compromise or arrangement to make alterations and modifications as proposed by the court.
+[1195 C] In the instant case the scheme is essentially a compromise between the company and its unsecured creditors.
+The scheme when sanctioned does not merely operate as an agreement between the parties but has statutory force and is binding not only on the company but even dissenting creditors or members, as the cause may be.
+[1194 B C] J.K. (Bombay) Pvt. Ltd. vs New Kaiser I Hind Spg.
+& Wvg.
+Co Ltd. & Ors.
+, at 891; referred to.
+1186 2.
+Section 391(1) by a specific and positive provision prescribes who can move an application under it.
+Only the creditor or member of that company or a liquidator in the case of a company being wound up is entitled to move an application proposing a compromise or arrangement.
+By necessary implication any one other than those specified in the section would not be entitled to move such an application.
+[1194 D] 3.
+Sub section (2) of section 392 provides the legislative exposition as to who can move the court for taking action under section 392.
+Reference to section 391 in sub section (2) of section 392 merely indicates which compromise or arrangement can be brought before the court for taking action under section 392.
+The reference to section 391 in sub section (2) of section 392 does not mean that all the limitations or restrictions on the right of an individual to move the court while proposing a scheme of compromise or arrangement have to be read in sub section
+(2) merely because section 391 is referred to therein.
+Unlike section 391, section 392 does not specify that a member or a creditor or in the case of a company being wound up, its liquidator, alone can move the court under section 392.
+The legislature uses the expression 'any person, interested in the affairs of the company ' which has wider denotation than a member or creditor or liquidator of a company.
+The ambit of the power to act under section 392(2) is demonstrated by the provision that the court can suo motu act to take action as contemplated by section 392(1) or it may act on an application of any person interested in the affairs of the company.
+[1195 F H] Mansukhlal vs M. V. Shah, [1976] 46 Company cases 279 at 290 291; referred to.
+If the court can suo motu act, it is immaterial as to who drew the attention of the court to a situation which necessitated court 's intervention.
+Where the power is conferred on the court to take action on its own motion, the information emanating from whatever source which calls for court 's attention can as well be obtained from any person without questioning his credentials, moving an application drawing attention of the court to a situation where it must act.
+The court may decline to act at the instance of a busy body but if the action proposed to be taken is justified, valid, legal or called for the capacity or credentials of the person who brought the situation calling for court 's intervention is hardly relevant nor would it invalidate the resultant action only on that ground.
+When sub section
+(2) confers power on the court to act on its own motion, the question of locus standi hardly arises.
+[1197 C E] In the instant case while examining the question of locus standi after considering the provisions contained in sub section
+(2) the High Court wholly over looked the important provision therein contained, that the High Court can act on its own motion.
+[1197 F] 5.
+Even though section 391 and 392 are complementary they operate at different stages and have to be harmoniously read.
+[1197 G H] 6.
+Winding up meaning civil death of a company, must be the ultimate resort of the court.
+A living workable scheme infusing life into a sick unit is generally to be preferred to civil death of the company.
+There is no warrant for circumscribing the expression 'on the application of any person interested in the affairs of the company as to limit it to a member or a 1187 creditor.
+If the legislature used the expression 'member or creditor ' in section 391(1) and yet used an expression of wider denotation 'any person interested in the affairs of the company, ' in section 392(2), the legislative intention is clearly exposed in that any such person interested in the affairs of the company need not be limited or restricted to refer to a member or creditor.
+[1198 G 1199 A] In the instant case, there is enough evidence on record that as between the holding company and the appellants the sale of shares is complete, and that the debt owed by the subsidiary to holding company has been assigned by the holding company to the appellants.
+The appellants therefore have requisite interest both in the subsidiary company and the scheme in respect of it, so as to enable them to maintain an application under section 392(2), as being persons interested in the affairs of the company, and therefore the application for modification by them is maintainable.
+[1200 B C] 7.
+The High Court was in error in holding that the appellants had no locus standi to maintain an application under section 392(1).
+The words 'modify ' and 'modification ' have been defined in section 2(29) of the Act to include the making of additions and omissions.
+Section 2(1) defines 'altered ' and 'alteration ' to include 'making of additions and omissions ', while 'variation ' is defined in section 2(31) to include 'abrogation '.
+The definition of cognate words is noted to arrive at a true meaning of the word 'modification '.
+The noticeable feature is that it is an inclusive definition, and where in a definition clause he word 'include ' is used, it is so done in order to enlarge the meaning of the words or phrases occurring in the body of the statute and when it is so used, these words or phrases must be construed as comprehending not only such things which they signify according to their natural import, but also those things which the interpretation clause declares that they shall include.
+[1200 H, 1201 D G, H 1202 B] Dilworth vs Commissioner of Stamps, [1899] AC 99 at 105; Jobbins vs Middlesex County Council, ; Indira Nehru Gandhi vs Raj Narain at 97; Kalva Singh vs Genda Lal, ; at 309; Cox vs Hakes, ; referred to.
+According to the definition 'modify ' and 'modification ' would include the making of additions and omissions.
+In the context of section 392 'modification ' would mean addition to the scheme of compromise and/or arrangement or omission therefrom solely for the purpose of making it workable.
+[1203 B] 9.
+The High Court misdirected itself when it resorted to dictionaries for the meaning of the expression 'modification ' in section 392 when the said term was defined in section 2(29) of the Act itself.
+[1203 A] In the instant case, the scheme is one by which a compromise is offered to the unsecured creditors of the company and whoever comes in as sponsor would be bound by it.
+Omission of the original sponsor and substituting another one would not therefore, change the 'basic fubric ' of the scheme.
+[1203 E] 10.
+The court on which a duty is cast by section 392(1) to supervise the working of compromise/arrangement must examine the bona fides of the person applying to be substituted as sponsor, his capacity, his ability, his interest qua the company and other relevant considerations before substituting one sponsor for another.
+In a given case an application may be rejected if the 1188 court is of the opinion that the sponsor is not one who can be trusted with the implementation of the scheme.
+[1204 A C] In the instant case the appellants have applied for substituting them as sponsors of the scheme in place of the holding company.
+They claim to have purchased 44,000 shares out of 80,000 issued and subscribed equity shares of the company.
+The sponsor has taken an assignment of a debt of Rs. 23 lacs which the subsidiary company owed to the holding company from the holding company.
+The only objector is respondent holding 1,000 equity shares representing 1.25 per cent of the issued and subscribed capital.
+In pursuance to the court 's order notice in the newspaper was inserted calling for objection to the application for substitution/modification.
+None including the petitioning creditor except the respondent lodged such an objection.
+The appellants agreed to implement the scheme and undertook to provide Rs. 3 lacs as liquid finance for implementation.
+The appellants therefore have a subsisting and vital interest in the fate and future of the subsidiary company and they are the appropriate persons who could and should be substituted in place of the original sponsor and there is no objection to granting their application.
+[1204 D F, 1205 E, B]

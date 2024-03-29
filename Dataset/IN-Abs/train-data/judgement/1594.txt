@@ -1,0 +1,113 @@
+Appeal No. 45 of 1961.
+Appeal from the judgment and decree dated April 16, 1959, of the Punjab High Court at Chandigarh in Regular First Appeal No. 30 of 1952.
+section P. Verma, for the appellants.
+B. P. Maheshwari, for respondent.
+March 7.
+The Judgment of the Court was delivered by SUBBA RAO J.
+This appeal raises the question whether a suit would lie in a civil Court claiming refund of the terminal tax collected by a municipality under the provisions of the Punjab Municipal Act, 1911 (Punjab Act III of 1911), hereinafter called the Act.
+The appellant is alleged to be a firm registered under the Indian Partnership Act.
+It carries on 276 business within the limits of the Ludhiana Municipality.
+It imported Sambhar salt into the octroi limits of the Ludhiana Municipality.
+The Municipal Committee, Ludhiana, imposed terminal tax on the said salt and the appellant paid a sum of Rs. 5,893/7/0 towards the said tax between October 24, 1947 and December 8, 1947.
+Under the Punjab Government Notification No. 26463, dated July 21, 1932, terminal tax was payable under item 68 of the Schedule attached to the said Notification at the rate of 3 pies per maund in respect of salt common, and under item 69 at the rate of As./10/ per maund in respect of salt of all kinds other than common salt.
+The Municipal Committee, Ludhiana, collected terminal tax on the Sambhar salt at the higher rate under item 69 of the Schedule on the ground that it did not fall under item 68 of the Schedule.
+The appellant filed a suit against the respondent in the Civil Court, Ludhiana, claiming refund of the said amount with interest.
+The respondent, inter alia, contended that Sambhar salt was not common salt and the Civil Court had no jurisdiction to entertain the suit.
+The Senior Subordinate judge, Ludhiana, held that Sambhar salt was common salt within the meaning of item 68 of the Schedule, that the imposition of tax on it by the respondent under item 69 of the Schedule was illegal and that, therefore, the Court had jurisdiction to entertain the suit.
+On appeal, the High Court of Punjab proceeded on the assumption that Sambhar salt was salt common, but held that, even so, the Civil Court had no jurisdiction to entertain the suit as the Act provided for a remedy by way of appeal against the wrong orders of the authorities thereunder.
+It further held that, in any view, the suit was premature as the appellant should have pursued his remedies under the Act before coming to the Civil Court.
+In the result, the decree of the Subordinate judge was set aside and the suit was dismissed.
+The 277 present appeal has been preferred by the appellant by way of certificate issued by the High Court.
+Mr. Varma, learned counsel for the appellant, contends that the respondent has no power to impose terminal tax on salt common under item 69 of the Schedule to the said Notification and therefore the tax having been imposed contrary to the provisions of the Act, the Civil Court has jurisdiction to entertain the suit.
+On the other hand, Mr. Maheshwari, learned counsel for the respondent, argues that the respondent has power to impose terminal tax on common salt under the provisions of the Act, that the imposition of tax under a wrong entry could be rectified only in the manner prescribed by the Act and that the Civil Court has no jurisdiction to entertain a suit for the refund of tax collected when a specific remedy is available under the Act.
+It would be convenient at the outset to notice the relevant provisions of the Act.
+Under section 61 (2) the Municipal Committee has power to impose, with the previous sanction of the State Government, any tax which the State Legislature has power to impose in the State, subject to any general or special orders which the State Government may make in that behalf.
+The State Government issued the Notification No. 26463 dated July 24, 1932 to come into force from November 1, 1932 empowering the Municipal Committee to impose terminal tax at the rates shown in Col. 3 of the Schedule attached thereto upon the articles mentioned in Col. 2 thereof which are imported into or exported out of the municipal limits by rail or by road.
+The relevant items are items 68 and 69.
+Item 63 is "salt common" and the rate prescribed is 3 pies per maund; and item 69 is "salt of all kinds other than common salt" and the rate fixed is As. /10/ per maund.
+Section 78 provides for a penalty if any person brings any article liable to the 278 payment of terminal tax into the prescribed limits without paying the said tax.
+Section 84 gives a right of appeal.
+against any levy or refusal to refund any tax collected under the Act to the Deputy Com missioner or such other officer as may be empowered by the State Government in that behalf ; under sub section
+(2) thereof, if on hearing of an appeal under the section.
+, any question as to the liability to, or the principle of assessment of a tax arises, on which the officer hearing the appeal entertains reasonable doubt, he may,.
+either of his own motion or on the application of any person interested, state the case and refer the same for the opinion of the High Court; and after the High Court gives its opinion on the question referred to it, the appellate authority shall proceed to dispose of the appeal in conformity with the decisions of the High Court.
+Under section 86, the liability of any person to be taxed cannot be questioned in any manner or by any authority other than that provided in the Act; under sub section
+(2) thereof, no refund of any tax shall be claimed by any person otherwise than in accordance with the provisions of the Act and rules thereunder.
+It will be seen from the aforesaid provisions that the power to impose a terminal tax and the liability to pay the same is conferred or imposed on the municipal com mittee and the assessee respectively by the provisions of the Act.
+The Act also gives a remedy to an aggrieved party to challenge the correctness of the leavy or to seek refund of the same.
+Not only an appeal has been provided for against the order of municipal committee levying the tax or refusing to refund the same, but the appellate authority is empowered to get an authoritative opinion of the High Court on any question as to the liability or on the principle of assessment; and on receiving such opinion, the said authority is bound to dispose of the appeal in the light of the said opinion.
+It is said that the reference provided to the High Court is in the discretion of the appellate authority and he can 279 with impunity refuse to do so, even if any difficult question is involved in the appeal.
+The question is not whether a particular officer abuses his power but whether a remedy is available under the Act or not.
+It cannot be assumed that an officer, though he entertains reasonable doubt on the question as to liability or on the principle of assessment, he will deliberately and maliciously refuse to do his duty : if he does, other remedies may be available.
+The Act also in specific terms debars any authority other than that prescribed under the Act from deciding the question of liability of any person to tax or his right to get refund of a tax paid.
+In short, the Act contains a self contained code conferring a right, impossing a ability and prescribing a remedy for an aggrieved party.
+In such a situation, the question arised whether a Civil Court can entertain a suit for a refund of the tax wrongfully collected from an assessee; and if so, what are the limits of its jurisdiction ? We shall now proceed to consider the relevant principles governing the said question.
+Willes, J., in Wolverhamton New Waterworks Co. vs Hawkesford (1), describes as follows the three classes of cases in which a liability may be established founded upon a statute : "One is, where there was a liability existing at common law, and that liability is affirmed by a statute which gives a special and peculiar form of remedy different from the remedy which existed at common law : there, unless the statute contains words which expressly or by necessary implication exclude the common law remedy the party suing has his election to pursue either that or the statutory remedy.
+The second class of case is, where the statute gives the right to sue merely, but provides no particular from of remedy : there, the party (1) ; , 356.
+280 can only proceed by action at common law.
+But there is a third class, viz., where a liability not.
+existing at common law is created by a statute which at the same time gives a special and particular remedy for enforcing it. .
+The remedy provided by the statute must be followed, and it is not competent to the party to pursue the course applicable to cases of the second class.
+" It is clear from the said passage that in a case where the liability is created by a statute, a party aggrieved must pursue the special remedy provided by it and he cannot pursue his remedy in a Civil Court.
+This principle was approved by the Judical Committee in Secretary of State vs Mask and Co. (1).
+The High Courts in India also accepted the principle and applied it to different situations : see Bhaishankar Nanabhai vs The Municipal Corporation of Bombay (2); Zamindar of Ettayapuram vs Sankarappa (3).
+But there is also an equally well settled principle governing the scope of the Civil Court 's jurisdiction in a case where a statute created a liability and provided a remedy.
+Lord Macnaghten in East Fremantle Corporation vs Annois (4), states the principles thus : "The law has been settled for last hundred years.
+If persons in the position of the appellants, acting in the execution of a public trust and for the public benefit, do an act which they are authorised by law to do, and do it in a proper manner, though the act so done works a special injury to a particular individual, the individual injured cannot maintain an action.
+In a word, the only question is, 'Has the power been exceeded? ' Abuse is only one form of excess." In Gaekwar Sarkar of Baroda vs Gandhi Kachrabhai(5) the defendants by the negligent construction of railway made in exercise of their powers under the (1) (1940) L.R. 67 I.A 222.
+(3) Mad.
+(5) Bom.
+(2) Bom.
+(4) 281 Railways Act had caused the plaintiff 's land to be flooded in the rainy season and consequently damaged.
+The Railways Act provided that a suit shall not lie to recover Compensation for damage caused by the exercise of the powers thereby conferred, but that the amount of such compensation shall be determined in accordance with the Land Acquisition Act, 1870.
+In spite of this bar the plaintiff brought a suit for damages for injury alleged to have been caused to his field.
+It was argued that though the statutory authority of the Act, of 1890 might have been abused or exceeded, the of the aggrieved party was only to proceed under the Land Acquisition Act and not by a civil suit.
+Rejecting that plea the judicial Committee observed: "It would be simply a waste of time to deal seriously with such contentions as these.
+It has been determined over and over again that if a person or a body of persons having statutory authority for the construction of works. exceeds or abuses the powers conferred by the Legislature, the remedy of a person injured in consequence is by action or suit, and not by a proceedings for compensation under the statute which has been so transgressed." Indian Courts, in the context of Municipal Acts had occasion to apply both the principles.
+In Municipal Board, Benaras vs Krishna & Co. (1), it was held that no suit for a refund of an octroi charge, which has been assessed and levied by a municipality, lies in a Civil Court on the ground that the goods were not in fact assessable to octroi duty or that the amount of assessment was excessive.
+There, the assessment was made in accordance with the provisions laid down in the Municipalities Act and the rules made thereunder.
+In Municipal Committee, Montgomery vs Sant Singh (2), a Full Bench of the Lahore High Court had to consider the question (1) All.
+916 (2) A.1.R. 1940 Lah.
+(F.B.)377, 380, 282 whether a suit would lie in a Civil Court for an injunction restraining a Municipal Committe from realizing the tax demanded from a person on the ground that he was not the owner of the lorries the subject matter of tax, and consequently the demand made on him was illegal and ultra vires of the Municipal Committee.
+Din Mohammad J., speaking for the Court, elaborately considered the case law on the subject and expressed his conclusion in the following words : "Any special piece of legislation may provide special remedies arising therefrom and may debar a subject from having recourse to any other remedies, but that bar will be confined to matters covered by the legislation and not to any extraneous matter.
+A corporation is the creature of a statute and is as much bound to act according to law as the constituents thereof, namely, the individuals ruled by the corporation and if the corporation does an act in disregard of its charter and intends to burden any individual with the consequences of its illegal act, an appeal by that individual to the general law of the land can in no cir cumstances be denied.
+" This is a case where it may be said that the Municipal Committee acted not under the Act but outside the Act in as much as the tax on vehicles was payable by the owners only but not by those who did not own them.
+Another Full Bench of the Lahore High Court, in Administrator, Lahore vs Abdul Majid (1), had to deal with the jurisdiction of a Civil Court to entertain a suit for an injunction restraining a municipal committee from interfering with the construction of the plaintiff 's proposed building on the ground that its order refusing sanction under section 193 (2) of the Punjab Municipal Act was an abuse of its power.
+Mahajan J., delivering (1) A. 1.
+R. 283 the judgment on behalf of the Full Bench observed at p. 84 : "The provisions of section 225 which make the decision of the Commissioner final can only mean this that that decision is final only so far as the proceedings under the Act are concerned.
+But when an order is made which is outside that Act, then the provisions of section 225 can have no application to such an order which itself is outside the Act. . . . . . .
+In short the Bench laid down that in two kinds of cases section 225 was no bar to the jurisdiction of a civil court in examining the order of the municipal committee passed under section 193 (2), Punjab Municipal Act.
+The first case is where a committee acts ultra vires and the second case is where it acts arbitrarily or capriciously.
+In other words, where it abuses its statutory powers.
+" The learned judge concluded thus, at p. 85 "The remedies given to the subject by a statute are for relief against the exercise of power conferred by a statute but those remedies are not contemplated for usurpation of power under cover of the provisions of the statute.
+The civil Courts are the proper tribunals in those kinds of cases and their jurisdiction cannot be held barred by reason of statutory remedies provided for grievances arising in exercise of statutory powers.
+To cases of this kind the rule that where a statute creates a right and provides at the same time a remedy, that remedy and no other is available, has no application.
+Further citation is unnecessary.
+The law on the subject may be briefly stated thus : 284 Under section 9 of the Code of Civil Procedure the Court shall have jurisdiction to try all suits of civil nature excepting suits of which cognizance is either expressly or impliedly barred.
+A statute, therefore, expressly or by necessary implication, can bar the jurisdiction of civil Courts in respect of a particular matter.
+The mere conferment of special jurisdiction on a tribunal in respect of the said matter does not in itself exclude the jurisdiction of civil courts.
+The statute may specifically provide for ousting the jurisdiction of civil Courts ; even if there was no such specific exclusion, if it creates a liability not existing before and gives a special and Particular remedy for the aggrieved party, the remedy provided by it must be followed.
+The same principle would apply if the statute had provided for the particular forum in which the said remedy could be had.
+Even in such cases, the Civil Court 's jurisdiction is not completely ousted.
+A suit in a civil Court will always lie to question the order of a tribunal created by a statute, even if its order is, expressly or by necessary implication, made final, if the said tribunal abuses its power or does not act under the Act but in violation of its provisions.
+Let us now apply the said principles to the facts of the present case.
+The liability to pay terminal tax is created by the Act and remedy is given to a party aggrieved in the enforcement of that liability.
+As has been already indicated, against the order of the municipal committee levying terminal tax an appeal lies to the Deputy Commis sioner and a reference to the High Court.
+Applying one of the principles stated supra, the party aggrieved can only pursue the remedy provided by the Act and he cannnot file a suit in a civil Court in that regard.
+Provisions of sections 84 and 86 of the Act exclude the jurisdiction of the civil Court in respect of the tax levied or the assessment made under the Act.
+285 But the learned counsel for the Appellants contends that the impugned levy was not made under the Act but in derogation of the provisions thereof.
+There is no force in this contention.
+Section 61 (2) of the Act specifically empowers the Municipal Committee to levy any tax other than those specified therein with the previous sanction of the State Government.
+The levy of terminal tax was sanctioned by the Punjab Government by Notification No. 26463 dated July 21, 1932, at the rates shown in column 3 of the Schedule to the said Notification.
+Under the said Notification, read with section 61 of the Act, the Municipal Committee is empowered to levy terminal tax on salt whether it is common salt or not.
+The Committee has, therefore, ample power under the Act and the Notification issued by the State Government to impose the said tax.
+The only dispute was as regards the rate of tax payable in respect of the salt brought by the appellant into the limits of the Municipal Committee.
+The rate depended upon the character of the salt.
+The ascertainment of the said fact is a necessary step for fixing the rate and it is not possible to say that in ascertaining the said fact the authorities concerned travelled outside the provisions of the Act.
+The learned counsel contends that if a municipal committee levies terminal tax on an article not liable to tax under the Act, a suit would lie and, therefore, the same legal position should apply even to a case where the municipal committee levies the tax in respect of an article under an entry not applicable to if.
+We do not see any analogy between these two illustrations : in the former, the municipal committee does not act under the Act, but in the latter it only commits a mistake or an error in fixing the rate of tax payable in respect of a particular commodity ; one is outside the Act and the other is under the Act ; one raises the question of jurisdiction and the other raises an objection to a Matter of detail.
+We, therefore, hold that in the 286 present case the mistake, if any, committed in imposing the terminal tax can only be corrected in the manner prescribed by the Act.
+The appellants have misconceived their remedy in filing the suit in the civil Court.
+The conclusion arrived at by the High Court is correct.
+In the result, the appeal fails and is dismissed with costs.
+Appeal dismissed.

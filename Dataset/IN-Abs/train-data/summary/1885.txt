@@ -1,0 +1,18 @@
+The appellant company made a claim under section 5 of the Income tax (Double Taxation Relief) (Indian States) Rules, 1939, for refund of the income tax paid by it in an Indian State.
+The claim was rejected by the Income tax Officer as time barred.
+The Commissioner of Income tax and the Central Board of Revenue refused to interfere and the appellant sought no further legal remedy against their orders.
+Subsequently on certain tax demands being made by the Income tax Officer, the appellant made representation that the amounts in respect of which application had earlier been made under r. 5 should be set off against the demand as provided by section 49E of the Indian Income tax Act, 1922.
+The Income tax authorities having rejected this claim also, the appellant went to the High Court under article 226 of the Constitution.
+The High Court held that the expression found to be due" in section 49E clearly meant that there must be, prior to the claim of set off, an adjudication whereunder an amount is found due by way of refund to the person claiming set off.
+Since there was no such adjudication in the appellant 's favour, the writ petition was dismissed.
+However a certificate of fitness under article 133(1) (c) was granted to the appellant.
+HELD : (i) It is not necessary that there should be a prior adjudication before a claim can be allowed under section 49E.
+There is nothing to debar the Income tax Officer from determining the question whether a refund is due or not when an application is made to him under section 49E.
+The words "is found" do not necessarily lead to the conclusion that there must be a prior adjudication.
+[419 D E] (ii) The set off under section 49E must however be "in lieu of payment ' which expression connotes that payment is outstanding i.e. there is a subsisting obligation on the Income tax Officer to pay.
+If a claim to refund is barred by a final order, it cannot be said that there is a subsisting obligation to make the payment.
+[419 F G] Stubbs vs Director of Public Prosecutions , relied on.
+(iii) In the present case the orders of the Commissioner and the Central Board of Revenue rejecting the appellant 's claim under r. 5 of the Indian State Rules had become final.
+They were not challenged even in the petition under article 226.
+There was thus no subsisting obligation on the part of the Income tax Officer to make payment to the appellant, and the claim of the appellant under section 49E must therefore, fail.
+[419 G H]

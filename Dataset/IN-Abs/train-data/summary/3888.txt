@@ -1,0 +1,46 @@
+It has inter alia a Cotton Mill situated in West Pakistan where it carries on business of manufacturing and selling cotton fabrics.
+For the accounting year relevant to the assessment year 1954 55, the assessee made a large profit in the unit in West Pakistan.
+The Pakistan profit, according to the official rate of exchange, which was then prevalent, namely, 100 Pakistani rupees being equal to 144 Indian rupees amounted to Rs. 1,68,97,232 in terms of Indian rupees.
+Since the assessee was taxed on accrual basis, the sum of Rs. 1,68,97,232 representing the Pakistani profit was included in the total income of the assessee for the assessment year 1954 55 and the assessee was taxed accordingly after giving double taxation relief in accordance with the bilateral agreement between India and Pakistan.
+On 8th August, 1955, the Pakistani rupee was devalued and parity between Indian and Pakistani rupee was restored.
+The assessee thereafter succeeded in obtaining the permission of the Reserve Bank of Pakistani to remit a sum of Rs. 25 lakhs in Pakistani rupees out of the Pakistani profit for the assessment year 1954 55.
+The profit of Rs. 25 lakhs in terms of Pakistani rupees had been included in the total income of the assessee for the assessment year 1954 55 as Rs. 36 lakhs in terms of Indian rupees according to the then prevailing rate of exchange and, therefore, when the assessee received the sum of Rs. 25 lakhs on remittance of the profit of Rs. 25 lakhs in Pakistani rupees during the assessment years 1957 58, the assessee suffered a loss of Rs. 11 lakhs, in the process of conversion on account of appreciation of the Indian rupee qua Pakistani rupee.
+Likewise, in the assessment year 1959 60, a further sum of Rs. 12,50,000 was remitted by the assesses to India out of the Pakistani profit for the assessment year 1954 55 and suffered a loss of Rs. 5,50,000.
+The assessee claimed in its assessment for the year 1957 58 and 1959 60 that these losses of Rs. 11 lakhs and Rs. 5,50,000 should be allowed in computing the profit from business.
+The Income Tax Officer and the Tribunal disallowed the claim.
+On a reference to the High Court, the High Court took the view that no loss was sustained by the assessee on remittance of the amounts from West Pakistan and that in any event, the loss could not be said to be a business loss because it was not a loss arising in the course of business of the assessee but it was caused by devaluation which was an act of State.
+The High Court accordingly answered the question in favour of the Revenue and against the assessee.
+Disposing of the appeals by special leave the Court, 977 ^ HELD: The first question that arises is whether the assessee suffered any loss on the remittance of Rs. 25 lakhs and Rs. 12,50,000.
+These two amounts admittedly came out of the Pakistani profit for the assessment year 1954 55 and the equivalent of these two amounts in Indian currency, namely, Rs. 36 lakhs and Rs. 18 lakhs respectively was included in the assessment of the assessee as part of Pakistani profit but by the time these amounts came to be repatriated to India, the rate of exchange had undergone change on account of devaluation of Pakistani rupee and, therefore, on repatriation, the assessee received only Rs. 25 lakhs and Rs. 12.50 lakhs in Indian currency instead of Rs. 36 lakhs and Rs. 18 lakhs.
+The assessee thus suffered a loss of Rs. 11 lakhs in one case and Rs. 5.50 lakhs in the other case.
+The fact that no loss was reflected in the books of the two accounts of the assessee was not a conclusive factor and the High Court ought not to have relied on it.
+It is now well settled that the way in which entries are made by an assessee in his books of account is not determinative of the question whether the assessee has earned any profit or suffered any loss.
+[981 A D, 982 A B C] Commissioner of Income Tax vs Tata Locomotive Engineering Co., relied on.
+The question arising in the case is whether the loss sustained by the assessee was a trading loss and if it was a trading loss whether it would be liable to be deducted in computing the taxable profit of the assessee under Sec.
+10(1) of the Income Tax Act, 1922.
+The argument which found favour with the High Court was that because the devaluation was an act of the sovereign power, it could not be regarded as a loss arising in the course of the business of the assessee or incidental, to such business, is plainly erroneous.
+It is true that a loss in order to be a trading loss must spring directly from the carrying on of business or be incidental to it, but it would not be correct to say that where a loss arises in the process of conversion of foreign currency which is part of trading asset of the assessee, such loss cannot be regarded as a trading loss because the change in the rate of exchange which occasions such loss is due to an act of the sovereign power.
+[982 D G] Badri Das Dada vs C.I.T., relied on.
+It is not the factor or circumstance which caused the loss that is material in determining the true nature and character of the loss, but whether the loss has occurred in the course of carrying on the business or is incidental to it.
+If there is a loss in trading asset, it would be a trading loss, whatever be its cause, because it would be a loss in the course of carrying on the business.
+If the stock in trade of a business is stolen or burnt the loss, though occasioned by external agency or act of God would clearly be a trading loss.
+Whether the loss suffered by the assessee is a trading loss or not, would depend on the answer to the query whether the loss is in respect of a trading asset or a capital asset.
+In the former case, it would be a trading loss but not so in the latter.
+The test may be formulated in another way by asking the question whether the loss is in respect of circulating capital or in respect of fixed capital.
+It is, of course, not easy to define precisely what is the line of demarcation between fixed capital and circulating capital but there is a well recognised distinction between the two concepts.
+Adam Smith in his 'Wealth of Nations ' describes fixed capital as what the owner turns to profit by keeping it in his 978 own possession and circulating capital as what he makes profit of by parting with it and letting in change masters.
+Circulating capital means capital employed in the trading operations of the business and the dealings with it comprise trading receipts and trading disbursements, while 'fixed capital ' means capital not so employed in the business, though it may be used for the purposes of a manufacturing business but does not constitute capital employed in the trading operations of the business.
+[982 H, 983 A F] Golden Horse Shoe (new) Ltd. vs Thurgood, ; approved.
+Landes Bros. vs Simpson ; Davis vs Shell & Co. of Chine Ltd. ; Imperial Tobacco Co. vs Kelly; ; referred to with approval.
+Commr.
+of Income tax.
+Bombay City vs Tata Locomotive & Engineering Co. Ltd. approved.
+Commr.
+of Income tax, Mysore vs Canara Bank Ltd. approved.
+It is clear from the authorities that where profit or loss arises to an assessee on account of appreciation or depreciation in the value of foreign currency held by it, on conversion into another currency, such profit or loss would ordinarily be trading profit or loss if the foreign currency is held by the assesses on Revenue account or as trading asset or as part of circulating capital embarked in the business.
+But if, on the other hand, the foreign currency is held as a capital asset or as fixed capital, such profit or loss would be of capital nature.
+[991 B C] In the present case, no finding has been given by the Tribunal as to whether the sum of Rs. 25 lakhs and Rs. 12.50 lakhs were held by the assessee in West Pakistan on capital account or Revenue account and whether they were a part of fixed capital or of circulating capital embarked and adventured in the business in West Pakistan.
+If these two amounts were employed in the business in West Pakistan and formed part of the circulating capital of that business, the loss of Rs. 11 lakhs and Rs. 5.50 lakhs resulting to the assessee on remission of these two amounts on account of alterations in the rate of exchange, would be a trading loss, but if instead these two amounts were held on capital account and mere part of fixed capital the loss would plainly be a capital loss.
+[991 C E] The Court was, therefore, unable to answer the question whether the loss suffered by the assessee was a trading loss or a capital loss.
+Ordinarily, the Court would have called for a supplementary statement of the case, from the Tribunal but since both the parties agreed that it would be proper that the matter should go back to the Tribunal with a direction to the Tribunal either to take additional evidence itself or to direct the Income Tax Officer to take additional evidence and make a report, the Court made an order accordingly and directed the tribunal to dispose of the case on the basis of the additional evidence and in the light of the law laid down in the Judgment.
+[991 E H]

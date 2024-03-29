@@ -1,0 +1,59 @@
+Appeal No. 13 of 1952.
+Appeal from the Judgment and Order dated 18th January, 1950, of the High Court of Judicature at Madras (Satyanarayana Rao and Viswanaths Sastri JJ.) in Case Referred No. 28 of 1947.
+O. T. G. Nambiar (section N. Mukherjee, with him) for the appellant.
+M. C. Setalvad, Attorney General of India, and C.K. Daphtary, Solicitor General for India (G. N. Joshi and P. A. Mehta, with them) for the respondent.
+December 22.
+The Judgment of the Court was delivered by BOSE J.
+The following question was referred to the High Court of Madras by the Income tax Appellate Tribunal under section 66 (1) of the Indian Income tax Act, 1922 Whether on the facts and in the circumstances of the case when an assessment has been made under section 23 (1) of the Indian Income tax Act, determining the assessee company 's income as 'nil ' and when proceedings under section 34 were subsequently started to assess the income which the 450 Income tax Officer believed to have escaped assessment the assessee company is entitled to claim that the loss of profits and gains (including depreciation allowance) sustained by it in the previous year should be determined in the course of such proceedings.
+" We are concerned in this case with the assessment year 1941 42.
+The assessee is the Anglo French Textile Company, a company which is incorporated in the United Kingdom.
+It owns spinning and weaving mills at Pondicherry in French India and manufactures yarn and cloth there.
+The raw materials necessary for the manufacture, or at any rate much of it, such as cotton, used to be purchased in what was then the British India, through its agents Best & Company Ltd. of Madras.
+The bulk of its manufactured goods 'was ' also sold in British India, the rest being sold elsewhere.
+But in the year material to this case it did no business in British India and accordingly it submitted no return to the Income tax authorities.
+On 26th April, 1941, the Income tax Officer issued a notice to the assessee and called for a return.
+The assessee replied on 9th June, 1941, that it had ",at all times material to the assessment year no business in British India " and consequently no profits arose or accrued or were received in British India and therefore the assessee "was not liable to comply with the provisions of the Indian.
+Income tax Act.
+" The assessee added.
+In the Circumstances the company is not liable to make a return but with a view to preserve the right of the company to appeal against any order that may be passed by you, if necessary, we submit herewith without prejudice a nil return receipt of which kindly acknowledge.
+" Appended to the letter was a piece of paper which has been called a " nil" return.
+It is the usual printed form in which returns are, normally made but the only entry.in the whole form is the word " nil The following declaration was also added: 451 "I further declare that the company was not resident in British India during the previous year etc. " On 25th March, 1942, the Income tax Officer made the following order which he called an Assessment Order: "The company made a nil return of income obviously for the reason that it is not carrying on any business in British India .
+I accept the return of income filed by the company and declare it is not liable to tax for the year 1941 42.
+" A year later, namely, on 9th March, 1943, the Income tax Officer sent the assessee a notice under section 34 (1) (b) in the following terms: Whereas in consequence of the definite information which has come into my possession I have discovered that your income assessable to income tax for the year ending 31st March, 1942 has (a) escaped assessment.
+I therefore propose to assess the said income that has (a) escaped assessment.
+I hereby require you to deliver to me not later than . a return in the attached form of your total income and total world income assessable for the said year. " In reply to this the assessee again submitted the same CC nil " return and filed a statement showing a loss of Rs. 3,92,357 on its total world income.
+This was on 31st May, 1944.
+The Income tax Officer passed orders on this on 2nd June, 1944.
+He stated that the assessee was a non resident company and that during the year no sales were effected in British India and concluded as follows: As the net result for the world business is only a loss, there can be no question of profits attributable 452 co operations in British India under section 42 (1) and 42 (3) in respect of cotton purchases.
+The nil ' return filed is therefore accepted, Hence there is no assessment for 1941 42.
+As this is a non resident company, the loss need not be carried forward under section 24 (2) as that section in terms does not apply to non residents.
+" The last portion of the order is the one which occasions the assessee 'B grievance.
+It claims that the Income tax Officer having accepted its statement of loss was bound to record it and carry it forward.
+Appeals followed to the Appellate Assistant Commissioner of Income tax and the Income tax Appellate Tribunal and ultimately there was a reference to the High Court.
+The assessee has failed throughout.and now appeals here.
+The assessee 's contention is based on the following provision of section 34.
+The first sub section states that when a notice is issued under that section the Income tax Officer may proceed to assess or re assess such income, profits or gains or recompute the loss or depreciation allowance and that " the provisions of this Act shall, so far as may be, apply, accordingly as if the notice were a notice issued under [sub section (2) of section 22].
+" This it is said attracts section 24 (2).
+We need not decide whether this contention is well founded, namely, whether the assessee can claim to reopen the proceedings, because, even if he can, we are of opinion that he cannot get what he asks for.
+There is no provision in the Act which entitles the assesses to have a loss recorded or computed, unless something is to be done with the loss.
+Thus, under section 24 (1) a loss can be set off against an income, profit or gain and under sub section (2) the balance of a loss can be carried forward to a following year on the conditions set out there.
+Except for this there is nothing else that can be called in aid.
+But under ' sub section (2) the loss can be carried forward when 453 "the loss cannot be wholly set.
+off under subsection (1) and in that event only the "portion not so set off " can be carried forward.
+We are therefore.
+thrown back o sub section (1).
+Sub section (1) provides that where an assessee sustains a loss of profits or gains in any year under any of the heads mentioned in section 6 he shall be entitled to have the amount of the loss " set off against his income, profits or gains under any other head in that year." Therefore, before any question of set off can arise, there must be (1) a loss under one or more of the heads mentioned in section 6, and (2) an income, profit or gain under some other head.
+It follows that when there is no income under any head at all, there is nothing against which the loss can be set off in that year and unless that can be done sub section (2) does not come into play.
+Next, a set off Under section 24 (1) can only be claimed when the loss arises under one head and the profit against which it is sought to be set off arises under a different head.
+When the two arise under the same head, of course the loss can be deducted but that is done under section 10 and not under section 24 (1).
+See the decision of the Privy Council in Rm.
+Arunachalam Chettiar vs Commissioner of Income tax, Madras (1).
+In the present case, the loss is computed by striking a balance in the profit and loss account of just the one business and con sequently no question of different heads arises.
+On both these grounds, therefore, the assessee 's contention must fail because, unless the loss can be set off under sub section (1) of section 24, it cannot be carried forward under sub section (2) and if it cannot be carried forward the question of its determination and computation becomes irrelevant.
+The High Court proceeds on the ground that when proceedings are taken under section 34 the assesses (1) at 178 and 179.
+454 is not entitled to reopen the whole proceedings as the further proceedings are limited to assessing that portion of the income which has escaped assessment.
+We need not express any opinion on this.
+The question we have to answer is confined to the facts and circumstances of this case and those circumstances are (1) that no return was filed at any stage of the case disclosing any income, profits or gains at all, (2) that proceedings were later taken under section 34, and (3) in the course of these proceedings the assessee claimed that a certain loss should be determined and recorded.
+Our answer is that cannot be done for the reasons we have given and that consequently the question referred was rightly answered in the negative by the High Court.
+The appeal fails and is dismissed with costs.
+Appeal dismissed.

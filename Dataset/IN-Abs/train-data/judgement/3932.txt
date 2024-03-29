@@ -1,0 +1,73 @@
+Civil Appeal No. 571 of 1969.
+Appeal by Special Leave from the Order dated the 6th September, 1968/26th October 1968 of the Government of India, Ministry of Finance (Department of Revenue and Insurance) bearing No. 5262 of 1968.
+J. L. Nain, Mrs. A. K. Verma for J. D. Dadachanji & Co., for the Appellant.
+R. B. Datar and Miss A. Subhashini, for the Respondent.
+The Judgment of the Court was delivered by SARKARIA, J.
+This is an appeal by special leave against an order of the Government of India, Ministry of Finance (Department of Revenue and Insurance).
+The order was passed by Shri B. Sen, Commissioner (Revision applications), Government of India.
+Indian Hard Metal (P) Ltd., the appellant, had imported 15 metric tonnes of wolfram ore from London.
+The Customs authorities classified the said ore under item 87 of the Indian Customs Tariff and charged duty at the rate of 60 per cent ad valorem amounting to Rs. 62,871.03P., instead of classifying the imported ore either under item 26 of item 70(7) which are free from duty.
+These relevant items, as entered in the Imported Tariff, may be set out as under: Item Name of Article Nature of Standard No. duty rate of 26 Metallic ores all X Free X sorts except ores and pigments ores and antimony ore.
+70(7) Cobalt chromium tungsten X Free magnesium and all other nonferrous virgin metals not otherwise specified.
+SECTION XXII (ARTICLES NOT OTHERWISE SPECIFIED) 87 All other articles not otherwis specified.
+Revenue 60 per cent ad valorem.
+The classification made under the residuary item 87 at the time of the import was upheld by the Assistant Collector of Customs; and the Commissioner of Customs dismissed the appeal of the assessee by an order dated July 31, 1965, holding that the 381 bags of wolfram ore was correctly assessable at the rate of 60 per cent duty under item 87 of the Indian Customs Tariff, and not being covered either 471 by entry 26 or 70(7) of the Indian Customs Tariff, was not duty free.
+The appellant preferred a revision petition under section 131 of the Customs Act to the Government of India who declined to interfere and dismissed the revision.
+Hence this appeal.
+Mr. Nain, appearing for the appellant, submits that the ore in question contained a concentrate of 74% of tungsten from wolfram and the rest were impurities.
+This concentration is the result of 'selective mining ' process which involves crushing, washing and magnetic separation.
+It does not bring about any chemical change in the metal.
+At the minepit in its natural form, the ore is not of marketable quality because the tungsten content in ' it, then is hardly 0.5 to 2 per cent.
+By the aforesaid concentrating process, the ore is converted into ore of commercial quality.
+It is maintained that in commercial parlance wolfram ore of marketable quality must contain a minimum of 655 'o to 70% of the metal, and in one of better quality, the content may be as high as 79%.
+Even after being subjected to such process, the ore concentrate does not cease to be tungsten 'ore ' within the contemplation of item 70(7) of the Indian Import Tariff.
+In sup port of his contentions, learned counsel has relied upon the judgment of this Court in Minerals & Metals Trading Corporation of India Ltd. vs Union of India & Ors.(1) and certain Certificates of experts, as also an extract from the treatise on 'Tungsten ', by C.J. Smithells Chapman Hall.
+As against this, Mr. Datar has drawn our attention to the order, dated July 31, 1965, wherein the Appellate Collector of Customs has observed that no evidence was adduced by the importer to substantiate the contentions that the ore in question had undergone no chemical process before being imported, and that the inference is that such high purification of the concentrate could have been possible only by applying process other than by water, crushing and magnetic separation.
+It is stressed that the decision of this Court in Minerals & Metals Trading Corporation of India Ltd. (supra), is not applicable because in that case the percentage of tungsten in the ore was 65% only and that much concentration could be reached by physical process only, such as, crushing washing etc.; while in the instant case, the percentage of the wolfram contained in the goods concerned is little over 75%.
+In our opinion, the mere fact that the percentage of tungsten in the ore concentrate in the instant case is about 75 per cent, does not take the case out of the ratio of this Court 's decision cited by Mr. Nain.
+(1) [l973] I S.C.R. 997. 472 In Minerals & Metals Trading Corporation of India Ltd. (supra), the appellant had imported 200 metric tons of wolfram concentrate from Russia, under a contract which prescribed minimum contents of 65 % of W03 in the concentrate.
+The Customs authorities levied duty at the rate of 60% ad valorem under item 87 of the First Schedule The appellant claimed refund on the ground that no duty was leviable as the goods imported was an "ore" and fell, under item 27 or 70(7) of the Import Tariff.
+The Assistant Collector of Customs held that the appellant was not entitled to refund because the term "ore" mentioned in the text of item 26 is confined to articles which are in form and condition in which they are mined and not as wolfram ore concentrate in powder form as in that case.
+On appeal by the importer, the Appellate Collector head that the goods in question were in the manufactured form made by special specifications by dressing and were thus not "ores".
+The Central Government rejected the revision application filed by the appellant, holding that the examination by the Chemists showed that the uniform granules of the material were not only separated from rock but also from various impurities and had been subjected to such processing as would take them out of the category of metallic ore mentioned in Intern 26.
+This Court, speaking through Grover J., allowed the importer 's appeal, with these apposite observations: "There is a good deal of force in the argument of Mr. Setalvad for the appellant that the normally acceptable merchantable quality of wolfram or tungsten contains a minimum 65 % WO33.
+This is the usable ore and it is in that sense that it is commercially understood.
+Wolfram ore when , mined contains only 0.5 to 2 per cent W03 and in order to make it usable and merchantable ore with minimum 65% W03, concentration is necessary.
+If item 26 of the Import Tariff is to be restricted to wolfram being material containing 0.5 to 2 per cent W03, it would be mainly rock which can neither be imported in large quantity and which will have no market.
+The separating of wolfram ore from the rock to make it usable ore is a process of selective mining.
+It is not a manufacturing process.
+The important test is that the chemical structure of the ore should remain the same.
+Whether the ore imported is in powder or granule form is wholly immaterial.
+What has to be seen is what is meant in international trade and in the market by wolfram ore containing 60% or more W03.
+On that there is a 473 preponderant weight of authority bath of experts and books and of writings on the subject which show that wolfram ore when detached and taken out from the rock in which it is embedded, either by crushing the rock and sorting out pieces of wolfram ore by washing or magnetic separation and other similar and necessary process, it becomes a concentrate but does not cease to be ore." (emphasis added) There is ample authority for the view that the tungsten content in the wolfram ore of marketable quality may vary from 60 to 79 per cent, and a concentration within these limits, of the metal in the ore can be attained simply by a process of a "selective mining", that is, by physical process not involving any chemical change in the metal.
+The following passage (vide Annexure "I ' in the record) culled out from the Introduction to the treatise on "Tungsten" by C.J. Smithells Chapman Hall, fully bears out this conclusion: "Mining.
+Tungsten ores, although so widely distributed rarely occur in massive form.
+The ores are usually found in narrow veins, but in some of the rich deposits the veins may in places be several metres wide.
+Castrate is the commonest metallic mineral associated with tungsten, but minerals containing bismuth, molybdenum, lead and copper are frequently found; pyrite and arsenopyrite are objection able minerals, which may be present in appreciable amounts, and other common minerals are quartz and fluorite.
+There are several kinds of ore deposits classified as segregates, pegmatites replacement deposits, veins and placers.
+The tungsten content of the ore as it is mined is usually from 0.5 to 2 per cent, although it amounts to 6 per cent in rare instances.
+The concentration of tungsten ores depends chiefly on gravity methods, taking advantage of the high density of the metal, ,although flotation methods are also used.
+the concentrates, which contain 60 70 per cent W03, to or the better qualities 75 79 per cent should be virtually free from S.P, As, sb, Bi, Cu, Sn, Ti, and Mo. Magnetic are employed to separate the tin and tungsten in the concentrates.
+Scheelite, however, is non magnetic, but when it occurs with garnet, as it does in Tasmania, the garnet may be removed magnetically.
+The concentration of Wolframite ores is difficult on account of their mica like formation.
+Excessive crushing leads to high losses in tabling and as far as 12 978 SCI178 12 978SCI/78 474 possible the ore should be separated when coarsely crushed " (Emphasis supplied ) There is on the record another Certificate in the form of a letter, dated February 3, 1965, from the Director, National Metallurgical Laboratory, Jamshedpur, addressed to the Controller of Customs, Calcutta, in which it is opined: "The wolfram ore is always selectively mined in the techllical terminology. such "selective mining" does not constitute a manufacturing process.
+Unless selective mining is done, the tungsten ore cannot be exported or even sold in the country of its origin.
+In view of the above, the import of selectively mined tungsten ore containing 65 % W03 or more should not be regarded as the import of a product which has been manufactured overseas and has passed through the manufacturing process.
+By the expression 'selectively mined ', we mean that the wolfram ore is detached and taken out from the rock in which it is embedded and this is done by crushing the rock and sorting out piece of wolfram ore therefrom either by hand or by washing or magnetic separation.
+" Then, there is another Certificate from R. V. Briggs & Co. Pvt. Ltd., who claim to have been analysing various ores and minerals including wolframite for over 60 years.
+According to these experts, wolframite is always concentrated as part of the mining operation.
+The normal method is by washing the crushed ore, thereby freeing the mineral from the gangue.
+These experts have further certified that the wolfram ore, which they have analysed for M/s. India Hard Metals, is processed except for physical concentration by washing.
+It may be observed that in the Minerals & Metal Trading Corporation (ibid), also, this Court had relied upon a similar Certificate from R. V. Briggs & Co. Still, another Certificate, dated January 13, 1965, which is more or less to the same effect as the Certificate of the National Metallurgical Laboratory, was brought in evidence.
+A similar Certificate from this Laboratory was relied upon as authentic expert opinion in the earlier case, also, decided by this Court.
+No authority or expert opinion has been cited before us that a concentration of 75 per cent tungsten in wolframite ore of commercial quality, cannot be achieved merely by 'selective mining ', i.e. the physical process of crushing, washing, gravitation, magnetic separation or the like.
+Nor is there any evidence on the record to show 475 that the mined ore was subjected to any chemical process which caused a change in the chemical structure of the ore.
+The finding of the Appellate Collector of Customs that such a high degree (75%) of tungsten metal virtually free from impurities in the material, could be attained only by some chemical manufacturing process and not merely by crushing, washing or magnetic separation, is not based on any evidence whatever.
+It is contrary to the opinions of expects and authorities on the subject, which were brought on the record.
+It is evident from the passage extracted from Smithells ' treatise, and the other Certificates of experts, mentioned above, that in order to bring mined wolframite ore to a marketable quality, it has to be concentrated by physical methods, such as, crushing, washing, gravitation, magnetic separation etc.
+And by such physical process only, a concentration of WO3 varying from 60 per cent to 79 per cent in the ore can be achieved.
+Wolframite (WO3) of ordinary merchantable quality contains 60 to 70 per cent of tungsten, while wolframite ore of better commercial quality contains 75 to 79 per cent of the metal In the light of the above discussion, there is no manner of doubt that the goods imported by the appellants had to be classified as imported ore, falling either under item 26 or item 70(7) of the Import Tariff, and as such, no duty was leviable on them.
+The appellants are, therefore, entitled to the refund of the duty paid by them on the goods in question.
+In the result, the appeal is allowed with costs, and the impugned orders including the Order dated October, 26, 1968, of the Central Government, are set aside.
+The respondents are directed to make appropriate orders for refunding the amounts collected from the appellants by way of import duty on the goods in question.
+N.V.K. Appeal allowed .

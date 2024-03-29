@@ -1,0 +1,112 @@
+Appeal No. 335 of 1956.
+Appeal by special leave from the judgment and order dated August 25, 1954, of the Bombay High Court in Income tax Reference No. 1 of 1954.
+N.A. Palkhivala, section N. Andley, and J. B. Dadachanji, for the appellant.
+K.N. Rajagopal Sastri and D. Gupta, for the respondent.
+March, 4.
+The Judgment of the Court was delivered by S.K. DAS, J.
+This appeal by special leave is from the decision of the Bombay High Court dated August 25, 1954, in Income tax Reference No. 1 of 1954.
+The only question which falls for decision in the appeal is the true scope and effect of the third proviso to old section 12B(1) of the Indian Income Tax Act, hereinafter referred to as the Act.
+The facts relevant to the appeal are these: one Henry Gannon was a resident of British India, who used to be assessed to income tax under the Income tax law of this country.
+He left India in 1944 for the United Kingdom where he died on May 13, 1945.
+He left a will dated November 18, 1942 by which the National Bank of India Ltd., in London was appointed Executor of his estate.
+On October 1, 1945, probate 169 of the will was granted to the said Bank by a Court of competent jurisdiction in the United Kingdom.
+On October 25, 1945, a power of attorney was given by the Bank to James Anderson, who is now the appellant before us.
+He made an application to the High Court of Bombay under section 241 of the, Indian Succession Act and on that application obtained Letters of Administration with a copy of the will annexed.
+In the course of administration of the estate of Henry Gannon, the appellant sold certain shares and securities belonging to the deceased for the purpose of distributing the assets amongst the legatees.
+The sale of these shares and securities realised more than their cost price.
+The excess of the sale price over the cost price was treated by the Income Tax Officer as capital gain under section 12B of the Income Tax Act.
+For the assessment year 1947 48 the capital gain was computed by the Income Tax Officer at Rs. 20,13,738 and for the assessment year 1948 49 at Rs. 1,51,963.
+These amounts of capital gain were brought to tax for the assessment year 1947 48 and 1948 49 along with certain dividend and interest income which had accrued or had been received in the relevant years of account.
+Not satisfied with these assessments, the appellant preferred two appeals to the Appellate Tribunal, Bombay.
+These two appeals were consolidated.
+The appellant urged three points in support of his contention that the assessments were invalid: firstly, that section 12B imposing a tax on capital gains was ultra vires the Government of India Act, 1935 ; secondly, that.
+under section 24B of the Act, the appellant was only liable to pay tax which the testator would have been liable to pay and as these capital assets were not sold by the testator, there was no liability upon the appellant: and thirdly, that the sale of the shares and securities by the appellant under the will of Henry Gannon came within the purview of the third proviso to section 12B(1) and, therefore, was riot to be treated as a sale of capital assets under section 12B(1).
+The Appellate Tribunal repelled the first two contentions, but accepted the third as correct and in that view allowed the two appeals in part.
+It directed the Income Tax Officer to delete from the assessed income 22 170 the capital gains made by the sale of shares and securities.
+The Commissioner of Income tax, Bombay City, then moved the Appellate Tribunal to refer to the High Court of Bombay the question which arose out of the third contention, namely, the true scope and effect of the third proviso to old section 12B(1) of the Act.
+The Appellate Tribunal thereupon referred the following question of law to the Bombay High Court: " Whether the sale of the shares and securities by the administrator of the estate of late Mr. Gannon is not a sale for the purpose of Section 12B(1) in view of the third proviso to section 12B(1) of the Indian Income Tax Act.
+" At the instance of the assessee the other two questions which were decided against him were also referred to the High Court.
+The High Court of Bombay considered all the three questions in Income tax Reference No. 1 of 1954 and by its decision appealed from answered all the three questions against the assessee.
+The appellant then moved this Court for special leave which was granted on October 7, 1955.
+The question whether the levy of capital gains under section 12B is ultra vires no longer survives by reason of the decision of this Court in Navinchandra Mafatlal vs ' Commissioner of Income tax(1).
+This question was not therefore pressed before us.
+The question under section 24B was also not seriously pressed.
+The view of the Bombay High Court that section 24B does not limit the liability of the Administrator or Executor to the cases referred to under that section is correct; because the appellant is as much an assessee under the Act as any other individual and if he makes capital gains, he is as much liable to pay tax as any other individual.
+This position has not been seriously contested before us.
+We are, therefore, left only with the question which turns on the true scope and effect of the third proviso to old section 12B(1) of the Act.
+Capital gains were charged for the first time by the Income tax and Excess Profits Tax (Amendment) Act, 1947, which inserted section 12B in the Act.
+It taxed capital gains arising after March 31, 1946.
+The levy was virtually abolished by the Indian (1) ; [1955] I. S.C.R. 829.
+171 Finance Act, 1949, which confined the operation of the section to capital gains arising before April 1, 1948; but it was revived with effect from April 1, 1957, by the Finance (No. , which substituted the present section.
+We are concerned in this appeal with the old section.
+That section, leaving out those parts which are not relevant for our purposes, ran as follows : " section 12B Capital gains (1) The tax shall be payable by an assessee under the head "capital gains" in respect of any profits or gains arising from the sale, exchange or transfer of a capital asset effected after the 31st day of March, 1946, and before the 1st day of April, 1948; and such profits and gains shall be deemed to be income of the previous year in which the sale, exchange or transfer took place: Provided further that any transfer of capital assets by reason of the compulsory acquisition thereof under any law for the time being in force relating to the compulsory acquisition of property for public purposes or any distribution of capital assets, on the total or partial partition of a Hindu undivided family, or on the dissolution of a firm or other association of persons, or on the liquidation of a company, or under a deed of gift, bequest, will or transfer on irrevocable trust shall not, for the purposes of this section, be treated as, sale, exchange or transfer of the capital assets: (2) The amount of a capital gain shall be computed after making the following deductions from the full values of the consideration for which the sale, exchange or transfer of the capital asset is made, namely : (i)expenditure incurred solely in connection with such sale, exchange or transfer; (ii)the actual cost to the assessee of the capital asset, including any expenditure of a capital nature incurred and borne by him in making any additions or alterations thereto but excluding any expenditure 172 in respect of which any allowance is admissible under any provisions of sections 8, 9, 10 and 12.
+(3) Where any capital asset became the property of the assessee by succession, inheritance or revolution or under any of the circumstances referred to in the third proviso to sub section (1), its actual cost allowable to him for the purposes of this section shall be its actual cost to the previous owner thereof and the provisions of sub section (2) shall apply accordingly; and where the actual cost to the previous owner cannot be ascertained, the fair market value at the date on which the capital asset became the property of the previous owner shall be deemed to be the actual cost thereof " Capital asset " is defined in section 2(4A) of the Act, and it was not disputed before us that the shares and securities which the appellant sold constituted capital asset within the meaning of that definition.
+We may shortly state here the scheme of sub sections
+(1), (2) and (3) of section 12B of the Act.
+Sub section (1) is the substantive provision which levies a tax in respect of profits or gains arising from the sale, exchange or transfer of a capital asset effected during a specified period.
+The admitted position in this case is that the appellant sold the shares and securities, which constituted capital asset, within that period and thus clearly came within sub section
+(1) of section 12B. Sub section
+(2) states how the amount of capital gain shall be computed,, and it allows certain deductions from the full value of the consideration for which the sale, exchange or transfer of capital assets is made.
+As nothing turns upon the deductions allowed under sub section
+(2), we need not refer to them.
+Sub section (3) refers to a capital asset which became the property of the assessee by succession, inheritance or devolution or under any of the circumstances referred to in the third proviso to sub section
+(1), and states what deductions the assessee is then entitled to.
+In one case, the assessee may be the administrator or executor who has himself sold the capital 173 assets ; in another case the assessee may be the person who has got the capital assets by succession etc.
+or under any of the circumstances referred to in the third proviso to sub section
+(1), and if in the latter case the assessee sells the capital assets, he brings himself within sub section
+(1) but is entitled to a deduction of the actual cost to the previous owner in accordance with the provisions of sub section
+(2); where, however, the actual cost to the previous owner cannot be determined, he is entitled to a deduction of the fair market value at the date on which the capital assets became the property of the previous owner.
+This in effect is the scheme of the three sub sections.
+Manifestly, the intention of the legislature is to tax the profits made by the sale, exchange or transfer of capital assets and the incidence of the taxation falls at the time of the transfer.
+If the sale is made by the administrator or executor, the liability under sub section
+(1) falls on him; if, however, the sale is made by a person who got the capital assets inter alia in any of the ways mentioned in sub section
+(3), he becomes liable to tax as and when he sells the capital assets and makes profits therefrom.
+Now, the question is what bearing the third proviso to sub section
+(1) has on the aforesaid scheme.
+This proviso states in effect that under certain circumstances mentioned therein a transfer of capital assets shall not be treated as a transfer for the purposes of the section.
+The circumstances enumerated are: (a) compulsory acquisition of property for public purposes, (b) distribution of capital assets on the total or partial partition of a Hindu undivided family, (c) distribution of capital assets on the dissolution of a firm or other association of persons, or on the liquidation of a company, and (d) distribution of capital assets under a deed of gift, bequest, will or transfer on irrevocable trust.
+In the present case we are concerned with the question whether there has been a distribution of capital assets by the appellant under a will so as to bring him within the ambit of the third proviso.
+If the appellant comes within that ambit, then the sales which he made of the shares and securities will not be treated as transfer within the meaning of sub s.(1).
+The contention of the appellant 174 is that there has been a distribution of capital assets by him under the Will of Henry Gannon and therefore he comes under the protection of the third proviso.
+The High Court took the view that the expression " distribution of capital assets " in the third proviso can only mean such distribution in specie; it cannot and does not mean distribution of the sale proceeds of the capital assets.
+The High Court, therefore, held that the appellant did not come within the protection of the third proviso, as he did not distribute the capital assets in specie.
+On behalf of the appellant it has been contended before us that the High Court came to an erroneous conclusion with regard to the scope and effect of the third proviso.
+Mr. N. A. Palkhivala who has argued the case on behalf of the appellant has put his argument in the following way.
+He has submitted that normally the purpose of a proviso is to carve out an exception from the substantive provision.
+Sub section (1) of section 12B, which is the substantive provision, imposes the liability to tax on an assessee in respect of profits or gains arising from the sale, exchange or transfer of a capital asset.
+Leaving out the case of compulsory acquisition of property Tor public purposes which may result in capital gains, Mr. Palkhivala has submitted that the other cases earlier enumerated as (b), (c) and (d) in the proviso cannot result in any capital gains by a mere distribution in specie; because on a distribution in specie upon a partition or upon a testamentary gift or gift inter vivos, no capital gain can possibly be made by the person who owned the assets before the distribution and who alone can be liable to tax under the section.
+If, therefore, the correct interpretation of the third proviso is distribution of capital assets in specie, the proviso does not serve any purpose.
+Therefore, Mr. Palkhivala has argued that the expression " distribution of capital assets " must be given a meaning which will fulfil a purpose and correlate the proviso to the substantive provision in sub section
+That meaning, according to him, is distribution of sale proceeds of capital assets.
+We are unable to accept the argument as correct.
+Firstly, having regard to the definition of the expres 175 sion "capital assets" it would be wrong to read "distribution of capital assets " as meaning "distribution of sale proceeds of capital assets".
+Obviously, there is a clear and vital distinction between " capital assets " and their " sale proceeds ".
+If capital assets are sold first and a distribution of the sale proceeds is made afterwards, then the sale precedes distribution and what is distributed is not capital assets but the sale proceeds thereof.
+Secondly, we do not agree that the third proviso serves no purpose if the expression " distribution of capital assets " is given its natural and plain meaning, viz. distribution in specie.
+The High Court expressed the view that by the proviso the legislature might have intended to protect an assessee from a possible argument by the Revenue that when (to take an example appropriate to the case) an executor or administrator transferred the estate or part of the estate to the person entitled to it, there was a transfer within the meaning of sub section
+(1) of section 12B.
+To us it seems that the purpose of the proviso is abundantly clear if the scheme of sub sections
+(1), (2) and (3) is kept in mind.
+Assume that there is distribution of capital assets in specie amongst legatees, and one of the legatees sells the capital assets which he got in one of the ways mentioned in third proviso; he at once becomes liable to tax on profits made on the sale.
+Sub section (3) makes that position clear and if the proviso is read in the context of the substantive provisions of section 12B its purpose is quite clear.
+The purpose is this: as long as there is distribution of the capital assets in specie and no sale, there is no transfer for the purposes of the section ; but as soon as there is a sale of the capital assets and profits or gains arise therefrom, the liability to tax arises, whether the sale be by the administrator or the legate.
+It is significant that the proviso uses the words " for the purposes of this section " and not merely sub section
+Indeed, Mr. Palkhivala was forced to concede that in view of the provisions of sub section
+(3) of section 12B, the expression " distribution of capital assets " must also mean distribution in specie because under sub section
+(3) it is the capital asset which becomes the property of the assessee under any of the circum 176 contended that the expression meant both distribution in specie and distribution of sale proceeds.
+We do not see why an unnatural or forced meaning should be given to the expression, when by giving the expression its plain and natural meaning the third proviso fits in with the scheme of sub sections
+(1), (2) and (3) of section 12B of the Act.
+It is necessary to point out here that on the interpretation sought to be placed on the third proviso on behalf of the appellant, the administrator will escape paying tax if he sells the capital assets; but the legate will not escape if he sells the capital assets after having received them in specie from the administrator.
+This is an anomaly which is against the scheme of section 12B of the Act.
+We are accordingly of the view that the High Court rightly held that the expression " distribution of capital assets " in the third proviso to sub section
+(1) of section 12B of the Act means distribution in specie and not distribution of sale proceeds.
+In the High Court an alternative argument was also presented on behalf of the assessee to the effect that the third proviso contemplated involuntary transfers.
+This argument was based on the use of the expression by reason of ' in the proviso, and the proviso was sought to be read as follows (omitting words not relevant to the case): " Provided further that any transfer of capital assets by reason of any distribution of capital assets under a. . . . will. . . shall not for the purposes of this section be treated as sale, exchange or transfer of the capital assets.
+" The argument was that inasmuch as the administrator sold the shares and securities for the purpose of distributing the sale proceeds to the legatees, the sale was involuntary and was necessitated by reason of ' the terms of the will; therefore, he was protected under the third proviso.
+The High Court repelled this argument and for good reasons.
+Firstly, the question whether the sale was voluntary or involuntary.
+is not, germane to the scheme of section 12B. Secondly, on a. proper reading of the proviso, the 177 expression 'by reason of ' goes with the clause relating to compulsory acquisition of property and not with the distribution of capital assets.
+The position seems to us to be so clear that it is un necessary to labour it or to refer to decided cases.
+Such decisions of the High Courts as have been brought to our notice are all one way and they take the same view as was taken by the High Court in the decision under appeal (see Sri Kannan Rice Mills Ltd. vs Commissioner of Income tax, Madras(1); Commissioner of Income tax, Bombay North vs Walji Damji (2); and Gowri Tile Works vs Commissioner of Income tax, Madras (3).
+For the reasons given above, we see no merit in the appeal and we dismiss it with costs.
+Appeal dismissed.

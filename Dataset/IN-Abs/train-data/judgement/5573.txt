@@ -1,0 +1,142 @@
+Civil Appeal No. 689692 (NT) of 1975.
+From the Judgment and order dated 8.5.1973 of the Allahabad High Court in Income Tax Reference No. 453 of 1971.
+391 Miss A. Subhashini for the Appellant.
+D.D. Gupta for the Respondent.
+The Judgment of the Court was delivered by SABYASACHI MUKHARJI, J.
+These appeals by special leave arise from the judgment and order of the Allahabad High Court at the instance of the revenue.
+The Income tax Appellate Tribunal, Bombay Bench, referred the following question of law for the opinion of the Allahabad High Court: (The question related to the assessment years 1960 6 1, 1961 62, 1962 63 and 1963 64).
+"Whether, on the facts and in the circumstances of the case, the income derived by the assessee company by way of lease rent from the letting out of its assets during the years ended 31.12.59, 31.12.60, 31.12.61 and 31.12.62 is assessable to tax under the head 'Profits and gains of business ' or under the head 'Income from other sources '?" The assessee company was a limited company.
+It carried on the business of manufacture of textiles.
+From 1949, the assessee company started running into losses.
+At the end of December, 1953, the position was that as against the capital of Rs.11,00,000 the accumulated liabilities of the assessee company amounted to Rs.26,00,000.
+Because of this the assessee company stopped its manufacturing activity from December, 1953.
+This state of affair continued till 21.5.56 when one of the creditors of the company filed a winding up petition in the High Court.
+M/s Industrial Finance Corporation, who was one of the major creditors of the company, had in exercise of its powers under an English mortgage of the fixed assets of the company taken actual physical possession of the immovable properties hypothecated to them.
+Under Section 153 of the Indian Companies Act 1913, the High Court with the approval of the assessee company and the creditors evolved a scheme whereunder the business assets of the assessee company were let out to M/s General Fibres Dealers (Pvt.) Ltd., Calcutta on Rs.2,50,000 per year rent.
+The lease was for ten years with an option of renewal for another ten years.
+The intention, it was contended, was that the various creditors would be paid out of the lease money.
+The management of the assessee company was transferred to a Board of Trustees appointed by the High Court.
+The lease money realised by the assessee company for assessment years 1957 58 to 195960 was assessed by the Department under Section 10 of the Indian 392 Income Tax Act under the head 'Profits and gains of business '.
+But in subsequent assessment years the Income Tax officer held that the income from the lease rent was liable to be taxed under.
+the head 'income from other sources ' under section 12 of the Act.
+The assessee company took the matter up in appeal.
+It was urged before the Commissioner that the assets of the company were exploited and there was no intention of the assessee to discontinue the business activities.
+The assets of the company, were let to the lessee with the principal object of liquidating a colossal liability and extricating itself from financial crises.
+The Commissioner, however, upheld the finding of the Income Tax officer.
+The assessee company then took the matter to the tribunal The Tribunal found: 1.
+There was nothing on record to indicate that the assessee company was formed to let out its plant and machinery on hire 2.
+On account of financial crisis, the assessee company found it advantageous to let out the machinery for a temporary period of ten years to the lessee.
+The assessee company was able to liquidate its liabilities at the end of such period and regain the physical possession of it assets.
+The assessee company was able to persuade its creditors not to make any distress sale of the machinery taken over by the Industrial Finance Corporation with a view to salvage the company from its total extinguishment.
+At the end of the lease period, the assessee company did not dismantle the assets and did not sell away or otherwise dispose of the assets.
+It appears that the maintenance of the assets by the company meant that the company had intention to restart manufacturing of textiles.
+The Tribunal inferred that the intention of the company in letting out its assets was to exploit the commercial assets for the purpose of its business.
+The Income Tax officer was directed to treat the income arising out of the letting out of the assets as business income.
+The High Court noted in the Judgment under appeal which inci 393 dentally is reported in ITR Vol. 106 (1977) at page 829 that the assessee 's case was that the income received by it from the lease of the plant and machinery was business income and was liable to be adjusted against the unabsorbed loss of the preceding year.
+It is here that the question arises.
+If it was business income then the unabsorbed loss of the preceding year could be adjusted against such income.
+If on the other hand it was not, then such income could not be adjusted against the loss of the previous year.
+The rub of the matter lies there.
+It is well known that Section 24 of the Indian Income Tax Act, 1922, deals with set off and carry forward of losses.
+Under Sub, section (IJ where an assessee sustains a loss of profits or gains in any year under any of the head mentioned in Section 6, he shall be entitled to have the amount of the loss set off against his income profits or gains under any other head in that year.
+Sub section (2) provides that where an assessee suffers loss in any business and the loss cannot be wholly set off under sub section (1), the unabsorbed loss shall be carried forward to the succeeding year and shall be set off against the income from the same business.
+Before the loss could be carried forward it was necessary that the income against which the loss has to be set off should be income from any business (emphasis supplied).
+It was submitted before the High Court on behalf of the assessee that the plant and machinery of the factory were commercial assets and any income from the letting out of such an asset would be the business income.
+In support, reliance was placed upon several decisions of this Court.
+One among them is the decision in the case of Commissioner of Excess Profits Tax, Bombay City vs Shri Lakshmi Silk Mills Ltd., 1.
+This Court in Commissioner of Income tax West Bengal vs Calcutta National Bank Ltd., dealing with excess profit tax case, explained that.
+the concept of profit and business was little wider under Excess Profits Tax Act of 1940.
+The High Court relied on the several decisions, namely, the decision in the case of Commissioner of Excess Profits Tax, Bombay City vs Shri Lakshmi Silk Mills Ltd., (supra) and Narain Swadeshi Weaving Mills vs Commissioner of Excess Profits Tax, In view of the above decisions, the High Court held that the income derived by the assessee company by way of lease rent from the letting out of its assets during the years ended 31st December, 1959, 31st December, 1960, 31st December, 1961 and 31st December, 1962.
+is assessable to tax under the head profits and gains of business.
+Being aggrieved by the aforesaid decision revenue has come up 394 in appeal before this Court by Leave under Article 136 of the Constitution.
+Whether a particular income received by the assessee as a result of activities carried on by the assessee is business income or rental income depends upon the manner of the exploitation of the assets of the assessee.
+It only varies from facts and circumstances of each case.
+This question was discussed in detail by this Court in Commissioner of Excess Profits Tax, Bombay City vs Shri lakshmi Silk Mills Ltd., (supra}) where this Court found that if a commercial asset was not capable of being used as such, then its being let out to others did not result in an income which was the income of the business but it could not be said that an asset which was acquired and used for the purpose of the business ceased to be a commercial asset of that business as soon as it was temporarily put out of use or let out to another person for use in his business or trade.
+The yield of income by a commercial asset was the profit of the business irrespective of the manner in which that asset was exploited by the owner of the business.
+He was entitled to exploit it to the best advantage and he might do so either by using it himself personally or by letting it out to somebody else.
+The view that in order to constitute business income the commercial asset must at the time it was let out be in a condition to be used as commercial asset by the assessee himself was not correct.
+In that case the assessee company was a manufacturer of silk cloth and as a part of its business it installed a plant for dyeing silk yarn.
+During the chargeable accounting period, Ist January, 1943 to 31st December, 1943 owing to difficulty in obtaining silk yarn on account of the war it could not make use of this plant and it remained idle for some time.
+In August 7 1943, it was let out to a person on a monthly rent.
+The question was whether such sum representing the rent for five months realised by the assessee was chargeable to excess profits tax as profits of business or was income from other sources and was therefore not chargeable to excess profits tax.
+It was held by this Court that it was a part of the normal activities of the assessee 's business to earn money by making use of its machinery by either employing in its own manufacturing concern or temporarily letting it to others for making profit for that business when for the time being it could not itself run it and that the dyeing plant had not ceased to be a commercial asset of the business and the sum representing the rent for five months received from the lessee by the assessee was therefore income from business and was chargeable to excess profits tax.
+As mentioned hereinbefore, the question arose in the context of Excess Profit Tax Act; the consequence will be the same in the case of Income Tax Act.
+This Court observed again that the yield of income by a commercial asset irrespective of the manner in which the assets VINEET 395 are exploited by the owner of the business would be income from business.
+It was emphasised that the assessee was entitled to exploit it to the best advantage and he might do so either by using it himself personally or by letting it out to somebody else.
+This Court gave an example.
+For instance, in a manufacturing concern use of its plant and machinery could advantageously be made owing to the paucity of raw materials only for six hours in a working day, and in order to get the best yield out of it, another person who has got the requisite raw materials is allowed to use it as a licensee on payment of certain consideration for three hours.
+The question was posed: could it be said in such a situation with any justification that the amount realised from the licensee was not a part of the business income of the licensor.
+The Court noted that in that case the company was incorporated purely as a manufacturing concern with the object of making profit.
+It had installed plant and machinery for the purpose of its business and it was part of it, if at any time it found that any part of its plant "for the time being" could not be advantageously employed for earning profit by the company itself, to earn profit by leasing it to somebody else.
+In such circumstances, it would be improper to refuse it to treat it as such being the advantage of business income.
+This Court noted the observations of the Court of Appeal in Inland Revenue Commissioner vs Broadway Car Co Ltd., In that case the company had carried on the business of motor car agents and repairers on land held on lease from 1935 to 1956 at an annual rent of 750.
+By 1940 the company 's business had dwindled under war conditions to such an extent that no more than one third of the land was required.
+In those circumstances the remainder was sublet for fourteen years at an annual rent of 1150.
+The General Commissioner of Income Tax decided that the difference of 1400 between the outgoing of 1750 for the land retained and the incoming of 1150 for the land disposed of was "income received from an investment", and business not being one within the special categories mentioned in the Finance Act 1939 that 1400 was not taxable.
+Lord Scott, J. held that the word 'investment ' must be construed in the ordinary popular sense of the word as used by business men and not as a term of art to say that the Commissioners had erred in law in coming to the conclusion that the transaction resulted in an investment.
+Lord Scott, J. emphasised on the point that after the business of the company had dwindled, it partitioned part of the land from the rest and sublet it by installing a heating apparatus for the sublessee.
+It was found that war conditions had reduced the company 's business to very small proportions and they cut their LOSS by going out of business in respect of the major part of their land and put it out of their power for fourteen years to resume business there.
+In such a 396 situation, it could not be business any more.
+That was a peculiar circumstance when the assessee had a desire to part with that type of business.
+Therefore, whether a particular income is from business or from investment must be decided according to the general commonsense view of those who deal with those matters in the particular circumstances and conduct of the parties concerned.
+Has the assessee evidenced any intention to switch over from exploitation of assets by itself and used the asset as a rented one? This Court in the aforesaid decision found that it was a part of the normal activities of the assessee 's business to earn money by making use of his machinery by either employing it in his own manufacturing concern or temporarily letting it to others for making profit for that business when for the time being it could not itself run it.
+The High Court in that case was in error, therefore, in holding that the dyeing plant had ceased to be a commercial asset of the assessee and the income earned by it and received from M/s Parakh & Co was chargeable to excess profits tax.
+This Court had again occasion to examine this question in Narain Swadeshi Weaving Mills vs Commissioner of Excess Profits Tax, That was a case under Excess Profits Tax Act, 1940.
+It was observed by this Court that before the Excess Profits Tax officer could embark upon an enquiry as to whether a transaction was effected for the avoidance or reduction of liability to excess profits tax within the meaning of Section 10A of the Excess Profits Tax Act, 1940 and to make such adjustments as he considered appropriate under that section there must be proof that the assessee was, during the chargeable accounting period, carrying on business of kind referred to in Section 5 of the Act.
+There the assessee firm was carrying on a manufacturing business consisting of three partners, N and his two sons R and G. In April 1940 a public limited company was incorporated with the object of taking over the business from the assessee firm.
+The Company was director controlled and the directors were N, his three sons R, and S and a brother in law of G. the company purchased only the buildings and leasehold rights from the assessee firm but took over from it on lease at an annual rent the plant and machinery.
+The assessee firm did not thereafter manufacture anything and it had accordingly no further trading or commercial activity.
+In July, 1940 the company executed a managing agency agreement in favour of U & Co. consisting of R and as partners.
+In January, 1941, the company appointed as its selling agent R & Co. consisting of R, and S as partners.
+In April, 1941, the shares of the partners in the assessee firm were adjusted so as to 397 equalise, as far as possible, the share of N with the shares which his sons got in the several firms.
+All the three firms were registered under Section 26A of the Indian Income Tax Act, 1922.
+The question was whether the Excess Profits Tax Authorities were justified in amalgamating the income of U & Co. and R & Co. with the income of the assessee firm under the provisions of Section 10A of the Excess Profits Tax Act, 1940.
+It was held that in the facts and circumstances of the case the letting out of the plant and machinery by the assessee firm to the company could not be held to fall within the body of the definition of "Business" under section 2(5) and as the assessee firm had, therefore, no business during the relevant period to which the Act applied, Section 10a could not be invoked by the Excess Profits Tax Authorities.
+It was further held that the application of Section 10a with a view to amalgamating the income of the firms of U & Co. and R & Co. with the income of the assessee firm was not valid in law.
+Dealing with this question, this Court noted that "business" as defined under Section 2(5) of the Excess Profits Tax Act included amongst others, any trade, commerce or manufacture or any adventure in the nature of trade, commerce or manufacture.
+The first part of this definition of a "business" in the Excess Profits Tax Act is the same as the definition of a business in Section 2(4) of the Indian Income Tax Act, 1922.
+Whether a particular activity amounted to any trade, commerce or manufacture or any adventure in the nature of trade, commerce or manufacture is always a difficult question to answer.
+The Judicial Committee noted in the case of Commissioner of Income tax vs Shaw Wallace & Co., Cal. 1343 that the words used in the definition are no doubt wide but underlying each of them is the fundamental idea of the continuous exercise of an activity, (emphasis supplied).
+It was also emphasised by this Court that the word "business" indicated some real, substantial and systematic or organised course of activity or conduct with a set purpose.
+In that case, this Court pointed out the difference between Excess Profits Tax Act and the Indian Income Tax Act, 1922.
+So far as the question before us is concerned, this difference is not material.
+Shri Manchanda, learned counsel for the revenue draw our attention to Commissioner of Income tax, West Bengal vs Calcutta National Bank Ltd., This Court reiterated that the term "business" is a word of very wide, though by no means determinate, scope.
+There the assessee, which was a banking company in a large way of business, owned a six storeyed building, where its offices were located on the ground floor and a part of the sixth floor, while the rest 398 of the building was let out to tenants.
+The question was whether the income realised by the assessee by way of rent for the portion of the building let out was liable to excess profits tax and could be included in the profits of the business under rule 4(4) of the First Schedule to the Excess Profits Tax Act, 1940.
+It was held that the realisation of rental income by the assessee was in the course of its business in prosecution of one of its objects in the memorandum.
+It depends in the facts and circumstances of each case.
+In New Savan Sugar and Gur Refining Co. Ltd. vs Commissioner of Income Tax, Calcutta, , this Court was dealing with a case, where the appellant company was carrying on the business of crushing sugarcane and gur refining.
+Its managing agents wrote a letter addressed to its shareholders referring to the alarming increase of Government interference in the affairs of this sugar industry in Bihar and the increase of wages of the workers, the levy of a cess and deterioration in cane crops and advising the acceptance of an offer of the lease of the company as a running concern.
+Thereafter examination, it was found that the cumulative effect of different clauses of the deed suggested that the assessee would have no concern with the production of the company.
+It was therefore held that the terms of the lease deed that the intention of the appellant was to part with the entire machinery of the factory and the premises with the obvious purpose of earning rental income and not to treat the factory and the machinery as a commercial asset during the subsistence of the lease.
+In each case the intention has to be gathered as to whether the commercial asset was intended to be exploited by the assessee or whether it was intended to be used by letting it out for a temporary period.
+It depends upon the facts and circumstances of each case.
+The circumstances of the instance case were as follows as appears from the statement of the case: "The assessee company incurred losses in its business of manufacture of textiles from the year 1949.
+On account of heavy losses, its manufacturing activities were stopped from December, 1953.
+By 1956, colossal loss had accumulated.
+Its liabilities had amounted to Rs.26 lakhs as against the capital of Rs.11 lakhs.
+A winding up petition was filed in the Allahabad High Court by the creditors.
+M/s. Jawala Prasad Radha Krishan in February 1954.
+The Industrial Finance Corporation was one of the creditors of the company and the company had a liability of Rs.12.5 lakhs to 399 that undertaking secured by the fixed assets in terms of a mortgage deed dated 19.12.1950.
+The Punjab National Bank had advanced a loan of Rs.6.5 lakhs to the company by movable assets of the company such as cotton, cloth and yarn.
+The Industrial Finance Corporation had taken physical possession of the immovable properties of the company on 12th July, 1954, on the company 's failure to pay off its debts to the I.F.C.
+The High Court thereafter approved a scheme, by an order dated 21.5.1956 whereby the assets and the entire business of the assessee company were let out to M/s. General Fibres Dealers (Pvt.) Ltd., Calcutta, at a least rent of Rs.2,50,000 per year.
+The management of the assessee company was transferred to a Board of Trustees appointed by the High Court pursuant to the scheme referred to above.
+According to the terms of the lease dated 7.7.1956 with the lessee, the General Fibres Dealers (Pvt.) Ltd., the assets of the company were let out for an initial period of ten years, with a right given to the lessee to exercise the option for a further period of ten years.
+The assesse company had maintained a skeleton staff thereafter.
+" In the context of these facts, it appears that it was a possible conclusion that the assessee intended that there should be a temporary suspension of the business for the purpose of reconstruction of the company and for that matter there must be stoppage of the user of the machinery by the assessee.
+It was temporary lease though for 10 or 19 years on renewal years and after the expiry of the period the property reverted back to the assessee.
+It is pre dominantly a matter of intention.
+Intention is an inference to be drawn from the relevant facts.
+All the relevant facts, it appears have been considered by the Tribunal from the correct standpoint, i.e. Ordinary prudent businessman or as in England it used to be "man on the top of the platform omnibus.", or "director 's arm chair".
+If on that test a plausible conclusion has been drawn no objection can be taken.
+On that basis applying the correct principle the Tribunal found that the intention was not to part with the machine but to lease it out for a temporary period as a part of exploitation.
+In such a circumstance, it cannot be said that no business was carried on and their income derived from the machine letting was only a rent income.
+There 400 was a temporary suspension of business for a temporary period for an object to tide over the crisis condition.
+There was never any act indicating that the assessee never intended to carry on the business.
+In the background of these principles and in the facts and circumstances of the case so found, we cannot say such a finding was either perverse or not sustainable.
+In the aforesaid view of the matter, the High Court was right in the view it took and the appeals must accordingly fail and are dismissed with costs.
+In the view we have taken in the first matter, the special leave petitions Nos.
+5324 and 5325 of 1978 are also dismissed.
+But there will be no order as to costs.
+S L Appeals & Petitions dismissed.

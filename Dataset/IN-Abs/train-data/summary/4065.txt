@@ -1,0 +1,54 @@
+Section 147(b) of the Income Tax Act, 1961 provides that if an Income Tax officer has, in consequence of information in his possession, reason to believe that income chargeable to tax has escaped assessment for any assessment year, he may assess or reassess such income.
+The internal audit organisation of the income tax department, in the course of auditing the income tax records pertaining to the assessee for certain assessment years stated that the assessee 's income on account of letting out of halls and rooms should not have been assessed as income from business but an assessment should have been made under the head "Income from property".
+Treating the report as information in his possession under section 147(b) the Income Tax officer re assessed the assessee 's income The Appellate Assistant Commissioner reversed the Income Tax officers order.
+On the other hand, the Appellate Tribunal took the view that the Income Tax officer had jurisdiction to proceed under s.147(b).
+In a reference under s.257 of the Income Tax Act the question was whether the Income Tax officer was legally justified in reopening the assessment under section 147(b) on the basis of the view expressed by the Internal Audit party received by him subsequent to the original assessment.
+Allowing the appeal, ^ HELD: The opinion of the internal audit organization of the Department on a point of law cannot be regarded as information within the meaning of section 147(b) of the Act.
+[455A].
+(a) An assessment proceeding, which is a quasi judicial proceeding, acquires finality on the assessment order being made.
+The finality of such an order can be disturbed only in proceedings, and within the confines, provided by law.
+An appeal, revision and rectification are proceedings in which the finality of the assessment may be questioned.
+Section 147, under which an assessment may be reopened, is a proceeding for assessing income which has escaped assessment.
+[446F G] 2.
+In cases falling under section 147(b) "information" is an indispensable ingredient.
+The word ' 'information ' ' has been interpreted by this Court to mean not only facts or factual material but include information as to the true and correct state of the law and, therefore, information as to relevant judicial decisions.
+The term is also defined as "instruction" or Knowledge derived from an external source concerning facts or particular, or as to law, relating to n matter bearing on the assessment.
+[447D F] Mahaaraj Kamal Singh vs Commissioner of Income Tax [1959] Sup.
+I SCR 10, Commissioner of Income Tax vs Raman & Company 67 I.T.R. Il(SC)=[1968] I SCR 10, referred to.
+443 3.(a) By its inherent nature, a fact has concrete existence.
+It influences the determination of an issue by the mere circumstance of its relevance.
+It requires no further authority to make it significant.
+[447 H].
+(b) The term 'law ' is used in the sense of norms or guiding principles having legal effect and legal consequences.
+To possess legal significance for that purpose, law must be enacted or declared by a competent authority.
+The legal sanction vivifying it imparts to it its force and validity and binding nature.
+Law may be statutory law enacted by a competent legislative authority, or it may be judge made law emanating from a declaration or exposition of the content of a legal principle or the interpretation of a statue and may in particular cases extend to a definition of the status of a party or the legal relationship between the parties, the declaration being rendered by a competent judicial or quasi judicial authority empowered to decide questions of law between contending parties.
+The declaration or exposition is ordinarily set forth in the judgment of a court or the order of a tribunal.
+Such declaration or exposition in itself bears the character of law.
+In every case, therefore, to be law it must be a creation by a formal source, either legislative or judicial authority.
+A statement by a person or body not competent to create, or define the law cannot be regarded as law.
+[448A D] (c) Where section 147(b) is read as referring to 'information ' as to law, what is contemplated is 'information ' as to the law created by a formal source.
+It is law which, because it issues from a competent legislature or a competent judicial or quasi judicial authority, influences the course of the assessment and decides any one or more of these matters which determine the assessee 's tax liability [448G] 4.
+The Internal Audit organisation of the Income Tax Department was set up primarily for imposing a check over the arithmetical accuracy of the computation of income and the determination of tax.
+The audit of income tax receipts having been entrusted to the Comptroller and Auditor General of India, it is intended as an exercise in removing mistakes and errors in income tax records before they are submitted to the scrutiny of the Comptroller and Auditor General.
+The audit by the Comptroller and Auditor General is, by virtue of section 16 of the Comptroller and Auditor General (Duties, Powers and Conditions of Service) Act, 1971 intended to ensure the sufficiency or otherwise of the rules and procedures prescribed for the purpose of securing an effective check on the assessment, collection and proper allocation of revenue and to ascertain whether the rules and procedure are being fully observed and L nothing more.
+Therefore the contents of an internal audit report cannot be construed as enjoying the status of a declaration of law binding on the Income Tax Officer.
+Both the internal audit party of the Income Tax Department and the Audit report of the Comptroller and Auditor General perform essentially administrative or executive functions and cannot be attributed the power of judicial supervision over the quasi judicial acts of income tax authorities.
+The statute does not contemplate such power The opinion of the audit party in regard to the application of one section of the Income Tax Act instead of another by the Income Tax officer is not law because it is rot a declaration by a body authorised to declare the law.
+[450B F] 444 5.
+While the law may be enacted or laid down only by a. body or person with authority in that behalf, knowledge or awareness of the law may be communicated by any one.
+No authority is required for the purpose of communicating knowledge or awareness of the law.
+[450G] 6 (a) In every case the Income Tax officer must determine for himself what the effect and consequence of the law mentioned in the audit note are and whether in consequence of the law which has come to his notice he can reasonably believe that income had escaped assessment.
+The basis of his belief must be the law of which he has now become aware.
+The true evaluation of the law in its bearing on the assessment must be made directly and solely by the Income Tax officer.
+[451C D] Maharaj Kamal Singh vs Commissioner of Income Tax 35 I.T.R. I (SC)= [1959] Sup.
+I SCR 10, Commissioner of Income Tax vs Raman & Company 1 SCR 10, Bankipur Club Ltd. vs Commissioner of Income Tax followed R. K. Malhotra, Income Tax officer, Croup Circle 11(1), Ahmedabad vs Kasturbhai Lalbhai, , Kalyanji Mavji & Co. vs Commissioner of Income Tax, , over ruled.
+Assistant Controller of Estate Duty Y. Nawab Sir Mir Osman Ali Khan Bahadur, referred to.
+Commissioner of Income Tax vs H. H. Smt.
+Chand Kanwarji Alwar , Commissioner of Income Tax vs Kalukutty , Vashist Bharghava vs Income Tax officer, , Muthukrishna Reddier v Com missioner of Income Tax, Kerala, , Raj Kumar Shrawan Kumar vs Central Board of Direct Taxes & Anr. , Elgin Mills Co. Ltd., vs Income Tax officer, Companies Circle, 'A ' Ward, Kanpur, not approved.
+(b) The error discovered by the Income Tax Officer on a. reconsideration of the same material (and nothing more) does not give the Income Tax Officer the power to reopen the assessment.
+[451G] (c) The submission of the Revenue that upon receipt of the audit note the Income Tax officer discovers or realises that a mistake has been committed in the original assessment and therefore the discovery of the mistake would be "information" within the meaning of section 147(b) is inconsistent with the terms of the section.
+What the section envisages is that the Income Tax officer must first have information in his possession and then in consequence of such information he must have reason to believe that income has 'escaped assessment.
+The realisation that income has escaped assessment is covered by the words "reason to believe", and it follows from the "information" received by him.
+The information is not the realisation; the information gives birth to the realisation.
+[452C D]

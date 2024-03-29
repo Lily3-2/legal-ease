@@ -1,0 +1,45 @@
+The appellant in both the appeals carried on the busi ness of a carrier and transported goods on hire.
+It had its principal office at Bombay and branch offices at various other places.
+The respondent in the first appeal a dealer in cardamom entrusted a consignment of cardamom to the appellant at its branch office at Bodinayakanur in Tamilnadu to be delivered at Delhi.
+After the goods had been transported by the appel lant and kept in a godown at Delhi the same got destroyed and damaged in a fire as a result whereof the consignee refused to take delivery.
+The respondent instituted a suit in the sub court within whose territorial jurisdiction the branch office of the appellant was situated for damages alleging that the fire was due to the negligence and care lessness on the part of the staff of the appellant.
+Respondent No. 4 in the second appeal entrusted certain packets of pesticides insured with the second respondent Insurance Company to the appellant at its branch office at Madras for being carried to Delhi.
+The respondent alleged that the goods were delivered at New Delhi in a damaged condition resulting in loss and a suit was instituted for recovery of the loss in the City Civil Court at Madras.
+In both the aforesaid civil suits the appellant pleaded in defence that in the contract entered into between them, the parties had agreed that jurisdiction to decide any dispute between them would be only with the courts at Bom bay, and consequently the courts in Madras ' where the two suits had been instituted had no jurisdiction.
+This plea was repelled by the Trial Court in each of the suits.
+The aforesaid orders were challenged by the appellant in the High 392 Court under Section 115 C.P.C. and having failed, the appel lant appealed to this Court.
+In the appeal, it was contended on behalf of the appel lant that since the courts at two places namely Madras and Bombay had jurisdiction in the matter, the jurisdiction of the courts in Madras was ousted by the clause in the con tract whereunder the parties had agreed that jurisdiction to decide any dispute under the contract would be only in the courts at Bombay.
+On the question: whether in view of the relevant clause in the contract between the parties the courts at Bombay alone had jurisdiction and the jurisdiction of the courts at Madras where the two suits were instituted was barred.
+Dismissing the appeals, this Court, HELD: 1.
+The courts at Bombay in these two cases did not at all have jurisdiction and consequently the agreement between the parties conferring exclusive jurisdiction on courts at Bombay is of no avail.
+[401D] 2.
+Clauses (a) and (b) of Section 20 refer to a court within the local limits of whose jurisdiction the defendant "carries on business".
+Clause (c) on the other hand refers to a court within the local limits of whose jurisdiction the cause of action wholly or in part arises.
+[397H 398A] 3.
+Section 20 of the Code before its amendment by the Code of Civil Procedure (Amendment) Act, 1976 had two Expla nations being Explanation I and II.
+By the Amendment Act Explanation I was omitted and Explanation II was renumbered as the present Explanation.
+[398G] 4.
+The Explanation is in two parts, one before the word "or" occurring between the wOrds "office in India" and the words "in respect of" and the other thereafter.
+The Explana tion applies to a defendant which is a corporation which term, would include even a company such as the appellant in the instant case.
+The first part of the Explanation applies only to such a corporation which has its sole or principal office at a particular place.
+In that event the courts within whose jurisdiction the sole or principal office of the defendant is situate will also have jurisdiction inas much as even if the defendant may not be actually carrying on business at that place, it will "be deemed to carry on business" at that place because of the fiction created by the Explanation.
+[398C F] 393 5.
+The latter part of the Explanation takes care of a case where the defendant does not have a sole office but has a principal office at one place and has also a subordinate office at another place.
+The words "at such place" occurring at the end of the Explanation and the word "or" referred to above which is disjunctive clearly suggest that if the case fails within the latter part of the Explanation it is not the court within whose jurisdiction the principal office of the defendant is situate but the court within whose juris diction it has a subordinate office which alone shall have jurisdiction "in respect of any cause of action arising at any place where it has also a subordinate office".
+[398E F] 6.
+The Explanation is really an explanation to clause (a).
+It is in the nature of a clarification on the scope of clause (a) viz. as to where the corporation can be said to carry on business.
+This, it is clarified, will be the place where the principal office is situated (whether or not any business actually is carried on there) or the place where a business is carried on giving rise to a cause of action (even though the principal office of the corporation is not located there) so long as there is a subordinate office of the corporation situated at such place.
+The linking together of the place where the cause of action arises with the place where a subordinate office is located clearly shows that the intention of the legislature was that, in the case of a corporation, for the purposes of clause (a), the location of the subordinate office, within the local limits of which a cause of action arises, is to be the relevant place for the filing of a suit and not the principal place of business.
+[399G 400B] 7.
+If the intention was that the location of the sole or principal office as well as the location of the subordinate office (within the limits of which a cause of action arises) are to be deemed to be places where the corporation is deemed to be carrying or business, the disjunctive "or" will not he there.
+Instead, the second part of the explanation would have read "and, in respect of any cause of action arising at any place where it has a subordinate office, also at such place ' '.
+[400C] 8.
+The clear intendment of the Explanation, however, is that, where the corporation has a subordinate office in the place where the cause of action arises, it cannot be heard to say that it cannot be sued there because it does not carry on business at that place.
+It would be a great hard ship if, in spite of the corporation having a subordinate office at the place where the cause of action arises (with which in all probability the plaintiff has had dealings), such plaintiff is to be compelled to travel to the place where the corporation has its principal place.
+That place should be convenient to the plaintiff; and since the corpo ration 394 has an office at such place, it will also be under no disad vantage.
+Thus the Explanation provides an alternative locus for the corporation 's place of business, not an additional one.
+[400F G] 9.
+In the instant two cases since clause (c) is not attract ed to confer jurisdiction on courts at Bombay and the appel lant has admittedly its subordinate offices at the respec tive places where the goods in these two cases were deliv ered to it for purposes of transport, the courts at Bombay had no jurisdiction at all to entertain the suits filed by the respondents and the parties could not confer jurisdic tion on the courts at Bombay by an agreement.
+Accordingly, no exception can be taken to the findings in this behalf recorded by the trial court and the High Court.
+[401C D] Hakam Singh vs M/s. Gammon (India) Ltd., [1971] 3 SCR page 314, referred to.

@@ -1,0 +1,93 @@
+ivil Appeal Nos.
+1853(A) and 1854 of 1971.
+Appeal from the Judgment and Order dated the 18th April, 1969 of the Madras High Court Madras in Tax Cases Nos. 18 and 19 of 1966.
+V.S. Desai, J. Ratnamurthi and M.N. Shroff, for the Appel lant.
+T.A. Ramachandran, for Respondent.
+The Judgment of the Court was delivered by KHANNA, J.
+This judgment would dispose of two civil appeals Nos.
+1853(A) and 1854 of 1971 which have been filed on certificate by the Commissioner of Income tax against the judgment of Madras High Court (reported in answering the following two questions referred to it in two references under section 66(1) of 79 the Indian Income tax Act, 1922 in the affirmative in favour of the assessee and against the revenue: "1.
+Whether on the facts and in the circumstances of the case, the Appellate Tribunal was right in holding that for computing the reduction in rebate under Para D of Part II to the First schedule to the Finance Act, 1959 (in R. A. No. 169 of 1965 66) and of Finance Act, 1958,(in R.A. No. 168 of 1965 66) in the composition of profits of the year from which the dividend had been declared should be looked into, and 2.
+Whether the Appellate Tribunal was right in law in holding that the paid up capital of the assessee company should be proportionately reduced for the purpose of reducing the rebate in Corporation Tax in the manner directed.
+" The matter relates to the assessment of the respondent company for the assessment years 1958 59 and 1959 60.
+For sake of convenience we may set out the facts relating to the assessment year 1958 59.
+It is the common case of the parties that the decision about that year would also govern the point of controversy relating to the other year.
+The assessee is a private limited company.
+In the previous year ending on December 31, 1957 relevant for the assessment year 1958 .59, it declared a dividend of Rs. 99.000.
+Its paid up capital was Rs. 1,65,000.
+The total income of the assessee company was determined at Rs. 73,255 made up as under: Rs. Business Nil Other sources 26,554 Capital gains 46,701 Total income 73,255 As the dividend of Rs. 99,000 declared by the assessee company was in excess of 6 per cent of the paid up capital of the company, the Income tax Officer worked up the super tax payable by the. assessee as under: RS.
+Corporation tax @ 50 % on Rs. 26,554 13,277 less rebate @ 30 % on Rs. 26,554 7,966.20 Reduction in rebate Up to 6%0 of the paid up capital 9900 .
+Nil 6% to 10% of the paid up capital in 6600 @ 10% 660.00 Balance at 20% 82500 @ 20% 1,65,00.00 17,160.00 Balance carried forward to next year 9,193.80 The assessee company objected to the above computation of the super tax and took the matter in appeal to the Appel late Assistant Commissioner.
+It w.as urged on behalf of the assessee that the dividend of Rs. 99,000 declared during the year ending 1957 was 80 out of the profits of the previous year which ended on December 31, 1956.
+According to the assessee, the dividend income determined for the assessment year 1957 58 was Rs. 1,74,196 which included capital gains to the extent of Rs. 1,10,105.
+The dividend of Rs. 99,000, it was urged, should be apportioned between the capital gain of Rs. 1,10,105 and the other income of Rs. 64,091 after taking into account the tax payable thereon.
+The assessee computed the figures as under: Rs. Capital receipts not assessable 44,279 Capital gains is assessed less tax 75,423 Other income less tax 22,492 1,42,194 The assessee claimed that rebate should be reduced only with reference to the sum of Rs. 15,659 being proportionate part of the dividend declared during the previous year ending on December 31, 1957 which had come out of the other income assessed to income tax and super tax in the assessment year 1957 58.
+The figure of Rs. 15,659 was arrived at by the assessee as under: 99,000 x 22,492 1,42, 194 The Appellate Assistant Commissioner accepted in princi ple the assessee 's contention that the components of the dividend should be considered with reference to the profits of the previous year.
+He, however, computed proportionate dividend at a higher figure by including the capital gains of Rs. 75,423 with the sum of Rs. 22,492 as shown below: Rs. Net available profits attributable to assessed income (22,492 75,423) 97,915 Net available profits 1,42,194 Dividends declared 99,000 97,915 99,000 Proportionate dividend: =68,171 1,42,194 The Appellate Assistant Commissioner retained the paid up capital at Rs. 1,65,000 as per balance sheet with out apportionment on the basis of taxed and non taxed in come.
+The department took the matter in appeal to the Appel late Tribunal.
+The Tribunal dismissed the appeal hold ing that the "previous year" under Explanation (iii) to Paragraph D of Part II to the First Schedule to the Finance Act, 1958, refers only to the previous year out of the profits of which the dividends were declared and therefore the composition of the profits and gains of the company out of which dividends were declared had to be looked into for working out the proportion under Explanation (iii) to Para graph D of Part II to the First Schedule to the Finance Act of 1958.
+At the instance of the Commissioner, the questions reproduced above were thereafter referred to the High Court.
+81 In appeal before the High Court, it was argued on behalf of the revenue that dividends having been distributed during the accounting year relevant to the assessment year in question, it is that year alone which has to be taken into consideration for calculating the supertax under the appro priate Finance Act.
+The fact that such profits were trace able to the profits earned during the year prior to the accounting year, according to the submission, was not of significance and had to be ignored for the purpose of work ing out the quantum of rebate in such super tax made avail able in the Finance Act.
+It was accordingly urged that the year of distribution, namely, the accounting year, is the only basis for the calculation of the rebate.
+As against that, it was submitted on behalf of the assessee that it would be unreal if the years in which the profits had been admittedly earned was to be ignored and reliance was placed for calculation of rebate on the ministerial act of distri bution.
+The High Court, while answering the questions referred to it in favour of the assessee and against the revenue, observed us under: "If, therefore, 'distribution ' is thus to be understood as a ministerial act resulting from the indoor management of the company, can that be the sine qua non to decide the question of quantum of rebate to which the company would be entitled under a particular Finance Act? If the year in which distribution is to be effected is considered for purposes of the Finance Act and for the determination of the quantum of rebate, then it would result in a notional implementation of the benefit contemplated by the legislature to a company in the nature of a rebate and would not amount to a realistic approach of such a vital problem connected with the finances of the company.
+It may be that in any particular year when distribution of dividends have been made, the paid up capital might have been reduced or increased, as the case may be.
+Is that paid up capital going to be taken as the basis for working out the relative benefits or disadvantages to be enjoyed or suffered by a company? We are of the view that it is neither the intention of the legislature, nor could it be said to be a reasonable inference of the provisions thereto.
+In fact, the Explanation to the Fi nance Act, 1958, which elucidates the term 'paid up capital ', gives the key to the interpretation of the word 'distribution '. 'Paid up capital ' means the paid up capital of the company on the first day of the previous year relevant for the assessment year ending on 31st March, 1959.
+It is, therefore, clear that the paid up capital of the company during the assessment year cannot be said, for purposes of Paragraph D of Part II of the First Schedule to the Finance Act, 1958, to.
+be the paid up capital of the year in which the profits arose and from which dividends were distributed during the assessment year.
+" Before dealing with the contentions advanced, it may be appropriate to refer to the relevant provisions.
+According to.
+section 55 of the Indian income tax Act, 1922, in addi tion to the income tax 7 1458SCI/76 82 charged for any year there shall be charged, levied and paid for that year in respect of the total income of the previ ous year of any individual, Hindu undivided family, company, local authority, unregistered firm or other associ ation of persons, not being a registered firm, or the part ners of the firm or members of the association individually, an additional duty of income tax (in this Act referred to as super tax) at the rate or rates laid down for that year by a Central Act.
+Clause (b) of section 2 of the Finance Act, 1958 (Act No. 11 of 1958) provides, inter alia, that subject to the provisions of subsections (2) and (3) with which we are not concerned, for the year beginning on the first day of April 1958. "(b) super tax shall, for the purposes of section 55 of the Indian Income tax Act, 1922 (XI of 1922) (hereinafter referred to as the Income tax Act), be charged at the rates specified in Part II of the First Schedule.
+" We are concerned in the present case with Paragraph D of Part II of the First Schedule to the Finance Act, 1958.
+The relevant part of the above paragraph reads as under: RATE OF SUPER TAX In the case of every other company, RATES OF SUPER TAX On the whole of the total income . . . 50%: Provided that , (i) . . . (ii) a rebate at the rate of 40 per cent on so much of the total income as consists of dividends from a subsidiary Indian company and a rebate at the rate of 30 per cent on the balance of the total income shall be allowed in the case of any company which satisfies condition (a) but not condition (b) of the preceding clause; (iii). . .
+Provided further that, (i) the amount of the rebate under clause (i) or clause (ii) shall be reduced by the sum, if any, equal to the amount or the aggregate of the amounts, as the case may be, computed as hereunder: . . . . . (c) in addition, in the case of a company referred to in clause (ii) of the preceding proviso which has distributed to its shareholders during the previous year dividends in excess of six per cent of its paid up capital, not being dividends payable at a fixed rate 83 (A) in the case of a company which is not such as is referred to in sub section (9) of section 23A of the Income tax Act : on that part of the said dividends which exceeds 6 per cent, but does not exceed 10 per cent of the paid up capital; at the rate of 10% on that part of the said dividends which exceeds 10 per cent of the paid up capital; at the rate of 20% Explanation.
+For the purpose of this paragraph (i) . . . . (ii) . . . . (iii) where any portion of the profits and gains of the company is not included in its total income by reason of such portion being exempt from tax under any provision of the Income tax Act, the 'paid up capital ' of the company, the amount distributed as dividends (not being dividends payable at a fixed rate), the amount representing the face value of any bonus shares and the amount of any bonus issued to the shareholders shall each be deemed to be such proportion thereof as the total income of the company for the previous year bears to its total profits and gains for that year other than capital receipts, reduced by such allowances as may be admissible under the Income tax Act which have not been taken into account by the company in its profit and loss account for that year.
+" In appeal before us Mr. Desai on behalf of the appel lant has urged that dividend having been distributed during the accounting year relevant to the assessment year in question, it is the profits and gains of that year alone which should be taken into consideration for calculating the rebate in the levy of super tax.
+The fact that such divi dend was distributed out of the profits earned in the years prior to that was, according to.
+the learned counsel, irrelevant.
+Particular stress in this context has been laid upon the language of clause (iii) of the Explanation con tained in Paragraph D of Part II of the First Schedule to the Finance Act,1958.
+As against that, Mr. Ramachandran who has argued the case amicus curiae has canvassed for the correctness of the view taken by the High Court.
+We have set out above the relevant part of Paragraph D of Part II of the First Schedule to the Finance Act, 1958.
+The language in which the above paragraph is couched is so complex and is hedged in with so many exceptions and provi sos that it can hardly be regarded as a model of clari ty in legislative draftsmanship.
+Paragraph D initially prescribes the rate of super tax at 50 per cent on the total income of the company.
+The first proviso then makes 84 provision for rebate in the assessment of the super tax.
+The rebate for a company like the respondent with no income in the form of dividend from a subsidiary company is to be at the rate of 30 per cent.
+The second proviso carves out reduction in the rebate.
+Clause (c) of that proviso sets out the formula for calculating that reduction at a sliding scale in case the amount of distributed dividend exceeds 6 per cent of the paid up capital.
+There then follows a third proviso but we are not concerned with that.
+At the end comes the Explanation consisting of three clauses.
+For the purpose of the present case, the relevant clause is (iii).
+The said clause makes provision in cases which fall within its ambit for a further reduction in the reduction mentioned above.
+To put it in other words, the paragraph seeks to prescribe the rate of super tax.
+It then proceeds to grant some relief to the tax payer in the levy of .
+super tax.
+It thereafter makes a cut in that relief.
+Finally, it prescribes a cut in that cut.
+The intelligence of even those with legal background gets staggered in this continu ous process of carving exceptions to exceptions.
+It seems more like a conundrum, baffling the mind and requiring special acumen to unravel its mystique.
+One can only wonder as to how the ordinary tax payers, most of whom are laymen, can keep abreast of such laws.
+Yet the maxim is that every one is presumed to know the law.
+The one redeeming feature is that the above pattern was given up after 1959.
+From 1960 to 1964 there was another pattern.
+Since 1965 the charge of super tax has been discontinued and the rates of income tax have been so increased as to absorb fully the former levy of super tax.
+The fate of these appeals, as would appear from the above, depends upon the wording of clause (iii) of the Explanation.
+The said clause contemplates, inter alia, that in calculating the amount deemed to have been distributed as dividends, certain proportion of the amount actually dis tributed has to be taken into.
+account.
+The said clause, shorn of the portions with which we are not concerned, reads as under: Where any portion of the profits and gains of the company is not included in its total income by reason of such portion being exempt from tax under any provision of the Income tax Act, . the amount distributed as dividends . . shall. be deemed to be such proportion thereof as the total income of the company for the previous year bears to its total profits and gains for that year other than capital receipts, reduced by such allowances as may be admissible under the Income tax Act which have not been taken into account by the company in its profit and loss account for that year.
+The above clause provides a formula which has to be applied for determining the amount of dividends which shall be deemed to have been distributed in considering the quantum of rebate for assessing the super tax payable by a company.
+The occasion for applying this formula is indi cated by the opening lines of the clause and arises when any portion of the profits and gains of the company 85 is not included in its total income by reason of such por tion being exempt from tax under the provisions of the Income tax Act.
+Once such an occasion arises, we have to apply the formula contained in the tatter part of the clause.
+According to that formula, the amount distributed as dividends shall be deemed to be such proportion thereof as the total income of the previous year bears to its total profits and gains for that year other than capital re ceipts, reduced by certain allowances with which we are not concerned.
+The words "for the previous year" and "for that year" indicate that in finding for the purpose of rebate the amount of dividends which shall be deemed to have been distributed, we have to look to the figure of total income and the amount of profits and gains other than capital receipts of the company reduced by certain allow ances in the previous year alone and not earlier years.
+Clause (iii) introduces a fiction with regard to the amount of dividends which shall be deemed to have been distributed.
+Such a fiction can operate only within the limits prescribed by the language of the statute creating that fiction.
+The language used in clause (iii) points to the conclusion that the taxing authorities have to take into account the company 's total income and the profits and gains other than capital receipts reduced by certain allowances only in the previous year, i.e., the year in which the dividend was distributed.
+The fact that those profits and gains accrued in years prior to the previous year and in cluded portions which were exempt from tax under the provi sions of the Income tax Act would not be of much relevance as the language of the clause requires the taxing authori ties to look to the position of profits and gains in the previous year alone.
+We would, therefore, modify the answer given by the High Court to question No. (1) and answer the aforesaid question in the negative.
+The correct answer, in our opinion, should be that for computing the reduction in rebate under Paragraph D of Part II of the First Schedule to the Finance Act, 1958 the position of profits and gains as it existed in the previous year should be taken into account and not in the years prior to that.
+No arguments have been addressed before us on the answer to question No. (2).
+We accordingly accept the appeals, set aside the judg ment of the High Court and answer question No. (1) in the negative as indicated above.
+The parties in the circum stances shall bear their own costs in this Court and in the High Court.
+M.R. Appeals allowed.

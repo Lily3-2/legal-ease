@@ -1,0 +1,118 @@
+Civil Appeal No. 1146 of 1975.
+Appeal by Special Leave from the Judgment and order dated 4 7 1974 of the Karnataka High Court in I.T.R. No. 38/72.
+CONNECTED WITH Civil Appeal No. 1378 of 1976.
+Appeal by Special Leave from the Judgment and Order dated 1 12 1975 of the Karnataka High Court in I.T.R.C. No. 32/74.
+AND Civil Appeal No. 926 of 1973.
+From the Judgment and Order dated 2 11 1972 of the Kerala High Court in Income Tax Reference No. 120/70.
+No. 1146/75.
+Soli J. Sorabjee, Addl.
+General, B. B. Ahuja and Miss A. Subhashini for the Appellant.
+T. A. Ramachandran, B. Partha Sarathi and Miss R. Vaigai for the Respondent.
+K. K. Goswami, section P. Mehta, Dinesh Vyas, P. H. Parekh, C. B. Singh, Miss Vineeta Caprihan and B. L. Verma for the intervener.
+C.A. No. 1378/76.
+Soli J. Sorabjee, Addl.
+General, B. B. Ahuja and Miss A. Subhashini for the Appellant.
+Vineet Kumar and A. K. Srivastava for the Respondent.
+C.A. No. 926/73.
+V. section Desai, K. C. Dua and Miss A. Subhashini for the Appellant A. section Nambiar and P. P. Namboodiri for the Respondent.
+941 The Judgment of the Court was delivered by PATHAK, J.
+The question in these appeals is whether the transfer of the goodwill of a newly commenced business can give rise to a capital gain taxable under section 45, Income Tax Act, 1961.
+The assessee, a registered firm, manufactured and sold agarbattis.
+Clause (13) of the Instrument of Partnership executed on 28th July, 1954 showed that the goodwill of the firm had not been valued, and the valuation would be made on dissolution of the partnership.
+The period of the partnership was extended by an instrument dated 31st March, 1964, and it contained a similar clause (13).
+Subsequently, the assessee firm was dissolved by a deed dated 1st December, 1965.
+At the time of dissolution, it seems, the goodwill of the firm was valued at Rs. 1,50,000/ .
+A new partnership by the same name was constituted under an instrument dated 2nd December, 1965 and it took overall the assets, including the goodwill, and liabilities of the dissolved firm.
+The Income Tax Officer made an assessment on the dissolved firm for the assessment year 1966 67 but did not include any amount on account of the gain arising on transfer of the goodwill.
+The Commissioner, being of the view that the assessment order was prejudicial to the Revenue, decided to invoke his revisional jurisdiction and setting aside the assessment order directed the Income Tax Officer to make a fresh assessment after taking into account the capital gain arising on the sale of the goodwill.
+In appeal before the Income Tax Appellate Tribunal, the assessee maintained that the sale did not attract tax on capital gains under section 45 of the Income Tax Act, 1961.
+Accepting the contention, the Tribunal allowed the appeal.
+At the instance of the Commissioner of Income Tax it referred a question of law to the High Court of Karnataka which, as reformed by the High Court, leads as follows: "Whether, on the facts and in the circumstances of the case, the Tribunal was right in holding that no capital gains can arise under section 45 of the Income Tax Act, 1961 on the transfer by the assessee firm of its goodwill to the newly constituted firm?" By its judgment dated 4th July, 1974 the High Court answered the question in the affirmative, holding that the value of the consideration received by the assessee for the transfer of its goodwill was not liable to capital gains tax under section 45 of the Act.
+Civil Appeal No. 1146 of 1975 is directed against that judgment.
+942 Civil Appeal No. 1378 of 1976 arises out of a judgment by the same High Court in which it has followed its earlier view.
+Civil Appeal No. 926 of 1973 has been preferred against the judgment of the Kerala High Court where a similar opinion has been expressed, but in respect of the provisions of section 12 B, Indian Income Tax Act.
+At the relevant time section 45, Income Tax Act, 1961 provided: "45.
+(1) Any profits or gains arising from the transfer of a capital asset effected in the previous year shall, save as otherwise provided in sections 53 and 54, be chargeable to income tax under the head "Capital gains", and shall be deemed to be the income of the previous year in which the transfer took place.
+" The section operates if there is a transfer of a capital asset giving rise to a profit or gain.
+The expression "capital asset" is defined in section 2(14) to mean "property of any kind held by an assessee" It is of the widest amplitude, and apparently covers all kinds of property except the property expressly excluded by clauses (i) to (iv) of the sub section which, it will be seen, do not include goodwill.
+But the definitions in section 2 are subject to an overall restrictive clause.
+That is expressed in the opening words of the section: "unless the context otherwise requires".
+We must therefore enquire whether contextually section 45, in which the expression "capital asset" is used, excludes goodwill.
+Goodwill denotes the benefit arising from connection and reputation.
+The original definition by Lord Eldon in Cruttwell vs Lye that goodwill was nothing more than "the probability that the old customers would resort to the old places" was expanded by Wood V.C. in Churton vs Douglas to encompass every positive advantage "that has been acquired by the old firm in carrying on its business, whether connected with the premises in which the business was previously carried on or with the name of the old firm, or with any other matter carrying with it the benefit of the business".
+In Trego vs Hunt Lord Herschell described goodwill as a connection which tended to become permanent because of habit or otherwise.
+The benefit to the business varies with the nature of the business and also from one business to another.
+No business commenced for the first time possesses 943 goodwill from the start.
+It is generated as the business is carried on and may be augmented with the passage of time.
+Lawson in his "Introduction to the Law of Property" describes it as property of a highly peculiar kind.
+In Commissioner of Income tax, West Bengal III vs Chunilal Prabhudas & Co., the Calcutta High Court reviewed the different approaches to the concept: "It has been horticulturally and botanically viewed as "a seed sprouting" or an "acorn growing into the mighty oak of goodwill".
+It has been geographically described by locality.
+It has been historically described by locality.
+It has been historically explained as growing and crystalising traditions in the business.
+It has been described in terms of a magnet as the "attracting force".
+In terms of comparative dynamics, goodwill has been described as the "differential return of profit".
+Philosophically it has been held to be intangible.
+Though immaterial, it is materially valued.
+Physically and psychologically, it is a "habit" and sociologically it is a "custom".
+Biologically, it has been described as Lord Macnaghten in Trego vs Hunt as the "sap and life" of the business.
+Architecturally, it has been described as the "cement" binding together the business and its assets as a whole and a going and developing concern.
+" A variety of elements goes into its making, and its composition varies in different trades and in different businesses in the same trade, and while one element may preponderate in one business, another may dominate in another business.
+And yet because of its intangible nature, it remains insubstantial in form and nebulous in character.
+Those features prompted Lord Macnaghten to remark in Commissioner of Inland Revenue vs Muller & Co. 's Margarine Limited that although goodwill was easy to describe, it was nonetheless difficult to define.
+In a progressing business goodwill tends to show progressive increase.
+And in a failing business it may begin to wane.
+Its value may fluctuate from one moment to another depending on changes in the reputation of the business.
+It is affected by everything relating to the business, the personality and business rectitude of the owners, the nature and character of the business, its name and reputation, its location, its impact on the contemporary market, the prevailing socio economic ecology, introduction to old customers and agreed absence of competition.
+There can be no account in value of the factors producing it.
+It u also impossible to predicate the moment of its birth.
+It comes silently 944 into the world, unheralded and unproclaimed and its impact may not be visibly felt for an undefined period.
+Imperceptible at birth it exists enwrapped in a concept, growing or fluctuating with the numerous imponderables pouring into, and affecting, the business.
+Undoubtedly, it is an asset of the business, but is it an asset contemplated by section 45 ? Section 45 charges the profits or gains arising from the transfer of a capital asset to income tax.
+The asset must be one which falls within the contemplation of the section.
+It must bear that quality which brings section 45 into play.
+To determine whether the goodwill of a new business is such an asset, it is permissible, as we shall presently show, to refer to certain other sections of the head, "Capital gains".
+Section 45 is a charging section.
+For the purpose of imposing the charge, Parliament has enacted detailed provisions in order to compute the profits or gains under that head.
+No existing principle or provision at variance with them can be applied for determining the chargeable profits and gains.
+All transactions encompassed by section 45 must fall under the governance of its computation provisions.
+A transaction to which those provisions cannot be applied must be regarded as never intended by section 45 to be the subject of the charge.
+This inference flows from the general arrangement of the provisions in the Income tax Act, where under each head of income the charging provision is accompanied by a set of provisions for computing the income subject to that charge.
+The character of the computation provisions in each case bears a relationship to the nature of the charge.
+Thus the charging section and the computation provisions together constitute an integrated code.
+When there is a case to which the computation provisions cannot apply at all, it is evident that such a case was not intended to fall within the charging section.
+Otherwise one would be driven to conclude that while a certain income seems to fall within the charging section there is no scheme of computation for quantifying it.
+The legislative pattern discernible in the Act is against such a conclusion.
+It must be borne in mind that the legislative intent is presumed to run uniformly through the entire conspectus of provisions pertaining to each head of income.
+No doubt there is a qualitative difference between the charging provision and a computation provision.
+And ordinarily the operation of the charging provision cannot be affected by the construction of a particular computation provision.
+But the question here is whether it is possible to apply the computation provision at all if a certain interpretation is pressed on the charging provision.
+That pertains to the fundamental integrality of the statutory scheme provided for each head.
+The point to consider then is whether if the expression "asset" in section 45 is construed as including the goodwill of a new business, it is 945 possible to apply the computation sections for quantifying the profits and gains on its transfer.
+The mode of computation and deductions set forth in section 48 provide the principal basis for quantifying the income chargeable under the head "Capital gains".
+The section provides that the income chargeable under that had shall be computed by deducting from the full value of the consideration received or accruing as a result of the transfer of the capital asset: "(ii) the cost of acquisition of the capital asset. " What is contemplated is an asset in the acquisition of which it is possible to envisage a cost.
+The intent goes to the nature and character of the asset, that it is an asset which possesses the inherent quality of being available on the expenditure of money to a person seeking to acquire it.
+It is immaterial that although the asset belongs to such a class it may, on the facts of a certain case, be acquired without the payment of money.
+That kind of case is covered by section 49 and its cost, for the purpose of section 48 is determined in accordance with those provisions.
+There are other provisions which indicate that section 48 is concerned with an asset capable of acquisition at the cost.
+section 50 is one such provision.
+So also is sub section (2) of section 55.
+None of the provisions pertaining to the head "Capital gains" suggests that they include an asset in the acquisition of which no cost at an can be conceived.
+Yet there are assets which are acquired by way of production in which no cost element can be identified or envisaged.
+From what has gone before, it is apparent that the goodwill generated in a new business has been so regarded.
+The elements which create it have already been detailed.
+In such a case, when the asset is sold and the consideration is brought to tax, what is charged is the capital value of the asset and not any profit or gain.
+In the case of goodwill generated in a new business there is the further circumstance that it is not possible to determine the date when it comes into existence.
+The date of acquisition of the asset is a material factor in applying the computation provisions pertaining to capital gains.
+It is possible to say that the "cost of acquisition" mentioned in section 48 implies a date of acquisition, and that inference is strengthened by the provisions of sections 49 and 50 as well as sub section (2) of section 55.
+It may also be noted that if the goodwill generated in a new business is regarded as acquired at a cost and subsequently posses to an assessee in any of the modes specified in sub section (1) of section 49, it will become necessary to determine the cost of acquisition to the previous owner.
+Having regard to the nature of the asset, it will be impossible 946 to determine such cost of acquisition Nor call sub section (3) of section 55 be invoked, because the date of acquisition by the previous owner will remain unknown.
+We are of opinion that the goodwill generated in a newly commenced business cannot be described as an "asset" within the terms of section 45 and therefore its transfer is not subject to income tax under the head "Capital gain".
+The question which has been raised before us, has been considered by some High Courts, and it appears that there is a conflict of opinion.
+The Madras High Court in Commissioner of Income tax vs K. Rathnam Nadar, the Calcutta High Court in Commissioner of Income Tax vs Chunilal Prabhudas & Co., (supra) the Delhi High Court in Jagdev Singh Mumick vs Commissioner of Income tax, the Kerala High Court in Commissioner of Income tax vs E.C. Jacob, the Bombay High Court in the Commissioner of Income tax v, Home Industries & Co. and Commissioner of Income tax vs Michel Postal and the Madhya Pradesh High Court in Commissioner of Income tax vs Jaswant Lal Dayabhai have taken the view that the receipt on the transfer of goodwill generated in a business is not subject to income tax as a capital gain.
+On the other side lies the view taken by the Gujarat High Court in Commissioner of Income tax vs Mohanbhai Pamabhai, and the Calcutta High Court in R.N. Daftary vs Commissioner of Income tax that even if no cost is incurred in building up the goodwill of the business, it is nevertheless a capital asset for the purpose of capital gains, and the cost of acquisition being nil the entire amount of sale proceeds relating to the goodwill must be brought to tax under the head "Capital gains".
+It is apparent that the preponderance of judicial opinion favours the view that the transfer of goodwill initially generated in a business does not give rise to a capital gain for the purposes of income tax.
+Upon the aforesaid considerations, Civil Appeal No. 1146(T) of 1975 and Civil Appeal No. 1378 of 1976 must be dismissed.
+947 Civil Appeal No. 926 of 1973 raises the same question with reference to section 12B, Indian Income Tax Act, 1922.
+As the relevant statutory provisions of the Indian Income Tax Act, 1922 are substantially similar to the corresponding provisions of the Income Tax Act, 1961, that appeal is also liable to be dismissed.
+Accordingly, the appeals are dismissed with costs.
+S.R. Appeals dismissed.

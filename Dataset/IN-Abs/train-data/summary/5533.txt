@@ -1,0 +1,42 @@
+% The appellant State of Uttar Pradesh, took on lease the premises belonging to the respondent for the purpose of running a Training Centre.
+The respondent landlord gave a notice of termination of the tenancy under Section 106 of the Transfer of Property Act and filed a suit for recovery of possession.
+The appellant claimed that the suit was not maintainable and that the respondent 's remedy, if any, was only to seek eviction in the circumstances and in the manner outlined in the Uttar Pradesh Buildings (Regulation of Letting, Rent and Eviction) Act, 1972.
+The respondent sought to overcome this hurdle by contending that the premises in question was not one of the classes of 'building ' covered by the aforesaid Rent Act, and in support thereof relied on the exclusion clause incorporated in Section 2(1)(a) of the Rent Act.
+The appellant contended, successfully before the Additional District Judge, but unsuccessfully before the trial court and the High Court, that the premises in question was not a `public building ' with the meaning of section 3(0) read with section 2(1)(a) of the Rent Act, as amended from July 5, 1976 and hence, the respondent 's remedy for eviction of the appellant was not by way of suit in a Civil Court.
+Dismissing the Appeal to this Court, 949 ^ HELD: 1.
+The building in question is one taken on lease by the State Government and so it falls squarely within the definition of `public building ' in Section 3(0) of the Act.
+It is, therefore, exempt from the application of the Act by reasons of section 2(1) as it stood at the relevant time.
+It would follow, therefore, that the respondent 's remedy to recover possession lay under the general law and had to be enforced by a suit for recovery of possession which is exactly what he has done.[955B] 2.
+Sub sections (1), (1A) and (8) of section 21 have to be read together.
+Though section 2(1)(a) excluded `public buildings ' which has to interpreted to include buildings in which the Government is only a tenant s.21(A) incorporates an exception to this exclusion.
+"Notwithstanding anything contained in section 2", it permits an application for eviction being moved under section 21(1)(a) of the Act by a landlord against any tenant but in the limited circumstances set out in that sub section viz. that the landlord has been in occupation of a public building but had to vacate it as he had ceased to be in the employment of the Government, Local Authority or Corporation.[958C D] 3.
+The landlord of a building in which the Government is a tenant could have moved an application under section 21(1) read with section 21(1A).
+This is what is prohibited by section 21(8) absolutely in view of clauses (ii) and (iv) of Explanation 1 to sub section (1) being non existent.
+section 21(8) makes it clear that while a landlord who is compelled to vacate a public building occupied by him due to cessation of his employment can proceed under the Act to evict any tenant occupying his property so that he may use his own property for his residential purposes, he will not be able to do so where his tenant is the Government, a local authority or a public Corporation.
+Thus read, section 21(8) does not become otiose or redundant by accepting the wider interpretation of section 3(0).[958D F] 4(i) The interpretation placed by the Full Bench of the High Court on section 3(0) in Punjab National Bank vs Suganchand, [1985]1 ARC 214 equates the position under the statute after the amendment of 1976 to the position both as it stood prior to the 1976 amendment and also as it stood after the 1983 Ordinance.
+Such an approach fails to give any effect at all to the change in language deliberately introduced by the 1976 amendment.[956H; 957A] (ii) Prior to the amendment, only buildings of which the Government was owner or landlord were excluded from the Act.
+But the Legislature clearly intended a departure from the earlier position.
+If the 950 intention was merely to extend the benefit to premises owned or let out by public corporation, it could have been achieved by simply adding a reference to such corporations in section 2(1)(a) and (b) as they stood earlier.
+[957A B] (iii) Reading section 2(1)(a) & (b) as they stood before amendment and the definition in section 3(0) side by side, the departure in language is so wide and clear that it is impossible to ignore the same and hold that the new definition was just a re enactment of the old exemption.[957B C] (iv) The amendment significantly omitted the crucial words present in the earlier legislation which had the effect of restricting the exclusion to tenancies created by the Government, either as owner or as landlord.
+[957D] (v) Though the Ordinance of 1977 made its amendment retrospective from 5.7.76, these later amendments are all specifically given effect to from 18.5.1983.
+The effect of the decisions rendered remained untouched till then.
+The fact that the 1976 amendment marked a departure from the more restricted exclusion available earlier and the fact that the said restricted exclusion was again restored with effect only from 18.5.1983 militate against the correctness of adhering to a narrow interpretation even during the interregnum from 5.5.1976 to 18.5.1983.
+[957F G] (vi) Full effect must therefore be given to the new definition in section 3(0) and to the conscious departure in language in reframing the exclusion.
+[959D] 5.
+There are situations in which Courts are compelled to subordinate the plain meaning of statutory language.
+Not unoften, Courts do read down the plain language of a provision or give it a restricted meaning, where, to do otherwise may be clearly opposed to the object and scheme of the Act or may lead to an absurd, illogical or unconstitutional result.
+[959D E] 6.
+This mode of construction is not appropriate in the context of the present legislation for a number of reasons.
+In the first place, such an interpretation does not fit into the legislative history.
+It does not explain why the legislature should have, while enacting the 1976 amendment, omitted certain operative words and used certain wider words instead.
+Secondly, the Rent Act is a piece of legislation which imposes certain restrictions on a landlord and confers certain protections on a 951 tenant.
+Thirdly, while it is true that the result of the interpretation this Court favours would be to facilitate easy eviction of Government, local authorities and public corporations, there is nothing per se wrong about it because, with their vast resources or capacity to augment their resources, these bodies would not be in as helpless a position as ordinary tenants for whose benefit the legislation is primarily intended.
+Fourthly, the legislature has applied its mind to the situation more than once.
+If its intention in carrying out the amendment had been misunderstood by the High Court or found ambiguous, the legislature was expected to rectify the situation by a piece of retrospective or declaratory legislation.
+The 1977 Ordinances was, but the later Ordinances and the 1985 Act, are not, of this nature.
+They neither are, nor purport to be, declaratory or retrospective from 5.7.76.
+At least, if the 1985 Act had been made retrospective from 5.7.76, one could have thought it was a clarificatory piece of legislation.
+But the Legislature has advisedly given these enactments effect only from 18.5.1983.
+This means that the amendment of 1976 was intended to be effective between 5.7.76 and 18.5.83 and it also means that the amendment of 1983 onwards is not intended to be read back for that period.
+Lastly, the interpretation this Court favours will create no lasting difficulties for the Government and other organisations which are tenants only, since after 18.5.1983 they will be in a position to claim all the immunities available to other tenants under the Act.
+[959E G; 960B G] Punjab National Bank vs Sugan Chand, [1985]1 ARC 214 overruled.

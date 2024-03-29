@@ -1,0 +1,53 @@
+The first respondent filed a suit against the appellant and the second respondent for ejectment on the ground of default in payment of the monthly rent.
+The appellant denied the alleged default and flied an application under s.17(2) of the West Bengal Premises Tenancy Act, 560 1956 to seek the orders of the Court regarding the amount of rent payable to the landlord.
+During the pendency of the proceedings the West Bengal Premises Tenancy (Amendment) Ordinance No. VI of 1967 (later replaced by the WeSt Bengal Premises Tenancy (Amendment) Act 30 of 1969) came to be promulgated with effect from 26.8.67.
+By s.2 of the Ordinance subs.(2A) and (2B) to s.17 of the Act were inserted.
+Section 5 of the Ordinance gave retro spective effect to the amendments by providing that the amendments made by s .2 of the Ordinance shall have effect in respect of all suits including appeals which were pending on the date of commencement of the Ordinance.
+The amendments inter alia enabled tenants who were in default to apply to the Court and pay the arrears of rent in instalments.
+To avail the benefit of amended provisions the appellant preferred an application within one month under s.(2A)(b) praying for payment of arrears of rent in instalments.
+The trial Court fixed the amount of arrears payable and allowed the payment thereof in three instalments.
+The appellant paid the entire arrears of rent on 31.7.70 covering the period ending with 29.2.68.
+In the meanwhile the first respondent had filed an application under s.17(3) for striking out the defence of the appellant against the delivery of possession of the demised premises for non compliance with the terms of s.17(1).
+Resisting the application the appellant contended that since he had paid the arrears of rent as per the orders of the Court under s.17(2A)(b), the first respondent 's suit should be dismissed under s.17(4).
+The trial Court allowed the application and struck out of the defence the appellant on the ground that in paying the rent for the months of September 1968 and March 1969 there had been a delay and thus the appellant had contravened s.17(1) and, therefore, he was not entitled to protection under section 17(4).
+The appli cation filed by the appellant under section 148 CPC for extension of time for deposit of amount for the months of September 1968 and March 1969 was dismissed.
+The suit was decreed and the decree confirmed by the Appellate Court and the High Court.
+The High Court held that even an application under s.17(2A)(b) was not maintainable and hence the appellant cannot raise a plea that he had paid the arrears of rent within time and the trial Court should have dismissed the suit under section 17(4).
+Allowing the Appeal and dismissing the Civil Miscellane ous Petitions, 561 HELD: 1.
+When s.17(2A) of the West Bengal Premises Tenancy Act, 1956 and s.5 of the West Bengal Premises Tenan cy (Amendment) Ordinance No. VI of 1967 are read conjointly it is clear that the intention of the legislature was to extend the benefit of sub.s (2A) to aH pending suits and appeals irrespective of the fact whether the time limit of one month prescribed under s.17(1) had expired or not.
+Any other construction would have the effect of rendering otiose s.5 of the Ordinance.
+Since the Ordinance came to be re placed long after by the Act, s .5 of the Ordinance was not reproduced in the Act.
+It is significant that s.5 of the Ordinance entitled the appellant to file an application under s.17(2A)(b), in the suit filed by the first respondent which was pending then.
+The High Court has looked only into the Act and not the Ordinance and that is how s.5 of the Ordinance has escaped its notice.
+The High Court has, there fore, committed an error in failing to notice the overriding effect of section 17(2A) and s.5 of the Ordinance.
+[567C E] 2.
+If the intention of the legislature was to restrict the benefits given under s.17(2A) to only those tenants against whom suits had been filed within one month prior to the promulgation of the Ordinance, there was no necessity to give retrospectively to s.(2A) under s.5 of the Ordinance.
+It has, therefore, to be held that all tenants against whom suits or appeals were pending on the date of the promulga tion of the Ordinance were entitled to seek the benefit of s.17(2A) by filing an application within one month from the date of the promulgation of the Ordinance.
+The High Court was, therefore, in error in holding that the application under s.17(2A)(b) was itself not maintainable.
+[568B C] 3.
+Remedial amendments have to be liberally construed so as not to deny its efficacy and it is the duty of the courts to avoid a conflict between two sections.
+[567E] Madhav Rao Scindia vs Union of India, AIR S.C. 1971 530 at 576 and Dy.
+Custodian vs Offl.
+Receiver, ; at 225, relied upon.
+In so far as the payment of arrears for the period ending 29.2.68 is concerned, the appellant had complied with the orders of the Court under s.17(2A)(b) and was, there fore, entitled to claim the benefit of s.17(4).
+[568E] 5.
+Sub section (3) has to be read and understood with reference to sub s.(4) also and in particular its Proviso.
+Sub section (4) lays down that when a tenant, makes payment as required by sub s.(1), (2) or (2A) 562 no decree or order for delivery of possession shall be made on the ground of default in payment of rent by the tenant.
+The Proviso sets out that a tenant who has obtained relief under sub.s.(4) is not entitled to seek relief once again under the sub section if he has again made default in the payment of rent for 4 months within a period of 12 months.
+The Proviso, therefore, makes it clear that if the subse quent default is for a period less than 4 months within a period of 12 months the tenant can claim relief under the sub section once again.
+[569C E] In the instant case, the previous arrears related to the period ending with 29.2.68 and those arrears had been paid in compliance of the Court 's order.
+The appellant was, therefore, entitled to ask for the dismissal of the suit.
+In so far as the subsequent default is concerned, it is well within the limitations prescribed by the Proviso to sub section (4).
+The default is only for two months and that too in a period of 13 months.
+The appellant will, therefore, be entitled to the protection of the proviso.
+[569E F] 6.
+The words "shall order the defence against delivery of possession to be struck out" occurring in s.17(3) have to be construed as a directory provision and not a mandatory provision as the word "shall" has to be read as "may".
+Such a canon of construction is warranted because otherwise the intendment of the legislature will be defeated and the class of tenants for whom the beneficial provisions were made by the Ordinance and the Amending Act will stand deprived of them.
+[569H; 570A B] Govindlal Chhagganlal Patel vs Agricultural Produce Market Committee, Godhra, ; ; and Ganesh Prasad Sah Kesari vs Lakshmi Narain Gupta, ; , relied upon.
+Once the word "shall" used in s.17(3) is read as "may" and consequently the provision for striking out of defence is to be read as directory and not mandatory then it follows that the Court is vested with discretion to order either striking out of defence or not depending upon the circumstances of the case and the interest of justice.
+If the Court has the discretion not to strike out the defence of the tenant committing default in payment for deposit of rent as required by a provision in any Rent Restriction Act, then the Court surely has the further discretion to condone the default and extend the time for payment or deposit and such a discretion is a necessary implication of the discre tion not to strike out the defence.
+[570F H] 563 Shyamcharan Sharma vs Dharamdas, ; ; Santosh Mehta vs Om Prakash and Anr., ; and Ram Murti vs Bhola Nath and Another, , relied upon.
+In the instant case, the default was not one of non payment of the arrears of the rent for the subsequent peri od.
+The default pertained to belated payment of rent for two months and was, therefore, a default in the technical sense than in the real sense and hence of an inconsequential nature.
+Having regard to the intendment of the Act and the nature of the provisions it can never be said that the defaults were of such a serious nature as to warrant the court refusing to exercise its discretion and to fell con strained to strike out the defence.
+[571C E]

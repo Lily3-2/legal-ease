@@ -1,0 +1,34 @@
+Section 11 of the Bihar Buildings (Lease, Rent and Eviction) Control Act.
+1947 provides that a tenant shall not be liable to eviction except in execution of a decree passed by the Court on one or more of the grounds specified there in.
+Under section 11A, if in a suit for recovery of possession of any building the tenant contests the suit, the Court may make an order for deposit of rent and arrears, if any, and on failure to deposit the arrears within fifteen days of the date of the order, the Court shall order the defence against ejectment to be struck out.
+The plaintiff (respondent) let out two rooms of his premises to the defendant (appellant) at a rent fixed by the Rent Controller under section 5 of the Act.
+Sometime later, the plaintiff let out some furniture to the defendant at a mutually agreed rent.
+The plaintiff 's suit for eviction of the defendant on the ground of non payment of rent for three months was dismissed by the trial Court holding that failure to pay the rent of furniture along with the rent of the premises did not amount to a default under section 11(1)(d) of the Act.
+On appeal, the Subordinate Judge held that non payment of rent of furniture along with the rent of the premises was a default within the meaning of section 11(1)(d).
+The High Court upheld the decision of the Subordinate Judge.
+On the question of deposit of rent under section 11A, the Subor dinate Judge held that the defendant had filed documents to show subsequent deposit in a regular way.
+On the other hand, the High Court came to the conclusion that the defend ant failed to produce any material to show as to what de terred him from "depositing the money himself on the passing of the challan and what caused the handing over of the money to the Nazir.
+" On this ground, it allowed the plaintiff 's suit.
+Allowing the appeal, HELD: The High Court and the Subordinate Judge committed an error of law in accepting the ground of default under section 11(1)(d) on a wrong appreciation of the legal position on the facts found by the first appellate Court.
+There was, therefore, no basis for granting a decree for eviction under section 11(1)(d) of the Act.
+[990C] 1.
+(a) It is the default in the payment of rent fixed by the Rent Controller which will furnish a ground for eviction under section 11(1)(d).
+Section 4 of the Act provides that notwithstanding anything contained in any agreement or law to the contrary, it shall not be lawful for any landlord to increase, or claim any increase in, the rent which is pay able for the time being, in respect of any building except in accordance with the provisions of the Act.
+[989E F] In the instant case, the Rent Controller having fixed the rent of the premises, the plaintiff could not alter that rent without an order of the Rent Controller.
+Default of the payment of furniture rent agreed to by the defendant subse quent to the lease of the premises could not be brought within the mischief of section 11 (1) (d) to entitle the landlord to a decree for eviction.
+The furniture rent remains di vorced from the rent of the building under the original demise.
+[989D &P] (b) Any alteration of the fair rent fixed by the Rent Controller will have to receive the imprimatur of the Rent Controller under section 7.
+There is no legal impediment if the parties approach the Controller and by consent obtain an order from the Controller fixing the revised rent admissible under the Act.
+No 985 enhancement of fair rent is legally permissible except in accordance with the provisions of the Act.
+Default of payment of any rent in excess of the fair rent fixed, if without recourse to the Procedure under the Act, will not entail a ground for eviction under section 11(1)(d) of the Act.
+[990A B] The penalty of striking out the defence for non compli ance of an order under s.11A is district from the grounds of eviction permitted under section 11.
+[988H] 2.
+The contention of the defendant that an order under s.11A could be passed only by the trial Court is without force because an appeal is a continuation of the suit.
+The advantage given to the landlord under section 11A for the purpose of realisation of the arrears of rent pendente lite can be secured by him at any stage of the litigation, whether in the trial Court or in appeal.
+[988G] 3.
+Where the first appellate court came to a positive finding of fact in favour of the defendant, the High, Court was wrong in adopting a different course to reach a contrary conclusion for the first time on a vital fact.
+The matter would have been different if the High Court had called for additional evidence under 0.41, r. 28, C.P.C.
+But the course adopted by the High Court has resulted in great prejudice to the defendant.
+[987E F] In the instant case the High Court itself had accepted that the amount of rent was handed over to the Nazir but the objection was that the defendant, instead of handing over the amount to the Nazir, should have himself deposited it.
+In the absence of a proper enquiry into the matter of delay of deposit by the Nazir the High Court was not right in second appeal to penalise the defendant by striking out his defence against ejectment.
+[988B]

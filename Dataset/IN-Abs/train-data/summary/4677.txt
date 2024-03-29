@@ -1,0 +1,62 @@
+A Branch Manager of the respondent Bank co accepted 16 usance bills of the aggregate value of over Rs. 45 lakhs relating to purchases of cotton made by a textile mill from the appellant Corporation.
+When the usance bills matured, the Corporation called upon the Bank to make payment.
+The Bank filed a suit against the Corporation praying inter alia for a declaration that the co acceptance of the usance bills by its Branch Manager was null and void as he did not have the requisite authority to co accept the bills on behalf of the Bank and also for an interim injunction restraining the Corporation from presenting a winding up petition under the .
+The prayer for injunction was turned down by a Single Judge of the High Court but the same was granted by a Division Bench which heard the appeal against the order of the Single Judge.
+The narrow question examined in this appeal was.
+Whether in view of the provision contained in section 41(b) of the , the court will have jurisdiction to grant an injunction restraining any person from instituting any proceeding in a court not subordinate to that from which the injunction is sought ? Allowing the appeal, ^ HELD: From the language used in section 56(b) of the Specific Relief Act, 1887 (which was the predecessor provision of section 41(b) of the 1963 Act) it was clear that the court could not stay a proceeding in a court superior in hierarchy to the court from which injunction was sought; but by a process of judicial interpretation a consensus had been reached that a court could by an injunction restrain a party before it from further prosecuting the proceeding in other courts, superior or inferior.
+To some extent this approach had not only effectively circumvented the provision contained in section 56(b) of the repealed Act but also denuded it of its content.
+The legislature took notice of this judicial interpretation and materially altered the language of the succeeding provision.
+It manifestly expressed its mind by enacting section 41(b) in such clear and unambiguous language that an injunction cannot be granted to restrain any person the language takes care of injunction acting in personum from instituting or prosecuting any proceeding in a Court not subordinate to that from which injunction is sought.
+This change in language deliberately adopted by the legislature has to be given full effect.
+[970 F H; 971 A B, D] 963 (i) Anyone having a right, that is a legally protected interest, complains of its infringement and seeks relief through Court must have an unhindered, uninterrupted access to law courts.
+Access to court in search of justice according to law is the right of a person who complains of infringement of his legally protected interest and a fortiori therefore, no other court can by its action impede access to justice.
+This principle is deducible from the Constitution which seeks to set up a society governed by rule of law.
+As a corollary it must yield to another principle that a superior court can injunct a person by restraining him from instituting or prosecuting a proceeding before a subordinate court.
+Save this specific carving out of the area where access to justice may be impeded by an injunction of the court, the legislature desired that courts ordinarily should not impede access to justice through court.
+This is the equitable principle underlying section 41(b).
+Accordingly, it must receive such interpretation as would advance the intendment and thwart the mischief it was enacted to suppress and to keep the path of access to justice through court unobstructed.
+[971 F H; 972 A B] (ii) The legal system in our country envisages obtaining redressal of a wrong or relief against unjust denial thereof by approaching the court set up for the purpose.
+If a person complaining of invasion of his rights is injuncted from approaching the court set up to grant relief by an action brought by the opposite side against whom he has a claim and which he wanted to enforce through court, he would have to first defend that action and vindicate his right and thereafter, when the injunction is vacated, he has to approach the court for relief.
+In order to avoid such multiplicity of proceedings, the legislature enacted section 41(b) and statutorily provided that an injunction cannot be granted by a court with a view to restraining any person from instituting or prosecuting any proceeding in a court not subordinate to that from which the injunction is sought.
+[972 C F; G] (iii) The contention that section 41 (b) is not attracted because it deals only with perpetual injunction cannot be accepted.
+The expression 'injunction ' in section 41(b) is not qualified by an adjective and therefore it would comprehend both interim and perpetual injunction.
+It is true that section 37 specifically provides that temporary injunctions which have to continue until a specified time or until further order of the court are regulated by the Code of Civil Procedure.
+But if a dichotomy is introduced by confining section 41 to perpetual injunction only and section 37 read with o. 39 C.P.C. being confined to temporary injunction, an unnecessary grey area will develop.
+It is indisputable that temporary injunction is granted during the pendency of the proceeding so that while granting final relief the Court is not faced with a situation that the relief becomes infructuous or that during the pendency of the proceeding an unfair advantage is taken by the party in default or against whom temporary injunction is sought.
+But power to grant temporary injunction was conferred in aid of or as auxiliary to the final relief that may be granted.
+If the final relief cannot be granted in terms as prayed for, temporary relief in the same terms can hardly if ever be granted.
+[973 C F] State of Orissa vs Madan Gopal Rungta, [1952] S.C.R. 28 referred to.
+964 Udyog Mandir vs Messrs. Contessa Knit Wear and Ors.
+, A.I.R. ; and Krishnadevi P. Gupta & Anr.
+vs Banwarilal Hanuman Prasad Tibrewala, A.I.R. [1976] Bom.
+233 approved.
+In the instant case the Bank seeks to restrain the Corporation by an injunction of the court from instituting a proceeding for winding up of the Bank.
+There is a clear bar in section 41(b) against granting this relief.
+The court has no jurisdiction to grant a perpetual injunction restraining a person from instituting a proceeding in a court not subordinate to it as a relief, and therefore; ipso facto temporary relief cannot be granted in the same terms.
+[974 B C] (iv) One cannot bodily import English decisions into our system to develop a hybrid legal system and one cannot be so hypnotised by English decisions to overlook legislative changes introduced in Indian Law.
+Where provisions are in pari materia between the English Act and the Indian Act and where local conditions do not materially differ from the conditions in U.K., one may, keeping in view the conditions in our country, look at the view taken by the English Courts and if consistent with our jurisprudence, our social conditions and our chalked out path in which the law must move, one can profitably take help of the decision.
+[975 D E] Cadiz Waterworks Co. vs Barnett, [1874 75], 19 Equity Cases 182; Circle Restaurant Castiglione Co. vs Lavery, [1881] 18 Ch.
+555; and New Travellers Chambers Ltd. vs Messrs Cheese & Green, [1894] 17 Law Times Reports 171 plea to take notice of, declined.
+Buckley: , 14th Edn., footnotes 7, 8 and ; and Palmer 's Company Precedents, , Ed.
+p. 45 plea to take notice of declined.
+Hungerford Investment Trust Ltd. vs Haridas Mundhra & Ors.
+,[1972] 3 S.C.R. 690, at 701; Chales Forte Investments Ltd. vs Amanda, ; Bryanston Finance Ltd. vs De Vries, ; and Stonegate Securities Ltd. vs Gregory, ; referred to.
+(v) The Court can in appropriate cases grant temporary injunction in exercise of its inherent power in cases not covered by O. 39, C.P.C, But the inherent power of the Court cannot be invoked to nullify or stultify a statutory provision.
+While exercising inherent power, the court should not overlook the statutory provision in section 41(b) which clearly indicates that injunction to restrain initiation of proceeding cannot be granted.
+[980 C D] Manoharlal Chopra vs Rai Bahadur Rao Raja Seth Hiralal, [1962] Supp. 1 S.C.R. 450: and Padam Sen vs State of U.P.; ; ; referred to.
+In the instant case, the appellate judgment does not contain the slightest reference to the invocation of the inherent power of the court in granting the order of injunction now under challenge.
+Not only that, but the court has not held that the contention of the Corporation is frivolous or untenable or 965 the claim is mala fide.
+This becomes clear from the observation of the court that the order passed by it is not founded on the merits of the Bank 's case or lack of merit in any claim which the Corporation may have against the plaintiff Bank and it would be open to the Corporation to file a regular suit or summary suit against the plaintiff Bank in which appropriate orders would be passed by the court seized of the matter as and when the occasion arises for the same.
+[980 D F] (vi) The contention that the presentation of winding up petition coupled with advertisement thereof in newspaper as required by law has certain serious consequences on the status, standing, financial viability stability and operational efficiency of the company, and where the debt is bona fide disputed, a petition for winding up, which is not an alternative to the suit to recover the same, may be a pressure tactic to obtain an unfair advantage, and therefore, the court must, despite the provision in section 41(b), spell out a power in appropriate cases to injunct a person from filing a winding up petition, cannot be accepted.
+This contention overlooks the various statutors safeguards against admission, advertising and publication of winding up petitions.
+There is sufficient built in safeguard in the provisions of the and the Rules framed thereunder which would save the company from any adverse consequences, if a petitioner actuated by an ulterior motive presents the petition.
+According to rule 96 of the Companies (Court) Rules, 1959 a petition for winding up has to come up in chambers before the Company Judge and not in open court, and the rule confers a discretionary power on the judge not to give any directions at that stage but merely issue a notice to the company before giving directions.
+If upon receipt of such notice the company appears and satisfies the judge that the debt is bona fide disputed or the presentation of the petition is mala fide, or actuated by an ulterior motive, or abuse of the process of the court, the Judge may decline to admit the petition and may direct and party presenting the winding up petition to prove its claim by a suit or in any other manner.
+This is the jurisdiction of the Company Court and it cannot be restrained from exercising the same by some other court restraining the creditor from presenting a winding up petition.
+[981 B H; 982 A; D] National Conduits Pvt. Ltd. vs section section Arora, ; , referred to.
+George vs The Athimattam Rubber Co. Ltd., A.I.R. 1964 Kerala 212, approved.
+In the instant case, even assuming that the Appellate Bench had in its mind the inherent power of the court to grant injunction despite statutory inhibition and consistent with the view taken by the courts in England, it had then in order to do justice between the parties first reach an affirmative finding that the winding up petition as and when presented by the Corporation would be frivolous and would constitute an abuse of the process of the court or would be a device to pressurise the Bank to submit to an unjust and dishonest claim.
+It must also reach an affirmative conclusion that the debtor Bank is sufficiently solvent to satisfy the claim as and when established.
+It has also 966 to record an affirmative finding that the Corporation is not seeking bona fide to present a petition for winding up but is actuated by an ulterior motive in presenting the petition.
+However, the decision of the Appellate Bench is conspicuously silent on these relevant points.
+[983 E H; 984 A]

@@ -1,0 +1,39 @@
+Appeal No. 1 of 1975.
+From the Judgment and Order dated 11/12.9.1973 of the Gujarat High Court in I.T. Reference No. 19 of 1971.
+K.P. Bhatnagar and Ms. A. Subhashini for the Appellant.
+The Judgment of the Court was delivered by RANGANATH MISRA, J.
+This appeal by certificate has been carried by the Revenue challenging the decision rendered by the Gujarat High Court reported in 10 on a refer ence under the Income Tax Act, 1961.
+Assessee is a Public Limited Company and the relevant assessment year is 1964 65.
+This was the second year of the assessee 's new project at Vidyanagar going into production.
+On 19.3.1965, the Income Tax Officer computed the assessment under section 143(3) of the Act after determining the rebate admissible under sections 84 and 590 101 of the Act at Rs.2,72.372.
+He reopened the assessment under section 147(b) of the Act and by his reassessment order dated 29.11.1966 recomputed the rebate at Rs.2,51,222.
+The appeal by the assessee to the Appellate Assistant Com missioner was dismissed.
+The Appellate Tribunal on further appeal by the assessee came to hold: "There is considerable force in the arguments urged by Sri Talati.
+In view of the phraseology used in the rules we are inclined to accept Sri Talati 's plea that to the figure of capital as worked out under Rule 19(1) is to be added the average profit as worked out under sub rule (5) of Rule 19.
+Accordingly, the average capital has to be taken at Rs.45,39,537 and not at Rs.41.87.034.
+The assessee 's contention must, therefore, be upheld.
+" At the instance of the Revenue, the Tribunal referred the following question for the opinion of the High Court: "Whether on the facts and in the circumstances of the case, the figure arrived at by computation under rule 19(5) was to be added to the figure arrived at by computation under rule 19(1) for determining the average capital employed in the assessee 's undertaking?" The High Court noticed the feature that there was dearth of judicial decisions on the point at issue, dealt with the relevant provisions at length and came to agree with the conclusion reached by the Appellate Tribunal.
+Admissibility of exemption under section 84 of the Act which has been repealed with effect from 1.4.1968, has never been in dispute.
+What has been debated is the manner of its computation.
+Rule 19 of the Income Tax Rules, 1962 pre scribes the method of computation and on a proper interpre tation of the relevant provisions of this Rule would depend the ultimate conclusion to be reached.
+Sub rule (1), (3) and (5) are relevant.
+They provide: "19.
+(1) For the purposes of section 84, the capital employed in an undertaking or a hotel to which the said section applies shall be taken to be: (a) in the case of assets acquired by purchase and entitled to depreciation 591 (i) if they have been acquired before the computation period, their written down value on the commencing date of the said period; (ii) if they have been acquired on or after the commencing date of the computation period, their average cost during the said period; (b) in the case of assets acquired by purchase and not entitled to depreciation (i) if they have been acquired before the computation period, their actual cost to the assessee; (ii) if they have been acquired on or after the commencing date of the computation period, their average cost during the said period; . . . . . . . . . . . (3) Any borrowed money and debt due by the person carrying on the business shall be deducted and in particular there shall be deducted any debts incurred in respect of the business for tax (including advance tax) due under any provision of the Act: Provided that any such debt for tax (including advance tax) shall, for the purpose of this sub rule, be deemed to have become due (a) in the case of any advance tax due under any provision of the Act or of any tax payable under section 140 A or under section 141, on the date on which, under the provisions of section 211 or section 2 12 or section 2 13 or section 140 A or section 220, as the case may be, the payment first became due; (b) in any other case, on the last day of the period of time within which the tax is payable under section 220.
+(5) For the purpose of ascertaining the average amount of capital employed in a business during any computation 592 period, the profits or losses made in that period shall, except so far as the contrary is shown, be deemed (a) to have accrued at an even rates throughout the said period; and (b) to have resulted, as they accrued, in a corresponding increase or decrease, as the case may be, in the capital employed in the business." 'Average Cost ', 'Computation Period ', 'depreciation ' and 'Written Down Value ' have been defined in sub rule (6).
+The High Court is right in saying that the dispute has to be resolved by referring to sub rules (1), (3), (5) and (6) of Rule 19.
+The High Court found that the value of assets entitled to depreciation under Rule 19(1)(a) worked out to Rs.40, 10,947.
+To this figure was added a sum of Rs. 1,39,764 on account of depreciation as on 1.1.
+1963 as also on account of the average value of additions.
+The other assets were valued under Rule 19(1)(b) at Rs.44,38,126 as on 1.1.1963.
+All put together, the aggregate valuation came to Rs.85.88,837.
+From this aggregate, deduction of a sum of Rs.44,01,803 representing loans, other liabilities including provision for tax as authorised by Rule 19 was made leaving the valuation of the capital at Rs.41,67,034.
+To this fig ure, the sum of Rs.3,52,503 being half of the profit from the New Project was added to compute the value at Rs.45,39,537.
+Following the provision of Section 84 of the Act, entitlement to exemption was determined at Rs.2,72,372 representing 6% of the capital employed in the new industri al undertaking.
+The assessment was made by deleting the addition of Rs.3,52,503 which represented half the profit of the year.
+According to the Revenue, profits earned during the year had already been taken into account in the process of computa tion and there was no warrant for its addition over again to the extent of a moiety.
+In fact, that is the only dispute that fell to be resolved.
+The High Court took note of the fact that profits had necessarily been reflected in the average valuation of the assets but in its view the deeming provision in Rule 19(5) was the special procedure laid down for computation for the purpose of calculation and could not be overlooked for the reasons advanced by the Revenue.
+We find sufficient force in the reasoning of the High Court and accept the conclusion reached by it.
+The appeal is devoid of merit and is dismissed.
+Parties shall bear their own costs throughout.
+A.P.J. Appeal dismissed.

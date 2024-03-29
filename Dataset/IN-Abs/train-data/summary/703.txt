@@ -1,0 +1,16 @@
+The assessee acquired shares in certain companies under "blank transfers " without getting the transfers registered with the companies and it received dividends in respect of these shares.
+It claimed that the dividend income should be grossed up under section 16(2) Income tax Act and that it should be allowed credit under section 18(5) for the tax deducted at source on the dividend in the hands of the companies.
+Held, that, the assessee was not entitled to the benefits of sections 16(2) and 18(5) as its name was not in the register of members of the companies.
+The benefit of section 18(5) could only go to a shareholder; and a shareholder in that section meant the same thing as in the Indian Companies Act, 1913, i. e., a " member having his name on the register.
+The scheme of the Indian Companies Act, 1913, shows that the words " member ", " shareholder " and " holder of a share " have been used interchangeably.
+The words "holder of a share" are really equal to the word "shareholder" and the expression " holder of a share " denotes only a person who, as a shareholder, has his name entered on the register of members.
+In re Wala Wynaad Indian Gold Mining Company, (1882) 21 Ch.
+D. 849, Shree Shakti Mills Ltd. vs Commissioner of Income tax, , jaluram Bhikulal vs Commissioner of Income tax, , Arvind N. Mafatlal vs Incometax Officer, [1957] 32 I.T .
+R. 350, Bikaner Trading Co. vs Commissioner of Income tax, , referred to.
+A company when it pays income tax does not do so on behalf of the shareholders, but the shareholders get the benefit of such payment.
+The rates of income tax applicable to the company are, in most instances, higher than the rates applicable to individual shareholders and by the process of grossing up the recipient of the dividend gets some benefit.
+Cull vs Inland Revenue Commissioners, and Inland Revenue Commissioners vs Blott, , referred to.
+440 In blank transfers the transfer deed signed by the transferor is handed over with the share scrip to the transferee who may complete the transfer by entering his name and applying to the company for registration of his name.
+The company only recognises those persons whose names are on the register of members and they alone are legally entitled to the dividend declared.
+In the case of a blank transfer equities exist between the transferor and the transferee and the transferee has a right to claim the dividend from the transferor who holds it in trust for him, but the company is only liable to the transferor and not to the transferee.
+Though the transferee is clothed with an equitable ownership he is not a full owner, since the legal interest vis a vis the company still outstands in the transferor.

@@ -1,0 +1,315 @@
+Appeals Nos. 413, and 414 of 1958.
+Appeals from the order dated April 27, 1955, of the Punjab High Court in Civil Revisions Nos.
+81 D of 1953 and 96 D of 1953 respectively.
+1959 April 21, 22, 23, 24.
+C. K. Daphtary Solicitor General for India, Ram Behari Lal, D. K. Kapur and Sardar Bahadur, for the appellants.
+The question in the present appeals turn around section 96 of the .
+The purpose of sub section
+(2) of section 96 is to state those grounds based on the policy of insurance on which the insurer may rely for his defence.
+Sub section (3) makes certain conditions of the policy of no effect as against the 3rd party.
+Both Sub sections
+(2) and (3) are concerned only with the conditions of the policy.
+They should not be interpreted so as to oust other defences the insurer may wish to take e.g. that there was no accident or that the plaintiff was negligent or that there was contributory negligence etc.
+When a person is joined as a party he has the right to take all defences permissible in law.
+[Subba Rao, J. Did the insurer have a right to be joined as a party, apart from the statute ? Could he be joined under Order 1, Rule 10, of the Code of Civil Procedure ?] 169 I am not basing my case on Order 1, Rule to of the Code of Civil Procedure.
+Apart from the statute, the insurer would not be liable to the third party, but only to the assured.
+[Das, J. Is it not correct that the statute gives the insurer a right to be joined as a party which he did not have previously ? If so, the right cannot be extended beyond what the statute gives.] It is true that the statute gives a right to the insurer to become a party to the action by the injured person which he did not have previously, but the real question before the court is whether sub section
+(2) limits the right to defend on the grounds stated in that sub section.
+In my submission, subS. (2) exhausts only the defences based on the conditions of the policy which the insurer may wish to take.
+If it was intended that these were to be the only defences open to the insurer the word " only " should have been used instead of the words " any of " before the words " the following grounds.
+" What the legislature meant was that the insurer could defend the action " also " on the grounds stated in sub section
+(2) in addition to other grounds.
+If the court finds the section is clear no words can be added.
+However, I submit the section is ambiguous.
+It can mean either that the insurer can take other defences or that he is limited to the matters stated in sub section
+The Court should interpret the: section to give effect to the interests of justice.
+The insurer is made liable to satisfy the judgmental It would be an extreme hardship if he were not allowed to defend the action on merits.
+Apart from the situations coming within sub section
+(2) the insurer would be condemned unheard.
+The legislature could not have intended such a result.
+Even the cases which hold that the defences of the insurer are limited to those stated in subS. (2) recognise that this causes hardship.
+I.L.R. , I.L.R. and I.L.R.
+In those cases the hardship was sought to be overcome by allowing the insurer to defending the name of the insured.
+I do not say that this latter procedure is correct, but it shows that there is hardship.
+[Sarkar, J. How can that be done ? How can the ,insurer be allowed to defend in the name of the insured? How is the record to be kept ? There is no provision under which it can be done, not even under section 1 5 1 of the Code of Civil Procedure.] Probably not.
+But that question does not arise for deter mination in this appeal.
+The hardship recognised by the Bombay cases can be avoided if the interpretation of sub section (2) suggested by me is accepted.
+22 170 [Das, J. How is that interpretation possible in the face of sub section
+(6) ?] Sub sectioii (6) only prohibits the insurer from avoiding liability in a manner other than that stated in sub section
+The manner of avoiding liability stated in sub section
+(2) is that the insurer should apply, to be made a party.
+Consequently, the insurer can avoid liability, only by being joined as a party.
+The word ' manner ' in the context of sub section
+(6) refers only to the procedure the insurer may follow, not to the grounds the insurer may wish to take.
+Hence the insurer can avoid liability only by being joined as a party, but can take any defences, he chooses including those stated in sub section
+Otherwise the third party and the assured may collude and a judgment may be passed which the insurer would be bound to satisfy without having had 'an opportunity of defending himself.
+Or the case may go by default against the assured or may be compromised.
+The real party affected is the insurer and yet he is given no right to be heard except on the limited grounds stated in sub section
+The assured is only a nominal party and is not likely to be interested in contesting the case, as the decree has to be satisfied by the insurer.
+The legislature could not have intended such a result.
+It is contrary to natural justice that a party likely to be affected by the proceedings should not be heard on the merits.
+T. P. section Chawla (with him, Dipak Datta Choudhry) for the respondent.
+Chapter VIII of the , is based on various English Statutes (See Report of Motor Vehicles Insurance Committee 1936 37 known as the Roughton Committee).
+For a proper appreciation of section 96 it is necessary to consider the historical development of the law relating to compulsory third party insurance in England.
+Before 1930, there, was no system of compulsory insurance in respect of third party risks in England.
+In the event of an accident the injured third party had a right to sue the motorist and recover damages.
+But if the motorist was a man of straw, the injured party was in practice unable to obtain compensation.
+This was the situation the various Road Traffic Acts were designed to avoid.
+Even in those cases in which the motorist had taken out an insurance policy, difficulties arose in the way of the injured third party recovering compensation.
+The injured third party had no direct right of action against the insurer.
+In the event of the insolvency of the assured, the injured third party would rank a,; an ordinary creditor and would not receive complete satisfaction for his decree.
+The Third Parties Rights 171 Against Insurers Act, 1930, created a system of statutory subrogation in such cases.
+(Halsbury, 3rd Edn., Vol. 22, PP.
+339, 372).
+The provisions of this Act have been sub stantially reproduced in section 97 of the .
+As a result the third party can sue the insurer directly in cases.
+Next the Road Traffic Act, 1930, introduced a scheme of compulsory insurance.
+Section 35(1) made third party insur ance Compulsory.
+Section 94(1) of the is worded in the Same Way.
+Similarly section 36 Of the English Act is substantially reproduced in section 9.5 of the .
+Section 38 of the Act of 1930 made certain conditions of the policy ineffective so far as third parties were concerned.
+The object was that claims of injured third parties should not fail because the assured had not complied with or committed a breach of certain conditions in the policy.
+(Shawcross on Motor Insurance, 2nd Edn., pp. 219, 277).
+But the Act of 1930 did not go far enough.
+In 1934 another Road Traffic Act was passed the object of which was to compel Insurers to satisfy judgments obtained against the insured (Shawcross ibid P. 271).
+This Act contemplated three separate actions between the various parties.
+The first action was by the injured third party against the assured.
+By section 10(1) of that Act, which is reproduced in section 96(1), the insurer was obliged to satisfy the decree against the, assured.
+If the insurer failed to do so, the third party had a right of action against the insurer, based on the judgment Obtained against the assured.
+(Shawcross, p. 296 ; Halsburry 3rd Edn., Vol.
+This was the second action.
+It is doubtful if even the defence of collusion would be open to the insurer in the second action.
+(Sliawcross, P. 296).
+Then section 10(2) of the Road Traffic Act of 1934, is substantially reproduced in section 96(2)(a).
+By this provision in certain events the insurers liability ceases.
+To appreciate section 96(2)(b) it is necessary to keep in mind section 38 of the Road Traffic Act of 193o and section 12 of the Road Traffic Act of 1934.
+Both these letter sections made certain conditions of the policy ineffective against third parties.
+Whilst drafting the the legislature reversed the manner of statement.
+In section 96(2)(b) the legislature has stated affirmatively what are the conditions on which the insurer can rely as against a third party.
+This was done to avoid doubt and uncertainly.
+Then section 10(3) of the Road Traffic Act, 1934, gave the insurer a right to obtain a declaration that he was not liable on the policy due to non disclosure or misrepresentation as to 172 a material fact.
+In this action a notice had to be sent to the third party injured who was given a right to join as a party and oppose the action.
+This was the third action.
+The same result is achieved by section 96(2)(C).
+What section 96 does is to roll up into one these three actions which occurred in English Law.
+This saves time and money and enables the three parties involved to have their respective rights and liabilities settled in one action.
+But section 96 does not give any party greater rights than it would have had in English Law.
+At common law the insurer had no right to intervene in the action by the injured party against the insured and oppose the claim on merits, e.g., that there was no accident or negligence or that there was contributory negligence etc.
+The insurer could avoid liability only by showing that he was not liable for some reason connected with the policy.
+This is the right which sub section
+(2) preserves.
+It does not give additional rights to the insurer over what he would have had at common law or in accordance with the English Statutes.
+On the interpretation suggested by the Solicitor General the insurer would get a right he never had before.
+This is contrary to the object of Chapter VIII which is to protect the injured third party and not the insurer.
+The insurer is neither a necessary nor a proper party.
+under Order 1, Rule 10, Code of Civil Procedure, in the action by the injured third party against the assured.
+[Subba Rao, J. You need not deal with Order 1, Rule 10, Code of Civil Procedure, as the Solicitor General has not relied on it.] There is no ambiguity in section 96(2).
+The sub section clearly specifies the defences open to the insurer and it is not permissible to add to those defences.
+This is put beyond doubt by sub section
+It prevents the insurer from avoiding liability in a ` manner ' other than that stated in sub section
+The 'manner ' provided by sub section
+(2) is by joining as a party and defending on the grounds stated There ' fore, ' manner ' refers to both the procedure and the grounds.
+To hold otherwise is to make sub section
+(2) unnecessary.
+If the Legislature intended that the insurer should be able to defend on grounds other than those stated in sub section
+(2) all it needed to say was that the insurer would be entitled to join as a party.
+As sub section
+(2) specifies the defenses the intention was clearly to limit the insurer to those defences.
+[Subba Rao, J. Suppose the injured third party and the insured collude or judgment is allowed to go by default, could not the insurer have the judgment set aside or bring a suit to,have it set aside ?] 173 In.
+my submission even a suit for this purpose is barred as that would contravene sub section
+Such a suit would enable the insurer to avoid liability in a. ' manner ' which sub section
+(6) does not allow.
+There is no hardship caused by giving full effect to the section as it stands.
+The possibilities of collusion are remote, and indeed illusory.
+(Shawcross, P. 296).
+By section 96(3) the insurer is given a right to recover from the insured any sums paid, by him which he was not bound to pay due to breaches of conditions in the policy, but which conditions have been made ineffective as against the third party.
+Sub section (4) of the same section gives the insurer the right to recover from the assured the excess which he is made to pay by virtue of section 95, over his obligations in the policy.
+The judgment is still against the assured who is the party primarily liable.
+It is only made executable against the insurer.
+Apart from this, by section 1(3) of the , the legislature gave insurers six years to insert provisions in their policies and take such other steps to protect themselves against the assured committing them to liability as they thought fit.
+Most insurers insert the control of proceedings clause in the policy (Halsbury, 3rd Edn., VOl.
+22 p. 338).
+Someone had to bear the loss ultimately, and the legislature has tried so far as possible to ensure that the loss falls on the person causing the accident.
+But, if the insured is impecunious the choice is between allowing the loss to fall on the injured party or the insurer.
+The legislature, in its wisdom has provided that in such a situation the loss shall fall on the insurer.
+It is a part of the insurer 's business to suffer such losses and when entering the contract of insurance he contemplates that he might be called upon to pay the loss.
+Now, the Bombay cases referred to by the Solicitor General are right in so far as they hold that the insurer can defend only on the grounds stated in sub section
+Those cases are wrong in proceeding on the assumption that there is hardship caused to the insurer by this view.
+They are based on a misunderstanding of the cases of Windsor vs Chalcraft, and Jacques vs Harrison, , and on appeal, It was not noticed in the Bombay cases that the provisions of Indian Law equivalent to section 24(5) of the judicature Act and Order 27, Rule 15, R.S.C., were not as wide as the English provisions.
+Order 9, Rule 7, Code of Civil Procedure, allows an ex parte decree to be set aside only at the instance of the defendant whilst there is no such limitation in 0. 27, R. 15, R.S.C. There, is 174 no procedure known to law by which the insurer can be allowed to defend in the name of the insured.
+This cannot be done under section 151, C.P.C. as it would contravene section 96(6) and allow the insurer to avoid liability in a 'manner ' other than the one allowed.
+The Bombay cases have not noticed sub section
+(6) at all.
+The procedure stated in those cases is untenable.
+[Sarkar, J. Are we called upon to decide that point in this case ? Apparently there is a revision petition pending in the High Court between the same parties in which that question awaits determination.
+Should we express an opinion on that point ?] The Solicitor General has adopted it as apart of his reasoning He has said that if the insurer can take all the defences in the name of the insured, that is an additional reason why sub section
+(2) should not be interpreted as to limit the defences available to the insurer.
+I wants show that view is wrong.
+(The Court disallowed this branch of the argument).
+In the case reported as Windsor vs Chalcraft [1939] 1 K.B. 279, the dissenting judgment of Slesser, L.J., states the correct position.
+The judgment of Greer, L.J., show , that lie was in considerable doubt as to the correct position in law, but felt himself bound by the earlier judgments reported in jacques vs Harrison, 12 O.B.D. 165.
+Mckinnon, L.J., proceeded on the footing that the assured was only a nominal defendant.
+As already submitted this is not correct.
+Even in English Law the insurer could recover against the assured.
+(Halsbury, 3rd Edn,, Vol. , 379, 385).
+The case of Windsor V. Chalcraft was decided in May 1038.
+The was passed in February, 1939.
+It is legitimate to assume that the persons who drafted the Act were aware of this case.
+I submit that the real purpose of sub section
+(6) was to give effect to the view of Slesser, L.J. [Das, J. That is rather far fetched.] I submit it is not.
+Even in England the, view of Slesser, T. J., seems to have been approved.
+Subsequent English cases show that the principle of Windsor vs Chalcraft, is not to be extended.
+See Murfin vs Ashbridge [1941] 1 All E.R.231.
+It was not necessary to expressly over rule the case of Windsor vs Chalcraft as in 1946 the Motor Insurers Bureau was set tip in England, as a result of which an insurer is bound to satisfy a judgment obtained by a third party against a, motorist even if the motorist was not insured (Halsbury, 3rd Edn., Vol.
+, Shawcross, ibid, Introduction LXXXVII et.
+seq.) This shows how strong 175 the attempt to protect the third party has been.
+Actually the words of section 96(2) and (6) are clear to show that the insurer can take only the defences mentioned in sub section
+(2) But if there be any doubt, a consideration of the historical development of the law and the objects to be attained puts it beyond doubt that the legislature intended this result.
+C. K. Daphtari, in reply.
+It is wrong that at common law the insurer could not be brought in as a party.
+At common law the guarantor or indemnifier could be brought in by means of third party procedure (see I.L.R. 35 All.
+168 and Halsbury, 3rd Edn., Vol.
+and Gray vs Lewis, , 1058).
+Apart from the common law, the insurer could also be joined as a party under 0.
+I, R. 10, Code of Civil Procedure.
+I rely on the case of United Provinces vs Atiqa Begum, A person should be joined as a party if his presence is necessary for an effectual and complete adjudication.
+On this principle the insurer ought to be joined as a party, and thus can take all defences.
+Chaula, in reply : The passage cited by the Solicitor General from Halsbury, 3rd Edn., Vol. , is actually against him.
+The foot note (e) shows that at common law the insurer could not be joined as a party to the action by the insured.
+Third party procedure did not exist at Common Law.
+Even under third party procedure in England it is doubtful whether this could be done (Shawcross, pp. 150 151).
+In any case there is no third party procedure in Punjab.
+The cases 35 All. 168 and (1873) L.R. 8 ch.
+A. 1035 are also against him.
+The insurer is neither a necessary nor a proper party as there can be a complete and effectual adjudication without his presence.
+The decree is to be a against the assured, not against the insurer.
+May 11.
+The Judgment of the Court was delivered by SARKAR J.
+These two appeals arise out of two suits and have been heard together.
+The suits had been filed against owners of motor cars for recovery of damages suffered by the plaintiffs as a result of the negligent driving of the cars.
+The owners of the cars were insured against third party risks and the insurers were subsequently added as defendants to the suits 176 under the provisions of sub section
+(2) of section 96 of the .
+The terms of that subsection will have to be set out later, but it may now be stated that it provided that an insurer added as a party to an action under it was entitled to defend on the grounds enumerated in it.
+On being added as defendants, the insurers filed written statements taking defences other than those mentioned in that sub section.
+The plaintiffs contended that the written statements should be taken off the records as the insurers could defend the action only on the grounds mentioned in the sub section and on no others.
+A question thereupon arose in the suits as to what defences were available to the insurers.
+In one of the suits it was held that the insurer could take only the defences specified in that sub section and in the other suit the view taken was that the insurers were not confined to those defences.
+Appeals were perferred from these decisions to the High Court of Punjab.
+The High Court held that the insurers could defend the actions only on the grounds mentioned in the subsection and on no others.
+Hence these appeals by the insurers.
+The question is whether the defences available to an insurer added as a party under section 96(2) are only those mentioned there.
+A few of the provisions of the have now to be referred to.
+Section 94 of the Act makes insurance against third party risk compulsory.
+Section 95 deals with the requirements of the policies of such insurance and the limits of the liability to be covered thereby.
+Sub section (1) of this section provides ". . a policy of insurance must be a policy which (a). . . . . . . . . (b) insures the person or classes of person specified in the policy to the extent specified in subsection (2) against any liability which may be incurred by him or them in respect of the death or bodily injury to any person caused by or arising out of the use of the vehicle in a public place." 177 Sub section (2) of section 95 specifies the limits of the liability for which insurance has to be effected, and it is enough to say that it provides that in respect of private cars, which the vehicles 'with which these appeals are concerned were, the insurance has to be for the entire amount of the liability incurred.
+Then comes section 96 round which the arguments advanced in this case have turned and some of its provisions have to be set out.
+" Section 96.
+(1) If, after a certificate of insurance has been issued under sub section (4) of section 95 in favour of the person by whom a policy has been effected, judgment in respect of any such liability as is required to be covered by a policy under clause (b) of sub section (1) of section 95 (being a liability covered by the terms of the policy) is obtained against any person insured by the policy, then, notwithstanding that the insurer may be entitled to avoid or cancel or may have avoided or cancelled the policy, the insurer shall, subject to the provisions of this section, pay to the person entitled to the benefit of the decree any sum not exceeding the sum assured payable thereunder as if he were the judgment debtor, in respect of the liability, together with any amount payable in respect of costs and any sum payable in respect of interest on that sum by virtue of any enactment relating to interest on judgments.
+(2) No sum shall be payable by an insurer under sub section (1) in respect of any judgment unless before or after the commencement of the proceedings in which the judgment is given the insurer had notice through the Court of the bringing of the proceedings, or in respect of any judgment so long as execution is stayed thereon pending an appeal; and an insurer to whom notice of the bringing of any such proceeding is so given shall be entitled to be made a party thereto and to defend the action on any of the following grounds, namely: (a) that the policy was cancelled by mutual consent or by virtue of any provision contained therein before the accident giving rise to the liability, and 23 178 that either the certificate of insurance was surrendered to the insurer or that the person to whom the certificate was issued has made an affidavit stating that the certificate has been lost or destroyed, or that either before or not later than fourteen days after the happening of the accident the insurer has commenced proceedings for cancellation of the certificate after compliance with the provisions of sec tion 105; or (b) that there has been a breach of a specified condition of the policy, being one of the following conditions, namely: (i) a condition excluding the use of the vehicle (a) for hire or reward, where the vehicle is on the date of the contract of insurance a vehicle not covered by a permit to ply for hire on reward, or (b) for organised racing and speed testing, or (c) for a purpose not allowed by the permit under which the vehicle is used, where the vehicle is a public service vehicle or a goods vehicle, or (d) without side car being attached, where the vehicle in a motor cycle; or (ii) a condition excluding driving by a named person or persons or by any person who is not duly licensed, or by any person who has been disqualified for holding or obtaining a driving licence during the period of disqualification; or (iii) a condition excluding liability for injury caused or contributed to by conditions of war, civil war, riot or civil commotion; or, (e) that the policy is void on the ground that it was obtained by the non disclosure of a material fact or by a representation of fact which was false in some material particular.
+(2A). . . . . . . (3) Where a certificate of insurance has been issued under sub section (4) of section 95 to the person by whom a policy has been effected, so much of the policy as purports to restrict the insurance of the 179 persons insured thereby by reference to any conditions other than those in clause (b) of sub section (2) shall, as respects such liabilities as are required to be covered by a policy under clause (b) of sub section (1) of section 95, be of no effect: Provided that any sum paid by the insurer in or towards the discharge of any liability or any person which is covered by the policy by virtue only of this sub section shall be recoverable by the insurer from that person.
+(4) If the amount which an insurer becomes liable under this section to pay in respect of a liability incurred by a person insured by a policy exceeds the amount for which the insurer would apart from the provisions of this section be liable under the policy in respect of that liability, the insurer shall be entitled to recover the excess from that person.
+(5). . . . . . . . . . (6) No insurer to whom the notice referred to in sub section (2) has been given shall be entitled to avoid his liability to any person entitled to the benefit of any such judgment as is referred to in subsection (1) otherwise than in the manner provided for in sub section (2).
+" It may be stated that the policies that were effected in these cases were in terms of the Act and the certificate of insurance mentioned in section 96 had been duly issued.
+It will have been noticed that sub section
+(1) of section 96 makes an insurer liable on the judgment obtained by the injured person against the assured.
+Sub section (2) provides that no sum shall be payable by the insurer under sub section
+(1) unless he has been given notice of the proceedings resulting in that judgment, and that an insurer who has been given such a notice shall be entitled to be made a party to the action and to defend it on the grounds enumerated.
+The contention of the appellants is that when an insurer becomes a party to an action under sub section
+(2), he is entitled to defend it on all grounds available at law including the grounds on which the assured himself could have relied for his 180 defence and that the only restriction on the insurer 's right of defence is that he cannot rely on the conditions of the policy which sub section
+(3) makes as of no effect.
+This is the contention which we have to examine in these appeals.
+To start with it is necessary to remember that apart from the statute an insurer has no right to be made a party to the action by the injured person against the insured causing the injury.
+Sub section (2) of section 96 however gives him the right to be made a party to the suit and to defend it.
+The right therefore is created by statute and its content necessarily depends on the provisions of the statute.
+The question then really is, what are the defences that sub section (2) makes available to an insurer ? That clearly is a question of interpretation of the sub section.
+Now the language of sub section
+(2) seems to us to be perfectly plain and to admit of no doubt or confusion.
+It is that an insurer to whom the requisite notice of the action has been given " shall be entitled to be made a party thereto and to defend the action on any of the following grounds, namely," after which comes an enumeration of the grounds.
+It would follow that an insurer is entitled to defend on any of the grounds enumerated and no others.
+If it were not so, then of course no grounds need have been enumerated.
+When the grounds of defence have been specified, they cannot be added to.
+To do that would be adding words to the statute.
+Sub section(6) also indicates clearly how sub section
+(2)should be read.
+It says that no insurer to whom the notice of the action has been given shall be entitled to avoid his liability under sub section
+(1) " otherwise than in the manner provided for in sub section.
+Now the only manner of avoiding liability provided for in subs.
+(2) is by successfully raising any of the defences therein mentioned.
+It comes then to this that the insurer cannot avoid his liability except by establishing ,such defences.
+Therefore sub section
+(6) clearly contemplates that he cannot take any defence not mentioned in subS. (2).
+If he could, then he would have been in a position to avoid his liability in a manner other than that 181 provided for in sub section
+That is prohibited by sub section
+We therefore think that sub section
+(2) clearly provides that an insurer made a defendant to the action is not entitled to take any defence which is not specified in it.
+Three reported decisions were cited at the bar and all of them proceeded on the basis that an insurer had no right to defend the action except on the grounds mentioned in sub section
+These are Sarup Singh vs Nilkant Bhaskar (1), Royal Insurance Co. Ltd. vs Abdul Mahomed (2) and The Proprietor, Andhra Trading Co. vs K. Muthuswamy (3).
+It does not appear however to have been seriously contended in any of these cases that the insurer could defend the action on a ground other than one of those mentioned in sub section
+The learned counsel for the respondents, the plaintiffs in the action, referred us to the analogous English statute, The Road Traffic Act, 1934, in support of the view that the insurer is restricted in his defence to the grounds set out in sub section
+But we do not think it necessary to refer to the English statute for guidance in the interpretation of the section that we have to construe.
+We proceed now to consider the arguments advanced by the learned Solicitor General who appeared for the appellants.
+He contended that there was nothing in sub section
+(2) to restrict the defence of an insurer to the grounds therein enumerated.
+To support his contention, he first referred to sub section
+(3) of section 96 and said that it indicated that the defences that were being dealt with in sub section
+(2) were only those based on the conditions of the policy.
+His point was that sub section
+(2) permitted defences on some of those conditions and sub section
+(3) made the rest of the conditions of no effect, thereby preventing a defence being based on any of them.
+He said that these two sub sections read together show that sub section
+(2) was not intended to deal with any defence other than those arising out of the conditions of the policy, and as to other defences therefore sub section
+(2) contained no prohibition.
+He further (1) I.L.R. (2) I.L.R. (3) A.I.R. 1956 Mad.
+182 said that as under sub section
+(2) an insurer was entitled to be made a defendant to the action it followed that he had the right to take all legal defences excepting those expressly prohibited.
+We think that this contention is without foundation.
+Sub section (2) in fact deals with defences other than those based on the conditions of a policy.
+Thus cl.
+(a) of that sub section permits an insurer to defend an action on the ground that the policy has been duly cancelled provided the conditions set out in that clause have been satisfied.
+Clause (c) gives him the right to defend the action on the ground that the policy is void as having been obtained by non disclosure of a material fact or a material false representation of fact.
+Therefore it cannot be said that in enacting sub s.(2) the legislature was contemplating only those defences which were based on the conditions of the policy.
+It also seems to us that even if sub s.(2) and sub s.(3) were confined only to defences based on the conditions of the policy that would not have led to the conclusion that the legislature thought that other defences not based on such conditions, would be open to an insurer.
+If that was what the legislature intended, then there was nothing to prevent it from expressing its intention.
+What the legislature has done is to enumerate in sub section
+(2) the defences available to an insurer and to provide by sub section
+(6) that he cannot avoid his liability excepting by means of such defences.
+In order that sub section
+(2) may be interpreted in the way the learned Solicitor General suggests we have to add words to it.
+The learned Solicitor General concedes this and says that the only word that has to be added is the word " also" after the word "grounds".
+But even this the rules of interpretation do not permit us to do unless the section as it stands is meaningless or of doubtful meaning, neither of which we think it is.
+The addition suggested will, in our view, make the language used unhappy and further effect a complete change in the meaning of the words used in the sub section.
+As to sub section
+(6) the learned Solicitor General contended that the proper reading of it was that an 183 insurer could not avoid his liability except by way of a defence upon being made a party to the action under sub section
+He contended that the word it manner " in sub section
+(6) did not refer to the defences specified in sub.s.
+(2) but only meant, by way of defending the suit the right to do which is given by sub section
+We think that this is a very forced construction of sub section
+(6) and we are unable to adopt it.
+The only manner of avoiding liability provided for in sub section
+(2) is through the defences therein mentioned.
+Therefore when sub section
+(6) talks of avoiding liability in the manner provided in sub section
+(2), it necessarily refers to these defences.
+If the contention of the learned Solicitor General was right, sub section
+(6) would have provided that the insurer would not be entitled to avoid his liability except by defending the action on being made a party thereto.
+There is another ground on which the learned Solicitor General supported the contention that all defences are open to an insurer excepting those taken away by sub section
+He said that before the Act came into force, an injured person had no right of recourse to the insurer and that it was section 96(1) that made the judgment obtained by the injured person against the assured binding on the insurer and gave him a right against the insurer.
+He then said that being so, it is only fair that a person sought to be made bound by a judgment should be entitled to resist his liability under it by all defences which he can in law advance against the passing of it.
+Again, we find the contention wholly unacceptable.
+The Statute has no doubt created a liability in the insurer to the injured person but the statute has also expressly confined the right to avoid that liability to certain grounds specified in it.
+It is not for us to add to those grounds and therefore to the statute for reasons of hardship.
+We are furthermore not convinced that the statute causes any hardship.
+First, the insurer has the right, provided he has reserved it by the policy, to defend the action in the name of the assured and if he does so, all defences open to the assured can then be urged by him and there is no 184 other defence that he claims to be entitled to urge.
+He can thus avoid all hardship if any, by providing for a right to defend the action in the name of the assured and this he has full liberty to do.
+Secondly, if he has been made to pay something which on the contract of the policy he was not, bound to pay, he can under the proviso to sub section
+(3) and under sub section
+(4) recover it from the assured.
+It was said that the assured might be a man of straw and the insurer might not be able to recover anything from him.
+But the answer to that is that it is the insurer 's bad luck.
+In such circumstances the injured person also would not have been able to recover the damages suffered by him from the assured, the person causing the injuries.
+The loss had to fall on some one and the statute has thought fit that it shall be borne by the insurer.
+That also seems to us to be equitable for the loss falls on the insurer in the course of his carrying on his business, a business out of which he makes profit, and he could so arrange his business that in the net result he would never suffer a loss.
+On the other hand, if the loss fell on the injured person, it would be due to no fault of his; it would have been a loss suffered by him arising out of an incident in the happening of which he had no hand at all.
+We therefore feel that the plain words of sub s.(2) should prevail and that no ground exists to lead us to adopt the extraordinary course of adding anything to it.
+We think that the High Court was right in the view that it took, In the result these appeals are dismissed with costs.
+Appeals dismissed.

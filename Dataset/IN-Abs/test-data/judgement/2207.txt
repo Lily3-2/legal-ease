@@ -1,0 +1,74 @@
+Appeal No. 696 of 1966.
+Appeal by special leave from the judgment and order dated September 13, 1963 of the Madras High Court in Writ Appeal No. IO of 1962.
+P. Ram Reddy and A. V. Rangam, for the appellant.
+R. Ganapathy Iyer, for the respondent.
+The Judgment of the Court was delivered by Ramaswami, J.
+The question of law involved in this appeal is whether the purchaser of business carried on by a dealer as defined in the Madras General Sales Tax Act, 1939 (Madras Act No. IX of 1939), hereinafter called the 'Act ', can be made liable for arrears of sales tax due from the dealer in respect of transactions of sale which took place before the, transfer of the business under Rule 21 A of the Rules framed in exercise of the powers conferred on the State Government by section 19 of the Act.
+The respondent purchased, by a registered instrument dated October 5, 1956, the business carried on by one Purushottam Raju under the name All India Trading Company.
+Purushottam Raju was the sole proprietor of the business and had been assessed to sales tax in respect of his turnover for the years 1948 49 and 1949 50.
+The assessee paid some amounts towards sales tax thus determined, but there remained some arrears of sales tax i.e., Rs. 3836 4 0 for 1948 49 and Rs. 1218 1 9 for 1949 50.
+The Sales tax authorities attempted to recover the arrears of tax from the respondent as the purchaser of the business.
+The respondent 6 63 denied liability to pay sales tax but his contention was over ruled by the Deputy Commercial Tax Officer.
+The respondent appealed to the Commercial Tax Officer as well as to the Board of Revenue, but the appeals were dismissed.
+The respondent thereafter moved the Madras High Court under article 226 of the Constitution for the issue of a writ in the nature of certiorari to quash the orders of the Commercial Tax Officer and the Board of Revenue.
+Ganapatia Pillai, J. who heard the petition dismissed it.
+The respondent took the matter in appeal under the Letters Patent.
+The Division Bench consisting of section Ramachandra Iyer, C.J. and Ramakrishnan, J. reversed the judgment of the Single Judge, holding that Rule 21 A of the Sales Tax Rules was illegal and ultra vires and the respondent was not liable to pay the sales tax due from his predecessor in title, Purushottam Raju.
+This appeal is brought, by special leave, from the judgment of the Division Bench of the Madras High Court dated September 13, 1963 in Writ Appeal No. 10 of 1962.
+Rule 21 A was framed by the State Government under the rule making power granted to it under section 19(1) and (2) of the Act.
+Rule 21 A reads as follows : "When the ownership of the business of a dealer liable to pay the tax under the Act is entirely transferred, any tax payable in respect of such business and remaining unpaid at the time of the transfer shall be recoverable from the transferor or the transferee as if they were the dealers liable to pay such tax, provided that the recovery from the transferee of the arrears of taxes due prior to the date of the transfer shall be only to the extent of the value of the business he obtained by transfer.
+The trans feree shall also be liable to pay tax under the Act on the sales of goods effected by him with effect from the date of such transfer and shall within thirty days of the transfer apply for registration or licence, as the case may be, unless he already holds a certificate of registration or licence, as the case may be.
+" Section 19 ( 1 ) and 1 9 (2) (c) are to the following effect "19.
+(1) The State Government may make rules to carry out the purposes of this Act.
+(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for (c) the assessment to tax under this Act of businesses which are discontinued or the ownership of which has changed;" 664 The first question to be considered in this appeal is whether Rule 21 A is intra vires of the power of the State Government under sections 19(1) and (2) of the Act.
+Section 3(1) of the Act is the charging section.
+It imposes a liability to pay sales tax on every dealer for each year, and the tax is to be calculated on his total turnover for that year.
+Section 2(b) of the Act defines a "dealer" as "a person who carries on the business of buying, selling .
+goods".
+The word "turnover" is defined in section 2(i) of the Act to mean "the aggregate amount for which goods are either bought or sold by a dealer, whether for cash or for deferred payment or other valuable consideration. ".
+It is manifest that a person who purchases a business as a 'dealer ' can be assessed to sales tax only in respect of his turnover and under the scheme of the charging provision of the Act the purchaser of the business has nothing to do with the sales effected by the seller of the business.
+The turnover in respect of such sales remains therefore the turnover of the transferor and not of the transferee.
+By the amending Act of 1959 (Act 1 of 1959) an express provision was inserted by which the transferee of the business was made liable for the arrears of sales tax due from the transferor.
+But there is no such provision in the Act for the period with which we are concerned in the present case.
+The question is whether the State Government has authority under its rule making power under section 19 of the Act to create a legal fiction by which the transferee of the business is constituted as the dealer liable to pay the tax in respect of the turnover of the transferor.
+On behalf of the appellants Mr. Ram Reddy suggested that the State Government has power under section 19(1) and 19(2) (c) of the Act to frame the impugned rule.
+We are unable to accept this argument as correct.
+Section 19(1) of the Act empowers the State Government to make rules to carry out the purposes of the Act, but the section cannot be utilised to enlarge the scope of section 10 regarding recovery and payment of tax from some other person other than a "dealer" under the Act.
+We also consider that the State Government has no authority under section 19(2)(c) of the Act to enact the rule.
+Section 19(2)(c) deals with the assessment to tax of businesses which are discontinued or the ownership of which has changed.
+It is true that the word "assessment" in the scheme of sales tax and income tax legislation is a term of varying import.
+The word is used sometimes to mean the computation of income, sometimes the determination of the amount of tax payable, and sometimes the whole procedure laid down in the Income tax Act for imposing liability on the tax payer.
+As the Judicial Committee, however, said in Badridas Daga vs C.I.T (1), the words 'assess ' and 'assessment ' refer primarily to the computation of the amount.
+of income.
+In Chatturam vs C.I.T. Bihar(1), the Federal Court pointed out, relying upon the decision of the House of Lords in (1) , 21 1.
+(2) , 665 Whitney vs Commissioners of Inland Revenue("), that the liability to tax does not depend upon assessment.
+The liability is definitely created by sections 3 and 4 of the Income tax Act which are the charging sections and the assessment order under section 23 only quantifies the liability which has already been definitely and finally created by the charging sections and the provision in regard to assessment relates only to the machinery of taxation.
+In our opinion, the principle of these decisions applies to the interpretation of the Act in the present case.
+We consider that, in the context and background of other sections of the Act, the word 'assessment ' used in section 19(2)(c) does not include the power of recovering tax assessed from a person other than the assessee.
+It follows therefore that Rule 21 A is beyond the rule making power of the State Government either under section 19(1) or section 19(2)(c) of the Act.
+It was then submitted by Mr. Ram Reddy that Rule 21 A may be supported by the language of section 10(1) of the Act which states "10.
+Payment and recovery of tax. (1) The tax assessed under this Act shall be paid in such manner and in such instalments, if any, and within such time, as may be specified in the notice of assessment, not being less than fifteen days from the date of service of the notice.
+If default is made in paying according to the notice of assessment, the whole of the amount outstanding on the date of default shall become immediately due and shall be a charge on the properties of the person or persons liable to pay the tax under this Act.
+" It was contended that under this section the whole of the amount outstanding on the date of default is charged on the property of the person liable to pay the tax.
+In the present case, the business which was transferred to the respondent was hence charged with the payment of sales tax and it was open to sales tax authorities to proceed against the assets of the business for realising the amount of sales tax due.
+In our opinion, there is no justification for this argument.
+Section 10 of the Act as it stood before the Madras General Sales tax (3rd amendment) Act, 1956 (Act No. XV of 1956) read as follows "The tax assessed under this Act shall be paid in such manner and in such instalments, if any, and within such time, as may be specified in the notice of assessment, not being less than fifteen days from the date of service of the notice.
+In default of such payment, the whole of the amount then remaining due may be recovered as if it were an arrear of land revenue.
+" This section was amended by section 8 of the Madras General Sales tax (3rd amendment) Act, 1956 which reads as follows (1) 666 "Substitution of new section for section 10 in Madras Act IX of 1939.
+For section 10 of the principal Act, the following section shall be substituted, namely "10.
+Payment and recovery of tax. (1) The tax assessed under this Act shall be paid in such manner and in such instalments, if any, and within such time, as may be specified in the notice of assessment, not being less than fifteen days from the date of service of the notice.
+If default is made in paying according to the notice of assessment, the whole of the amount outstanding on the date of default shall become immediately due and shall be a charge on the properties of the person or persons liable to pay the tax under this Act. . .
+The 3rd Amendment Act, 1956 received the assent of the President on October 1, 1956 but it was published in the Madras Gazette on October 8. 1956.
+Section 5 of the Madras General Clauses Act (Madras Act No. 1 of 1891) provides as follows "5.
+(1) Where any Act to which this Chapter applies is not expressed to come into operation, on a particular day, then, it shall come into operation on the day on which the assent thereto of the Governor, the Gover nor General or the President, as the case may require, is first published in the Official Gazette.
+" In the present case, the Act is not expressed to come into operation on any particular date, but as it was published in the Madras Gazette on October 8, 1956, the Act came into operation on that date and not before.
+In the present case, the registered instrument by which the business was transferred to the respondent is dated October 5, 1956 and the amending Act has therefore no application.
+We accordingly reject the argument of the appellants on this aspect of the case and hold that Rule 21 A is ultra vires of the rule making power of the State Government under the, Act.
+It was next argued on behalf of the appellants that upon a true construction of the registered instrument dated October 5, 1956 the respondent undertook to pay not only Sch.
+I liabilities but also other liabilities like sales tax imposed in regard to the business.
+It was, however, disputed by Mr. Ganapathy Iyer on behalf of the respondent that there was any undertaking on the part of the respondent to discharge the liabilities in regard to arrears of sales tax.
+But even on the assumption that the respondent undertook to pay the arrears of sales tax due by the transferor, it does not follow 66 7 that there is a liability created inter se between the State Government on the one hand and the transferee on the other hand.
+To put it differently, it is not open to the State Government to rely on the instrument inter vivos between the transferor and the transferee and to contend that there is any contractual obligation between the transferee and the State Government who is not a party to the instrument.
+We accordingly reject the argument of the appellants on this aspect of the case also.
+For these reasons we hold that the judgment of the Division Bench of the High Court dated September 13, 1963 is correct and this appeal must be dismissed with costs.
+R.K.P.S. Appeal dismissed.

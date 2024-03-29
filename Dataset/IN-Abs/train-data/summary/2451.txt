@@ -1,0 +1,64 @@
+In a dispute between the appellant and its workmen relating to the computation of bonus under the , the Company contended that the available surplus came to Rs. 49.96 lakhs sixty pet cent of which, namely, Rs. 29.98 lakhs was the allocable surplus.
+The employees disputed the computation claiming that the Company had wrongly reduced the gross profits and the available surplus and contended, inter alia, that certain amounts deducted on account of provisions for gratuity and for doubtful debts should be added back; they challenged a deduction of interest on reserves on the ground that the capital reserve was artificially arrived at by a mere revaluation of the company 's fixed assets as on April 1, 1956; and also disputed the figures of depreciation, development rebate and direct taxes deducted by the company while working out the available surplus.
+The Unions disputed the amount of Rs. 28.82 lakhs worked out by the Company 's auditors as depreciation in accordance with the Income tax Act, 1961 on the ground (1) that there was no evidence that the amount of depreciation came to Rs. 28.82 lakhs; and (2) that since the profit and loss account mentioned Rs. 23.48 lakhs as depreciation, the Company could only claim that amount.
+In its award the Tribunal allowed Rs. 23.48 lakhs instead of Its.
+28.82 lakhs claimed by the company as depreciation.
+Similarly it allowed only Rs. 7 lakhs instead of Rs. 8.8 lakhs claimed by the company as development rebate.
+The Tribunal held that the amount of Rs. 18.38 lakhs claimed under the head of gratuity was not a reserve but a provision and therefore, was not liable to be added back, but it held that the company could deduct only about Rs. 10 lakhs as also Rs. 1.31 lakhs and Rs. 87,000/ actually paid during the year to employees who retired during that year and added back the balance of Rs. 6 lakhs to the gross profits.
+Except for these amounts, the Tribunal accepted the rest of the company 's computation.
+Both the Unions and the Company obtained special leave and fled appeals challenging the correctness of the Tribunal 's award.
+In their appeal it was also contended by the Unions that the Tribunal had wrongly allowed a deduction of Rs. 145 lakhs as direct taxes under sec.
+6(c); all that the employer could deduct was direct taxes which he "is liable to pay" for the accounting year in respect of "his income, profits and gains during that year", i.e., the employer is entitled to deduct only his actual tax liability.
+Such liability.
+therefore, has to be worked out in accordance with the provisions of the Income tax Act and other relevant Acts by first arriving at the actual taxable income, gains and profits under those Acts and then compute the taxes at rates provided by them for that particular accounting year.
+751 HELD:The appellant.company contentions on the questions of development rebate and the provisions for gratuity must be upheld; the amount of depreciation must be ascertained afresh by the Tribunal after giving the parties opportunity to lead such evidence as they desired.
+The ' workmen 's appeal must be dismissed.
+(1) The depreciation deducted in the expenditure column in the Profit and Loss Account was the depreciation worked out under section 205(2) of the Companies Act, but under section 6 of the Bonus Act, the Company is entitled to deduct from its gross profits depreciation admissible under Section 32(1) of the.
+Income tax Act, i.e., such percentage on the ' written down value as may, in the case of each of the classes of assets, be prescribed.
+It was for this reason that Rs. 23.48 lakhs were shown as depreciation in the Profit and Loss Account by the Company while in the computation for bonus the company claimed Rs. 28.82 lakhs as.
+depreciation.
+[755 H 756 B] Since the Company claimed the deduction of depreciation, the burden of proof that the amount claimed was in accordance with the Income tax Act was on the Company and that burden the company must discharge once its figures were challenged.
+It was not sufficient for it to produce its auditors ' certificates.
+The question as to the correct amount of depreciation must therefore go back to the Tribunal for a further decision.
+The Tribunal must give an opportunity to the Company to prove its claim for depreciation by reasonable proof and to the Unions to test such, evidence by cross examination or otherwise.
+[757 D] Khandesh Spg.
+& Wvg.
+Mills Co. Ltd. vs The Rashtnya Girni Kamgar Sangh, ; , 847, Petlad Turkey Red Dye Works Ltd. vs Dyes & Chemical Workers ' Union ; , 909, referred to.
+(2) Under section 6(b) of the Bonus Act the Company is entitled to deduct out of the gross profits arrived at under section 4 the whole of the development rebate admissible under the Income tax Act, i.e., the amount, 75 per cent of which comes to Rs. 7 lakhs in the present case.
+The Tribunal was in error in mixing up the development rebate reserve to which the Company had to appropriate Rs. 7 lakhs in the Profit and Loss Account and the development rebate of Rs. 8.87 lakhs allowable to it under section 6.
+of the Act.
+There was therefore no justification for the Tribunal to allow ' Rs. 7 lakhs only instead of Rs. 8.87 lakhs as development rebate.
+[759D F] (3) An estimated liability under gratuity schemes as in the present case, even if it amounts to a contingent liability and is not a debt under the Wealth Tax Act, if properly ascertainable and its present value is fairly discounted, is deductible from the gross receipts while preparing the Profit and Loss Account.
+This is in accordance with accepted principles of commercial practice and is also the position under the Income tax Act.
+There is no rule or direction in the Bonus Act which prohibits such a practice.
+[766 C; 767 D] The Tribunal in allowing Rs. 10 lakhs out of the estimated liability of Rs. 16 lakhs impliedly accepted the same principle but allowed only Rs. 10 lakhs because it thought the estimate to be excessive.
+This was not done on the ground that the estimate of Rs. 16 lakhs was not warranted on any valuation.
+In the absence of any challenge as to the correctness of the valuation and in the absence of any challenge that such iiability cannot be estimated on any fair standard.
+the Tribunal ought to have allowed the whole of Rs. 16 lakhs to be deducted while arriving at the net profits in the Profit and Loss Account.
+[767 E] 752 Calcutta Company Ltd. vs
+C.I.T.; , ; Commissioner Wealth Tax vs Standard Vacuum Oil Co. Ltd., ; Kesoram Industries and Cotton Mills Ltd.
+C.W.T.; , ; Standard Mills Co. Ltd. vs Commissioner of Income Tax; , ; Southern Railway of Peru Ltd. vs Owen, ; and San Insurance Office vs Clark, ; ; referred to.
+(4) There was no justification for the contention that revaluation of company 's assets in 1956 was fictitious and that the difference of Rs. 57 lakhs was a mere hook adjustment and did not add to the wealth of the company so that no deduction by way of interest was permissible on such an artificial amount.
+[767 H] In the present case the revaluation was made as early as 1956 and did not appear to have been objected to at any time either by the Company 's auditors or by any one else concerned with the Company 's management.
+It cannot, therefore, be legitimately said that it was done for any oblique purpose, much less with a view to defeat the labour 's claim to bonus.
+It is true that such revaluation does not bring in any tangible additional amount into the company 's coffers which it can use for its business.
+But under sec.
+211 of the Companies Act, every balance sheet of a company must give a true and fair view of the state of affairs of the company as at the end of the financial year.
+VI to the Companies Act also provides that where sums have been written off on a reduction of capital or a re valuation of assets, the balance sheet, subsequent to such reduction or revaluation must show the reduced or the increased figures as the case may be.
+Apart from the provisions of the Companies Act, it is a recognised principle of accountancy to transfer the increased value of assets on revaluation to a capital reserve account.
+Such an increased figure is an unrealised accretion in the value of a fixed asset.
+The fact that such an increased figure does not actually bring in any additional amount to the company does not make the capital reserve any the less a reserve.
+[768 C G] The Tribunal was therefore right in accepting the figure of Rs. 57 lakhs and deducting interest thereon from the gross profits.
+(5) Bonus being payable within eight months after the close of the accounting year in cases where there is no dispute pending before an authority under section 22 of the Act as provided by section 19, it is hardly possible, except in rare cases, that assessment under the Income tax Act and other such Acts would be completed by the time bonus has to be paid.
+Therefore, the Tribunal would not have before it the taxable income assessed by the Income tax and other such officers.
+If the Union 's contention were to he right, there would be two or more parallel authorities working under the Bonus Act and the Income tax Act and other such Acts who would have to assess taxable income and the tax payable them, before all of whom the employer would have to prove his taxable income.
+In each bonus dispute, the Tribunal, not equipped with the detailed knowledge of all such Acts, would have to undertake an enquiry into various deductions, rebates, reliefs, etc.
+claimable by the employer under those Acts.
+The fact that payment of bonus cannot broke delay without causing hardship to labour would seem to militate against the possibility of such prolonged enquiries.
+[774 E 775 A] An examination of the provisions of the Bonus Act shows that the 'Tribunal must estimate the amount of direct taxes on the balance of gross profits as worked out under sections 4 and 6, but without deducting the bonus, then work out the quantum of taxes thereon at rates applicable ,during that year to the income, gains and profits of the employer and 753 after deducting the amount of taxes so worked out arrive at the available surplus.
+Section 6(c) being subject to section 7 the computation has to be done without taking into account the items specified in section 7(a) and in the manner prescribed by the remaining clauses of that section.
+This interpretation is commendable because; (1) it is consistent with the words "is liable to pay" in section 6(c), (2) it is in harmony with the provisions of sections 4 and 6 and Sch.
+H, and (3) it is consistent with the intention of Parliament apparent from the scheme of computation of available surplus in the Act.
+Furthermore, if Parliament intended to make a departure from the rule laid down by courts and tribunals that the bonus amount should be calculated after provision for tax was made and not before, it would have made an express provision to that effect either in the Act or in the Schedules.
+[776 B D; F G] Associated Cement Companies Ltd. vs The Workmen, at 974; Crompton Parkinson (Works) Private Ltd. vs Its Workmen [1959] Supp.
+2 S.C.R. 936; and Workmen o! India Explosives Ltd. India Explosives Ltd., [1966] 2 L.L.I. 313, referred to.

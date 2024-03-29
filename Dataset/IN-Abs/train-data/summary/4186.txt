@@ -1,0 +1,36 @@
+Section 115 of the Code of Civil Procedure confers on the High Court of a State power to remove any jurisdictional error committed by a subordinate court in cases where the error cannot be corrected by resort to its appellate jurisdiction.
+From its inception there was increasing resort to the revisional jurisdiction of the High Court under section 115.
+To alleviate the burden of arrears and reduce the volume of litigation which had reached an insupportable point, section 115 was amended by successive state amendments, each amendment attempting to close the gap left by its predecessor.
+The amendments conferred revisional jurisdiction both on the High Court and the District Court each enjoying mutually exclusive revisional powers.
+The consistent object behind the successive amendments was to divide the work load of revision petitions between the High Court and the District Court and decentralise the jurisdiction.
+A proviso was added to section 115 by the U.P. Civil Laws Amendment Act, 1973 declaring that "in respect of cases. .arising out of original suits of any valuation decided by the District Court the High Court alone shall be competent to make an order under this section.
+" The Code of Civil Procedure (Amendment) Act, 1976 superseded the scheme of bifurcation of revisional jurisdiction with effect from 1st February 1977.
+With certain modifications the position reverted to what it was under the original section 115.
+An exception was made where a revision petition under section 115 had been admitted after preliminary hearing before 1st February 1977; it would continue to be governed by section 115 as it stood before that date.
+But the Code of Civil Procedure (U.P. Amendment) Act 1978 substantially restored the status quo ante.
+Section 25 of the Provincial Small Cause Courts Act was amended from time to time in its application to the State of U.P.
+The first amendment substituted the District Judge for the High Court.
+A further amendment made in 1972 added a proviso which declared that in relation to any case decided by a District Judge or Additional District Judge exercising jurisdiction of a Judge of Small Causes Court the power of revision under section 25 would vest in the High Court.
+33 The two questions that fell for consideration were : (i) whether the High Court possesses the revisional jurisdiction under section 115 of the Code of Civil Procedure in respect of an order of the District Court under s.115 disposing of a revision petition and (ii) whether the High Court possesses revisional jurisdiction under section 115 against an order of District Court under section 25 Provincial Small Cause Courts Act disposing of a revision petition, ^ HELD : The High Court is not vested with revisional jurisdiction under section 115 Code of Civil Procedure over the revisional order made by the District Court under that section.
+[40 H] (a) To recognise a revisional power in the High Court over the revisional order passed by the District Court would plainly defeat the object of the legislative scheme.
+The intent behind the bifurcation of jurisdiction to reduce the number of revision petitions filed in the High Court would be frustrated.
+The scheme would lose its meaning.
+If a revision petition is permitted to the High Court against the revisional order of the District Court arising out of a suit of a value less than Rs. 20,000 a fundamental contradiction would be allowed to invade and destroy the division of revisional power between the High Court and the District Court, for the High Court would then enjoy jurisdictional power in respect of an order arising out of a suit of a valuation of below Rs. 20,000/ [39 G H] (b) What the proviso introduced in section 115 by the Civil Laws Amendment Act, 1973, stated was that no matter what the valuation of the original suit, if a case arising out of such suit was decided by the District Court, the case would be amenable to the revisional power of the High Court.
+What is covered by the substantive provision are cases arising out of original suits of a value of Rs. 20,000/ or more.
+The other category covered by the proviso would include those instances where an original suit, although of a value making it triable by a court subordinate, is transferred to the District Court for trial.
+Orders passed by the District Court in such a suit could constitute a case decided by it and amenable to the revisional power of the High Court.
+The test incorporated in the proviso is the fact that the case has been decided by the District Court.
+The valuation of the suit is irrelevant.
+The proviso cannot be construed to include the case of a revisional order passed by the District Court for that would be in direct conflict with the fundamental structure itself of section 115.
+A proviso cannot be permitted by construction to defeat the basic intent expressed in the substantive provision.
+[40 C F] M/s. Jupiter Fund (Pvt.) Ltd. vs Dwarka Diesh Dayal and others approved.
+(a) An order passed under section 25 of the Provincial Small Cause Courts Act by a District Court is not amenable to the revisional jurisdiction of the High Court under section 115 of the C.P.C. [42 F] (b) An examination of the several provisions of the Provincial Small Cause Courts Act indicates that it is a self sufficient code so far as the present enquiry is concerned.
+The Legislature clearly intended that a decree or order made by a Court of Small Causes should be final subject only to correction by the remedies provided under the Provincial Small Cause Courts Act.
+All the indications contained in the Act point to the conclusion that a case falling 34 within the Provincial Small Cause Courts Act was never intended to be subject to the remedies provided by the Code of Civil Procedure.
+By way of abundant caution, section 7 of the Code made express provision barring the application of sections 96 to 112 and 115 of the Code to courts constituted under the Provincial Small Cause Courts Act.
+Section 7 of the Code merely embodies the general principle against resort to remedies outside the Provincial Small Cause Courts Act.
+Although the court of the District Judge is not a court constituted under the Act the general principle continues to take effects No change in the principle was brought about merely because revisional power under section 25, before the proviso was added, was now entrusted to the District Judge.
+The legislative intention behind the amendment was to relieve the High Court of the burden of exercising revisional jurisdiction in respect of cases decided under the Provincial Small Cause Courts Act.
+Therefore the central principle continues to hold, notwithstanding the amendment effected in section 25, that the hierarchy of remedies enacted in the Provincial Small Cause Courts Act represents a complete and final order of remedies, and it is not possible to proceed outside the Act to avail of a superior remedy provided by another statute.
+[4] E 42 A D] Bimla Rani Kohli vs M/s. Bandu Motor Finance Pvt.
+Ltd. A.I.R. 1972 All. 342; over ruled.

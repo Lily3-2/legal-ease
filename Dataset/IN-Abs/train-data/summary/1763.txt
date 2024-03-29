@@ -1,0 +1,45 @@
+The assessee company dealt in shares and also held invest ments of shares on January 1, 1948.
+The assessee held 1,10,747, shares of Rohtas Industries at a book value of Rs. 15,57,902/ .
+Of these shares 31,909 were bonus shares issued by Rohtas Industries in 1945 at the face value of Rs. lo/, each and the assessee had debited the investment account in respect of the bonus shares by Rs. 3,19,090 with a corresponding entry in the capital reserve account on its credit side for the same amount.
+The assessee acquired these bonus shares at a cost of Rs. 5,84,283 in 1944.
+On January 29, 1948, the assessee sold the entire lot of 1,10,747 shares for Rs. 15,50,458.
+The assessee deducted the sale price from the book value of Rs. 15,57,902 and claimed a loss of Rs. 7,444 on the sale of shares.
+The appellate Tribunal valued the bonus shares at nil and held that the assessee had made a profit of Rs. 3,11,646/ .
+On a reference the High Court held that the Tribunal was wrong in holding that the assessee had made a profit of Rs. 3,11,646/ .
+Held (per Hidayatullah and Shah, JJ.): (i) The Income tax Act defines "dividend" and also extends it in some directions but not so as to make the issue of bonus shares a release of reserves as profits so that they could be included in the term.
+The face value of the shares cannot therefore be taken to be dividend by reason of anything in the definition.
+The shares certificate which is issued as bonus entitles the holder to a share in the assets of the company and to participate in future profits.
+The bonus share when sold may fetch more or may fetch less than the face value, and this shows that the certificate is not a voucher to receive the amount mentioned on its face.
+The market price is affected by many imponderables, one such being the yield or the expected yield.
+The detriment to the share holder, if any, must therefore be calculated on some principle, but the method of computing the cost of bonus shares at their face value does not accord either with fact or business accountancy.
+Swan Brewery Co. Ltd. vs Rex , disapproved.
+Commissioner of Inland Revenue vs John Blott, 8 Tax Cases 101, approved.
+Bouch V. Sproule, , referred to.
+Commissioner of Income tax, Bengal vs Mercantile Bank of India Ltd., and Nicholas vs Commissioner of Taxes of the State of Victoria, , referred to.
+(ii) The bonus shares cannot be said to have cost nothing to the share holder because on the issue of its bonus shares, there is an instant loss to him in the value of his original holding.
+The earning capacity of the capital employed remains the same, even after the reserve is converted into bonus shares.
+By the issue of the bonus shares there is a corresponding fall in the dividends 211 actual or expected and the market price moves accordingly.
+The method of calculation which places the value of bonus shares, at nil cannot be correct.
+(iii) The bonus shares can be valued by spreading the cost of the old shares over the old shares, and the new issue taken together, if the shares rank pari passu.
+When they do not, the price may have to be adjusted either in the proportion of the face value they bear (if there is no other circumstances differentiating them) or on equitable considerations based on the market price before and after the issue taking the middle price not that represented by any unusual fluctuations.
+On the facts of this case it was held that since the bonus shares in this case rank pari passu with the old shares there is no difficulty in spreading the original cost over the old and the new shares.
+Commissioner of Income tax vs Maneklal Chunilal and Sons, Income tax Reference No. 16/1948, dt. 23 3 1949, disapproved.
+Emerald and Co. Ltd. vs Commissioner of Income tax, Bombay City, , distinguished.
+Eisner vs Macomber, L.Ed. 521, referred to.
+Per Sarkar, J. (dissenting): (i) The view taken by the majo rity of Judges in Blott 's case is a correct one.
+In that case the learned Judges held that when the articles of a company authorise the issue of bonus shares and the transfer of a sufficient amount out of the accumulated profits in its hands representing their face value to the share capital account, what happens when the articles are acted upon is a capitalisation of the profits and the bonus shares issued are not in the hands of the share holder income liable to tax.
+Following the majority opinion in Blott 's case it was held that the High Court was in error in the view it took in the present case.
+There is no foundation for proceeding on the basis as if the bonus shares had been acquired by the assessee at their face value.
+Its profits cannot be computed on that basis.
+Commissioner of Inland Revenue vs Blott (1921)2 A.C. 171, relied on.
+Swan Brewery Co. Ltd. vs King , disapproved.
+Osborne (H.M. Inspector of Taxes) vs Steel Barrel Co. Ltd., , inapplicable.
+Commissioner of Inland Revenue vs Fisher 's Executors, ; and Commissioner of Income tax, Bengal vs Mer cantile Bank of India Ltd., , referred to.
+Commissioner of Income tax vs Maneklal Chunilal and Sons Ltd., I.T. Ref.
+No. 16 of 1948 and Emerald and Co. Ltd. vs Commissioner of 1ncome tax, Bombay City, , referred to.
+(ii) Bai Shirinbai Kooka 's case is the authority for the proposition that where it cannot be shown what was paid for the acquisition of a trading asset by a trader, it has for tax purposes to be deemed to have been acquired at the market value of the date when it was acquired.
+On the basis of this authority the Bonus shares must in the present case be deemed to have been acquired at the market value of the date of their issue.
+(iii) On the basis of the same authority, it would not be correct to say that the bonus shares had been acquired for nothing.
+212 The view taken by the Appellate Commissioner and the Tribunal cannot be supported.
+Commissioner of Income tax vs Bai Shirinbai K. Kooka, [1962] Supp.
+3 S.C.R. 391, relied on.

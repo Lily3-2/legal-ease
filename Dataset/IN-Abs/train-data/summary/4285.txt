@@ -1,0 +1,18 @@
+The respondent assessee, under a deed of trust dated October 26, 1937 executed by his father Pyarey Lal Banerji which was modified by another trust deed dated April 28, 1950, received "the net income of the trust funds" after the death of his father.
+The assessee treated this amount as an annuity and claimed exemption under section 2(e)(iv) of the Wealth Tax Act, 1957.
+The claim for exemption was negatived by all the authorities including the Appellate Tribunal, Allahabad Bench.
+The Tribunal, however, holding that the inclusion of the entire value of the corpus in the computation of net wealth was not correct as the assessee had merely a life interest in it, directed the Wealth Tax Officer to modify the assessments valuing the life interest of the assessee according to recognised principles of valuation.
+On a reference, at the instance of the assesee, the High Court held the interest of the assessee in the trust fund amounted to an annuity exempt under section (e)(iv) of the Wealth Tax Act.
+E Allowing the appeal by special leave and answering against the assessee, the Court ^ HELD: (I) In order to claim that an item of property should not be treated as an asset for purposes of the Wealth Tax Act, by virtue of subclause (iv) of section 2(e)(1), it has to be established (a) that it is an annuity and (b) that commutation of any portion thereof into a lumpsum grant is precluded by the terms and conditions thereto.
+[663 C] (2) It is true that the word "annuity" is not defined in the Act.
+In order to constitute an annuity, the payment to be made periodically should be a fixed or pre determined one and it should not be liable to any variation depending upon or any ground relating to the general income of the fund or estate which is charged for such payment.
+The intention of the settlor must be seen, whether he wanted that the assessee should get a pre determined sum every year or whether the assessee should get the whole net income of the trust fund.
+[665 C, 671 G] In the instant case, since the interest of the settlor was that the whole net income of the trust fund should go to the assessee, the right of the assessee cannot be treated as an annuity.
+The fact that under the trust deed the trustee had been given the power to reinvest the proceeds of the Government securities leads to the possibility of variation of the income and Consequently of the amount to be received by the assessee.
+make it clear that it was not an annuity.
+The fact that no such reinvestment had taken place during the relevant year is immaterial.
+[671 H 672 B] 658 Ahmed G.H. Ariff & Ors.
+vs Commissioner of Wealth tax, Calcutta, ; Commissioner of Wealth tax, Gujarat II vs Mrs. Arundhati Balkrishna, (1968) 70 I.T.R. 203, explained and applied.
+Commissioner of Wealth tax, Rajasthan vs Her Highness Maharani Gayatri Devi of Jaipur , followed.
+Commissioner of Wealth tax, A.P. vs Nawab Fareed Nawaz Jung & ors. , overruled.
+In re Duke of Norfolk: Public Trustee vs Inland Revenue Commissioners distinguished.

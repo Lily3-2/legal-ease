@@ -1,0 +1,52 @@
+In the years prior to 1950 the respondent company with headquarters in the erstwhile state of Indore was assessed to tax under the Indore Industrial Rules, 1927 and also under the Indian Income tax Act, 1922 in so far as its income fell within sections 4(1) (a) and 4(1)(c) read with section 42 of the Act.
+Depreciation had been allowed to it under the Indore Industrial Rules as well as the Indian Act.
+The written down value of its assets for the purpose of 1950 51 and subsequent assessments had to be determined under the Taxation Laws (Part B States) (Removal of Difficulties) Order, 1950 which laid down in the proviso to paragraph 2 that .where in respect of any asset, depreciation has been allowed for any year, both in the assessment made in the Part B State and in the taxable territories, the greater of the two sums allowed shall only be taken into account.
+" The Income tax Officer found that up to and including the year 1944 the sum allowed as depreciation under the Indian Income tax Act was larger and therefore in computing written down value as on 1 1 49 he took the sum allowed as depreciation under the Indian Act up to the end of 1944 and under the Indore Industrial Rules after that date.
+In the assessments made for the period up to the end of 1944 the respondent company had been treated as a non resident and its taxable income under the Indian Income tax Act had been worked out under Rule 33 of the Indian Income tax Act, 1922 as a fraction of its total world income.
+In determining the total world income the depreciation claimable under the Indian Act had been allowed, and it was the full amount of this depreciation allowed against the total world income that the Income tax Officer took into account in determining the written down value of the respondent company 's assets for the purpose of the 1950 51 assessment.
+The respondent company claimed that as only a fraction of the total world income had been treated as taxable income, therefore only a fraction of the depreciation allowed against the world income should be taken as having been 'actually allowed ' in the terms of paragraph 2 of the Removal of Difficulties Order.
+The Income tax Officer, the Appellate Assistant Commissioner and the Appellate Tribunal having rejected this plea the matter went in reference to the High Court.
+That Court took the view contended for by the respondent viz. that only the proportionate amount of depreciation which was attributable to the taxable income could be taken into account.
+The Revenue appealed to this Court It was urged on behalf of the appellant that depreciation was allowed in respect of the use of the assets in the business, that the allowance did not depend on the assessable income, and that the High Court, therefore went wrong in striking a proportion on the basis of a part of the income 926 actually assessed under the Indian Income tax Act.
+The different expressions used in various parts of paragraph 2 of the Removal of Difficulties Order came for consideration.
+HELD : Per Subba Rao and Sikri, JJ. (i) The word "assessment" used in the proviso to paragraph 2 has been given a very wide meaning in decided cases.
+It means sometimes 'the computation of income ', sometimes the determination of the amount of tax payable; and some,times the procedure laid down in the Act for imposing liability upon the tax payer.
+The proviso used the word 'assessment ' both with reference to Part B States and also with reference to the taxable territories.
+But in the present case the different shades of meaning of the said word were not relevant.
+For the purpose of computing the written down value, the amount of depreciation allowed for the purpose of the assessment only was relevant.
+[931 G H; 932 A] (ii)The key to the understanding of paragraph 2 is the expression "allowed '.
+The expression 'actually allowed ' in the main paragraph, 'allowed ' in the proviso, and 'taken into account ' in the Explanation mean the same thing.
+What the Income tax Officer has to take into consideration in computing the written down value is the depreciation actually allowed under the Income tax Act or the laws obtaining in Part B States and adopt the greater of the two sums so allowed under that head.
+The determination of the depreciation actually allowed under the Income tax Act for the years up to and including 1944 must depend on the provisions of that Act.
+[932 B] (iii)Under the Income tax Act depreciation allowance is in respect of such assets as are used in the business and shall be calculated on the written down value, which means, in the case of assets acquired in the previous year, the actual cost to the assessee, and in the case of assets acquired before the previous year, the actual cost to the assessee less all depreciation actually allowed to him under the Act.
+The allowance towards depreciation is conditioned an the user of the assets, wholly or in part., during the accounting year and thus contributing to the earning of the income.
+Though it is not unrelated to the profits it does not depend upon the increase or decrease in the earning capacity of the assets, but is only linked up with physical depreciation in their value.
+Even so only amount of depreciation actually allowed can be deducted from the original cost of the assets to ascertain the written down value.
+De hors such an allowance.
+, it has no significance in income tax law.
+[932 F H;933 A B] (iv) During the years up to and including 1944 the assessee was taxed as a nonresident on the income which fell under section 4(1)(a) or unders.
+4(1)(c), read with section 42 of the Indian Income tax Act.
+The assessee was only assessed during the said years in respect of that part of its profits which could be said to be attributable to the sale proceeds or goods received in British India or in regard to which contract , were signed in British India.
+Such income was brought to tax in terms of r. 33 of the Indian Income tax Rules, 1922.
+The method adopted was that the amount of income for the purpose of Indian Income tax was calculated on an amount which bore the same proportion to the total profits of the business as the receipts accruing or arising in India bore to the total receipts, of the business.
+By applying the formula in r. 33 the Income tax Officer had actually allowed only a fraction of the amount towards depreciation allowable in assessing the world income of the assessee.
+The mere fact that in the matter of calculation the total amount of depreciation was first deducted from the world income and thereafter the proportion was struck in terms of r. 33 does not amount to an actual allowance of the entire depreciation in ascertaining the tax 927 able income accrued in India.
+The Income tax Officer could have adopted a different method by first ascertaining the gross income accrued in India and then deducting from it the allowance under the Act proportionate to the said income.
+Whatever method was adopted only a fraction of the total depreciation was actually allowed in ascertaining the taxable income in India.
+The view taken by the High Court was therefore correct.
+[933 B H] Hakumchand Mills Ltd. vs Commissioner of Income (Central) Bombay, , endorsed.
+Per Shah, J. (dissenting) Under section 10 of the Income tax Act taxable profits or gains earned by an assessee under the head 'business ' after making appropriate allowances under Subs.
+(2) have to be computed.
+One of such allowances is depreciation in respect of the assets used for the purpose of business.
+But depreciation determined according to the rules merely enters into the computation of taxable profits, whether the assessee is a resident or a non resident.
+In the assessment of a company the same rates of tax apply under the Income tax Act, whether the company is resident or non resident.
+If the company is resident under section 4A(c) its entire world income would be chargeable, subject of course to special exemptions like those provided in section 14(2)(c) : if it is nonresident only a slice of the income would be chargeable.
+Under the scheme of the Indian Income tax Act depreciation like any other allowance has to be allowed in computing the total profit; after the total profit is determined depreciation does not survive as a separate head of allowance.
+A part only of the total profit of a company determined in the manner prescribed by section 10, may be taxable.
+But total profit being determined after depreciation is allowed, between the taxable profits which may be a fraction of total profits and depreciation there is no definable relation.
+Therefore it is wrong to presume that the depreciation allowed in the taxable territories which is to be taken into account under the proviso to paragraph 2 of the Removal of Difficulties Order is a fraction of the depreciation considered for computing total profits.
+[940 E H; 941 A D] The fact that income was computed under r. 33 made no difference.
+In the ascertainment of total profits either for the purposes of assessment in the ordinary manner when the income of the assessee is determined or when a fraction is to be adopted for the purpose of the second method contemplated by section 33, there is no scope for assuming that only a fraction of the depreciation is actually allowed.
+Depreciation is deducted only once and for all, and it is deducted in determining the total profits of the business.
+[942B D] There is therefore no warrant either in section 10(2)(vi) or in paragraph 2 of the Removal of Difficulties Order or in r. 33 framed under the Indian Income tax Act for the view that the depreciation allowed is a fraction of the total depreciation of the business.
+[942 H]

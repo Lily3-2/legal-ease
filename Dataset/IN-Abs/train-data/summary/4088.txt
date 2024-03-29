@@ -1,0 +1,51 @@
+The appellant, a dissolved firm as originally constituted on April 1, 1959, consisted of four partners and carried on different business in different names and styles.
+The firm was dissolved on March 31, 1963 and under the deed of dissolution executed by and between the partners, the first business concern was taken over by one of the partners, the remaining concerns by two of the other partners and the fourth partner received, a sum of money in lieu of his respective shares in the assets of all the businesses of the firm.
+During the four assessment years 1960 61 to 1963 64 the firm had installed various items of machinery in respect of which it received development rebate in its respective tax assessments under section 33 of the Act.
+On dissolution of the firm on March 31, 1963, the Income tax officer took the view that section 34(3)(b) of the Act applied on the ground that there was a sale or transfer of the machinery by the firm within the period mentioned in that section and accordingly acting under section 155(5) of the Act he withdrew the development rebate allowed to the firm for the said assessment years, the amending orders being passed against the dissolved firm.
+The appeals preferred by the dissolved firm through one of its erstwhile partners, were dismissed by the Appellate Assistant Commissioner who held that section 155(5) was rightly resorted to since section 34(3)(b) of the Act applied to the case.
+The Income tax Appellate Tribunal allowed the appeals by the dissolved firm holding that there was no question of any sale or transfer within the meaning of section 34(3)(b) in a transaction involving the adjustment of the rights of the partners of a dissolved firm, but at the instance of the Revenue (Respondent) referred two questions of law to the, 'High Court viz. (a) whether there was only an adjustment of the mutual rights of the partners and the provisions of section 34(3) were not applicable and (b) whether there was a transfer of assets with in the meaning of the words 'otherwise transferred ' occurring in section 34(3) (b) of the Act.
+The High Court answered the second question in the affirmative and against the assessee holding that a dissolution of a firm amounted to extinguishment of the rights of the firm in the assets of the partnership and accordingly was a transfer within the meaning of section 2(47) of the Act and that, therefore the provisions of section 34(3)(b) applied to the case.
+697 Allowing the appeals to this Court, ^ HELD: 1.
+There is no transfer of assets involved even in the sense of any extinguishment of the firm 's rights in the partnership assets when distribution takes place upon dissolution.
+[709 F] 2.
+Section 34(3) (b) of the Act is not applicable to the case an(l the view of the Tribunal is upheld.
+[710 E] 3.
+The firm as such has no separate rights of its own in the partnership assets but it is the partners who own jointly in common the assets of the partner ship and, therefore, the consequence of the distribution, division or allotment of assets to the partners which flows upon dissolution after discharge of liabilities is nothing but a mutual adjustment of rights between the partners and, there is no question of any extinguishment of the firm 's rights in the partnership assets amounting to a transfer of assets within the meaning of section 2(47) of the Act.
+[709 E] 4.
+On a plain reading of section 34(3) (b) it will appear clear that before that provision can be invoked or applied three conditions are required to be satisfied: (a) that the ship, machinery or plant must have been sold or otherwise transferred, (b) that such a sale or transfer must be by the assessee and (c) that the same must be before they expiry of eight years from the end of the previous year in which it was acquired or installed.
+It is only when these three conditions are satisfied that any allowance made under section 33 shall be deemed to have been wrongly made and the Income tax officer acting under section 155(5) will be entitled to withdraw such allowance.
+[703 C D] 5.
+Section 2(47) gives an artificial extended meaning to the expression 'transfer ' for, it not merely includes transactions of 'sale ' and 'exchange ' which in ordinary parlance would mean transfers but also 'relinquishment ' or 'extinguishment of rights ' which are ordinarily not included in that concept.
+[703 E] 6.
+In Commissioner of Income Tax vs Dewas Cine Corporation, , the concept of distribution of assets consequent upon the dissolution of the firm was considered in the context of the balancing charge arising under the second proviso to section 10(2) (vii) of the 1922 Act.
+This Court held that the expression "sale or sold" when used in section 10(2)(vii) and the second proviso thereto must be understood in their ordinary meaning and that "sale" according to its ordinary meaning meant a transfer of property for a price, and further enunciated the proposition that the distribution of surplus upon dissolution of a partnership after discharging debts and obligations was always by way of adjustment of rights of partners in the assets of the partnership and did not amount to a transfer such less for a price.
+The question of raising a balancing charge against the dissolved firm, a separate taxable entity which had been allowed depreciation in the earlier years, was also considered by the Court and it took the view that no balancing charge arose against the firm inasmuch as no sale or transfer was involved in the transaction of distribution of the assets to erstwhile partners of the firm consequent upon its dissolution.
+[703G, 704 E G] 7.
+In Bankey Lal Vaidya 's case, , the concept of distribution of assets to the partners of a firm consequent upon its dissolution was considered in the context of the charge on capital gains arising under section 128(1) of the 1922 Act.
+This Court observed that the rights of the parties were adjusted by handing 698 over to one of the partners the entire assets and to the other partner the money value of his share and such a transaction was neither a sale nor exchange nor transfer of the assets of the firm.
+[704 H, 705 D] 8.
+(i) It is well known that commercial men and accountants on the one hand and lawyers on the other have different notions respecting the nature of the firm.
+[705 H] (ii) Commercial men and accountants are apt to look upon a film in the light in which lawyers look upon a corporation i.e. as a body distinct from the members composing it, and having rights and obligations distinct from those of its members.
+[706 B] (iii) The firm is not recognised by English lawyers as distinct from the members composing it.
+What is called the property of the firm is their property, and what are called the debts and liabilities of the firm are their debts and their liabilities.
+[706 G, H] Lindley on Partnership 12th Edn.
+27 and 28; referred to.
+In English jurisprudence a firm is only a compendious name for certain persons who carry on business or have authorised one or more of their number to carry it on, in such a way that they are jointly entitled to the profits and jointly liable for the debts and losses of the business.
+Further, partnership property is regarded as belonging to the firm, but this is only for the purpose of distinguishing the same from the separate property of the partners.
+But, in law the partnership property is jointly owned by all the partners composing the firm.
+[707 B C] 10.
+The position as regards the nature of a firm and its property in Indian Law under the is almost the same as in English law.
+Here also a partnership firm is not a distinct legal entity and the partner ship property in law belongs to all the partners constituting the firm.
+The Indian Act, like the English Act avoids making a firm a corporate body enjoying the right of perpetual succession, [708 B, E] Bhagwanji Morarji Goculdas vs Alembic Chemical Works Co. Ltd. and Ors., ; referred to.
+A partnership firm under the is not a distinct legal entity apart from the partners constituting it and equally in law the firm as such has no separate rights of its own in the partnership assets and when one talks of the firm 's property or firm 's assets all that is meant is property in which all partners have a joint or common interest.
+[709 C] Addanki Narayannappa and Anr.
+vs Bhaskara Krishnappa and 12 Ors., , referred to.
+Every dissolution must in point of time he anterior to the actual distribution; division or allotment of the assets that takes place after making accounts and discharging the debts and liabilities due by the firm.
+Upon dissolution the firm ceases to exist; then follows the making of accounts, then the discharge of debts and liabilities and thereupon distribution, division or allotment of assets takes place inter se between the erstwhile partners by way of mutual adjustment.
+of rights between them.
+The distribution, division or allotment of assets to the 699 erstwhile partners, is not done by the dissolved firm.
+In this sense there is no transfer of assets by the assessee (dissolved firm) to any person.
+[710 C] 13.
+The view Of the High Court that thy.
+distribution of assets effected by a deed takes Place eo instanti with the dissolution or that it is effected by the dissolved firm not accepted.
+[710 D]

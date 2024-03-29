@@ -1,0 +1,38 @@
+Apprehending breach of peace on account of a dispute over a house between the appellant and the respondent the Sub Divisional Magistrate passed a preliminary order under section 145(1), Cr.P.C., 1973 and later attached the subject matter of dispute under section 146(1) on the ground that it was a case of emergency.
+The appellant 's objection that once the subject of the dispute had been attached under section 146, he was not competent to proceed with the enquiry under section 145 was overruled by the Magistrate.
+Having failed in his revision petitions before the Sessions Judge and the High Court the appellant preferred an appeal to this Court.
+It was contended on behalf of the appellant that while under the previous Code it was permissible to attach the subject of dispute pending enquiry by the Magistrate as contemplated by section 145 such attachment pending decision by the Magistrate was not permissible under the present Code and that once the Magistrate effected an attachment he had nothing further to do except await the decision or the direction of the civil court.
+Dismissing the appeal, ^ HELD: It is wrong to say that the Magistrate 's jurisdiction ends as soon as an attachment is made on the ground of emergency.
+[632 C] 1.
+(a) Sections 145 and 146 of the Criminal Procedure Code together constitute a scheme for the resolution of a situation where there is a likelihood of a breach of the peace because of a dispute concerning any land or water or their boundaries.
+If section 146 is torn out of its setting and read independently of section 145, it is capable of being construed to mean that once an attachment is effected in any of the three situations mentioned therein, the dispute can only be resolved by a competent Court and not by the Magistrate effecting the attachment.
+But section 146 cannot be so separated from section 145.
+It can only be read in the context of section 145.
+Contextual construction must prevail over isolationist construction.
+That is one of the first principles of construction.
+[629 A C] (b) On being satisfied about the existence of a dispute likely to cause a breach of peace, the Magistrate issues a preliminary order stating the grounds of his satisfaction and calling upon the parties to appear before him and submit their written statement.
+On perusal of the written statements he would proceed to record evidence to decide which of the parties was in possession on the date of the preliminary order.
+If he decides that one of the parties was in possession he declares possession of such party.
+If on the other 621 hand he is unable to decide who was in possession or if he is of opinion that none of the parties was in such possession, he may say so.
+If he decides that one of the parties was in possession he declares the possession of such property.
+In the other two situations he attaches the property.
+Thus a proceeding begun with a preliminary order must be followed up by an enquiry and end with the Magistrate deciding in one of three ways and making consequential orders.
+[630 A D] (c) The Magistrate may, however, stop the proceedings at any time if one or the other of the parties satisfies him that there has never been or that there is no longer any dispute likely to cause a breach of the peace.
+The Magistrate then cancels the preliminary order vide section 145(5) except in this event a proceeding initiated by a preliminary order under section 145(1) must run its full course.
+[630 E] (d) One of the situations provided under section 146(1) is that in a case of emergency a Magistrate may attach the property at any time after making the preliminary order.
+There is no express stipulation in section 146 that the jurisdiction of the Magistrate ends with the attachment.
+Nor is it implied.
+The obligation to proceed with the enquiry as prescribed by section 145(4) is against any such implication.
+[630 G] 2.
+The position under the section before its amendment in 1955 was that the parties that the right to adduce evidence and the Magistrate could take further evidence if he so desired.
+There were two principal changes in the section as a result of the amendment in 1955: (1) the preliminary order was also to require the parties to put in documents and affidavits of such persons as they intended to rely upon in support of their claims.
+The Magistrate was to decide the case on a consideration of the written statements, the documents and affidavits put in by the parties and after hearing them come to a conclusion.
+(2) Where he was unable to satisfy himself as to which of the parties was in possession or where he decided that none of the parties was in possession after attaching the property, the Magistrate was himself to refer the dispute to the civil court instead of leaving it to the parties to go to the civil court.
+He was to obtain a finding of the civil court and thereafter conclude the proceeding under section 145 in conformity with the decision of the civil court.
+The revised procedure having been found to be unsatisfactory sections 145 and 146 were again amended so as to revert to the position obtaining before the 1955 amendment.
+In the present section 146 all situations in which an attachment may be made are now mentioned together.
+[631 D F] Chandu Naik & Ors.
+vs Sitaram B. Naik & Anr. ; Crl.
+L. J. 356 distinguished.
+Kshetra Mohan Sarkar vs Puran Chandra Mandal, 1978 Crl.
+L.J. 936, approved.

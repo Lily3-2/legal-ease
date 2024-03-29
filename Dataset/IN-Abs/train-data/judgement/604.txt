@@ -1,0 +1,126 @@
+Appeal No.122 of 1956.
+Appeal from the judgment and order dated March 5, 1954, of the Bombay High Court in Appeal from its Original Jurisdiction Misc.
+Application No. 1 of 1954.
+H. N. Sanyal, Addl.
+Solicitor General, G. N. Joshi and R. H. Dhebar, for the appellants.
+N. A. Palkhivala, section N. Andley, J. B. Dadachanji, P. L. Vohra and Rameshwar Nath, for the respondent.
+April 28.
+The Judgment of the Court was delivered by GAJENDRAGADKAR J.
+This is an appeal by the Income tax Officer, Companies Circle I (1), Bombay and the Union of India and it raises a short question about the construction of section 35 of the Income tax Act read with section 1, sub section
+(2) and section 13 of the Indian Income tax (Amendment) Act, 1953 (XXV of 1953).
+It arises in this way.
+The Income tax Officer, by his assessment order made on October 9, 1952, for the assessment year 1952 53, assessed the respondent, the Bombay Dyeing and Manufacturing Co. Ltd., under the Act.
+In the said assessment order the respondent, was given credit for Rs. 50,603 15 0 as representing interest at 2% on tax paid in advance under section 18A of the Act.
+This credit was given to the respondent in pursuance of the provisions contained in section 18A, sub section
+(5) of the Act as it then stood.
+On May 24, 1953, the Amendment Act came into force.
+Section 1, sub section
+(2) of the Amendment Act provides that " subject to any special provision made in this behalf in the Amendment Act, it shall be deemed to have come into 705 force on the first day of April, 1952 ".
+By section 13 of the Amendment Act, a proviso was added to section 18A (5) of the Act.
+The effect of the amendment made by the insertion of the said proviso to section 18A (5) was that the.
+assessee was entitled to get interest at 2% not on the whole of the advance amount of tax paid by him as before but only on the difference between the payment made and the amount at which the assessee was assessed to tax under the regular assessment under section 23 of the Act.
+After the Amendment Act was passed, the first appellant exercised his power under section 35 of the Act and purported to rectify the mistake apparent from the record in regard to the credit for Rs. 50,603 15 0 allowed by him to the assessee.
+The first appellant held that the assessee was really entitled to a credit of only Rs. 21,157 6 0 by way of interest on tax paid in advance as a result of the retrospective operation of the amendment made in section 18A (5) by the Amendment Act.
+In accordance with this order a notice of demand under section 29 of the Act was issued against the assessee for the sum of Rs. 29,446 9 0 on the ground that the assessee had been given credit for this excess amount through mistake.
+Aggrieved by this notice of demand, the respondent filed a petition in the High Court of Bombay on January 4, 1954, under article 226 of the Constitution praying for a writ against the appellants inter alia prohibiting them from, enforcing the said rectified order and the said notice of demand.
+It appears that this petition was admitted by Tendolkar J. on January 6, 1954, and a rule issued on it.
+Thereafter the said petition was referred to a Division Bench by the Hon 'ble the Chief Justice for final disposal.
+Accordingly on March 5, 1954, the petition was heard by Chagla C. J. and Tendolkar J. and a writ was issued against the appellants.
+The High Court held that section 35 of the Act had no application to the facts of the case because the mistake apparent from the record contemplated by the said section is not a mistake which is the result of the amendment of the law even though the amending law may be retrospective in operation.
+In other words, in the opinion of the High Court, the 706 mistake mentioned by section 35 had to be apparent on the face of the order and it can only be judged in the light of the law as it stood on the day ,When the order was passed.
+The appellants then applied for and obtained a certificate from the High Court on October 8, 1954; on their behalf it is urged ' that the High Court of Bombay has erred in law in taking the view that the appellant No. I was not entitled to rectify the mistake in question under section 35 of the Act.
+Thus the short question which arises before us in the present appeal is whether an order which was proper and valid when it was made can be said to disclose a mistake apparent from the record if the said order would be erroneous in view of a subsequent amendment made by the Amendment Act when the Amendment Act is intended to operate retrospectively ? It is unnecessary to refer to the provisions of section 18A (5) as well as the provision of the proviso which was subsequently added by section 13 of the Amendment Act.
+It is common ground that, in the absence of the subsequently inserted proviso, the assessee would be entitled to obtain a credit for Rs. 50,603 15 0.
+It is also common ground that, if the subsequently inserted proviso covered the assessee 's case, he would be entitled to a credit only of Rs. 21,156 9 0.
+It is thus obvious that the order giving the relevant credit to the assessee was valid when it was made and that it would be erroneous under the subsequent amendment.
+Under these circumstances, was the first appellant justified in exercising his power of rectification under section 35 of the Act ? In deciding this question it would be necessary to determine the true legal effect of the retrospective operation of the Amendment Act.
+Section 1, sub section
+(2) of the Amendment Act expressly provides that subject to the special provisions made in the said Act it shall be deemed to have come into force on the first day of April 1952.
+The result of this provision is that the amendment made in the Act by s, 13 of the Amendment Act must, by legal fiction, be deemed to have been included in the principal Act as from the first of 707 April, 1952, and this inevitably means that, at the time when the Income tax Officer passed his original order on October 9, 1952, allowing to the respondent credit for Rs. 50,603 15 0, the proviso added by section 13 of the Amendment Act must be deemed to have been inserted in the Act.
+As observed by Lord Asquith of Bishopstone in East End Dwellings Co. Ltd. vs Finsbury Borough Council (1), " if you are bidden to treat an imaginary state of affairs as real, you must surely, unless prohibited from doing so, also imagine as real the consequences and incidents which, if the putative state of affairs had in fact existed, must inevitably have flowed from or accompanied it.
+One of those in this case is emancipation from the 1939 level of rents.
+The statute says that you must imagine a certain state of affairs; it does not say that having done so, you must cause or permit your imagination to boggle when it comes to the inevitable corollaries of that state of affairs ".
+Thus, there can be no doubt that the effect of the retrospective operation of the Amendment Act is that the proviso inserted by the said section in section 18A (5) of the Act would, for all legal purposes, have to be deemed to have been included in the Act as from April 1, 1952.
+But it is urged for the respondent that the retrospective operation of the relevant provision is not intended to affect completed assessments.
+It is conceded that, if any assessment proceedings in respect of the assessee 's income for a period subsequent to the first of April 1952 were pending at the time when the Amendment Act was passed, the proviso inserted by section 13 would govern the decision in such assessment proceedings; but where an assessment proceeding has been completed and an assessment order has been passed by the Income tax Officer against the assessee, such a completed assessment would not be affected and cannot be reopened under section 35 by virtue of the retrospective operation of the Amendment Act.
+In support of this contention, reliance is placed on the observations of the Privy Council in Delhi Cloth and (1) , 132.
+90 708 General Mills Co. Ltd. vs Income tax Commissioner, Delhi and Anr.
+Lord Blanesburg who delivered the judgment of the Board referred to the Board 's earlier decision in the Colonial Sugar Refining Company vs Irving (2) where it was in effect laid down that, while provisions of a statute dealing merely with matters of procedure may properly, unless that construction be textually inadmissible, have retrospective effect attributed to them, provisions which touch a right in existence at the passing of the statute are not to be applied retrospectively in the absence of express enactment or necessary intendment.
+The learned Judge then added that " Their Lordships have no doubt that the provisions which, if applied retrospectively, would deprive of their existing finality orders which, when that statute came into force, were final, are provisions which touch existing rights.
+" The argument for the respondent is that the assessee has obtained a right under the order passed by the Income tax Officer to claim credit for the specified amount under section 18A(5) and the said right cannot be taken away by the retrospective operation of section 13 of the Amendment Act.
+The same argument is put in another form by contending that the finality of the order passed by the Incometax Officer cannot be impaired by the retrospective operation of the relevant provision.
+In our opinion, this argument does not really help the respondent 's case because the order passed by the Income tax Officer under section 18A(5) cannot be said to be final in the literal sense of the word.
+This order was and continued to be liable to be modified under section 35 of the Act.
+What the Income tax Officer has purported to do in the present case is not to revise his order in the light of the retrospective amendment made by section 13 of the Amendment Act alone, but to exercise his power under section 35 of the Act; and so the question which falls to be considered in the present appeal.
+centres round the construction of the expression "mistake apparent from the record " used in section 35.
+That is why we think the principle of the finality of the orders or the sanctity of (1)[1927] L.R. 54 I.A. 421.
+(2)[1905] A.C. 369.
+709 the existing rights cannot be effectively invoked by the respondent in the present case.
+The respondent then urged that the Amendment Act should not be given greater retrospective operation than its language and its general scheme render necessary.
+This convention is based on the provisions of section 3, sub section
+(2), section 7, sub section
+(2) and section 30, sub section
+(2) of the Amendment Act.
+Where the Amendment Act intended that its provisions should affect even concluded orders of assessment it is expressly so provided.
+Since section 13 does not specifically authorise the reopening of concluded assessments it should be held that its retrospective operation is not intended to cover such concluded assessments.
+That in brief is the argument.
+We are, however, not satisfied that this argument is wellfounded.
+Let us examine the three provisions of, the Amendment Act on which the argument rests.
+Section 3, sub section (1) of the Amendment Act makes several additions and modifications in section 4 of the principal Act.
+Section 3, sub section (2) then provides that, the amendments made by sub cl.
+(3) of cl.
+(b) of sub section
+(1) shall be deemed to be operative in relation to all assessments for any year whether such assessments have or have not been concluded before the com mencement of the Amendment Act of 1953.
+It would be noticed that the main object of this sub section is to extend the retrospective operation of the relevant provisions of the Amendment Act beyond the first of April 1952 mentioned by section 1, sub section
+(2) of the Amendment Act.
+Since it was intended to provide for such further retrospective operation of the relevant provision the legislature thought it advisable to clarify the position by saying that the said extended retrospective operation would cover all assessments whether they had been completed or not before the commencement of the Amendment Act.
+Section 7, sub section
+(1) adds two provisos to section 9 of the principal Act by cls.
+(a) and (b).
+Sub section (2) of section 7 then lays down that the amendments made in cl.
+(a) of sub section
+(1) shall be deemed to be operative for any assessment for the year ending the 31st day of March, 1952, whether made before or after the commencement of this Act and, where any such 710 assessment has been made before such commencement, he Income tax Officer concerned shall revise it whenever necessary to give effect to this amendment.
+The position under section 30, sub section
+(2) of the Amendment Act is substantially similar.
+By sub section
+(1) of this section certain additions and amendments are made in the schedule to the principal Act by cls.
+(a), (b), (c) and (d).
+sub section
+(2) then provides for the retrospective operation of the amendment made by sub section
+(1) in terms similar to those used in section 7, sub section
+It is clear that the Provisions in sections 7 and 30 are intended for the benefit of the assessees and so the legislature may have thought it necessary to confer on the Income tax Officer specific and express power to revise his orders in respect of the relevant assessments wherever necessary to give effect to the amendments in question.
+The effect of this provision is to make it obligatory on he Income tax Officer to revise his original orders in he light of the amendments and also to confer on the assessee right to claim such revision.
+It may be con ceded that in respect of the other retrospective provisions of the Amendment Act such a power to revise the earlier orders cannot be claimed or exercised by the Income tax Officer.
+In other words, a distinction can be drawn between there two provisions of the Amendment Act and the rest in respect of the power which the Income tax Officer can purport to exercise to give effect to the amendments made by the Amendment Act.
+Whereas, in respect of the amendments made by section 7 and section 30 of the Amendment Act, the Income tax Officer can and must revise his earlier orders covered by section 7, sub section
+(2) and section 30, sub section
+(2), such a power of revision has not been conferred on him in the matter of giving effect to the other amendments made in the Amendment Act.
+Even so, we do not think it would be legitimate or reasonable to hold that the provisions of section 7(2) and section 30(2) lead to the infference that the retrospective operation of the other provisions of the Amendment Act is not intended to affect concluded assessments in any manner whatever.
+In this connection, it would be pertinent to remember that the power to revise which has been conferred on 711 the Income tax Officer by section 7(2) and section 30(2) of the Amendment Act is distinct and independent of the power to rectify mistakes which the Income tax Officer can exercise under section 35 of the Act.
+It is in the light of this position that the extent of the Income tax Officer 's power under section 35 to rectify: mistakes apparent from the record must be determined; and in doing so, the scope and effect of the expression " mistake apparent from the record " has to be ascertained.
+At the time when the Income tax Officer applied his mind to the question of rectifying the alleged mistake, there can be no doubt that he had to read the principal Act as containing the inserted proviso as from April 1, 1952.
+If that be the true position then the order which he made giving credit to the respondent for Rs. 50,603 15 0 is plainly and obviously inconsistent with a specific and clear provision of the statute and that must inevitably be treated as a mistake of law apparent from the record.
+If a mistake of fact apparent from the record of the assessment order can be rectified under section 35, we see no reason why a mistake of law which is glaring and obvious cannot be similarly rectified.
+Prima facie it may appear somewhat strange that an order which was good and valid when it was made should be treated as patently invalid and 'wrong by virtue of the retrospective operation of the Amendment Act.
+But such a result is necessarily involved in the legal fiction about the retrospective operation of the Amendment Act.
+If, as a result of the said fiction we must read the subsequently inserted proviso as forming part of section 18A(5) of the principal Act as from April 1, 1952, the conclusion is inescapable that the order in question is inconsistent with the provisions of the said proviso and must be deemed to suffer from a mistake apparent from the record.
+That is why we think that the Income tax Officer was justified in the present case in exercising his power under section 35 and rectifying the said mistakes.
+Incidentally we may mention that in Moka Venkatappaiah vs Additional Income Tax Officer, Bapatla (1), the High Court of Andhra has taken the same view.
+(1)(1957) 712 In this connection it would be useful to refer to the decision of the Privy Council in the Commissioner of [Income Tax, Bombay Presidency and Aden vs Khemchand Ramdas (1).
+In Khemchand 's case, the assessees were registered as a firm and they were assessed under section 23(4) on an income of Rs. 1,25,000 at the maximum rate.
+Being a registered firm no super tax was levied.
+A notice of demand was also made before March 1927.
+On February 13, 1928, the Commissioner, in exercise of his powers under section 33, cancelled the order registering the assessee as a firm and directed the Income tax Officer to take necessary action.
+The Income tax Officer accordingly assessed the firm to super tax on May 4, 1929.
+The Privy Council held that the assessment made on January 17, 1927, was final both in respect of the income tax and super tax.
+The fresh action taken by the Income tax Officer on May 4, 1929, was out of time though it had been taken in pursuance of the directions of the Commissioner and that the order of May 4, 1929, was one which the Income tax Officer had no power to make.
+One of the points raised before the Privy Council was whether, under the relevant circumstances the Income tax Officer had power to make the impugned order in view of the provisions of sections 34 and 35 of the Act.
+The Privy Council dealt with this question on the footing that the Commissioner 's order cancelling the registration had been properly made.
+On this basis their Lordships thought that it was unnecessary to consider whether the. case would attract the provisions of section 34 " inasmuch as in Their Lordships ' opinion the case clearly would have fallen within the provisions of section 35 had the Income tax Officer exercised his powers under the section within one year from the date on which the earlier demand was served upon the respondents ".
+The judgment shows that Their Lordships took the view that looking at the record of the assessments made upon the respondents as it stood after the cancellation of the respondents ' registration and the order effecting the cancellation would have formed part of the record it would be apparent that a mistake (1)(1938) L.R. 65 I.A. 236. 713 had been made in stating that no super tax was leviable.
+This decision clearly shows that the subsequent cancellation of the assessees ' registration was held by Their Lordships of the Privy Council to form part of the record retrospectively in the light of the said subsequent event, and the order was deemed to suffer from a mistake apparent from the record so as to justify the exercise of the rectification powers under section 35 of the Act.
+It is because Their Lordships thought that section 35 would have been clearly applicable that they did not decide the question as to whether section 34 could also have been invoked.
+This decision lends considerable support to the view which we are disposed to take about the true meaning and scope of the expression " the mistake apparent from the record " occurring in section 35.
+We must accordingly hold that the High Court of Bombay was in error in coming to the conclusion that the notice issued by the Income tax Officer calling upon the respondent to pay 9the sum of Rs. 29,446 9 0 was not warranted by law.
+The result is the order passed by the High Court issuing a writ against the appellant is set aside and the appeal is allowed with costs throughout.
+Appeal allowed.

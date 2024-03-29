@@ -1,0 +1,95 @@
+Appeal No. 51 of 1972.
+(From the judgment and order dated the 16th Oct., 1970 of the.
+Gujarat High Court in I.T. Ref.
+No. 4 of 1967) 221 V.S. Desai, J. Ramamurthi and Girish Chandra, for the appel lant.
+B. Sen, Mrs. ,4.
+K. Verma, K.J. John and Shri Narain for the respondents.
+Judgment of the Court was delivered by KHANNA, J.
+This appeal on certificate is against the judgment of Gujarat High Court whereby the High Court an swered the following question referred to it under section 256(1) of the Income tax Act, 1961 (hereinafter referred to as the Act of 1961) in favour of the assessee respondent and against the revenue: "Whether on the facts and in the circumstances of the case, there was a transfer of a capital asset within the meaning of section 45 read with section 2(47) of the Income tax Act, 1961 ?" The matter relates to the assessment year 1962 63, for which the accounting previous year was calendar year 1961.
+The assessee who is an individual held 192 shares of Kawelengoji Ginneries Ltd., Kampala, a private limited company incorporated in Uganda (hereinafter referred to as the Uganda company).
+Those shares were acquired by the assessee sometimes before January 1, 1954 and he paid Sh.
+1000 for each share.
+The amount thus paid by the assessee for the 192 shares was Sh.
+1,92,000, equivalent to Rs.28,000.
+The said company went into voluntary liquidation as per special resolution dated July 10, 1961.
+The liquida tors sold the assets of the company in due course and the liquidators account was finally drawn up on July 31, 1961.
+As per this account, the assessee became entitled to receive Sh.
+4,68,489 at the rate of Sh.
+2440.0493 per share as return of capital.
+The above amount was equivalent to Rs.3,12,326.
+There was thus an excess of Rs.1,84,326.
+This amount was received by the assessee during the accounting year.
+The Income tax Officer treated the amount of Rs.1,84,326 as capital gains liable to tax within the meaning of section 45 of the Act of 1961.
+It was pointed out by him that the Uganda company was not a company within the meaning of section 2(17) of the Act of 1961 and the shareholders thereof could not be said to be entitled to the benefit provided under section 46(2) of the Act of 1961.
+Accord ingly, the entire amount was liable to be taxed as above.
+On appeal before the Appellate Assistant Commissioner refer ence was made on behalf of the assessee to the definition of the word "transfer" in section 2(47) of the Act of 1961.
+according to which transfer in relation to a capital asset includes the sale, exchange or relinquishment of the asset or the extinguishment of any rights therein or the compulsory acquisition thereof under any law.
+There was no dispute that the present was not a case of sale, exchange or compulsory acquisition of capital asset within the meaning of section 2(47) of the Act of 1961.
+The only question was whether there was "relinquishment of the asset or the extinguishment of any rights therein".
+The Appellate Assistant Commissioner held that for the relinquishment of an asset, the asset must 222 continue to be in existence.
+Applying that criterion, the Appellate Assistant Commissioner held that there was no relinquishment of the asset.
+There was, however, in the opinion of the Appellate Assistant Commissioner, extinguish ment of the rights in the capital assets as represented by the shares and therefore the amount was liable to be taxed to capital gains tax.
+The appeal of the assessee was ac cordingly dismissed.
+On second appeal the assessee, apart from contesting the taxability of the amount of Rs.1,84,326 as capital gains, raised two other contentions.
+One of those contentions was that in any event the capital gains should have been computed by deducting the fair market value of the asset as on January 1, 1954 from the amount received by the assessee.
+The other contention was that having regard to the provisions of section 114 of the Act of 1961 the levy of capital gains tax should have been much less than the amount actually calculated by the Income tax Officer.
+We are in the present case not concerned with the second con tention.
+The first of these two contentions was, however, accepted and it was held that taking into account the value of the shares as on January 1, 1954 the capital gain, if chargeable, would work out to be Rs.1,23,590.
+The Tribunal then went into the question as to whether there was transfer of capital assets and came to the conclusion that there was no such transfer within the meaning of section 2(47) of the Act of 1961.
+The contention of the revenue that there had been extinguishment of the rights of the assessee was re pelled.
+In the result the appeal of the assessee was ac cepted.
+On the application made by the appellant, the question reproduced above was then referred to the High Court.
+The High Court in answering the question referred to it in the negative, held that the transfer contemplated by section 45 should be one as a result of which consideration is received by the assessee or accrues to him.
+When a shareholder receives moneys representing his share on dis tribution of the net assets of the company in liquidation, he, in the opinion of the High Court, receives such moneys in satisfaction of the right which belongs to him by virtue of his holding the share and not by way of consideration for the extinguishment of his right in the share.
+The High Court accordingly concluded that when a shareholder receives his share on final distribution of the assets of the company in liquidation, there is no transfer of capital assets by him which would attract the charge of capital gains tax.
+The judgment of the High Court is reported in Before proceeding further, we may mention that tax on capital gains was charged for the first time by the Income tax and Excess Profits Tax (Amendment)Act, 1947 (Act 22 of 1947) which inserted section 12 B in the Indian Income tax Act, 1922.
+It taxed capital gains arising after March 31, 1946.
+The tax on capital gains was virtually abolished by the Indian Finance Act, 1949 which confined the operation of section 12 B to capital gains arising before April 1, 1948.
+Capital gains tax was.
+however.
+revived with effect from April 1. 1957 by the Finance (No. which insert ed new section 12 B instead of the old section 12 B in the Act of 1922.
+223 In the present appeal we are, however, concerned with the Act of 1961.
+It may be appropriate at this stage to refer to the relevant provisions of that Act at the material time.
+Section 2(14) of the Act defined capital assets to mean property of any kind held by an assessee, whether or not connected with his business or profession, but does not include certain categories of property which need not be mentioned as we are not concerned with them.
+It is the common case of the parties that the shares held by the assessee in the Uganda company constituted capital asset.
+"Company" has been defined in Section 2(17) of the Act to mean (i) any Indian company, or (ii) any association, whether incorporated or not and whether Indian or non Indian, which is or was assesable or was assessed under the Indian Income tax Act, 1922 (XI of 1922), as a company for the assessment year commencing_from the 1st day of April, 1947, o.r which is declared by general of special order of the Board to be a company for the purposes of the Act.
+The learned counsel for the parties are agreed that the Uganda company was not a company within the meaning of the word "company" as given in the above provision.
+Transfer in relation to a capital asset has been defined in clause (47) of section 2 of the Act, and the definition reads as under: "(47) 'transfer ' in relation to a capi tal asset, includes the sale, exchange or relinquishment of the asset or the extin guishment of any rights therein or the compulsory acquisition thereof under any law;" Section 45 deals with the levy of tax on capital gains, and reads as under: "45 Capital gains.
+Any profits o.r gains 'arising from the transfer of a capital asset effected in the previous year shall, save as otherwise provided in section 53 and 54, be chargeable to income tax under the head 'Capital gains ' and shall be deemed to be the income of the previous year in which the transfer took place.
+" Section 45 deals with the levy of tax on capital gains, and reads as by companies in liquidation reads as under: "46.
+Capital gains on distribution of assets by companies in liquidation. (1) Notwithstanding anything contained in section 45, where the assets of a company are dis tributed to its shareholders on its liquida tion, such distribution shall not be regarded as a transfer by the company for the purposes of section 45.
+(2) Where a shareholder on the liquidi sation of a company receives any money or other assets from the company, he shall be chargeable to income tax under the head 'Capital gains ', in respect of the money so received or the market 224 value of the other assets on the date of distribution, as reduced by the amount assessed as dividend within the meaning of sub clause (c) of clause (22) of section 2 and the sum so arrived at shall be deemed to be the full value of tire consideration for the purposes of section 48.
+" Section 47 specifies some of the transactions which shall not be regarded as transfers.
+Section 48 prescribes the mode of computation and deductions in the matter of tax on capital gains.
+There can be no dispute that the amount received by the assessee in respect of the 192 shares of the Uganda company held by him in excess of the cost of acquisition of those shares constituted profits or gains.
+The question with which we are concerned is whether those profits or gains arose from a transfer of the capital assets.
+The argument of Mr. Desai, learned counsel for the appellant, is that when the assessee received the sum of Sh.
+4,68,489 in lieu of the 192 shares held by him in the Uganda company, he received that amount as a result of transfer.
+The word "transfer" in relation to a capital asset.
+according to the learned counsel, includes extinguishment of any rights therein.
+The words "extinguishment of any rights therein", it is submitted, would cover the case of the assessee when he received the amount mentioned above on account of the shares held by him in the Uganda company.
+The above conten tion has been controverted by Mr. Sen who was urged that there was no transfer contemplated by law as to attract the levy of tax on capital gains.
+After giving the matter our earnest consideration, we are of the opinion that the con tention of Mr. Sen is well founded.
+The question as to whether the distribution of assets of a company has gone into voluntary liquidation to its share holder would amount to sale, exchange, relinquishment or transfer within the meaning of section 12 B of the Act of 1922 as amended in 1956 was considered by this Court in the case of Commissioner of Income tax, Madras vs Madurai Mills Co. Ltd.(1) While answering that question in the negative, this Court held that the act of the liquidators in distrib uting the assets of the company which had gone into volun tary liquidation did not result in the creation of new rights.
+It merely entailed recognition of the legal rights which were in existence prior to the distribution.
+This Court further observed "When a shareholder receives money representing his share on distribution of the net assets of the company in liquidation.
+he receives that money in satisfaction of the right which belonged to him by virtue of his holding the shares and not by operation of any transaction which amounts to sale, exchange, relinquishment or transfer.
+" The above observations, though made in the context of sec tion 12 B of the Act of 1922 which related to capital gains in respect of profits or gains arising from sale, exchange.
+relinquishment or transfer of capital assets, in our opin ion, would also cover the case of extinguishment of any rights in capital assets.
+(1) 225 The matter can also be looked at from another angle.
+In the case of Indian companies and the other companies falling within the definition of company, as given in section 2(17) of the Act of 1961, the legislature, has made.
+express provision in sub section (2) of section 46 of the Act that where a shareholder on the liquidation of a company receives any money or other assets from the company, he shall be chargeable.
+to income tax under the head "Capital gains" in respect of the money so received or the market value of the other assets on the date of distribution as reduced by certain amounts which need not be specified.
+But for this provision, it would not have been possible, in our opinion, to charge tax under the head "Capital gains" on the money or other assets of a company received by its shareholder on its liquidation.
+The provisions of sub section (2) of section 46, as already mentioned, apply only to the distribution of assets by such companies in liquidation as are covered by the definition of the word "company" in section 2(17) of the Act.
+The legislature having made no similar provision in respect of companies other than those which fall within the definition contained in section 2(17), we find it difficult to sustain the levy of tax on capital gains when such other companies distribute assets on liquidation to share holders.
+We are not impressed by the argument of Mr. Desai that section 46(2) does not create liability of a share holder to pay tax on capital gains which liability, according to the learned counsel, arises because of section 45, but was enacted with a view to prescribe the mode of calculating capital gains in the event of distribution of the assets of a company in liquidation to its share holders.
+The afore said section, in our view, was enacted.
+both with a view to make shareholders liable for payment of tax on capital gains as well as to prescribe the mode of calculating the capital gains to the shareholders on the distribution assets by a company in liquidation.
+But for that sub section, as already mentioned, it would have been difficult to.
+levy tax on capital gains to the shareholders on distribution of assets by a company in liquidation.
+Mr. Desai took us through the legislative history of the provisions relating to the levy of tax on capital gains.
+A similar attempt was made by the learned counsel for the revenue in the case.
+of Madurai Mills (supra) and this Court observed that consideration stemming from legislative histo ry cannot be allowed to override the plain words of a stat ute.
+As a result of the above, we dismiss the appeal with costs.
+P.H.P. Appeal dismissed.

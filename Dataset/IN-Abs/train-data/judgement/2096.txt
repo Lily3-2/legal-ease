@@ -1,0 +1,178 @@
+Appeal No. 274 of 1964.
+Appeal from the judgment and decree dated November 3, 1960 of the Madras High Court in C.C.C. Appeal No. 61 of 1957.
+A. K. Sen, V. Bhagat and D. N. Gupta, for the appellant.
+section T. Desai, Kesawlal and R. Ganapathy Iyer, for the respondent.
+The Judgment of the Court was delivered by Subba Rao, J.
+The appellant, Ellerman Bucknall Steamship Company Ltd., hereinafter called the shipowners, are a limited liability company incorporated under the law in the United Kingdom carrying on business as common carriers by sea.
+They own a ship named "CITY OF LUCKNOW".
+Messrs. Best & Co., Ltd., having their office at Madras, are the local agents of the shipowners.
+Sha Misrimal Bherajee, the respondent herein, hereinafter called the buyer, entered into two contracts with the British Mercantile Company Limited, New York, herein after called the seller, for the purchase of Fresh Monsanto Polystyrene Injection Moulding Power (not reground) in granueles manufactured by Monsanto Chemical of New York.
+In respect of the first contract, the purchaser placed two indents dated December 26, 1950, and December 27, 1950, for the said stuff of value of Rs. 13,500/ and Rs. 6,750/ respectively.
+The buyer entered into a second contract with the seller for the purchase of 24 drums of the same material of the value of Rs. 16,000/ under an indent dated January 23, 1951.
+In respect of the first contract and indents the 94 buyer opened and confirmed an irrevocable Letter of Credit No. 4748 dated December 28, 1950, for U.S. $4535 plus war risk with the Eastern Bank Limited.
+In regard to the second contract he opened another irrevocable Letter of Credit No. 5012 dated January 31, 1951 for U.S. $3,330.
+As the said Bank had no branch of its own at New York, it arranged with the Marine Midland Trust Company of New York for payment of the bills that might be presented by the seller in New York.
+Pursuant to the said contracts, the seller delivered to the shipowners certain consignments in reused fibre drums.
+The bills of lading issued by the shipowners described the drums simply as drums.
+After taking a letter of indemnity to cover against any loss, the shipowners issued clean bills of lading.
+The seller negotiated the bills of lading with the Marine Midland Trust Company, New York and obtained payment of U.S. $6,998.75 under the letters of credit.
+Thereafter, the bills of lading were forwarded to the Eastern Bank Limited, Madras, and the buyer paid to the said Bank a sum of Rs. 33,012 5 9 against the said letters of credit.
+When the shipment arrived it was discovered that the goods sought to be delivered did not answer the description given in the documents.
+Indeed ', the drums contained only coal dust and factory shavings.
+The buyer took appropriate proceedings against the seller in the American, courts and realized a sum of Rs. 13,604 9 0.
+Thereafter, he instituted the present suit in the City Civil Court, Madras, for the re covery of a sum of Rs. 23,760 15 6 against the Bank as well as the shipowners.
+To that suit the Bank was made the 1st defendant and the shipowners, the 2nd defendant.
+Broadly stated, the basis of the claim against the Bank was that, though under the letters of credit the Bank had the authority to pay only against clean bills of lading, it paid against unclean bills of lading.
+The cause of action against the shipowners was that they made a misrepresentation that the bills of lading were clean whereas in fact they were not so, with the result, acting on that misrepresentation, the agent of the Bank paid against the said bills of lading which it would not have done had it known the real facts.
+The learned City Civil Judge held that the bills of lading were clean ones but in respect of one of the letters of credit the Bank should not have accepted the shipping documents which related only to a part of the goods contracted for.
+On that finding the learned Judge held that the Bank was liable to refund the amount paid only under one of the letters of credit.
+As against the shipowners he came to the conclusion that even if the bills were not clean, the Bank would nevertheless have paid the amount, as the terms of the letters of credit were comprehensive enough to authorize such payments.
+In the result, he dismissed the suit against the shipowners but decreed it in part against the Bank.
+The Bank and the shipowners preferred appeals to the High Court against the said decree insofar as it went against each of them.
+95 The appeals were heard by a Division Bench of the Madras High Court.
+The learned Judges of the High Court came to the conclusion that the shipowners with the knowledge that the bills of lading would be negotiated gave, at the request of the seller, clean bills of lading while as a matter of fact only unclean bills of lading should have been given.
+They further held that the purchaser was damnified, as on the basis of the misrepresentation found in the bills of lading the Bank paid the amount against the shipping documents which it would not have done if it had known that the bills of lading were unclean.
+In the result, they gave a decree for the entire suit claim against the shipowners.
+They allowed C.C.C.A. No. 61 of 1957 against the shipowners but dismissed it against the Bank.
+C.C.C.A. No. 54 of 1957, the appeal filed by the Bank, was allowed.
+The shipowners have preferred the present appeal against the decree given by the High Court against them.
+The argument of Mr. A. K. Sen, learned counsel for the appellant, may broadly be placed under the following three heads: (1) While the respondent based his cause of action on a breach of contract, the High Court gave the relief founded on deceit; (2) under common law or contract the appellant had no duty or obligation to make a statement in the bills of lading that the drums were old ones and, therefore, the non mention of that fact could not have misled the Bank into paying against the shipping documents under the letters of credit; and (3) the bills of lading were clean ones, for the oldness or newness of drums had no real impact on the contents thereof, for both, were equally suitable containers of the articles to be supplied.
+Mr. section T. Desai.
+learned counsel for the respondent, while made a faint attempt to sustain the decree of the High Court on the basis of breach of contract, seriously sought to support it on the doctrine of deceit.
+He argued that there was a fraudulent misrepresentation by the appellant in collusion with the seller to the effect that the bills of lading were clean while in fact they were not and that, acting on that misrepresentation, the Bank, through its agent at New York, paid the amount to the seller under the letters of credit against the shipping documents, which it would not have done if such a misrepresentation had not been made.
+He countered the contentions of the learned counsel for the appellant that the High Court gave a decree on a cause of action different from that on which the plaint was based.
+The first contention turns upon the pleadings as well as on the conduct of the parties during the trial and the appeal.
+A perusal of the plaint discloses that the 2nd defendant was sought to be made liable both in contract and in tort.
+Paragraph 9 of the plaint reads thus: "if the first defendants state that they acted on the terms of the bills of lading and are therefore protected, the plaintiffs 96 also charge that in any event the second defendants are liable, for issuing the bills of lading without disclosing the true state of facts and for inserting statements in the bills of lading which are now admitted to be untrue.
+The plaintiffs also charge that the defendants are precluded from denying the correctness of the statement in the bills of lading as regards the apparent good order and condition as mentioned in the bills, of lading.
+The plaintiffs charge that the second defendants and the shippers acted collusively with a view to enable if possible the shippers to obtain moneys against goods which were not the goods agreed to be sold and which were not consigned according to the contract.
+The very fact that the second defendants have obtained an indemnity for issuing the bills of lading without disclosing the real state of facts would show their consciousness that they were not right in issuing the bills of lading in the terms they did and whatever their rights as against the shippers may be on the indemnity, the plaintiffs are not concerned with the same, but the second defendants are liable to the plaintiffs to make good the loss resulting by reason of a representation acted on by which the plaintiffs have been damnified".
+This passage in the plaint contains all the necessary allegations to sustain a claim in tort.
+It is clear, therefore, that the claim of the buyer against the shipowners was also based upon the misrepre.
+sentation made by the latter in the bills of lading.
+In the written statement the appellant denied the allegations in para 9 of the plaint and stated that there was no secret arrangement between them and the seller in regard to the goods or the containers.
+The shipowners also denied that they inserted any untrue statement in the bills of lading acting in collusion with the seller to enable the latter to obtain money against the bills of lading.
+Issue 6 framed by the learned City Civil Judge reads: "Did the second defendant act bona fide throughout in issuing the bills of lading and in taking an indemnity from the shippers?".
+The judgment of the learned City Civil Judge discloses that the question of misrepresentation by collusion was argued and the learned Judge held that the Bank was not misled, as under the letters of credit it had to pay the amount against the bills of lading, whether clean or unclean.
+Before the High Court also the question of misrepresentation by the shipowners was expressly raised and was accepted by it.
+We cannot, therefore, agree with the contention of the learned counsel for the appellant that the High Court had made out a new case which was not raised in the plaint: indeed, the claim on the basis of misrepresentation was made in the plaint, denied by the appellant in the written statement and argued in both the courts below.
+There are, therefore, no merits in the first contention.
+97 On the question of the appellant 's liability to the buyer in contract, we are satisfied that there is no basis for it.
+Indeed, learned counsel for the respondent did not seriously press the point, though he did not give it up altogether.
+A bill of lading serves three purposes, viz., (i) it is receipt for the goods shipped containing the terms on which they have been received; (ii) it is evidence of the contract for carriage of goods , and (iii) it is a document of title for the goods specified therein.
+The contract of the shipowners in the bill of lading is that they will de.liver the goods at their destination "in the like good order and condition" in which they were when shipped.
+In terms of the contract the shipowners delivered the goods to the buyer in the drums.
+The consignee incurred damages not because of any defect in the drums but because the seller sent goods different from those he had agreed to sell to him.
+Therefore, the shipowners were not liable for any damages to the purchaser on the basis of breach of any of the terms of the contract.
+No further elaboration on this point is called for, as finally this point was not seriously pressed by the learned counsel for the respondent.
+Now we shall consider the main point raised in the appeal, namely, the liability of the appellant in tort.
+Before we advert to the question of law it would be convenient to notice the relevant facts.
+Exhibit A 1 dated December 26, 1950, the indent placed by the buyer with the seller in respect of Fresh Monsanto Polystyrene Injection Moulding Powder of value of Rs. 13,500/ .
+The packing was to be in new fibre drums each containing 250 lbs.
+Exhibit A 2 is another indent dated December 27, 1950, placed by the buyer with the seller.
+The quantity required thereunder was of the value of Rs. 6,750/ and the packing was to be in new fibre drums each containing 250 lbs.
+Exhibit A 5 is the third indent dated January 23, 1951, for the same goods worth Rs. 16,500/ with similar terms.
+The buyer opened two letters of credit, Exs.
+B 1 and B 2, with the Eastern Bank Limited, Madras, for U.S. $ 7,625.
+Exhibits B 28 and B 29 are the letters written by the Eastern Bank Limited, Madras, to the Marine Midland Trust Company, New York, to open letters of credit for payment of the bills that might be presented by the seller.
+Exhibit B 1 reads: "We hereby authorise and request you and/or your Agents and/or Representatives at New York to open a confirmed and irrevocable bank credit in favour of Messrs. British Mercantile Company Limited etc., and to make payment or payments thereunder on our behalf. . against documents purport ing to be invoices, shipping specifications, Bills of Lading and Policies and/or Certificates of Insurance covering Marine and War Risks. .
+We agree that this credit is subject to U.S.A. regulations and practice." 98 Exhibit B 2 is also a similar letter of credit.
+Clause 3 of exhibit 28 reads: " Clean on Board" Bills of Lading in complete sets of at least two signed copies to be made out to the order of the Eastern Bank Limited.
+or to order blank endorsed and marked by the shipping company 'Freight paid '.
+" Exhibit B 29 also contains similar recitals.
+It will be seen that though the words "clean on board" bills of lading are not found in exhibit B 1 and B 2, but in the directions given to the Marine Midland Trust Company, New York, the said words are clearly found.
+The following relevant recitals are found in a sample of the bills of lading: "Received in apparent good order and condition from British Mercantile Company, Limited, City of Lucknow, to be transported by the good Vessel City of Lucknow to sail from the Port of New York for the East Indies. . . . .
+Total 21 packages, said to weigh 9,920 lbs.
+said to be marked and numbered as below (weight, gauge, measurement, contents, conditions, quality and value unknown, statements of same herein being made solely on shipper 's declaration and this bill of lading not to be deemed any evidence thereof) to be delivered as provided hereunder (liability as carrier to end without notice) in like good order and condition at Madras or so near thereto as the vessel may safely get unto order of the Mercantile Bank of India, Limited, or to his or their Assigns. . . . . . " The bill of lading gives the number of packages as 21 drums and under the column "description of goods" it states "Polystyrene, Powder".
+The Mate 's receipt given to the seller on the arrival of the goods at the wharf for being carried by S.S. City of Lucknow describes them is being packed in refused drums.
+The seller gave an indemnity bond to the shipowners and the material part of it reads: "We shall be obliged by your granting us Clean Bills of Lading for the under mentioned goods, Mate 's receipt being claused Reused Drums and in consideration of your so doing we undertake to pay on demand all freight and/or General and particular Average and/or charges there may be thereon, to indemnify you and each of you against all claims and/or demands which may be made against you or any of you in respect of the undermentioned goods and to hold you harmless from any and all consequences that may arise by your granting such clean B/L and acting thereon including losses, damages, costs or any other expenses which you or any of you may sustain or incur by reason of the premises or in any way relating thereto.
+" 99 After obtaining the said indemnity bond, the shipowners issued the bill of lading wherein instead of "reused drums" only "drums" was mentioned.
+It will be seen from the said documents that according to the indents the seller had to pack the goods in new fibre drums.
+that the Bank opened letters of credit for payment against bills of lading, that the Marine Midland Trust Company of New York, the agent of the Eastern Bank Limited, Madras, opened letters of credit whereunder payments could be made only against clean bills of lading, that in the Mate 's receipt given to the seller on the arrival of the goods at the wharf for being carried by S.S. City of Lucknow the drums were described as reused drums and that thereafter, after giving indemnity against any loss to the shipowners, in the bill of lading the drums were not described as reused drums but only as drums.
+The learned City Civil Judge on the said documents gave the following findings: .lm0
+Thus, if the Bills of Lading were unclean certainly the banks would not have paid the money to the shippers.
+In fact it was for the very purpose of enabling the shippers to obtain monies from the banks that they wanted clean Bills of Lading and were prepared to give letters of indemnity to the shipping company.
+With such description in the Bills of Lading it is extremely doubtful whether even the under writers would have insured the goods as required under the letters of credit.
+If the shippers had not produced either clean Bills of Lading or Certificates of Insurance as required under the letters of credit then certainly the shippers could not have realised the money from the bank.
+Thus the second defendants have certainly helped the shippers in this matter by suppressing the real condition of the goods from the Bills of Lading.
+" The High Court, agreeing with that finding, held "the shipowner with the knowledge that the bills of lading would be negotiated, gave at the request of the seller clean bills of lading, while as a matter of fact only unclean bills of lading should have been given".
+The question is whether on the said facts and the findings given by the courts below the purchaser could maintain an action for deceit against the shipowners.
+"Deceit is a false statement of a fact made by a person knowingly or recklessly with the intent that it shall be acted upon by another who does act upon it and thereby suffers damage"; see "A Text book of the Law of Tort" by Winfield; 5th Edn., at 6. 379.
+In order to make the shipowners liable for deceit, the first ingredient to be satisfied is that they knowingly issued a clean bill of lading, when it should not have been given, with intent that on that basis payment would be made to the holder of the bill under the letters of credit.
+In order to come to a correct conclusion whether the ingredients of the definition of "deceit" have been satisfied in the present case, it is necessary to know the exact scope of the following three terms: "letters of credit", "bill of lading", and "clean bill 100 of lading".
+The said three expressions are evolved in the law merchant to facilitate international trade.
+The origin and importance of letters of credit in the international commerce has been stated by Denning, L. J., in Pa via & Co., A.P.A. vs, Thurmann Neilsen(1) as follows: "The sale of goods across the world is now usually arranged by means of confirmed credits.
+The buyer requests his banker to open a credit in favour of the seller and in pursuance of that request the banker, or his foreign agent, issues a confirmed credit in favour of the seller.
+This credit is a promise by the banker to pay money to the seller in return for the shipping documents.
+Then the seller, when he presents the docu ments, gets paid the contract price.
+The conditions of the credit must be strictly fulfilled, otherwise the seller would not be entitled to draw on it." But when issuing banker has no branch in the relevant country where the beneficiary operates, the services of an intermediary banker may be requisitioned.
+The intermediary banker may be asked to advise the beneficiary of the credit or may be asked to add his confirmatory undertaking to it.
+In the latter event the beneficiary has the promise of both the bankers.
+As letters of credit are issued or opened on conditions on which the request is made, the banker can only negotiate the shipping documents if the conditions are strictly complied with.
+If, for instance, the mandate of the buyer is that the banker shall pay on a clean bill of lading, the banker can only honour a clean bill and not an unclean one.
+When a purchaser specifically directs the banker to pay against a clean bill of lading, the condition for payment is an obvious one.
+But, when a credit calls for bills of lading without any qualification, in normal circumstances it means clean bills of lading: see British Imex Industries Ltd. vs Midland Bank Ltd.(2).
+A clean bill of lading is defined in Halsbury 's Laws of Eng land, 3rd Edn., Vol. 2, at p. 218, as "one which does not contain any reservation as to the apparent good order and condition of the goods or the packing".
+Carver in his book "British Shipping Laws", Vol. 2, Part 1, in para.
+82, explains the expression "good order and condition" thus: "The general statement in the bill of lading that the goods have been shipped "in good order and condition" amounts (if it is unqualified) to an admission by the shipowner that, so far as he and his agents had the opportunity of judging, the goods were so shipped.
+If there is no clause or notation in the bill of lading modifying or qualifying the statement that the goods were "shipped in good order and condition" the bill is known as a clean bill of lading.
+" Decisions have held that the "condition" refers to external and apparent condition, and quality, to some thing which is usually not (1) , at 88.
+(2) , a 551. 101 apparent at all events to an unskilled person: see Compania Naviera Vasconzada vs Churchill & Sim(1).
+The words like "quality and measure unknown" found in Compania Naviera Vasconzada vs Churchil & Sim(1) "weght, contents and value unknown" in The Peter der Grosse(1); "weight, quality, condition and measure unknown" in The Tromp(3) were held to be not qualifying words.
+In The Restitution Steamship Co., Ltd., vs Sir John Pirie and Co.(1) it was held "if you insert in the margin of a bill of lading weights, quantities, or anything that is not contained in the bill of lading itself, that is not a clean bill of lading".
+If such words found a place in the body of a bill of lading, they would not have the effect of making the bill an unclean one, we do not see how their mention in the margin would make a difference.
+But we need not express our final opinion thereon, as in the present case the words are found in the body of the bill itself.
+But it is said that the omission of the adjective "new" qualifying the word "drums" or indeed the addition of the adjective "old" to qualifying the same would not necessarily make the bill any the less a clean bill, if old drums were suitable vehicles for conveying the articles supplied therein.
+The newness or the oldness of the container, the argument proceeded, was not decisive of its suitability, for in the main it depended upon its condition and contents.
+This argument as a proposition of law appears to be sound.
+In The Tromp(3) potatoes, to the knowledge of the defendants ' master who signed the bill of lading, were shipped in wet bags and in a damaged condition.
+The court held that as in the bill of lading the potatoes were described as shipped in good order and condition, which rep resented the external condition of the bags, the defendants were estopped from denying that the bags were dry when shipped.
+But it would be noticed that the packing in that case was defective and that was the main cause for the rotting of the potatoes and, therefore, the bill of lading was not a clean one.
+In Silver vs Ocean Steamship Co., Ltd.(1), damage was caused to frozen eggs as the can wherein they were packed were gashed, perforated or punctured and the eggs were insufficiently packed.
+So the court held that having given a clean bill of lading the shipowner was estopped from proving that the cans were not in apparent good order and condition.
+In Brown Jenkinson & Co., Ltd. vs Percy Dalton (London) Ltd.(1) orange juice was shipped in barrels.
+Some of the barrels were old and frail and some were leaking.
+Yet the shipowners gave a clean bill of lading.
+They were estopped from denying that the barrels were in apparent good order and condition.
+These decisions establish that good order and condition of packages depends upon the suitability of the packages for the (1)L.R. (2) L.R.[1876]lp.414.
+(3)L.R. [1921] p. 337.
+(4) (5)L.R.[1930]1 K.B.416.
+(6) 102 particular goods or articles packed therein and other relevant circumstances of each case.
+What is the real scope and legal effect of the statement in the bill of lading that the goods were shipped in good order and condition? We have already noticed that a bill of lading with such a statement, which does not contain any further reservation or qualification, is known as a clean bill of lading.
+The said words are affirmation of a fact.
+It is an admission creating an estoppel as between the shipowners and an endorsee, who on the faith of that admission has become endorsee for value of the bill of lading.
+The shipowners are estopped from denying that the goods and the packages were not in good order and condition.
+The estoppel applies only where the bad condition is discernible on a reasonable examination of the containers, having regard to their contents.
+Any qualification of the said affirmation must only refer to the external and apparent condition of the containers: see The Skarp(1), Silver vs Ocean Steamship Co., Ltd.(") Companies Naviera Nazconzada vs Churchill & Sim(1), and The Tromp(4).
+It is not necessary to consider the said decisions in detail as the principle is well settled.
+Now let us look at the relevant facts of the present case.
+It was one of the terms of the contract between the seller and the buyer that the goods should be packed in new fibre drums.
+The standard of good order and condition of the packages was agreed upon by the parties to the contract.
+The shipowners knew that condition as the Mate 's receipt disclosed the same.
+If the drums had been mentioned as old in the bill of lading, the said bill would not have been a clean bill.
+Though the apparent condition of the drums was old, the shipowners made an assertion that they were not old drums, i.e., they gave a clean bill.
+This representation was obviously intended, in collusion with the seller, to enable him to operate upon the credit with the Bank.
+This collusion is also apparent from the indemnity bond they took from the seller to guard themselves against the consequences of the said representation.
+All the elements of deceit are present.
+The decision in Brown Jenkinson & Co., Ltd. vs Percy Dalton (London) Ltd.(1) is apposite.
+There, the defendants had a quantity of orange juice which they wish to ship to Hamburg.
+The plaintiffs, as agents of the owners of the vessel on which the orange juice was to be shipped, informed the defendants that the barrels containing the orange juice were old and frail and that some of them were leaking and that a claused bill of lading should be granted.
+The defendants required a clean bill of lading, and the shipowners, at the defendants ' request and on a promise that the defendants would give to them an indemnity, signed bills of lading (1)L.R.[1935]134.
+(2) (3) (4) (5) 103 stating that the barrels were "shipped in apparent good order and condition".
+The defendants, pursuant to their promise, entered into an indemnity whereby they undertook unconditionally to indemnify the master and the owners of the vessel against all losses which might arise from the issue of clean bills of lading in respect of the goods.
+The barrels when delivered at Hamburg, were leaking and the shipowners had to make good the loss.
+The plaintiffs sued the defendants under the indemnity, the benefit of which had been assigned to them.
+The defendants refused to pay, alleging that the contract of indemnity was illegal, because it had as its object the making by the shipowners of a fraudulent misrepresentation.
+The court held that the shipowners by making in the bill of lading a representation of fact that they knew to be false with intent that it should be acted upon were committing the tort of deceit, and that the defendants ' promise to indemnify the shipowners against loss resulting from the making of that representation was accordingly unenforceable.
+The only difference on facts between that case and the present one is that in that case the barrels were not only old and frail but also some of them were leaking.
+But there, as here, the shipowners made a representation of fact which they knew to be false with intent that it should be acted upon.
+If so, it follows that the High Court was right in holding that the appellant was liable in damages for the loss incurred by the respondent.
+Learned counsel for the appellant sought to raise three fur ther points, namely, (i) the shipowners were not bound by the representation made by the ship 's mate; (ii) the bill of lading was governed by the American law and not by common law; and (iii) the plaintiff buyer, having obtained a decree against the seller in the American court, could not maintain the present suit for damages.
+The first point was not raised till now and, therefore, we can.
+not permit the learned counsel to raise it for the first time before us.
+The second point, namely, what is the American law? is a question of fact.
+We have not got sufficient material on the record to know what the American law on the subject is.
+We cannot, therefore, permit the appellant to raise this point either.
+The third point is also one not pressed in the courts below and, therefore, does not call for our decision.
+In the result, the appeal fails and is dismissed with costs.
+Appeal dismissed.

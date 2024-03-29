@@ -1,0 +1,35 @@
+In March 1967, after obtaining the satisfaction of the Commissioner the appellant issued a notice under section 148 of the Income Tax Act, 1961 stating that he had reason to believe that the respondent 's income chargeable to tax for the assessment year 1958 59 had escaped assessment.
+The respondent replied that the I.T.O. had no competence or jurisdiction to reopen the assessment under section 147 of the Act on a mere change of opinion.
+Since there was no reply from the appellant, the respondent moved the High Court for a writ.
+The High Court held that the conditions precedent for the exercise of jurisdiction by the Income Tax Officer were not fulfilled because the report submitted by the Income Tax Officer to the Commissioner under section 147(a) was defective.
+On appeal to this Court it was contended that the High Court was not right in holding that the Income Tax Officer 's report was defective.
+Dismissing the appeal, ^ HELD: The High Court was right in holding that the material before the Income Tax Officer could not have led to the formation of the belief that the income of the assessee had escaped assessment because of his failure or omission to disclose fully and truly all material facts.
+[965H] 1.
+(a) The two conditions required to be satisfied before the Income Tax Officer issued a notice under section 148 of the Income Tax Act are that he must have reason to believe (i) that the income chargeable to tax had escaped assessment and (ii) that such income had escaped assessment by reason of the omission or failure on the part of assessee, to disclose fully and truly material facts necessary for assessment for that year.
+Both these conditions must co exist in order to confer jurisdiction on the Income Tax Officer.
+Further the Income Tax Officer should record his reasons before initiating proceedings under section 148(2); before issuing the notice after the expiry of four years from the end of the relevant assessment year, the Commissioner should be satisfied on the reasons recorded by the Income Tax Officer that it was a fit case for the issue of such notice.
+[962C D] (b) The duty cast upon the assessee does not extend beyond making a true and full disclosure of the primary facts.
+It is then for the Income Tax Officer to draw the correct inference from the primary facts.
+Where his inference subsequently appears to be erroneous, mere change of opinion with regard to that inference would not justify initiation of action for reopening the assessment.
+[962F G] (c) The grounds or reasons leading to the formation of the belief under section 147(a) must have a material bearing on the question of escapement of income.
+Once there exist reasonable grounds for the Income Tax Officer to form the above belief, that would be sufficient to clothe him with jurisdiction to issue notice.
+While the sufficiency of grounds which induce the Income Tax Officer to act is not justiciable, it is open to the assessee to contend that the Income Tax Officer did not hold the belief that there was such non disclosure.
+The expression "reason to believe" does not mean a purely subjective satisfaction on the part of the Income Tax Officer.
+It is open to the Court to examine whether the reasons for the formation of the belief have a rational connection with or relevant bearing on the formation of the belief and are not extraneous or irrelevant for the purpose of the section.
+[962H] 957 Chhugamal Rajpal vs section P. Chaliha , Calcutta Discount Co. Ltd. vs Income Tax Officer, 41 I.T.R. 191 and section Narayanappa & Ors.
+vs Commissioner of Income Tax followed.
+In the instant case the grounds given by the Income Tax Officer for reopening the assessment were (i) that the three persons whose names were mentioned in the list of creditors, were known name lenders and (ii) that another person shown as a creditor of the assessee had since confessed that he was doing only name lending.
+The first ground mentioned by the Income Tax Officer could not have led to the formation of the belief that the income of the respondent had escaped assessment for that year because of his failure or omission to disclose fully and truly all material facts.
+The High Court was justified in excluding that ground from consideration.
+[963D E] As regards the second ground there is nothing to show that the confession of another person related to a loan to the assessee and not to someone else.
+There is no indication as to when the confession was made and whether it related to the assessment year sought to be re opened.
+To infer from that confession that it related to the period of assessment and that it pertained to the loan shown to have been advanced to the assessee would be far fetched.
+[964G] 2(a).
+Rational connection postulates that there must be a direct nexus or live link between the material coming to the notice of the Income Tax Officer and the formation of his belief that there had been escapement of income of the assessee from assessment in the particular year.
+It is not any and every material, howsoever vague and indefinite or distant, remote and far fetched which would warrant the formation of the belief relating to escapement of the income of the assessee from assessment.
+The fact that the words "definite information" in section 34 of 1922 Act before its amendment in 1948 do not find a place in section 147 would not lead to the conclusion that action could now be taken for reopening assessment even if the information was wholly vague, indefinite, far fetched and remote.
+[965B D] (b) The powers of the Income Tax Officer to reopen assessment, though wide, are not plenary.
+The words are "reason to believe" and not "reason to suspect".
+The provisions of the Act depart from the normal rule that there should be finality about orders made in judicial and quasi judicial proceedings.
+It is, therefore, essential that before such action is taken the requirement of the law should be satisfied.
+[965E F] In the instant case the live link or close nexus between the material before the Income Tax Officer and the belief which he was to form regarding the escapement of the income was missing or at any rate the link was too tenuous to provide a legally sound basis for reopening the assessment.

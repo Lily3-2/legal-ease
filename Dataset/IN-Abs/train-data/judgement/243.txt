@@ -1,0 +1,70 @@
+ppeal No. 23 of 1954.
+Appeal under article 133(1) of the Constitution of India from the Judgment and Decree dated the 28th February, 1952, of the High Court of Judicature at Allahabad in Writ Application No. 7297 of 1951.
+C. P. Lal for the appellant.
+N. C. Chatterjee (Radhey Lal Aggarwal, with him) for the respondent.
+May 3.
+The Judgment of the Court was delivered by VENKATARAMA AYYAR J.
+This is an appeal by the Sales Tax Officer, Pilibhit, against the judgment of the High Court of Allahabad granting firstly, a writ of certiorari quashing certain assessment orders made against the respondent, and secondly, a writ of prohibition in respect of certain other proceedings for 244 assessment of tax under the provisions of the Uttar Pradesh Sales Tax Act (Act XV of 1948).
+The respondent is a firm doing business in forward contracts, and was assessed in respect of such contracts to a tax of Rs. 1,082 8 0 for the year 1948 1949 by an order dated 27th February, 1950, Exhibit A, and to a tax of Rs. 7,369 for the year 1949 1950 by an order dated 23rd May, 1950, Exhibit B.
+For the period, 1st April, 1950, to 31st January, 1951, the respondent paid a sum of Rs. 845 4 0 as tax.
+Assessment proceedings were also started by the appellant in respect of certain forward contracts relating to gur and peas.
+The respondent challenged the legality of these proceedings and of the assessment orders on the ground that the Act in so far as it imposed a tax on forward contracts was ultra vires the powers of the Provincial Legislature.
+The learned Judges agreed with this contention, and issued a writ of certiorari quashing the orders of assessment, Exhibits A and B, and a writ of prohibition in respect of the proceedings for assessment of tax on forward contracts in gur and peas.
+The matter now comes before us in appeal under a certificate of the ' High Court under article 133(1) of the Constitution.
+Under the Government of India Act, 1935, the Pro vincial Legislature derived its power to impose a tax on the sale of goods under entry 48 in List 11 of the Seventh Schedule, and the Uttar Pradesh Sales Tax Act, XV of 1948, was enacted in exercise of this power.
+Section 2(h) of the Act defines "sale" as follows : "Sale" means within its grammatical variations and cognate expressions, any transfer of property in goods for cash or deferred payment or other valuable consideration and includes forward contracts but does not include a mortgage, hypothecation, charge or pledge.
+" It is the extended definition of sale as including forward contracts in this section that is relied on as conferring authority on the appellant to make the orders in Exhibits A and B. The point for decision in this appeal is whether the power to impose a tax on the sale of goods under entry 48 includes a power to impose a tax on forward contracts.
+245 Under the statute law of India which is based on English law on the subject, a sale of goods and an agreement for the sale of goods are treated as two distinct and separate matters.
+Section 4 of the Indian Sale of Goods Act (Act III of 1930), runs as follows: (1) "A contract of sale of goods is a contract whereby the seller transfers or agrees to transfer the property in goods to the buyer for a price.
+There may be a contract of sale between one part owner and another.
+(2) A contract of sale may be absolute or conditional.
+(3) Where under a contract of sale the property in the goods is transferred from the seller to the buyer, the contract is called a sale, but where the transfer of the property in the goods is to take place at a future time or subject to some condition thereafter to be fulfilled, the contract is called an agreement to sell.
+(4) An agreement to sell becomes a sale when the time elapses or the conditions are fulfilled subject to which the property in the goods is to be transferred.
+" It will be noticed that though the section groups both sales and agreements to sell under the single generic name of "contracts of sale" following in this respect the scheme of the English Sale of Goods Act, 1893, it treats them as separate categories, the vital point of distinction between them being that whereas in a sale there is a transfer of property in the goods from the seller to the buyer, there is none in an agreement to sell.
+When the contract is to sell future goods, and under section 6(3)of the Sale of Goods Act even if "the seller purports to effect a present sale of future goods, the contract operates as an agreement to sell the goods", there can be no transfer 'of title to the goods until they actually ' come into existence ; and even then, the conditions laid down in section 23 of the Act should be satisfied before the property in the goods can pass.
+That was also the law under the repealed provisions in Chapter VII of the Indian Contract.
+Act, 1872.
+Section 77 of the Contract Act defined "sale" as follows: "Sale" is the exchange of property for a price.
+It involves the transfer of the ownership of the thing sold from the seller to the buyer.
+" 246 Section 79 enacted that, "Where there is a contract for the sale of a thing which has yet to be ascertained, made or finished, the ownership of the thing is not transferred to the buyer, until it is ascertained, made or finished.
+" The corresponding provisions of the English Act are sections 1, 16 and rule 5 of section 18.
+Section I is as follows: (1)"A contract of sale of goods is a contract whereby the seller transfers or agrees to transfer the property in goods to the buyer for a money consideration, called the price.
+There may be a contract of sale between one part owner and another.
+(2)A contract of sale may be absolute or conditional.
+(3)Where under a contract of sale the property in the goods is transferred from the seller to the buyer the contract is called a sale; but where the transfer of the property in the goods is to take place at a future time or subject to some condition thereafter to be fulfilled the contract is called an agreement to sell.
+(4)An agreement to sell becomes a sale when the time elapses or the conditions are fulfilled subject to which the property in the goods is to be transferred.
+" Section 16 enacts that, "Where there is a contract for the sale of unascertained goods no property in the goods is transferred to the buyer unless and until the goods are ascertained.
+" Section 18, rule 5, provides for the passing of property is future goods after they are ascertained.
+The distinction between a sale and an agreement to sell under section 1 of the English Act is thus stated by Benjamin on Sale, Eighth Edition, 1950: "In order to constitute a sale there must be (1)An agreement to sell, by which alone the property does not pass; and (2) an actual sale, by which the property passes.
+It will be observed that the definition of a contract of sale, above cited includes a mere agreement to sell as well as an actual sale.
+" 247 This distinction between sales and agreements to sell based upon the passing of the property in the goods is of great importance in determining the rights of parties under a contract.
+The position is thus stated in Halsbury 's Laws of England, Volume 29, page 15, paragraph 13: "An agreement to sell, or, as it is often stated, an executory contract of sale, is a contract pure and simple, whereas a sale, or, as it is called for distinction, an executed contract of sale, is a contract plus a conveyance.
+Thus, by an agreement to sell a mere jus in personam is created, by a sale a jus in rem is transferred.
+Where goods have been sold, and the buyer makes default in payment, the seller may sue for the contract price, but where an agreement to buy is broken, usually the seller 's only remedy is an action for unliquidated damages.
+Similarly, if an agreement to sell be broken by the seller, the buyer has only a personal remedy against the seller.
+The goods are the property of the seller and he can dispose of them.
+They may be taken in execution for his debts, and if he becomes bankrupt they pass to his trustee in bankruptcy.
+But if there has been a sale, and the seller breaks his engagement to deliver the goods, the buyer has not only a personal remedy against the seller, but also the usual proprietary remedies in respect of the goods them selves, such as the actions for conversion and detinue.
+Again, if there be an agreement for sale and the goods perish, the loss as a rule falls on the seller, while if there has been a sale the loss as a rule falls upon the buyer.
+" Thus, there having existed at the time of the enactment of the Government of India Act, 1935, a welldefined and well established distinction between a sale and an agreement to sell it would be proper to interpret the expression sale of goods" in entry 48 in the sense in which it was used in legislation both in England and India and to hold that it authorises the imposition of a tax only when there is a completed sale involving transfer of title.
+This conclusion is further strengthened, when regard is hood to the nature of the levy, Section 3 of the, Act 248 provides for a tax being imposed at three pies in the rupee on the turnover of the assessee, and "turnover" is defined in section 2 (i) as "the aggregate of the proceeds of sale by a dealer", and that would consist of the price and any charges paid at the time of the delivery of the goods, as provided in Explanation I.
+The substance of the matter is that the sales tax is a levy on the price of the goods, and the reason of the thing requires that such a levy should not be made, unless the stage has been reached when the seller can recover the price under the contract.
+It is well settled that an action for price is maintainable only when there is a sale involving transfer of the property in the goods to the purchaser.
+Where there is only an agreement to sell, then the remedy of the seller is to sue for damages for breach of contract and not for the price of the goods.
+The law was thus stated in Colley vs Overseas Exporters(1): In former days an action for the price of goods would only lie upon one or other of two counts.
+First, upon the indebitatus count for goods sold and delivered, which was pleaded as follows: 'Money payable by the defendant to the plaintiff for goods sold and delivered by the plaintiff to the defendants ': Bullen and Leake, Precedents of Pleading, 3rd ed., p. 38.
+This count would not lie before delivery: Boulter vs Arnott(2).
+The count was applicable when upon a sale of goods the property has passed and the goods had been delivered to the purchaser and the price was payable at the time of the action brought.
+Secondly, upon the indebitatus count for goods bargained and sold, which was pleaded as follows: Money payable by the defendant to the plaintiff for goods bargained and sold by the plaintiff to the defendant ': Bullen and Leake, p. 39.
+This count was applicable where upon a sale of 'goods the property had passed to the purchaser and the contract had been completed in all respects except delivery, and the delivery was not a part of the consideration for the price or a condition precedent to its payment.
+If the property had not passed the count would not lie: Atkinson vs Bell(3).
+In my view the law as to the (1) at 309 310, (2) (1833) 1 Cr, & M. 333.
+(3) ; , 249 circumstances under which an action will lie for the price of goods has not been changed by the Sale of Goods Act, 1893.
+" That is also the law in this country under section 55 of the Sale of Goods Act.
+The only exception to this rule is when, under an agreement between the parties, the price is payable on a day certain irrespective of delivery, and that is not material for the purpose of the present discussion.
+The position therefore is that a liability to be assessed to sales tax can arise only if there is a completed sale under which price is paid or is payable and not when there is only an agreement to sell, which can only result in a claim for damages.
+It would be contrary to all principles to hold that damages for breach of contract are liable to be assessed to sales tax on the ground that they are in the same position as sale price.
+The power conferred under entry 48 to impose a tax on the sale of goods can therefore be exercised only when there is a sale under which there is a transfer of property in the goods, and not when there is a mere agreement to sell.
+The State Legislature cannot, by enlarging the definition of " sale " as including forward contracts, arrogate to itself a power which is not conferred upon it by the Constitution Act, and the definition of "sale" in section 2(h) of Act XV of 1948 must, to that extent, be declared ultra vires.
+For the same reason, Explanation III to section 2(h) which provides that forward contracts "shall be deemed to have been completed on the date originally agreed upon for delivery", and section 3 B which enacts that, "Notwithstanding anything contained in section 3, the turnover of any dealer in respect of transactions of forward contracts, in which goods are not actually delivered, shall be taxed at a rate not exceeding rupees two per unit as may be prescribed " must also be held to be ultra vires.
+In the result, the decision of the High Court must be affirmed and this appeal dismissed with costs.

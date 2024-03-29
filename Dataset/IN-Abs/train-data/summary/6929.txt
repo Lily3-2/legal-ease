@@ -1,0 +1,41 @@
+The assessee Oil refinery, predecessor in interest to the respondent Corporation in one of the appeals had registered itself as a dealer under the Bombay Sales Tax Act, 1959.
+During the Calendar year 1961, it had purchased sulphuric acid from a chemical company for processing and refining crude oil and manufacturing kerosene for a marketing company.
+On the sulphuric acid so purchased sales tax was recovered from it by the chemical company.
+While the refined kerosene which was not taxable upto 31.3.1961 was sold by the marketing company, the acid sludge yielded in the purification process was sold by the refinery.
+The refinery paid sales tax on the acid sludge sold by it, and claimed a set off (and a refund, if need be) of the sales tax paid by it on its purchase of sulphuric acid, on the ground that all the conditions set out in clause (e) of Rule 41 of the Bombay Sales Tax Rules, 1959 were fulfilled, viz., it was manufacturer within the meaning of Section 2 (17) of the Act, that it was also a registered dealer, that it manufactured taxable goods for sale, that while acid sludge was taxable throughout the year, kerosene was taxable with effect from 1.4.1961 onwards and that tax was recovered on the raw material purchased by it by the chemical company.
+808 The Sales Tax Officer allowed the set off only partly.
+On appeal, the Appellate Assistant Commissioner held that the assessee was entitled to no set off at all under Rule 41 since what was manufactured by the assessee was kerosene and not acid sludge, and the kerosene was sold not by the assessee manufacturer, but by some other company.
+The Appellate Tribunal, however, allowed the assessee 's claim in full and on reference this was upheld by the High Court.
+The respondent Cotton Mill in the other appeals purchased raw unginned cotton from agriculturists and unregistered dealers during periods 1.7.73 to 30.6.74 and 1.7.74 to 30.6.75 and paid sales tax on the raw cotton so purchased.
+The cotton was ginned yielding place to ginned cotton and cotton seed.
+The respondent manufactured yarn and cloth from the ginned cotton.
+The cotton waste and yarn waste obtained in the course of manufacture were also sold by the assessee.
+It paid sales tax on the yarn and cotton waste sold by it and claimed a set off, under 41 A of the Rules, of the sales tax paid on the purchase value of the entire raw cotton purchased by it.
+The Sales Tax Officer allowed a set off of only part of the purchase tax paid on the raw cotton purchased by the assessee proportionate to the extent of yarn sales.
+On appeal, the Appellate Tribunal allowed a set off of the entire purchase tax paid on the raw cotton, machinery and other purchases, which had been used in the process of manufacture of cotton waste.
+It, however, directed that the deductions should be so allowed as not to result in a double deduction of the same amount of purchase tax.
+In the appeals, by Special leave, before this Court, on behalf of the State Government, it was contended that Rules 41 and 41 A were intended to give relief to a dealer in respect of purchase of goods which were used in the manufacture of taxable goods for sale, that the manufactured goods, viz., pure kerosene was neither sold by the respondent so as to attract sales tax in his hands nor, was it liable to sales tax at all for the first three months, and the cotton purchased on payment of tax was used for the manufacture of cloth which was not liable to sales tax, and that a set off could not be allowed merely because a by product or waste product, viz., acid sludge and cotton waste was sold for a nominal turn over, which was subject to tax, and that the set off should be split up proportionately and allowed only to a proportionate extent, on the basis of the respective 809 turnover of the taxable and non taxable goods, and an apportionment of such nature was implicit in a tax law and was also in consonance with the object and purpose of the rules.
+On behalf of one of the respondents it was contended that under Rule 41 it was not a requirement that the manufactured goods had to be sold by the manufacturing dealer himself and that the sulphuric acid purchased was wholly used in the manufacture of two items kerosene and acid sludge one of which, viz., the sludge, was taxable and also subjected to tax, and the amount of set off was specified in the rule itself as the amount of purchase tax paid on the goods so used, and could not be scaled down proportionately merely because the turnover of the taxable goods was insignificant.
+The other respondent adopted these contentions.
+Dismissing the appeals, this Court, HELD: 1.1 The assessees are entitled to a set off of the entire tax paid by them on the purchases of sulphuric acid and cotton respectively.
+The only condition under the rule is that the goods purchased on payment of tax should have been used in the manufacture of taxable goods for sale.
+Their concurrent user for the manufacture of another item of goods which may or may not be taxable is immaterial though kerosene was also taxable for nine months in the year and yarn was also manufactured and it was subject to tax.
+Commissioner of Sales Tax vs Burmah Shell Refineries Limited, (1978) 41 S.T.C. 337, referred to. 1.2.
+The principle of apportionment on the basis of turnovers of various items of goods manufactured and restriction of the quantum of set off to a proportion based on the turnover of taxable goods to the total turnover cannot be accepted.
+No doubt under the rules, situations are conceivable where severance of taxable element is implicit, but the type of user in the instant case is a composite one, in which it is not possible to correlate any part of the purchased goods as having gone in for the purpose of manufacture of taxable goods.
+Anglo French Textiles vs C.I.T., , S.C.; Tata Iron & Steel Co. vs State ; and Best & Co. vs C.I.T. , S.C., distinguished.
+810 1.3 In the instant case the entire sulphuric acid purchased has no doubt been used in the manufacture of kerosene though perhaps not a drop of acid clings to the kerosene manufactured.
+Equally, the entire sulphuric acid has gone into the composition of the acid sludge.
+Having regard to the nature of the interactions in the instant case,it is incontrovertible that the entire sulphuric acid purchased has gone into the manufacture of the sludge.
+The rules do not require that the purchased goods must have been used only for the manufacture of taxable goods for sale.
+Therefore, it is not possible to cut down the quantum of relief clearly outlined in the rule on the basis of some general principle claimed to underline the provision.
+1.4 The basis for the relief provided is not very clear cut.
+Various reliefs have been provided in a group of rules which come in for application in various situations.
+The relief may be based on the principle that the manufactured product is taxed either in the hands of the same assessee or in someone else 's hands, or that the manufactured goods are exported which may yield no tax but earn foreign exchange, or even that the purchases are utilised for manufacture of goods in the State thus contributing to the industrial development of the State.
+It is, therefore, difficult to read into the provision a quantitative correlation of the goods resulting in a taxable turnover and the purchases of raw materials on which tax has been paid.
+1.5 Rule 41 does not contemplate that the goods purchased by the dealer should be used for manufacture of taxable goods for sale by him.
+No such restriction can be read into this rule.
+2.1 Where a subsidiary product is turned out regularly and continuously in the course of a manufacturing business and is also sold regularly from time to time, an intention can be attributed to the manufacturer to manufacture and sell the subsidiary product.
+State of Gujarat vs Raipur Manufacturing Co. Ltd., (1967) 19 S.T.C. 1, relied on.
+2.2 The assessees in the instant case do purchase sulphuric acid and unginned cotton for use in a manufacturing process, which yield not only kerosene and yarn/cloth, but also acid sludge and cotton waste.
+There is also no evidence to suggest that acid sludge is not a commercial 811 commodity with a market but an item of waste.

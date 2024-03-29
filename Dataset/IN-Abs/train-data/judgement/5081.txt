@@ -1,0 +1,80 @@
+ivil Appeal Nos.1685 and 1686(NT) of 1974 From the Judgment and Order dated 21st February, 1974 of the Karnataka High Court in Tax Reference Nos. 67 and 68 of 1972.
+M.K. Banerjee, Additional Solicitor General, Ms A. Subhashini and B.B.Ahuja for the Appellant G. Sarangan and Mukul Mudgal for the Respondent.
+The Judgment of the Court was delivered by PATHAK, J.
+These appeals are directed against the judgment of the Karnataka High Court disposing of two Income tax References.
+The question in each Reference, which was answered by the High Court in favour of the assessee and against the Revenue, is whether in computing the profits for the purpose of deduction under section 80E of the Income Tax Act, 1961, the loss incurred by the assessee in the manufacture of alloy steels could not be set off against the profits of the manufacture of automobile ancillaries.
+The assessee is a public limited company engaged in the 169 manufacture of automobile spares.
+The products manufactured by it are covered by the list in the Fifth Schedule to the Income Tax Act.
+During the previous year relevant to the assessment year 1966 67, the assessee commenced another activity, the manufacture of alloy steels, which was also an industry included in the Fifth Schedule.
+The assessee sustained a loss in the alloy steel industry during the previous years relevant to the assessment years 1966 67 and 1967 68.
+It claimed a loss in the sum of Rs. 15,30,688 for the assessment year 1966 67.
+For the assessment year 1966 67, the assessee disclosed profits from the industry of automobile ancillaries in the following detail: 1.
+Manufacture of Springs at Mangalore Rs. 7,54,107 2.
+Manufacture of Springs at Nagpur Rs. 9,61,808 3.
+Manufacture of Hubs and Brake Drums Rs. 41,214 Rs 17,57,129 The assessee claimed relief under section 80E at 8 per cent of this amount in the sum of Rs.1,40,574.
+In the same manner, the assessee claimed relief under section 80E in the sum of Rs.1,52,483 for the assessment year 1967 68.
+The Income Tax Officer declined to grant the relief claimed by the assessee in the two assessment years.
+He noticed that the assessee had not taken into account the losses incurred in the alloy steel industry, and he held that the assessee would be entitled to deduction under section 80E on the profits from the manufacture of automobile parts only after setting off the loss in alloy steel manufacture.
+After making certain adjustments in the computation of the total income, the Income Tax Officer gave relief under section 80E in the sum of Rs.24,896 for the assessment year 1966 67 and Rs.1,20,986 for the assessment year 1967 68, computing the deduction at 8 per cent on the amount of profits from the manufacture of automobile parts as reduced by the losses from the alloy steel manufacture.
+An appeal by the assessee was dismissed by the Appellate Assistant Commissioner of Income tax.
+But on second appeal, the Income Tax Appellate Tribunal accepted the contention of the assessee that a deduction was permissible at 8 per cent on the entire profits of the automobile parts industry included in the total income without deducting therefrom the losses in the alloy steel manufacture.
+It directed the Income Tax Officer to recompute the relief under section 80E.
+At the instance of the Revenue, the Appellate Tribunal referred 170 the case for each of the two assessment years 1966 67 and 1967 68 to the Karnataka High Court for its opinion on the following question of law: "Whether on the facts and in the circumstances of the case, the Appellate Tribunal was right in holding that in computing the profits for the purpose of deduction under section 80E of the Income Tax Act, 1961 the loss incurred in the manufacture of alloy steels should not be set off against the profits of the manufacture of automobile ancillaries?" The High Court answered the question in the affirmative.
+To appreciate the merits of the controversy in these appeals it would be as well to set forth at this point the relevant provisions of section 80E of the Income Tax Act as they stood at the time: 80E. "Deduction in respect of profits and gains from specified industries in the case of certain companies (1) In the case of a company to which this section applies, where the total income (as computed in accordance with the other provisions of this Act) includes any profits and gains attributable to the business of generation or distribution of electricity or any other form of power or of construction, manufacture or production of any one or more of the articles and things specified in the list in the Fifth Schedule, there shall be allowed a deduction from such profits and gains of an amount equal to eight per cent thereof, in computing the total income of the company.
+" It is not disputed that the assessee is a company to which section 80E applies.
+The question is whether for the purpose of granting relief under s.80E the loss suffered by the assessee in the manufacture of alloy steels can be set off against the profits arising from the manufacture of automobile ancillaries.
+It is apparent that section 80E provides for the grant of a rebate when computing the total income of a company carrying on the business of generating or distributing elect 171 ricity or other form of power or of constructing, manufacturing or producing any one or more of the articles and things specified in the list in the Fifth Schedule.
+Popularly, the list is known as the list of Priority Industries.
+A perusal of the entries in the list makes it clear that they are concerned with articles and things which are regarded of primary importance in the industrial and economic development of the country.
+Some of them form part of the industrial and economic base of the country while others enter into the industrial and economic infrastructure considered necessary or desirable for its development.
+A certain priority has been assigned to the construction, manufacture or production of those articles and things.
+They find place in section 80E along with the business of generation or distribution of electricity or other form of power.
+Nobody can dispute that electrical energy or other form of energy is crucial to industrial and economic development.
+The nature of articles and things included in the list in the Fifth Schedule possesses the same character.
+Alloy steels are undoubtedly covered by Entry (1) "Iron and steel (metal), ferro alloys and special steels", while automobile ancillaries appear clearly by that description in Entry 20 of the list.
+Both represent separate priority industries.
+It is obvious from the object underlying the enactment of section 80E and the terms in which it provides relief that the intention of Parliament in enacting the provision was to encourage the setting up of industries concerned with the generation or distribution of electrical and other energy and the construction, manufacture or production of articles or things specified in the list in the Fifth Schedule.
+The intention goes further.
+By making a provision for a rebate year after year on the industry making profits and gains during the year, the intention also was to provide an incentive for promoting efficiency in the industry.
+It is clear that the benefit was directed to the setting up and also the efficient working of the priority industries.
+How is the benefit to be worked out? First, it must be a company to which section 80E applies, that is to say a company which satisfies the requirements of sub section
+(2) of section 80E.
+Second, the total income, as computed in accordance with the Income tax Act 1961 without taking into regard the provisions of section 80E, should include profits and gains attributable to the business or the industry mentioned in the section.
+Third, from the profits and gains attributable to such business or industry a deduction has to be allowed of an amount equal to eight per cent of such profits and gains and effect must be given to this deduction when computing the total income of the company.
+172 The assessee in this case carries on two industries, both of which find place in the list in the Fifth Schedule and can, therefore, be described as priority industries.
+It is urged by the learned Additional Soliciter General, appearing for the Revenue, that on a true application of section 80E the profit in the industry of automobile ancillaries must be reduced by the loss suffered in the manufacture of alloy steel, and reference has been made to a number of cases to which we shall presently refer.
+After giving the matter careful consideration we do not find it possible to accept the contention.
+It seems to us that the object in enacting section 80E is properly served only by confining the application of the provisions of that section to the profits and gains of a single industry.
+The deduction of eight per cent is intended to be an index of recognition, that a priority industry has been set up and is functioning efficiently.
+It was never intended that the merit earned by such industry should be lost or ' diminished because of a loss suffered by some other industry.
+It makes no difference that the other industry is also a priority industry.
+The coexistence of two industries in common ownership was not intended by Parliament to result in the misfortune of one being visited on the other.
+The legislative intention was to give to the meritorious its full reward.
+To construe section 80E to mean that you must determine the net result of all the priority industries and then apply the benefit of the deduction to the figure so obtained will be, in our opinion, to undermine the object of the section.
+An example will illustrate this.
+An industry entitled to the benefit of section 80E could have its profits wholly wiped out on adjustment against a heavy loss suffered by another industry, and thus be totally denied the relief which should have been its due by virtue of its profits.
+In our opinion, each industry must be considered on its own working only when adjudging its title to the deduction under section 80E. It cannot be allowed to suffer because it keeps company with some other industry in the hands of the assessee.
+To determine the benefit under section 80E on the basis of the net result of all the industries owned by the assessee would be, moreover, to shift the focus from the industry to the assessee.
+We hold that in the application of section 80E the profits and gains earned by an industry mentioned in that section cannot be reduced by the loss suffered by any other industry or industries owned by the assessee.
+We shall now turn to the cases cited before us.
+In the view which has found favour with us it is apparent that the Madras High Court erred in holding in Commissioner of Income tax, Tamil Nadu III vs English Electric Company Ltd., , that in granting relief under section 80E the adjustment of certain losses in other trading 173 transactions was permissible in determining the quantum of profits and gains attributable to the priority industry claiming relief under that provision.
+The High Court did not correctly appreciate the law laid down by this Court in Cambay Electric Supply Industrial Co. Ltd., vs Commissioner of Income tax, Gujarat II.
+, That was a case where this Court held that, for the purpose of granting relief under section 80E to an industry, account must be taken when computing the profits and gains attributable to that industry of the balancing charge worked out under sub section
+(2) of section 41 as well as items of unabsorbed depreciation and any depreciation development rebate carried forward from earlier years.
+It appears from the facts of that case that the balancing charge as well as the unabsorbed depreciation and unabsorbed development rebate related to the particular industry itself.
+The only business carried on by the assessee there was generation and distribution of electricity at Cambay.
+The balancing charge arose because during the relevant accounting period the assessee had sold some of its machinery and buildings.
+The unabsorbed depreciation and development rebate also appear to relate to the same business.
+There is no indication that any of them related to a business or industry distinct from that whose profits and gains formed the subject of computation under section 80E. Our attention has been invited by the Revenue to Distributors (Baroda) P. Ltd.v.
+Union of India and Others, ; That is a case in which the Constitution Bench of this Court was called upon to consider the scope of section 80M of the Income tax Act.
+We do not see how that case is in any way relevant to the case before us.
+The point before the Court appears to have been whether the income by way of dividends from a domestic company, which fell to be included in the gross total income of the assessee, should be the amount computed in accordance with the provisions of the Act or the full amount received from the paying company.
+We may refer at this point to Commissioner of Income tax, West Bengal II vs Belliss and Morcon (I.) Ltd., a decision of the Calcutta High Court to which one of us (Sabyasachi Mukharji J.) was a party.
+That decision supports the view taken by us in so far as it lays down that in applying section 80 I of the Income tax Act (which replaced section 80E) it is not permissible to compute the profits of the priority industry, respecting which the relief is claimed, by taking into account the depreciation loss from other industries.
+No doubt the depreciation loss arose in that case from non priority industries, but in view of what we have said earlier that should make no difference whatever.
+We think it unnecessary to refer to other cases on the point.
+We think it sufficient to indicate that a distinction must be drawn between a case where the loss or un 174 absorbed depreciation pertain to the same industry whose profits and gains are the subject of relief under section 80E and a case where the loss or unabsorbed depreciation relate to industries other than the one whose profits and gains constitute the subject of relief.
+While concluding we may point out that the Mysore High Court seems, in our opinion, to be perfectly right in holding in Commissioner of Income tax, Mysore vs Balanoor Tea and Rubber Co. Ltd., that the loss from the plastic business carried on by the assessee could not be deducted from the profits and gains attributable to the tea industry for the purpose of computing the quantum of the profits and gains attributable to the tea industry under section 80E.
+In the result, we affirm the answer returned by the High Court to the question raised in the Income tax References.
+The appeals are dismissed with costs.
+A.P.J. Appeals dismissed.

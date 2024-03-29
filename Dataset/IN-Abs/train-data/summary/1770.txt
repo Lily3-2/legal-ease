@@ -1,0 +1,18 @@
+The appellant was charged with murdering his wife.
+Before the Sessions Judge a defence was set up that the appellant was insane when the incident took place and was not capable of understanding the nature of his act.
+The Sessions Judge rejected the plea of insanity and convicted him under section 302 of the Indian Penal Code.
+On appeal the High Court confirmed the conviction.
+Held (i) There is no conflict between the general burden to prove the guilt beyond reasonable doubt, which is always on the prosecution and which never shifts, and the special burden that restson the accused to make out his defence of insanity.
+(ii) The doctrine of burden of proof in the context of the plea of insanity may be stated in the following propositions:(1).The prosecution must prove beyond reasonable doubt that the accused had committed the offence with the requisite, mensrea; and the burden of proving that always rests on the prosecution from the beginning to the end of the trial.
+(2) There is a rebuttable presumption that the accused was not insane, when he committed the crime, in the sense laid down by section 84 of the Indian Penal Code: the accused may rebut it by placing before the court all the relevant evidence oral, documentary or circumstantial, but the burden of proof upon him is no higher than that which rests upon a party to civil proceedings.
+(3) Even if the accused was not able to establish conclusively that he was insane at the time he committed the offence, the evidence placed before the court by the accused or by the prosecution may raise a reasonable doubt in the mind of the court as regards one or more of the ingredients of the offence, including mens rea of the accused and in that case the court would be entitled to acquit the accused on the ground that the general burden of proof resting on the prosecution was not discharged.
+K. M. Nanavati vs State of Maharashtra, [1962] Supp. 1 S.C.R.567.
+followed.
+Ramhitram vs State, A.I.R. 1956 Nag. 187, disapproved.
+Kamla Singh vs State, A.I.R. 1955 Pat.
+209, approved.
+H. M. Advocate vs Fraser, (1878)4 Couper 70, referred to.
+(iii)The court can permit a person, who calls a witness, to put questions to him which might be put in cross examination, at any stage of the examination of the witness, provided it takes care to give an opportunity to the accused to cross examine him on the answers elicited which do not find place in the examination in chief.
+362 Section 137 of the Evidence Act, gives only the three stages in the examination of a witness, and it has no relevance to the question when a party calling a witness can be permitted to put to him questions under section 154 of the Evidence Act: that is governed by the provisions of section 154 of the said Act, which confers a discretionary power on the court to permit a person who calls a witness to put any questions to him which might be put in cross examination by the adverse party.
+Tahsildar Singh vs The State of U.P., [1959] SUPP.
+2 S.C.R. 875, followed.

@@ -1,0 +1,27 @@
+The respondent bank had income from banking business and interest on securities.
+For the assessment year 1949 50 its loss from banking business was set off against the income from interest on securities but for the succeeding three years the income tax officer set off the said loss which had been carried forward, only against the income.
+from banking business and disallowed it against the income under the head 'interest on securities '.
+The view of the Income Tax Officer was upheld by the Appellate Assistant Commissioner and on further appeal by the Appellate Tribunal.
+The Tribunal however referred to the High Court, at the instance of the assessee, the question whether the assessee was entitled to set off business loss brought forward from the preceding assessment year against the entire income including interest on securities.
+The High Court remitted the case to the Tribunal for a finding whether the securities in Question formed part of the trading assets held by the assessee.
+The Tribunal held that the receipt of interest from securities was as much the assessee 's business as its other banking activities.
+On receipt of the supplementary statement of case the High Court answered the reference in favour of the assessee.
+The Revenue appealed to this Court.
+It was urged for the Revenue that the income from business and securities fell under different heads, namely section 10 and section 8 of the Act respectively, that they were mutually exclusive and, therefore, the losses under the head "business" could not be carried forward from the preceeding year to the succeeding year and set off under section 24(2) of the Act against the income from securities held by the assessee.
+HELD: (i) While subs.
+(1) of section 24 provides for setting off of the loss in a particular year under one of the heads in section 6 against the profit under a different head in the same year, subs.
+(2) provides for the carrying forward of the loss of one year and setting off the same against the profit or gains of the assessee from the same business in subsequent years.
+This cl.
+(2) of section 24 in contradistinction to cl.
+(1) thereof is concerned only with the business and not with its heads under section 6 of the Act.
+This designed distinction brings out the intention of the legislature to give further relief to an assessee carrying.
+on business and incurring loss in the business though the income therefrom falls under different heads under section 6 of the Act.
+[622E; 623E F] (ii) The scheme of the Act is that income tax is one tax.
+Section 6 only classifies the income under different heads for the purpose of computation of the net income of the assessee.
+Though for the purpose of computation of the income, interest on securities is separately classified, income by way of interest on securities does not cease to be part of the income from business if the securities are part of the 620 trading assets.
+Whether a particular income is part of the income from a business falls to be decided not on the basis of the provisions of s.6 but on commercial principles.
+[622G H] (iii) In the present case the Tribunal and the High Court found that the securities were the assessee 's trading assets and the income therefrom was, therefore, the income of the business.
+If it was income of the business, section 24(2) of the Act was immediately attracted.
+If the income from the securities was the income from its business, the loss could, in terms of that section, be set off against that income.
+[622H 623A] The Punjab Co operative Bank Ltd. vs Commissioner of Incometax, Punjab, (1940)8 I.T.R. 635 and Commissioner of Income tax Bombay City I vs Chugandas & Co. (1965) 55 I.T.R. 17, relied on.
+United Commercial Bank Ltd. vs Commissioner of Income tax West Bengal; , , East India Housing and Land Development Trust Ltd. vs Commissioner of Income tax, West Bengal , and Commissioner of Income tax, Madras vs Express Newspapers Ltd. , distinguished.

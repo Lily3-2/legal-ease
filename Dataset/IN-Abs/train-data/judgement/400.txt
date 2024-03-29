@@ -1,0 +1,187 @@
+minal Appeal No. 34 of 1955.
+Appeal by special leave from the judgment and order dated the 7th June 1954 of the Punjab High Court at Simla in Criminal Revision No. 985 of 1953 arising out of the judgment and order dated the 9th May 1953 of the Court of the Additional District Judge, Ambala.
+Ramalal Anand and I. section Sawhney, for the appellant.
+Gopal Singh and P. G. Gokhale, for respondent No. I. Jindra Lal and Gopal Singh, for respondent No. 2. 1956.
+February 15.
+The Judgment of the Court was delivered by BOSE J.
+This appeal was argued at great length because of the wide divergence of judicial opinion that centres round sections 195 and 476 of the Criminal Procedure Code.
+The question is about the validity of a complaint made against the appellant for perjury and for using a forged document as genuine in the following circumstances.
+The second respondent Amar Singh filed a civil 127 suit against the appellant for recovery of a large sum of money on the basis of a mortgage in the Court of Mr. E. F. Barlow, a Subordinate Judge of the First class.
+The appellant filed a receipt which purported to show that Rs. 35 000 had been paid towards satisfaction of the mortgage (whether in full satisfaction or part is not clear), and in the witness box he swore that he had paid the money and was given the receipt.
+Mr. Barlow held that the receipt did not appear to be a genuine document and that the appellant 's evidence was not true.
+Accordingly he passed a preliminary decree against the appellant for the full amount of the claim on 15 3 1950 and a final decree followed on 15 7 1950.
+There was an appeal to the High Court but that was dismissed on 9 5 1951.
+The High Court also held that the receipt was a very auspicious document and that the appellant 's evidence was not reliable.
+The plaintiff then made an application in the Court of Mr. W. Augustine, who is said to have succeeded Mr. Barlow as a Subordinate Judge of the first class, asking that a complaint be filed against the, appellant under sections 193 and 471 of the Indian Penal Code.
+But before it could be beard Mr. Augustine was transferred and it seems that no Subordinate Judge of the first class was appointed in his place; instead, Mr. K. K. Gujral, a Subordinate Judge of the fourth class, was sent to this area and be seems to have been asked to decide the matter.
+But as he was only a Subordinate Judge of the fourth class be made a report to the District Judge that he had no jurisdiction because the offences had been committed in the Court of a Subordinate Judge of the first class.
+The District Judge thereupon transferred the matter to the Senior Subordinate Judge, Mr. Pitam Singh, and that officer made the complaint that is now under consideration.
+The appellant filed an appeal against Mr. Pitam Singh 's order to the Additional District Judge, Mr. J. N. Kapur.
+This learned Judge held that the Senior Subordinate Judge (Mr. Pitam Singh) had no jurisdiction to make the complaint because he was 128 not Mr. Barlow 's successor.
+He also held, on the merits, that there was no prima facie case.
+The matter went to the High Court in revision and the learned High Court Judge who beard the matter held that the Senior Subordinate Judge had jurisdiction and that the material disclosed a prima facie case.
+Accordingly, he set aside the Additional District Judge 's order and restored the order of the Senior Subordinate Judge making the complaint.
+This raises three questions.
+The first concerns the jurisdiction of the Senior Subordinate Judge Mr. Pitam Singh to entertain the application and make the complaint.
+The second is whether the Additional District Judge had jurisdiction to entertain an appeal against Mr. Pitam Singh 's order; and the third is whether the High Court had power to reverse the Additional District Judge 's order in revision.
+We will first deal with Mr. Pitam Singh 's jurisdiction to make the complaint.
+This question is governed by the Criminal Procedure Code and by the Punjab Courts Act, 1918.
+We will examine the Criminal Procedure Code first.
+The offences said to have been committed are ones under sections 471 and 193 of the Indian Penal Code, namely, using as genuine a forged document knowing it to be forged and perjury.
+Section 195(1) (b) and (c) of the Criminal Procedure Code prohibit any Court from taking cognizance of either of these two offences except on the complaint in writing of the Court concerned "or of some other Court to which such Court is subordinate".
+The offences were committed in the Court of Mr. E.F. Barlow, a Subordinate Judge of the first class.
+It seems to have been accepted that Mr. Gujral was not Mr. Barlow 's successor because be was only a Subordinate Judge of the fourth class, but whether he was the successor or not, he neither made the complaint nor rejected the application.
+He declined to do either because he said be had no jurisdiction; so also neither Mr. Barlow nor Mr. Augustine made a complaint or rejected the application.
+That carries 129 us on to section 476 A of the Criminal Procedure Code.
+Section 476 A states that when the Court in which the offence is said to have been committed neither makes a complaint nor rejects an application for the making of a complaint, "the Court to which such former Court is subordinate within the meaning of section 195, sub section (3)" may take action under section 476.
+Section 476 authorises the appropriate Court, after recording a finding that it is expedient in the interests of justice, etc., to, among other things, make a complaint in writing and forward it to a Magistrate of the first class having jurisdiction.
+That was done by Mr. Pitam Singh.
+So the only question we have to decide on this part of the case is whether the Court of the Senior Subordinate Judge over which Mr. Pitam Singh presided was the Court to which the Court of Mr. Barlow was subordinate within the meaning of section 195(3 ).
+Now it is to be noticed that subordination has been given a special meaning in this section.
+It is not any superior Court that has jurisdiction, nor yet the Court to which the "former Court" is subordinate for, what might be termed, most general purposes, but only the Court to which it is subordinate within the meaning of section 195(3).
+Section 195(3) states that "For the purposes of this section, a Court shall be deemed to be subordinate to the Court to which appeals ordinarily lie from the appealable decrees or sentences of such former Court, or in the case of a Civil Court from whose decrees no appeal ordinarily lies to the principal court having ordinary original civil jurisdiction within the local limits of whose jurisdiction such Civil Court is situate" and then follows this proviso "Provided that (a)where appeals lie to more than one Court, the Appellate Court of inferior jurisdiction shall be the Court to which such Court shall be deemed to be subordinate; and 130 (b) where appeals lie to a Civil and also to a Revenue Court, such Court shall be deemed to be subordinate to the Civil or Revenue Court according to the nature of the case or proceeding in connection with which the offence is alleged to have been committed".
+These provisions have given rise to much conflict in the High Courts.
+The controversy has centred round the word "ordinarily".
+One class of case, of which Wadero Abdul Rahman vs Sadhuram(1) is a sample, holds that "ordinarily" means "in the majority of cases" and that it has no reference to the particular case in hand.
+We do not think that is right because that gives no meaning to the proviso to sub clause (3).
+If appeals lie to a particular Court, e.g., the District Court, in the majority of cases and to another Court,say the High Court, only in a few cases, then the inferior tribunal is a fixed quantity and so the need to choose between the inferior and the superior Court cannot arise.
+That makes sub clause (a) to the proviso otiose; also, it does not necessarily follow that the appeal in the majority of cases will always lie to the inferior Court.
+Cases may occur in which the majority of appeals would go to the higher of two given tribunals; and in any case this interpretation has the disadvantage that a Court may be compelled to call for and go into a mass of statistics to ascertain which of two Courts entertains the majority of appeals over a given period of time, as well as to determine what is the appropriate period of time.
+Another view considers that the word means that the higher Court is the one to which there is an unrestricted right of appeal and so cannot apply when any restriction intervenes such as when the right of appeal is limited to a particular class of cases or is hedged in by conditions.
+This was the view taken in M. section Sheriff vs Govindan(2).
+Other views are also possible but we do not intend to explore them.
+In our opinion, the matter is to be viewed thus.
+The first question to be asked is whether any decrees, orders or sentences of the original Court (1) [1930) (2) A.I.R. I , 1061, 131 are appealable at all.
+If they are not, and the Court is a Civil Court, then,, under section 195(3), the appeal against the order making or refusing.to make a complaint will be to the principal Court of ordinary original civil jurisdiction.
+If, however, appeals from its various decrees and orders lie to different Courts, then we have to see to which of them they "ordinarily" lie and select the one of lowest grade from among them.
+In determining the Court or Courts to which an appeal will ordinarily lie, we have to see which Court or Courts entertain appeals from that class of tribunal in the ordinary way apart from special notifications or laws that lift the matter out of the general class.
+Our meaning will be clearer when we turn to the case in hand and examine the Punjab Courts Act of 1918.
+Apart from the Courts of Small Causes and Courts established under other enactments, the Punjab Courts Act, 1918 makes provision for three classes of Civil Courts, namely (1) the Court of the District Judge, (2) the Court of the Additional Judge, and (3) the Court of the Subordinate Judge.
+At the moment we are concerned with the Subordinate Judge.
+Section 22 enables the State Government to fix the number of Subordinate Judges after consultation with the High Court.
+The local limit of jurisdiction of each of these Judges is the district in which he is appointed unless the High Court defines a different limit (section 27).
+The pecuniary limits are set out in section 26: "The jurisdiction to be exercised in civil suits as regards the value by any person appointed to be a Subordinate Judge shall be determined by the High Court either by including him in a class or otherwise as it thinks fit".
+These are what might be termed the ordinary powers and jurisdiction of these Courts.
+But sections 29 and 30 authorise the High Court to confer certain additional powers and jurisdiction on them.
+We will deal with that later.
+132 Next, we turn to the provisions for appeal.
+They are governed by section 39.
+In the absence of any other enactment for the time being in force, when the value of the suit does not exceed five thousand rupees the appeal lies to the District Judge, and in every other suit, to the High Court.
+But by sub section (3) the High Court is empowered to direct by notification "that appeals lying to the District Court from all or any of the decrees or orders passed in an original suit by any Subordinate Judge shall be preferred to such other 'Subordinate Judge as may be mentioned in the notification" and when that is done "such other Subordinate Judge shall be deemed to be a District Court for the purposes of all appeals so preferred".
+The High Court availed itself of this provision and provided that appeals lying to the District Courts from decrees or orders passed by any Subordinate Judge in two classes of case which are specified "shall be preferred to the Senior Subordinate Judge of the first class exercising jurisdiction within such Civil District".
+There are thus three forums of appeal from the Court of the Subordinate Judge depending on the nature of the suit and its value.
+The question is whether in each of these three classes of case the appeal can be said to lie "ordinarily" to one or other of these appellate tribunals.
+Applying the rule we have set out above, the appeal to the Senior Subordinate Judge cannot be termed "ordinary" because the special appellate jurisdiction conferred by the Notification is not the ordinary jurisdiction of the Senior Subordinate Judge but an additional power which can only be exercised in a certain limited class of case.
+It is not a power common to all Subordinate Judges nor even to all Senior Subordinate Judges.
+Therefore, it cannot be said that appeals from the Courts of the various Subordinate Judges "ordinarily" lie to the Senior Subordinate Judge.
+Consequently, that Court is not one of the appellate tribunals contemplated 133 by section 195(3) of the Criminal Procedure Code and its proviso.
+But appeals do "ordinarily" lie either to the District Court or the High Court; and as the District Court is the lower of these two tribunals that must be regarded as the appellate authority for the purposes of section 476 B of the Criminal Procedure Code.
+Now it is to be observed that this is a purely objective analysis is and is not subjective to any particular suit.
+In the present suit, the value of the suit was over Rs. 5,000, so the appeal would have lain to the High Court, but we are not concerned with that be cause section 195(3) does not say that the appellate authority within the meaning of that section shall be the Court to which the appeal in the particular case under consideration would ordinarily lie but generally "the Court to which appeals ordinarily lie from the appealable decrees or sentences of such former Court".
+It would, however, be wrong to say that the nature of the proceedings in the case must be wholly ignored because sub clause (b) to the proviso to sub section (3) states that "where appeals lie to a Civil and also to a Revenue Court, such.
+Court shall be deemed to be subordinate to the Civil or Revenue Court according to the nature of the case or proceeding".
+Therefore, to that limited extent the nature of the proceedings must be taken into account, but once the genus of the proceedings is determined, namely whether civil, criminal or revenue, the heirarchy of the superior Courts for these purposes will be determined, first by the rules that apply in their special cases and next by the rule in section 195(3) which we have just expounded and explained.
+M. section Sheriff vs The State of Madras and Others,(1) was quoted but the present point was neither considered nor decided there.
+The next question is whether the Court of the Senior Subordinate Judge is the same Court as Mr. Barlow 's Court, namely the Court of the Subordinate (1) [1954] section C. R. 1144,1147.
+18 134 Judge of the first class.
+That depends on whether there is only one Court of the Subordinate Judge in each district, presided over by a number of Judges, or whether each Court is a separate Court in itself.
+That turns on the provisions of the Punjab Courts Act.
+We make it clear that our decision on this point is confined to the Punjab Act.
+We understand that similar Acts in other States are differently worded so that what we decide for the Punjab may not bold good elsewhere.
+We say this because rulings were cited before us from other parts of India which take differing views.
+We do not intend to refer to them because it would not be right to examine the language of Acts that are not directly before us.
+Accordingly, we confine ourselves to the Punjab Act (Act VI of 1918).
+Section 18 of the Punjab Courts Act states that there shall be the following classes of Courts, namely ". . . . . . . . (3) the Court of the Subordinate Judge".
+Section 22 provides that "the State Government may. . fix the number of Subordinate Judges to be appointed".
+Section 26, which has already been quoted, fixes the pecuniary limits of their jurisdiction.
+Then comes section 27 defining the local limits of their jurisdiction: "(1) The local limits of the jurisdiction of a Subordinate Judge shall be such as the High Court may define.
+(2) When the High Court posts a Subordinate Judge to a district, the local limits of the district shall, in the absence of any direction to the contrary, be deemed to be the local limits of his jurisdiction".
+From there we go to the Notification.
+It is High Court Notification No. 4 dated 3 1 1923.
+It makes four classes of Subordinate Judges with effect from 5 1 1923 "in respect of the jurisdiction to be exercised by them in original suits, namely: Class I Subordinate Judges exercising juris 135 diction without limit as to the value of the cases; Class II Subordinate Judges exercising jurisdiction in cases of which the value does not exceed Rs. 5.000; Class III Subordinate Judges exercising jurisdiction in cases of which the value does not exceed Rs. 2,000; Class IV Subordinate Judges exercising jurisdiction in cases of which the value does not exceed Rs. 1,000.
+When a Subordinate Judge is appointed to any of the classes constituted by this Notification, he shall exercise the jurisdiction here in before defined for the class to which he is appointed within the local limits of the civil district to which he may be posted from time to time".
+This gives rise to three points of view.
+According to one, there is only one Court of the Subordinate Judge for each district and every other Subordinate Judge is an additional Judge to that Court.
+This is based on the language of section 18, and the High Court Notification is, under that view, interpreted as dividing the Judges of that one Court into four categories but not as creating independent Courts.
+Section 26 is there read as empowering the High Court to include each Subordinate Judge individually on appointment into a given class within the one Court and not to turn him into a separate Court.
+According to the second view, there are four classes of Subordinate Judge 's Courts in the Punjab because of the High Court Notification.
+The argument here runs that section 18 must be read with section 26, and as the High Court is empowered to divide Subordinate Judges in a district into classes it must mean that each class forms an independent Court, for according to this point of view, it would be anomalous to have Judges of the one Court invested with differing pecuniary jurisdictions because that is always regarded as inherent to the Court.
+The position created by the Act, it is said, is not the same as the one that arises when work is administratively distributed among Additional Judges of the same 136 Court because the jurisdiction and powers of the Judges are unaffected by such distribution and there remains the one Court with one inherent and territorial jurisdiction despite the distribution.
+The third view is that each Subordinate Judge is a separate and independent Court in himself and it is pointed out that section 27 invests each Judge personally with a territorial jurisdiction and not the Court, and so also section 26.
+Under section 33 the power of control (apart from the High Court) over all civil Courts within the local limits of a District Judge 's jurisdiction is with him, and section 34 empowers the District Judge to distribute any civil business "cognizable by . the Courts under his control. among such Courts in such manner as he thinks fit".
+The Senior Subordinate Judge does not therefore appear to be vested with either administrative or judicial control over any other Subordinate Judge except in so far as he is a Court of appeal in certain specified classes of case.
+In our opinion, the Senior Subordinate Judge who made the complaint had no jurisdiction to make it, either as the original Court which tried the suit, or as the appellate authority under section 476 B of the Criminal Procedure Code.
+It is not enough that he also had first class powers because be was not the same Court.
+That is not to say that a successor could not have been appointed to Mr. Barlow so as to establish continuity in the Court over which he presided.
+It is possible that one could have been appointed and indeed it seems to have been assumed that Mr. Augustine was his successor.
+But as Mr. Augustine did not take up this matter we need not decide that point.
+What we think is clear is that Mr. Pitam Singh was not a successor, especially as appeals lay to him from certain decisions of the Subordinate Judges in his district.
+It would be unusual to provide an appeal from one Judge of a Court to another single Judge of the same Court.
+It would be even more anomalous to have an appeal from the decision of a judge lie to his successor in office.
+Even 137 in the High Courts, where there are Letters Patent appeals, the appeal is always heard by a Division Bench of at least two Judges; nor can this be treated as a case where a Court with inherent jurisdiction decides the matter as an original tribunal though, owing to territorial or other similar classification not affecting inherent jurisdiction, the case should have gone to some other tribunal of co ordinate or lesser authority.
+Section 193(1) of the Criminal Procedure Code imposes a definite bar which cannot be ignored or waived any more than the prohibitions under sections 132 and 197 and, just as the sanctions provided for in those sections cannot be given by any authority save the ones specified, so here, only the Courts mentioned in section 195 (1) (b) and (c) can remove the bar and make the complaint.
+This also appears to accord with the Punjab practice.
+The Rules and Orders of the Punjab High Court reproduce a Notification of the High Court dated 16 5 1935 as amended on 23 2 1940, at page 3 of Chapter 20 B of Volume I, where it is said in paragraph 2 "It is further directed the Court of such Senior Subordinate Judge of the first class shall be deemed to be a District Court, etc.
+" This appears to regard each Senior Subordinate Judge as a Court in himself and not merely as the presiding officer of the Court of the Subordinate Judge.
+Section 39(3) of the Punjab Courts Act is also relevant.
+It states that "the High Court may by notification direct that appeals lying to the District Court from all or any of the decrees or orders passed in an original suit by any Subordinate Judge shall be preferred to such other Subordinate Judge as may be mentioned in the notification, and the appeals shall thereupon be preferred accordingly, and the Court of such other Subordinate Judge shall 'De deemed to be a District Court, etc.
+" Now this permits an appeal from one Subordinate Judge to another and the words the "Court of such other Subordinate Judge" indicate that the Subordi 138 nate Judge to whom the appeal is preferred is a separate and distinct Court.
+The position thus reduces itself to this.
+The original Court made no complaint; section 476 A of the Criminal Procedure Code was therefore attracted and the jurisdiction to make the complaint was transferred to the Court to which Mr. Barlow 's Court was subordinate within the meaning of section 195.
+That Court, as we have seen, was the Court of the District Judge.
+Now, when the matter was reported to the District Judge by Mr. K. K. Gujral, the District Judge dealt with it.
+He had authority under section 476 A either to make the complaint himself or to reject the application.
+He did neither.
+Instead, he sent it to Mr. Pitam Singh who had no jurisdiction.
+Of course, the District Judge could have sent it to the original Court or to the successor Judge of that Court if there was one, but he sent it to a Court without jurisdiction, so his order was ineffective and the subsequent order of Mr. Pitam Singh was without jurisdiction.
+That still left the District Court free to act under section 476 A when the matter came back to it again.
+This time it came by way of appeal from Mr. Pitam Singh 's order but that made no difference because the substance of the matter was this: the original Court had not taken any action, therefore it was incumbent on the District Judge to make an appropriate order either under section 476 A or by sending it for disposal to the only other Court that had jurisdiction, namely the original Court.
+But the District Judge did not deal with it.
+The application went instead to the Additional District Judge and what we now have to see is whether the Additional District Judge had the requisite power and authority.
+That depends on whether the Additional District Judge was a Judge of the District Court or whether he formed a separate Court of his own like the various Subordinate Judges; and that in turn depends on the language of the Punjab Courts Act.
+As we have already pointed out, section 18 of that Act states that, in addition to Courts of Small Causes 139 and Courts established under other enactments, "there shall be the following classes of Civil Courts, namely: (1) The Court of the District Judge; (2) The Court of the Additional Judge; and (3) The Court of the Subordinate Judge".
+The Court of the Additional Judge is therefore constituted a distinct class of Court, and it is to be observed that the Act speaks of the Court of the Additional Judge and not of the Additional District Judge as is the case with certain other Acts in other parts of India.
+This language is also to be compared with articles 214 and 216 of the Constitution which constitute and define the constitution of the High Courts in India. ``214(1).
+There shall be a High Court for each State ' '.
+"216 .
+Every High Court shall consist of a Chief Justice and such other Judges as the President may from time to time deem it necessary to appoint".
+The Punjab Courts Act nowhere speaks of an Additional District Judge or of an Additional Judge to the District Court; also, the Additional Judge is not a Judge of co ordinate judicial authority with the District Judge.
+Section 21 (I) states that "When the business pending before any District Judge requires the aid of an Additional Judge or Judges for its speedy disposal, the State Government may appoint such Additional Judges as may be necessary".
+But these Judges cannot discharge all the judicial functions of the District Judge.
+Their jurisdiction is a limited one and is limited to the discharge of such functions as may be entrusted to them by the District Judge.
+Section 21(2) states that "An Additional Judge so appointed shall discharge any of the functions of a District Judge ' which the District Judge may assign to him".
+It is true that sub section (2) goes on to say that "in the discharge of those functions he shall exercise the same powers as the District Judge" but these powers are limited to the cases with which 140 he is entitled to deal.
+Thus, if his functions are confined to the hearing of appeals he cannot exercise original jurisdiction and vice versa.
+But if he is invested with the functions of an appellate tribunal at the District Court level, then he can exercise all the powers of the District Judge in dealing with appeals which the District Judge is competent to entertain.
+This is a very different thing from the administrative distribution of work among the Judges of a sin ale Court entitled to divide itself into sections and sit as division Courts.
+When the Chief Justice of a High Court or the District Judge of a District Court makes an administrative allotment of work among the Judges of his Court, their jurisdiction and powers are not affected, and if work allotted to one Judge goes to another by mistake his jurisdiction to entertain the matter and deal with it is not affected.
+But that is not the scheme of the Punjab Courts Act and the mere fact that Mr. J. N. Kapur called himself the Additional District Judge and purported to act as such cannot affect the matter of his jurisdiction.
+As the Punjab Courts Act does not contemplate the appointment of Additional Judges to the District Court, none can be appointed.
+The Court contemplated is the Court of the Additional Judge which is in the nature of a special tribunal set up for a special purpose and invested with the powers of a District Judge when dealing with the matters specially entrusted to its jurisdiction.
+We hold therefore that the Court of the Additional Judge is not a division Court of the Court of the District Judge but a separate and distinct Court of its own.
+Now, as we have seen, when the original Court does not make a complaint under section 476 of the Criminal Procedure Code or reject the application, then the only other Court competent to exercise these powers is the Court to which appeals from the original Court "ordinarily lie".
+That Court, in the present case, was the Court of the District Judge and not the Court of the Additional Judge Mr. J. N. Kapur.
+Therefore, Mr. J. N. Kapur 's order was also without jurisdiction.
+141 Mr. Kapur 's order went up to the High Court in revision, and the next question we have to determine is whether the High Court had jurisdiction to entertain the revision and the extent of its powers.
+Keshardeo Chamria vs Radha Kissen Chamria and Other8(1) and many cases from the High Courts were cited which show that there is much difference of opinion about this but we are fortunately not called upon to decide that question because this is not a case where a Court with jurisdiction has acted under section 476 of the Criminal Procedure Code of its own motion or has acted as a Court of appeal under section 476 B.
+As we have shown, the Court of the Senior Subordinate Judge Mr. Pitam Singh had no jurisdiction to entertain this matter either as a Court of appeal under section 476 B or of its own authority under section 476 A.
+The Additional Judge Mr. J. N. Kapur, who has called himself an Additional District Judge, also had no jurisdiction under either section.
+But he seised himself of the case and has rejected the application for the making of a complaint.
+He therefore assumed a jurisdiction which he did not possess and that at once attracted the revisional jurisdiction of the High Court.
+Now it does not matter in this case whether that jurisdiction lies under section 439 of the Criminal Procedure Code or under section 115 of the Civil Procedure Code because under either of these two sections the High Court is entitled to set aside an order of a Court subordinate to it which has assumed a jurisdiction that it does not possess.
+Therefore, in so far as the High Court set aside the order of Mr. J. N. Kapur it was right.
+But where it went wrong was in upholding the complaint made by the Senior Subordinate Judge.
+As we have shown, that Court had no jurisdiction to make the complaint .
+The next question is whether the High Court could itself have made the complaint in this particular case because if it could have done so then we would not have used our extraordinary powers of appeal under article 136 to set right what would in those circum (1) ; , 150 to 152.
+19 142 stances have been a mere procedural irregularity.
+But as our opinion is that the High Court had no jurisdiction to act under section 476 in this case, we are bound to interfere.
+As we have shown, section 195 contains an express prohibition against taking cognizance of the kind of complaint we have here unless the bar is lifted either by the original Court or the Court to which it is subordinate within the meaning of section 195(3).
+Those are the only Courts invested with jurisdiction to lift the ban and make the complaint.
+Had this been a case in which the High ' Court was the superior Court within the meaning of section 195(3) the matter would have been different, but as the original Court was neither the original Court nor the Court to which the original Court was subordinate, according to the special definition in section 195(3), it had no jurisdiction to make the complaint of its own authority.
+Therefore, all that the High Court could, and should, have done was to send the case to the District Judge for disposal according to law.
+We will, therefore,, now do what the High Court should have done.
+We were asked not to allow the proceedings to pend any longer but we are not prepared to do that in this case.
+If the view taken by Mr. Pitam Singh and the High Court is right, then a serious offence of a kind that is unfortunately becoming increasingly common, and which is difficult to bring home to,an offender, has been committed against the administration of justice, and if the District Court is satisfied, as were Mr. Pitam Singh and the High Court, that a prima facie case has been made out and that it is expedient in the interests of justice that a complaint should be filed, then it is but right that the matter should be tried in the criminal Courts.
+We will not say anything more lest it prejudice the appellant.
+The District Judge will of course be free to exercise his own discretion.
+The application for the making of a complaint will accordingly be remitted to the District Judge who will now deal with it.

@@ -1,0 +1,59 @@
+Appeal No. 424 of 1960.
+Appeal from the judgment and order dated March 25, 1958, of the Madras High Court in case Referred No. 62 of 1957.
+A.V. Viswanatha Sastri, J. B. Dadachanji, Rameshwar Nath and P. L. Vohra, for the appellant.
+252 H. N. Sanyal, Additional Solicitor General of India, K. N. Rajagopala Sastri and D. Gupta, for the respondent.
+March 13.
+The Judgment of the Court was delivered by KAPUR, J.
+This is an appeal against the judgment and order of the High Court of Judicature at Madras.
+The assessee is the appellant and the Commissioner of Income tax is the respondent.
+A partnership consisting of four persons was formed by a deed of partnership dated March 31, 1949.
+On July 27, 1951 another partner was taken into partnership and a new deed was drawn up.
+The previous partnership deed was considered as the principal deed.
+The new partnership like the old one was to end on March 31, 1954.
+On March 29, 1954, a new partnership was entered into and a sixth partner was taken and a new deed was executed.
+The new partner contributed Rs. 40,000 as his share to the capital but in the partnership deed no express provision was made as to the manner in which profits and losses were to be divided between the partners.
+In order to rectify this, a deed of rectification was executed on September 17, 1955, which was after the close of the account year 1954 55.
+This deed recited that an error had crept in in typing the partnership deed dated March 29, 1954 by omitting to type el.
+21 of the old partnership deed in the new deed.
+The parties had therefore agreed to rectify the error by adding cl.
+20 A as follows: "We hereby agree that for purpose of clarification the following clause shall be added as clause 20 A in the Partnership Instrument, dated 29th March, 1954: "The parties shall be entitled to shares in the profits and losses of the firm in proportion to the contribution of the capital of each of the partners and whenever fresh capital is required for the business, each partner shall be liable to contribute the additional capital in the same proportion as the 253 paid up capital referred to in clause 4 of the deed, dated 29th March 1954".
+" This is signed by all the partners.
+Up to the end of assessment year 1954 55 the old firms i.e., the one constituted of four partners and the other constituted of five partners were registered under section 26A of the Income Tax Act (hereinafter termed the 'Act ').
+The appellant firm then applied for registration for the assessment year 1955 56.
+The Income Tax Officer pointed out to the appellant firm that there was no specification of shares of the partners in the deed of partnership.
+Thereupon the appellant submitted the deed of rectification dated September 17, 1955, above mentioned and submitted that the original deed did specify the shares of the partners and the deed of rectification only clarified the position.
+But the registration was refused by the Income tax Officer and an appeal taken against that order to the Assistant Commissioner was dismissed.
+Further appeal was taken to the Income tax Appellate Tribunal which also failed.
+At the request of the appellant the following question was referred to the High Court for its opinion: "Whether the assessee firm is entitled to registration section 26 A of the Income tax Act for the assessment year 1955 56." The High Court held that under section 26 A of the Act the factual existence in the year of account of an instrument of partnership was necessary, a requisite which, in the present case, was lacking and therefore the provisions of section 26 A were not satisfied and that the specification of shares only took place on September 17, 1955 when the deed of rectification was executed.
+The question was therefore answered in the negative.
+Against this judgment and order the appellant has come in appeal to this Court by certificate of the High Court.
+It was contended that cls.
+9, 11, 34 and 41(a) sufficiently specified the shares of the partners and satisfied the requirements of the law.
+These clauses were as follows: 254 Cl.
+9 "Such extra contribution made by the partners shall be credited to the respective partners under an account called "Extra Capital Subscription Account" and for the period of the utilisation of the whole or part thereof during the course of the year or years, it shall be treated as capital con.
+tribution only for the purpose of dividing profit but it shall otherwise in no circumstances be added to the paid up capital.
+" Cl. 11.
+"In addition to the shake of profits in proportion to the contribution to the extra, capital subscription account, the amount, so advanced shall carry an interest equal to the highest rate at which the company may have to pay in the event of borrowing the same from Multani money market and shall carry twice the said rate of interest in the year or years of loss.
+" Cl. 34.
+"The senior partner may at any time during the subsistence of the partnership bring in one or more of his other sons other than partners of the 5th and the 6th part herein to the partnership and in the event of their so becoming partners they will be liable for the same duties as the other partners herein and shall be entitled to remuneration and profits in proportion to their capital contribution.
+41(a).
+"In the event of the dissolution of partnership the capital available for distribution as per the balance sheet, except for debts outstanding for collection and reserve fund, shall be paid off to the outgoing partner in proportion of the capital contribution of the outgoing partner to the total contribution of all the partners, including extra capital subscription paid, if any, under clause 9.
+" None of these clauses specify the shares of the partners.
+Clause 9 has reference to extra contribution made by the partners which was to be treated as capital contribution for the purpose of dividing profits but was not otherwise taken to be paid up capital.
+Clause 11 provides for interest on the extra capital subscribed .
+Clause 34 authorises the senior partner during the subsistence of the partnership to bring in 255 one or more of his sons as partners who on being so brought in were entitled to remuneration and profits in proportion to their capital contribution.
+Clause 41(a) provides that in the event of dissolution of partnership the capital available except for debts etc.
+was to be paid to the outgoing partners in proportion to the capital contribution of the outgoing partner.
+But in none of these clauses is it stated what the shares of the partners in the profits and losses of the firm were to be and that in our opinion was requisite for registration of the partnership under section 26 A of the Act and as that was wanting, registration was rightly refused.
+Registration under section 26 A of the Act confers a benefit on the partners which the partners would not be entitled to but for section 26 A.
+The right can be claimed only in accordance with the statute which confers it and a person seeking relief under that section must bring himself strictly within the term of that section.
+The right is strictly regulated by the terms of that statute: Ravula Subba Rao vs The Commissioner of Income tax, Madras Section 26 A provides: S.26A(1) "Application may be made to the Income tax Officer on behalf of any firm, constituted under an instrument of partnership specifying the individual shares of the partners for registration for the purpose of this Act and of any other enactment for the time being in force relating to income tax or super tax.
+" For the purpose of this case the relevant words of that section are "constituted under an instrument of partnership specifying the individual shares of the partners".
+Therefore unless the instrument of partnership specified the individual shares of the partners the instrument of partnership does not conform to the requirements of the section.
+In B. C. Mitter & Sons V. Commissioner of Income tax (2) it was held that the instrument of partnership to be registered should have been in existence in the accounting year in respect of which an assessment is being made.
+At page 202, Sinha J., (as he then was) said: (1) [1956] S.C.R. 577,588.
+(2) 256 "It is, therefore, essential, in the interest of proper administration and enforcement of the relevant provisions relating to the registration of firms, that the firms should strictly comply with the requirements of the law, and it is incumbent upon the Income tax authorities to insist upon full compliance with the requirements of the law." In the present case an instrument of partnership was in existence but it did not specify the shares which was one of the requirements for registration and that condition was fulfilled by the deed of rectification dated September 17, 1955.
+Therefore it cannot be said that there was the requisite instrument of partnership specifying the individual shares of the partners during the year of account.
+The High Court, in our opinion, was right in answering the question in the negative.
+We therefore dismiss this appeal with costs.
+Appeal dismissed.

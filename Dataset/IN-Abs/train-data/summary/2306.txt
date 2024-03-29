@@ -1,0 +1,68 @@
+The workmen of the appellant company demanded bonus for the years 1956 57 to 1959 60.
+The Tribunal disallowed the claim for 1956 57 on the ground that it was belated and allowed the demand for the rest of the years 1957 58 to 1959 60.
+In working out the available surplus for distribution as bonus the Tribunal in general followed the Full Bench formula evolved by the Labour Appellate Tribunal.
+Against the Tribunal 's award the company as well as the workmen appealed to the Supreme Court by special leave under article 136 of the Constitution.
+Both sides raised contentions with regard to the rehabilitation allowances in respect of plant and machinery for the three years in question and the method followed by the Tribunal in calculating them.
+The main question for decision arose out of the company 's contention that since it furnished quotations for all machinery including the old machinery, the Tribunal ought to have accepted those quotations as equivalent to replacement cost as it did in the case of new machinery instead of adopting the notional method of working out multipliers and then arriving at replacement cost by multiplying that multiplier with the estimated cost to the sellers.
+HELD: (i) The multiplier is at best an approximation arrived at from the trend of price level during the ascertained intervening period.
+But when the cost of replacement is ascertained from quotations of prices for the year of replacement such cost s more accurate than a notional one worked out from the multiplier.
+It is therefore not always necessary to arrive at a multiplier for estimating the probable cost of replacement.
+[789 C D].
+In the present case since the Tribunal accepted the quotations ' and worked out the multiplier in the case of new machinery by dividing the quotations by the original cost it ought to have followed the same method in the case of old machinery as it had before it the cost of the old machinery as new and the cost of replacement, both unchallenged by the union.
+If the rehabilitation cost was calculated in this manner there would be no available surplus with the company and hence no bonus would be payable. ' [787 H 788A; 787 A B].
+(ii) It is well established that in the case of old machinery the employees cannot insist that such machinery should be replaced by old machinery.
+For working out the rehabilitation cost of such.
+machinery it ' is the cost of new machinery that is to replace the old which has to be taken into consideration.
+[787 F G].
+(iii).
+Whenever it is possible to estimate itemwise the probable cost of machinery in the year of replacement such a method is not only permissible but is more desirable.
+The blockwise estimate has.
+780 to be resorted to when itemwise estimate is not possible as when the industry owns several factories and the number of plant and machinery is so large that it becomes difficult to make an estimate of replacement cost itemwise.
+[789 B C; 788 G H].
+(iv) The contention on behalf of the workmen that the replacement cost should be worked out on the basis of the price level during the bonus year could not be accepted.
+The test is the probable cost of replacement when rehabilitation becomes due.
+If the bonus year and the year of rehabilitation coincide, the price level during the bonus year would no doubt be the relevant basis.
+But when they do not coincide and the due year of rehabilitation is the year beyond the bonus year that which is relevant is the probable cost of replacement during that year.
+[790 H; 791 A B].
+(v) Ordinarily, the Tribunal has to satisfy itself that no cost of expansion is injected in the rehabilitation cost.
+In the present case, however, it did not appear from the record that any question of expansion arose as the Union accepted the quotations as equivalent to the replacement cost, [791 F G].
+(vi) The Tribunal was justified in taking the price rise in respect of the machinery installed in the bonus, years as zero.
+Though the prices for such machinery in 1963 64 were available, considering that its life was 15 years, it was too early to find out with any precision the probable trend of prices during the intervening years.
+[793 EG].
+(vii) The Tribunal was wrong in giving a uniform remainder life of 7 years to old machinery irrespective of the year of its installation.
+Taking the life of old machinery to be 10 years, the old machinery purchased in 1950 51 would require replacement in 1960 61 and so on.
+In that case the remainder life in the bonus year 1957 58 of old machinery installed in 1950 51 would clearly be 3 years, of old machinery installed in 1955 56 8 years, of machinery installed in 1956 57 9 years and that installed in 1957 58 10 years.
+The divisor therefore could not be the uniform 7 for all the three years but a graduated one on the basis that the estimated life of the old machinery was 10 years.
+[793 H; 794 B.] (viii) The Tribunal was justified, in view of the decision of this Court in the South India Millowners ' Association 's case, in taking the whole cost of the old machinery as depreciation, but it made a mistake in deducting it twice over.
+[795 B C].
+(ix) The company not being an investment company, its investments in shares of other joint state companies prima facie represented extra capital not required as working ' capital, for otherwise the company could not have spared this amount for investment in the stocks of other companies.
+The Tribunal was right in treating this Investment as a capital asset and in refusing to treat the loss therefrom as trading expenditure.
+The Tribunal at the same time could deduct this amount from the rehabilitation cost because that amount was avilable to meet the rehabilitation cost.
+[797 H; 798 A].
+(x) Though the Full Bench formula provided for payment of net interest at 6 per cent annum on paid up capital.
+that rate is not to be regarded as something inflexible.
+While awarding interest if 781 the Tribunal were to find that if it were to grant 6 per cent interest on paid up capital.
+nothing or no appreciable amount would be left for bonus, it can adjust the rate of interest so as to accommodate reasonably the claim for bonus and thus must meet the demands of both as reasonably as possible.
+[798 G; 799 B].
+(xi) In fixing the life of machinery the principle that the Tribunal has to bear in mind is that the life of machinery is the period during which it is estimated to work with reasonable efficiency and not the period during which it has actually been operated, that is, till it becomes too deteriorated for use.
+In the present case the Tribunal fixed the period of 15 years after considering the evidence and the nature of the industry.
+There was no reason why its determination should be interfered with.
+[799 G H].
+(xii) The Tribunal was right in not excluding the cost of spares from the price of machinery for the purpose of calculating rehabilitation cost.
+In the case of imported machinery spares are generally included in the purchase and their cost must be included in the purchase price, the reason being that in case of breakdown the company would not have to wait for an indefinite period for ordering and obtaining the spares.
+[800 B].
+(xiii) The statutory depreciation and development rebate allowable under the Income tax Act are not relevant for the purpose of calculating rehabilitation requirement.
+Only the notional normal depreciation need be deducted.
+[801 C D].
+(xiv) The claim for bonus in respect of 1956 57 was made more than 18 months after the closure of accounts.
+Industrial adjudication.
+;Is bound to take into consideration delay and laches before it calls, upon the other side to reopen its accounts closed long ago.
+The Tribunal was therefore right in rejecting the claim on the ground of laches.
+[801 F G].
+Millowners ' Association.
+Bombay vs Rashtriya Mill Mazdoor, Sangh, Bombay , Associated Cement Co: Ltd. vs Its Workmen , Management of Rajendra Mills Ltd. vs Their Workmen , The Workmen vs The National Tobacco Co. , South India Millowners ' Association & Ors.
+vs Coimbatore District Textile Workers ' Union and Others [1962] 1 L.L.L. 223, G. F. Mills vs Its Workmen., A.I.R. 1958 S.C. 382.
+South India Millowners ' Association and Ors.
+vs Coimbatore District Textile Workers ' Union and Or,,;.,, [1962] Supp. 2 S.C.R. 926, Pierce Leslie & Co. vs Its Workmen, ; and Bengai.
+Kagazkar Mazdoor Union & Ors.
+vs Titagarh Paper Mills Co. and Ors. , referred to;

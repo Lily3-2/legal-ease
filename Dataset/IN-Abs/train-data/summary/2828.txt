@@ -1,0 +1,30 @@
+The assessee paid commission to A, one of its selling agents, and claimed that amount as a revenue outgoing in the computation of its profits for that year.
+The Income tax Officer made the order of assessment without expressly referring to the said deduction but proceeding on the basis that it was a permissible deduction.
+Later, the Income tax Officer issued notices under section 34(1)(a) of the Income tax Act, 1922 stating that he had "reason to believe that" the income of the assessee had escaped assessment and was under assessed.
+He sent a questionnaire to the assessee.
+Since the assessee , did not reply to the questionnaire, the income tax officer informed the assessee, that he presumed that no correspondence with A existed that no service was rendered by A and the payments made were without justification.
+The assessee filed petitions under articles 226 and 227 of the Constitution for restraining the Income tax Officer from taking any action on the notices.
+The assessee 's case was that it had placed all the material facts before the income tax officer that the Income tax Officer had examined those facts before making the assessments, and that the Income tax officer had added back the commission paid to another selling agent to the profits of the assessee, but took no objection to the commission paid to A.
+The High Court dismissed the petition.
+Allowing the assessee 's appeal, this Court HELD : The proceedings taken under section 34(1) (a) must be quashed.
+Two conditions must be satisfied in order to confer jurisdiction on the Income tax Officer to issue the notice under section 34 of the Act in respect of assessments beyond the period of four years, but within a period of eight years, from the end of the relevant year, viz. (i) the Income tax Officer must have reason to believe that income, profits or gains chargeable to income tax had been under assessed, and (ii) he must have reason to believe that such "under assessment" had occurred by reason of either (a) omission or failure on the part of the assessee to make a return of his income under section 22 or (b) omission or failure on the part of the assessee to disclose fully and truly all the material facts necessary for his assessment for that year.
+Both these conditions are conditions precedent to be satisfied before the Income tax Officer acquires jurisdiction to issue a notice under the section.
+If there are in fact some reasonable grounds for the Income tax Officer to believe that there had been any nondisclosure as regards any fact, which could have a material bearing on the question of under assessment, that would be sufficient to give jurisdiction to the Income tax Officer to issue the notice under section 34.
+Whether these grounds are adequate or not is not a matter for the Court to investigate.
+In other words, the sufficiency of the grounds which induced the Income tax Officer to act is not a justiciable issue.
+It is of course open for the assessee to contend that the Income tax Officer did not hold the belief that there had been such non disclosure.
+In other words, the existence of 267 the belief can be challenged by the assessee, but not the sufficiency of the reasons for the belief.
+The expression, "reason to believe" in section 34 does not mean purely subjective satisfaction on the part of the Income tax Officer.
+The belief must be held in good faith , it cannot be merely a pretence.
+It is open to the court to examine whether the reasons for the belief have a rational connection or a relevant bearing to the formation of the belief and are not extraneous or irrelevant to the purpose of the section.
+To this limited extent, the action of the Income tax Officer is starting proceedings under section 34 of the Act is open to challenge in a court of law.
+[273 E H; 274 A C] Calcutta Discount Company Ltd. vs Income tax Officer Companies Dist.
+1 and another; ; ; section Nailayanappa and Ors.
+vs Commissioner of Income tax Bangalore, ; Kantamani Venkata Narayana and Sons vs First Addl.
+Income tax Officer, Rajahmundry; , followed.
+In the present case, the assessee in its writ petitions had repudiated the assertion of the Income tax Officer that he had reason to believe, that due to the omission or failure on t he part of the company to give material facts, some income had escaped assessment.
+Under those circumstances the officer who issued the notices under section 34(1) (a) was expected to file an affidavit setting out the circumstances under which he formed the necessary belief.
+That officer had not filed any affidavit in these proceedings.
+The proceedings recorded by him before issuing the notices had not been produced nor his report to the Commissioner and even the Commissioner 's sanction had not been produced.
+Hence it was not possible to hold that the Income tax Officer had any reason to form the belief in question or the reasons before him were relevant for the purpose.
+[274 D F]

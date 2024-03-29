@@ -1,0 +1,95 @@
+Civil Appeal No. 2034 of 1970.
+Appeal by special leave from the Judgment and order dated the 8th July, 1969 of Calcutta High Court in I.T.R. No. 60 of 1968.
+D. N. Gupta, for the appellant.
+G. C. Sharma, O. P. Dua and section P. Nayar, for the respondent.
+The Judgment of the Court was delivered by GUPTA, J.
+This appeal by special leave turns on the true meaning and scope of explanation 2 to sec.
+24(1) of the Income Tax Act, 1922.
+The appellant (hereinafter referred to as the assessee) is a private limited company carrying on business in tea garden tools and requisites and also acting as agents for selling tea; in fact the bulk of its income was from selling commission on tea.
+The assessment year in question is 1959 60.
+in the relevant previous year which ended on June 30,1958, the assessee for the first time in its history entered into certain transactions in jute.
+On April 17, 1958 the assessee had contracted to purchase 1100 bales of B Twill and 2500 bales of corn sacks: the contract for B Twill was with two parties, M/s. Raghunath & Sons (P) Ltd. for 500 bales and M/s. Mahadeo Ramkumar for 600 bales.
+The corn sacks were all purchased from Tulsider Jeweraj under three contracts for 800 bales, 1000 bales and 700 bales respectively.
+On June 18, 182 1958 the assessee entered into a contract with M/s. Lachhminarain Kenoria & Co. to sell the aforesaid quantities of Twill and corn sacks.
+The assessee had no godown for keeping the goods and had not handled them.
+The goods were in the godown of the mills and only the delivery orders addressed to the mills changed hands.
+The amount realised on sale to M/s. Lachhminarain Kanoria & Co. came to Rs. 10,49,865/ .
+The assessee had however purchased the corn sacks and B Twill for Rs. 11,48,399.
+The transactions thus resulted in a loss of Rs. 98,534/ to the assessee and the assessee claimed adjustment of this loss in the computation of its income for the assessment year 1959 60.
+The Income tax officer held that the transactions involving mere transfer of delivery notes and not actual delivery of the goods were of a speculative character as contemplated in explanation 2 to sec.
+24(1) and the loss could be set off only against speculation profits, and as there were no speculation profits in that year he held that the loss would be carried forward and set off against speculation profits in the future.
+The Appellate Assistant Commissioner on appeal by the assessee held that the transactions were not speculative and the loss should be treated as business loss relying on two decisions of this Court: Bayana Bhimayya and Sukhdevi Rathi vs The Govt.
+of Andhra Pradesh (1) and duni Chand Rataria vs Bhuwalke Brothers Ltd. (2) The Department took an appeal to the Tribunal and the Tribunal relied on the decision of the Calcutta High Court in D. M. Wadhwana vs Commissioner of Income tax, West Bengal(3) to hold that this case came within the scope of sec.
+24 (1) read with explanation 2 and restored the order of the Income tax Officer.
+On the application of the assessee the Tribunal referred to the High Court the following question of law .
+"Whether on the facts and in the circumstances of the case the Tribunal was right in holding that the transactions described above entered into by the assessee were speculative transactions within the meaning of explanation 2 to section 24( 1)".
+The High Court answered the question in the affirmative and against the assessee.
+The correctness of that decision is challenged in this appeal.
+Section 24(1) so far as it is material for the purpose of this appeal is in these terms: "Where any assessee sustains a loss of profits or gains in any year under any of the heads mentioned in section 6, he shall be entitled to have the amount of the loss set off against his income, profits or gains under any other head in that year.
+Provided that in computing the profits and gains charge able under the head 'profits and gains of business, profession or vocation ', any loss sustained in speculative transactions 183 which are in the nature of a business shall not be taken into account except to the extent of the amount of profits and gains, if any, in any other business consisting of speculative transactions: (The second proviso is not relevant for the present purpose.) Explanation 1: Where the speculative transactions carried on are of such a nature as to constitute a business, the business shall be deemed to be distinct and separate from any other business.
+Explanation 2: A speculative transaction means a transaction in which a contract for purchase and sale of any commodity including stocks and shares is periodically or ultimately settled otherwise than by the actual delivery or transfer of the commodity or scrips.
+(The rest of the section is also not relevant.)" Before us both sides admitted that the question is covered by the decision of this Court in Raghunath Prasad Poddar vs Commissioner of Income tax, Calcutta(1) where it was held that such transactions were not speculative transactions within the meaning of explanation 2 to sec.
+24(1).
+The learned counsel for the revenue however prayed for re consideration of the decision on a fresh examination of the problem.
+In Raghunath Prasad Poddar vs Commissioner of Income tax, Calcutta (supra) the assessee, a company dealing in jute and jute goods, purchased pucca delivery orders (in short P.D.Os.) in respect of gunny bags from various parties after paying the full price of the goods covered by the delivery orders and transferred those P.D.Os.
+to buyers after receiving the price fixed for the sale of those goods.
+The Tribunal following the decision in D. M. Wadhwana vs Commissioner of Income tax (supra) held that the sales in question were speculative and consequently the losses suffered by the assessee in these transactions could not be set off against the profits made by the assessee 's non speculative business High Court on reference following its earlier decisions in D. M. Wadhwana 's case and Manalal M. Verma & Co. (P) Ltd. vs Commissioner of Income tax(2) answered the questions referred to it, which are similar to the question formulated in this case, in favour of the revenue.
+This Court reversed the decision on appeal.
+The view taken in Raghunath Prasad 's case appears to be based on three earlier decisions of this Court.
+Duni Chand Rataria vs Bhuwalke Brothers Ltd. (supra) Beyanna Bhimayya and sukhdevi Rathi vs The Government of Andhra Pradesh (supra) and State of Andhra Pradesh vs Kolla Sreeramamurthy(2).
+The reasoning in Raghunath Prasad 's case proceeds like this: 184 To effect a valid transfer of any commodity, it is not necessary that the transfer in question should be followed up by actual delivery of the goods to the transferee.
+Even if the goods are delivered to the transferee 's transferee, the first transfer also will be a valid transfer.
+What has to be seen in such cases is whether the ultimate purchaser of the P.D.Os has taken actual delivery of the goods sold.
+lt is erroneous to think that if any transfer of the P.D.Os. is not followed up by actual delivery of the goods to the transferee, that transaction is to be considered as speculative.
+The following observation in Duni Chand Rataria vs Bhuwalke Brothers Ltd. (supra) was relied on in support of the view taken: "The sellers handed over these documents (like delivery orders) to the buyers against cash payment, and the buyers obtained these documents in token of (delivery of possession of the goods.
+They in turn passed these documents from hand to hand until they rested with the ultimate buyer who took physical or manual delivery of possession of those goods.
+The constructive delivery of possession which was obtained by the intermediate parties was thus translated into a physical or manual delivery of possession in the ultimate analysis eliminating the unnecessary process of each of the intermediate parties taking and in his turn giving actual delivery of possession of the goods in the narrow sense of physical or manual delivery thereof." In Duni Chand Rataria 's case this Court was interpreting the words "actual delivery of possession" occurring in sec. 2(1)(b)(i) of West Bengal Jute Goods Future ordinance, 1949.
+The question for determination in that case was whether certain contracts between the appellant and the respondents could be called contracts involving actual delivery of possession of the goods concerned.
+Referring to the definition of "delivery" in sec.
+2(2) of the Indian it was observed that this would include actual delivery as also symbolic or constructive delivery, and having regard to the mischief which was sought to be averted by the promulgation of the ordinance to prevent persons who dealt in differences only and never intended to take delivery under any circumstances it was held that the intendment of the ordinance was that "actual delivery of possession" was actual delivery as contracted with mere dealings in differences and such actual delivery included within its scope symbolic and constructive delivery of possession.
+With respect, these observations made in quite a different context do not appear to us to be of assistance in interpreting explanation 2 to sec.
+24(1) of the Indian Income Tax Act, 1922 The other decision referred to in Raghunath Prasad 's case, Bayanna Bhimayya and Sukhdevi Rathi vs The Government of Andhra Pradesh (supra) was a case under the Madras General Sales Tax Act, 1939.
+The appellant in that case who dealt in gunnies entered contracts with two mills agreeing to purchase gunnies at a certain rate 185 for future delivery and also entered into agreements with third parties by which they charged something extra from the third parties and handed over to them the delivery orders described as kutcha delivery orders.
+The mills however did not accept the third parties as contracting parties but only as agents of the appellants.
+The tax authorities treated the transaction between the appellants and the third parties as a fresh scale and sought to levy sales tax on this as well, to which 13 the appellants objected saying that there was only one sale.
+It was held that a delivery order being a document of title to the goods cover cd by it, possession of the document not only gave one the right to recover the goods but also to transfer them to another by endorsement or delivery, and that there being two separate transactions of sale, one between the mills and the original purchasers, and the other between the original purchasers and the third parties, tax was payable at both the points.
+In reaching this conclusion the court observed: "At the moment of delivery by the mills to the third par ties, there were, in effect, two deliveries, one by the mills to the appellants, represented, in so far as the mills were concerned, by the appellants ' agents, the third parties, and the other, by the appellants to the third parties as buyers from the appellants.
+These two deliveries might synchronise in point of time, but were separate, in point of fact and in the eye of law.
+" Here also the only question was whether on the facts of the case there were two separate transactions of sale so that tax was payable at both the points under the Madras General Sales Tax Act, 1939.
+The observation made in this context does not also seem to us relevant to the question under consideration in the appeal before us.
+Another authority on which the decision in Raghunath Prasad 's (supra) case relies is State of Andhra Pradesh vs Kolla Sreeramamurthy, (supra) which is also a case under the Madras General Sales Tax Act, 1939.
+The respondent in that case, a dealer in gunny bags, purchased gunnies from the mills on terms of written contracts which were on printed forms.
+These contracts were entered into by brokers acting for the respondent who sent him 'Bought Notes ' setting out the terms upon which the purchases had been effected from the mills.
+The mills having received a part of the purchase money in terms of the contract issued delivery orders directing the delivery of goods as per the contract.
+Instead of taking delivery himself, the respondent endorsed the delivery orders and these passed through several hands before the ultimate holder of the delivery orders presented them to the mills and obtained delivery of the gunnies on payment.
+The question that arose for decision was whether the transactions entered into by the respondent were mere sales of delivery orders or sales of goods so as to bring them to charge under sec.
+3 of the said Act.
+At the date of the contract for purchase by the respondent, the goods which were the subject matter of the purchase were not appropriated to the contract so that there was no completed sale since no property passed, but only an agreement for sale.
+In considering the effect of 186 the position that the property in the goods passed to the ultimate endorsee of the delivery orders, Mr. Justice Ayyangar speaking for the Court relied on an English decision, Butterworty vs Kingsway(1) to hold that though the respondent and his transferees had not acquired any title to the goods, the title acquired by the ultimate endorsee of the delivery orders went to feed their previously defective titles and ensured to their benefit.
+His Lordship further observed that this was the principle that formed the basis of the decision in Bayanna Bhimeyya 's (supra) case.
+Here again, the question that was considered has hardly any connection with sec.
+24 of the Indian Income Talc Act 1922, and the observations made in this case cannot be a guide to the solution of the problem arising in the case before us Sec.
+6 of the Indian Income Tax Act, 1922 enumerates the heads of income chargeable to income tax.
+24(1) of the Act provides that where an assessee sustains a loss under any of these heads in any year, he shall be entitled to have the loss set off against his income, profits or gains under any other head in that year.
+This general provision is qualified by the first proviso which permits the set off of a loss in speculative business against the assessee 's profits and gains, i any, in a similar business only.
+explanation 1 says that where the speculative transactions are of such a nature as to constitute a business, I) the business shall be deemed to be distinct and separate from any other business.
+Explanation 2 defines a speculative transaction as a transaction in which a contract for purchase and sale of any commodity is periodically or ultimately settled otherwise than by the actual delivery or transfer of the commodity.
+The words actual delivery in explanation 2 means real as opposed to notional delivery.
+For income tax purposes speculative transaction means what the definition of that expression in explanation 2 says.
+Whether a transaction is speculative in the general sense or under the Contract Act is not relevant for the purpose of this explanation.
+The definition of "delivery" in sec.
+2(2) of the which has been held to include both actual and constructive or symbolical delivery has no bearing on the definition of speculative transaction in the explanation.
+A transaction which is otherwise speculative would not be a speculative transaction within the meaning of explanation 2 if actual delivery of the commodity or the scrips has taken place; on the other hand, a transaction which is not otherwise speculative in nature may yet be speculative according to explanation 2 if there is no actual delivery of the commodity or the scrips.
+The explanation does not invalidate speculative according to explanation 2 if there is no actual delivery meaning to that expressing for purposes of income tax only.
+In D. M. Wadhwana vs Commissioner of Income tax (supra) on which the Tribunal 's decision in this case is based, the Calcutta High Court observed: "The explanation to sec.
+24(1), however, does not pre vent persons from entering into contracts in which the buyers and sellers may not actually hand over the goods physically.
+The explanation is only designed at segregating for 187 income tax purposes loss sustained in transactions of a certain kind.
+It may be that such transactions arc not speculative in the light of sec.
+30 of the Contract Act.
+In enacting the explanation 2 of sec.
+24(1) of the Income Tax Act, the legislature did not intend to affect any transaction of sale wherein the goods were not physically delivered by the seller to the buyer but only laid down that if there was no actual or physical delivery, the loss, if any, would be a loss in a speculative transaction which could be allowed to be set off only against a profit in a transaction of the same nature.
+The object of the explanation is not to invalidate the transaction which are not completed by actual deli very of the goods but only to brand them as speculative transactions so as to put them in a special category for income tax purposes.
+" In our opinion this is a correct statement of the law.
+This aspect o the matter was not considered in Raghunath Prasad Poddar vs Commissioner of Income tax, Calcutta.
+(supra) we think the law on the point was correctly stated in D. M. Wadhwana vs Commissioner of income tax, (supra) and in our opinion the question referred to the High Court in the present case has been correctly answered.
+The appeal is accordingly dismissed but in the circumstances of the case without any order as to costs.

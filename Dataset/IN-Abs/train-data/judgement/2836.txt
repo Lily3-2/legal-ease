@@ -1,0 +1,98 @@
+l Appeals Nos.
+2321 to 2324 of 1966.
+Appeals from the judgment and order dated August 2, 1965 of the Madras High Court in Tax Cases Nos. 198 to 201 of 1962 (References Nos.
+114 to 117 of 1962).
+B.Sen, G. C. Sharma, R. N. Sachthey and B. D. Sharma, for the appellant (in all the appeals).
+Gobind Das and Lily Thomas, for the respondents (in all the, appeals).
+The Judgment of the Court was delivered by Shah, J.
+Sri Ganapathy Mills Co. Ltd. distributed divident to its shareholders out of the business profits earned by it in the years ending December 31, 1953 and December 31, 1954.
+The Company however carried in its accounts a large balance of unabsorbed depreciation admissible under section 10(2) (vi) and section 10 (2) (vi a) of the, Income tax Act, and on that account it had no taxable income in the relevant assessment years 1954 55 and 1955 56.
+In assessing the income, of the shareholders for the, assessment years 1955 56 and 1956 57 the Income tax Officer rejected their claim for exemption from tax under section 15 C(4) of the Incometax Act, 1922, and brought the dividend income to tax.
+order was confirmed by the Income tax Appellate Tribunal.
+The Tribunal referred the following question to the High Court of Madras for opinion : "Whether on the facts and in the circumstances of the case, the assessees are entitled to the benefit of 436 S.15 C(4) in respect of the dividend income received from Sri Ganapathy Mills Co. Ltd., Tinnevelly ?" The High Court answered the question in the affirmative.
+The ,Commissioner of Income tax has appealed to this Court with a ,certificate under section 66A(2) of the Income tax Act.
+In the year ending December 31, 1953, the Company had ,earned in its business transactions a profit of Rs. 87,184, but it ,had no taxable profits, for the depreciation for the current and the previous years amounted to Rs. 2,83,343 which was an admissible allowance in the computation of income under section 10 of the Income tax Act.
+Since full effect could not be given to the allowance, the Company was entitled to add to the depreciation for the following year the unabsorbed depreciation of Rs. 1,96,159 under section 10(2)(vi) proviso (b).
+In the year ending December 31, 1954, the Company earned a profit of Rs. 4,36,821 ,and the depreciation admissible for the year was Rs. 2,41,809.
+Taking into account the unabsorbed depreciation of the previous _year in computing the taxable income, it was found that the Company had suffered a loss of Rs., 1,147.
+Accordingly the Company had no taxable profits in either of the two years and so tax was ,levied from the Company.
+But the Company had still distributed dividend out of profits earned by it and the taxing authorities levied tax on the dividend received by the shareholders.
+The answer to the question referred to the Tribunal depend , upon the true interpretation of section 15 C of the Indian Income tax Act, 1922.
+Section 15 C of the Income tax Act.
+insofar as it is ,relevant, provides " (1) Save as otherwise hereinafter provided, the tax shall not be payable by an assessee on so much of the profits or gains derived from any industrial undertaking to which this section applies as do not exceed ,six per cent per annum on the capital employed in the undertaking, computed in accordance with Such rules as may be made in this behalf by the Central Board of Revenue.
+. . (3) The profits or gains of an industrial under,taking to which this section applies shall be computed in accordance with the provisions of section 10.
+(4) The tax shall not be payable by a share holder in respect of so much of any dividend paid or deemed to be paid to him by an industrial undertaking 4 3 7 as is attributable to that part of the profits or gains on which the tax is not payable under this section. .
+" The Company was an industrial undertaking to which section 15 C applied.
+It had in the two relevant years derived from the industrial undertaking no profits or gains within the meaning of sub section
+(1) read with sub section
+(3) of section 15 C.
+The profits or gains derived the industrial undertaking within the meaning of sub section
+(1) of section 15 C are not business profits : they are taxable profits computed in accordance with the provisions of section 10 of the Income tax Act.
+Under section 15 C(1) no tax is payable by the industrial undertaking on its taxable profits equal to six per cent per annum of the capital employed.
+Sub section (4) of section 15 C exempts the shareholders of an industrial, undertaking to which section 15 C applies, from liability to pay tax in respect of the dividend paid or deemed to be paid as is attributable to that part of the profits or gains on which the tax is not payable under section 15 C (1).
+Exemption under section 15 C(1) from payment of income tax is not related to the business profits: it is related to the taxable profits.
+The language of sub section
+(3) is clear : the profits or gains of an industrial undertaking have to be determined under section 10 of ,the Act.
+Even if the undertaking has earned profits out of its commercial activity, if it has no taxable profits it cannot claim exemption from payment of tax under sub section
+(1) of section 15 C; and it ' the undertaking cannot claim the benefit under sub section
+(1) the shareholders will not get the benefit of sub section
+(4), for there is no dividend paid which is attributable to that part of the profits or gains on which the tax was not payable by the undertaking.
+The Company had no taxable profit in the year of accounts it did not accordingly qualify for exemption from payment of tax under sub section
+(1) and since there was no such taxable profit, the dividend received by the shareholders could not be said to be attributable to that part of the profits or gains on which the tax was not payable under sub section
+On the plain terms of section 15 C the shareholders cannot obtain the benefit of exemption from payment of tax.
+We are unable to agree with the High Court that in deter mining the profits of the Company the unabsorbed depreciation of the previous years will not be taken into account.
+Section 10 of the Income tax Act, insofar as it is relevant, provides : "(1) The tax shall be payable by an assessee under the head "Profits and gains of business, profession or vocation" in respect ' of the profits or gains of any business, profession or vocation carried on by him.
+L12SupCI 70 14 438 (2) Such profits or gains shall be computed after making the following allowances, namely: .
+. " Clause (vi) deals with depreciation allowance in respect of buildings, machinery, plant or furniture being the property of the assessee, at a sum equivalent to such percentage on the original cost thereof as may be prescribed.
+Under cl.
+(vi a) in respect of buildings newly erected, or of machinery or plant being new which had been installed after March 31, 1948, a further sum which is deductible in determining the written down value equal to the amount admissible under cl.
+(vi) is allowable.
+If the depreciation under cls.
+(vi) and (vi a) cannot be given full effect in any year owing to there being no profits or gains chargeable for that year, or owing to the profits or gains chargeable being less than the allowance, then subject to the provisions of cl.
+(b) of the proviso to sub section
+(2) of section 24, the allowance or part of the allowance to which effect has not been given, as the case may be, shall be added to the amount of the allowance, for depreciation for the following year and deemed to be part of that allowance.
+It tion of an year is to be deemed depreciation for the succeeding year into the account of which it is carried forward, and the aggregate of the depreciation for the year of assessment and the unabsorbed depreciation of the previous year is deemed to be depreciation allowance for the year of assessment.
+The High Court, however, said that in computing the profits of the year of an industrial undertaking for determining whether the benefit of exemption under section 15 C(1) is admissible, the unabsorbed depreciation cannot be taken into account.
+The High Court observed: "In effect, it computing the profits or gains for the purpose of section 15 C(1) and (4) the only allowances that could be made in respect of current year 's additional or extra depreciation under section 10(2) (vi a).
+The set off of losses under section 24(2) and allowances in respect of unabsorbed depreciation both under section 10(2) (vi) and 10(2) (vi a) would not enter into the computation under section 15 C(3).
+It is true that when the net result of assessment on the company is taken there is 'nil, profit and there might be no occasion at all for the application of section 15 C.
+But, in our view, it does not follow from it that on that ground the benefit of that section can be denied to the shareholders if on a computation of the profits and gains of the industrial undertaking under 43 9 section 15 C(3), the company had made profits out of which dividends had been paid to its shareholders.
+Where the company has 'nil, ' profits under its final assessment, the non application of section 15 C is not due the fact that it made no profits and it was not entitled to the benefit of section 15 C(1).
+But, in view of the overall result of the assessment, there is no need for the company to claim exception under that provision, as there is no tax liability at all.
+Viewed from this angle, we consider that the shareholders are entitled to take the position of the profits or gains of the company as computed under sub section (3) of section 15 C and subject to the limits provided by that sub section, and claim the benefit under section 15 C(4).
+" The opinion of the High Court that in computing the profits of an industrial undertaking under section 10, unabsorbed depreciation for the previous years must be ignored, is inconsistent with the plain terms of section 10(2)(vi) proviso (b).
+Again the assumption that the right to claim allowance of unabsorbed depreciation arises out of section 24(2) of the Act is in our judgment erroneous.
+Under the scheme of section 15 C the profits or gains of an industrial undertaking must be determined under and in the manner provided by section 10 of the Income tax Act.
+For that purpose all the allowances under sub section
+(2) must be taken into account, and the resultant amount forms a component of the taxable profit.
+If by proviso (b) to section 10 (2) (vi) the unabsorbed depreciation of the previous year is deemed depreciation for the subsequent year, there is no room for making any distinction between the unabsorbed depreciation for the previous year and the depreciation for the current year.
+The right to appropriate the profits towards the unabsorbed depreciation of the previous year does not arise under section 24 ( 1); it arises by virtue of section 10 (2) (vi) proviso (b) We are also unable.
+to agree with the High Court that if an industrial undertaking has distributed dividend, the shareholders will be entitled to exemption from payment of tax on that dividend, even if the Company is not entitled to claim exemption from liability to pay tax under sub section
+(1) of section 15 C.
+The right of the shareholders to obtain the benefit of exemption under section 5 C(4) depends upon the Company obtaining the benefit of exemption under sub section
+(1) of section 15 C, for the exemption from payment of tax on the dividend received by the shareholders is admissible only in that part of the profits or gains on which the tax is not payable by the Company under sub section
+440 Section 24(2) proviso (b) on which reliance was placed has, in our judgment, no application.
+That proviso enacts "Provided that (b) where depreciation allowance is, under clause (b) of the proviso to, clause (vi) of sub section (2) of section 10, also to be carried forward,effect shall first be given to the provisions of this sub section.
+" Sub section (2) of section 24 deals with "the carry forward of losses" and proviso (b) to section 24(2) sets out the sequence in which the losses carried forward and the depreciation allowance which remains unabsorbed in the previous year are to be allowed.
+Whether any practical effect may be given to the terms of proviso (b) to section 24(2), in the view which this Court has taken in Commissioner of Income tax, Calcutta vs Jaipuria China Clay Mines (P) Ltd.(1) is a matter on which we need express no opinion.
+If on its plain terms, proviso (b) to section 24(2) deals merely with priority and does not convert what is unabsorbed depreciation of the previous year which is deemed to be depreciation for the current year ', into loss for the purpose of carry forward," sub section
+(2) of section 24 proviso (b) presents no difficulty in the present case.
+This Court in Jaipuria China Clay Mines ' case(1) held that unabsorbed depreciation of past years cannot be kept out of accounts in determining the net income of an assessee for a particular year; it has to be set off against the profits from other heads.
+In that case the assessee had for the year 1952 53 a total business income of Rs. 14,000 odd and the depreciation amounted to Rs. 5,360.
+The assessee company had a large dividend incomes.
+The tax payer claimed that the unabsorbed depreciation of the previous year should be deducted from the dividend income and the total income liable to tax be reduced.
+The Income tax Officer rejected the claim.
+This Court observed that the Income tax Act draws no distinction between the various allowances mentioned in section 10(2); they all have to be deducted from the gross profits and gains of a business.
+Accordingly the ' unabsorbed depreciation of the past years must be added to the depreciation of the current year, and the aggregate of the unabsorbed depreciation and the current year 's depreciation must be deducted from the total income of the year relevant to the assessment year in question.
+If the profits do not wipe out the depreciation, the profit and loss account would show a loss.
+The Court further observed that "carry forward of depreciation is provided for" in section 10(2) (vi), and section 24(2) only deals with losses other than the losses (1) 441 due to depreciation.
+That decision clearly establishes that depreciation in respect of a business has in the first instance to be set off as an allowance against the profits from the business, profession or vocation.
+If the depreciation exceeds the profits and there is no other income from any other head, the depreciation may be carried forward to the next year.
+If, there is a profit from some other head, then the unabsorbed depreciation of a particular year under the head "Profits and gains of the business, profession or vocation" will be set off against such other income.
+In the case in hand, the Company had no other source of income.
+The depreciation allowance admissible in the assessment years exceeded the business profits.
+The Company had no taxable profit in the two years in question.
+The Company could not claim exemption from payment of tax provided in section 15 C (1); and no dividend having been distributed out of the taxable profits there was no dividend attributable to that part of the profits which were exempt from tax in the 'hands of the shareholders.
+The answer to the question submitted by the Tribunal is recorded in the negative.
+The appeals must therefore be allowed.
+Having regard to the Circumstances of the case, the Parties will bear their own costs in this Court and in the High Court.

@@ -1,0 +1,21 @@
+The appellant assessee was a Registered Firm.
+The assessment year concerned was 1973 74.
+During the relevant previous year being the financial year 1972 73, the assessee sold shares it held in several companies; from the sale in three companies it secured a gross long terms capital gain of Rs.5,61,508 However, in the sale of shares in six other companies it sustained a long term capital loss in a sum of Rs. 96,583.
+The assessee computed the capital gains on these transactions of sale of shares less the deductions under Section 80 T(b) and Section 80T (b) (ii) (1) and showed a profit of Rs. 1,81,671.00 The Income Tax Officer did not agree with the mode of computation indicated by the asssessee; and set off the long term capital loss against the long term capital gain in the first instance and then applied the deductions, provided by Section 80 T to the balance figure and ultimately computed the capital gains included in the total income at Rs. 2,29,963.
+The assessee aggrieved by the aforesaid assessment preferred an appeal which was dismissed by the Appellate Assistant Commissioner.
+In further appeal by the assessee the Tribunal agreed with the assessee 's computation.
+Revenue asked for and obtained a reference which the High Court answered in the negative i.e. in favour of the Revenue.
+The High Court held that the income from capital gains constituted a separate head of income under the Income Tax Act and that capital gains are bifurcated into long term capital gains and short term capital gains, and 446 447 relying on the decision in Commissioner of income Tax vs Sigappi Achi, held that in the instant case it was concerned only with long term capital gains, and that Section 70 (2) (ii) prescribes the manner in which the loss from sale of long term capital asset is to be set off.
+In the appeal to this Court it was submitted on behalf of the appellant assessee that according to the provisions and scheme of the Income Tax Act capital gains had to be computed in respect of each asset separately and that Section 80 T prescribes different percentages of deduction for different types of capital assets, and that the correct method, therefore, is to compute the capital gains with respect to each asset transferred saparately, in accordance with Section 80 T before setting off the losses.
+Dismissing the appeal, this Court, HELD: 1.
+This is not a case where the assets transferred by the assessee during the relevant previous year consisted of both the types of capital assets, mentioned in sub clauses (i) and (ii) of clause (b) of Section 80 T.
+They were of only one type namely those failing under sub clause (ii) viz. shares.
+From the sale of certain shares the assessee derived profit and from the sale of certain other shares, he suffered loss.
+(450 E) 2.
+The deductions provided by Section 80 T have to be applied to the " capital gains" arising from sale of long term capital assets.
+In other words, the deductions provided by the said section have to be applied to the amount representing the capital gains during the relevant previous year.
+The amount of capital gains during the relevant previous year means the profits derived minus the losses suffered.
+(452 D) 3.
+It is not possible to treat the transfer of each asset separately and apply the deductions separately.
+(452 E) Commissioner of Income Tax vs V Venkarachalam, Civil Appeal No. 3044 of 1993, dated April 13,1993, relied on.
+Commissioner of Income Tax (Central) Madras v, Canara Workshops Private Limited, , distinguished.

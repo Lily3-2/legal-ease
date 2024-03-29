@@ -1,0 +1,28 @@
+Section 15(4) of the Forward Contracts (Regulation) Act, 1952 is conceived in the larger interest of the public to protect them against the malpractices indulged in by members of recognised associations in respect of transactions in which their duties as agents come into conflict with their personal interest.
+Parliament had made a writing, evidencing or confirming the consent or authority of a non member, as a condition of the contract if the member has entered into a contract on his own account.
+So long as there was no such writing there was no enforceable contract.
+Under the Act, there is not only an express prohibition but also punishment for contravention of that prohibition.
+The assessee, a registered firm, was a member of the Saurashtra Oil and Oilseeds Association, and was carrying on the business of commission agency and general merchants.
+It was also doing forward business.
+During the assessment year 1958 59 it incurred a loss in certain transactions.
+Those transactions were in contravention of the provisions of section 15(4) of the Forward Contracts (Regulation) Act.
+The assessee claimed that the loss was allowable under section 10(1) of the Income tax Act, 1922, as a deduction against its other business income even if the losses were incurred in illegal transactions.
+The Income tax Officer rejected the contention of the assessee, and also held that the losses incurred in illegal business could not be deducted from speculative profits under section 24 of the Income tax Act.
+The Appellate Assistant Commissioner confirmed the order.
+The Tribunal held that the assessee could not set off the loss against the other income under section 10(1) of the Income tax Act but was entitled to do so under section 24.
+On the questions referred to the High Court namely : (1) Whether the loss was in respect of illegal contracts, (2) Whether the loss was a result of speculative transactions and therefore could be set off under section 24 of the Income tax Act, and (3) whether even if the loss was as a result of illegal transactions the assessee was entitled to set off the loss under section 10(1) of the Income tax Act, the High Court did not answer the first question but held that the losses could be set off both under section 10 and section 24 of the Income tax Act.
+In appeal to this Court, HELD:(1) It is well settled that contracts which are prohibited by statute, the prohibition being either express or implied, would be illegal and unenforceable if they are entered into in contravention of the statute.
+Therefore, the contracts in the present case, were illegal contracts and the loss was in respect of such illegal contracts.
+[955 C D] Sunder Lal vs Bharat Handicrafts ; , followed.
+951 (2)Under Explanation 2 of section 24 a speculative transaction means a transaction in which a contract for purchase and sale of any commodity is periodically or ultimately settled otherwise than by actual delivery etc.; but the contract has to be an enforceable contract and not an unenforceable one by reason of any taint or illegality.
+In the present case, the contracts were illegal and unenforceable on account of the contravention of section 15(4) of the Forward Contracts (Regulation) Act.
+The High Court was therefore in error in considering that set off could be allowed under section 24(1) of the Income tax Act.
+[959 D F] (3)While section 10(1) of the Income tax Act imposes a charge on profits or gains of a business it does not provide how those profits are to be computed.
+Section 10(2) enumerates various items which are admissible as deductions but they are not exhaustive.
+The profits and gains which are liable to tax under section 10(1) are what are understood to be such under ordinary commercial practice.
+The loss for which the deduction is claimed must be one that springs directly from the carrying on of the business and is incidental to it, that is, the profit was earned and the loss was sustained in the same business.
+If this is established the deduction must be allowed provided that there is no provision against it.
+If the business is illegal, neither the profits earned nor the losses incurred would be enforceable in law but that does not take the profits out of the taxing statute.
+Simi larly, the taint of illegality of the business cannot detract from the loss being taken into account for computation of the amount which can BE subjected to tax as profits.
+Cases which deal with payment of a penalty for infraction of law or the execution of some illegal activity stand on a different footing, because, an expenditure is not deductible unless it is a commercial loss in trade and such a penalty cannot be described as such.
+[956 G H. 957 A B, D E, G H; 959 H; 960 A B] [Since in the present case no finding was given by the High Court that the two businesses in which profits were made and losses were sustained were the same, the matter was remanded to the High Court for decision on this point.] Raj Woollen Industries vs C.I.T., Simla, , Chandrika Prasad Ram Swarup vs C.I.T., U.P. & C.P., 7 I.T.R. 269, Badridas Daga vs Commissioner of Income tax, 34 I.T.R. 10, Haji Aziz & Abdul Shakhor Bros vs C.I.T., Bombay City, and Allen vs Fraquharson Bros. , referred to.

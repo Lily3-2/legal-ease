@@ -1,0 +1,18 @@
+G, a holder of certain shares of a private limited company made a will disposing of his estate and died on May 13, 1945.
+The respondent obtained Letters of Administration "durante absentia" to the estate, and in pursuance of an agreement between himself, the company and one M to sell the shares to M, handed over the share certificates to M against payment of the price.
+M failed to present the share certificates for registration and the name 591 of G remained on the register of shareholders of the Company.
+The Income tax Officer made an order under section 23A of the Income tax Act (as it then stood) that certain undistributed part of the assessable income of the company shall be deemed to have been distributed as dividend amongst the shareholders as at the dates of the general meetings, viz., May 26, 1947 and December 22, 1947.
+The Income tax Officer then issued a notice under section 34(1) (b) to the respondent proposing to re assess his income and calling upon him to file a return for the relevant year.
+The respondent submitted a return, but did not include the dividend deemed to have been distributed by the order passed under section 23A The Income tax Officer included the dividends in the total income of the respondent and levied tax.
+The respondent 's appeals to the Appellate Assistant Commissioner and the Income tax Appellate Tribunal were unsuccessful.
+On reference, the High Court held that the assessment made on the respondent Administrator to the estate of G (deceased) was not valid in law.
+In appeal by special leave: Held (i) The legal representative does not acquire in all cases, the right of a share holder in respect of shares of which the deceased was registered as holder.
+But if the estate of a share holder of a company is by virtue of the Articles of the Company liable in respect of calls whether made during the life time of the holder or after his death, the legal representative is obliged to satisfy the calls in his representative character.
+(ii) There is no special machinery devised by the Income tax Act enabling assessment and levy of tax in respect of such deemed income from the estate of the share holder, in the hands of his legal representative when the order of the Income tax Officer pursuant to which the income was to be deemed to be distributed becomes effective was made after the death of the share holder.
+The provision in section 24B for enforcement of liability against the legal representative of a deceased person to pay tax which would have been payable if such person had not died, has a limited application.
+The expression "tax which would have been payable under this Act, if he had not died," in section 24B is intended to impose liability for tax on income actually received or deemed fictionally to be received in the year of account in the course of which the taxpayer died.
+This expression does not supply machinery for taxation of income received by a legal representative after the expiry of the year in the course of which such person died.
+Commissioner of Income tax Bombay vs Amarchand Shroff, [1963] Supp.
+I S.C.R. 699 and Commissioner of Income tax, Bombay vs Ellis C. Reid.
+I.L.R. , referred to.
+(iii) To assess tax on such receipts after the expiry of the year in the course of which the original owner died on the footing that it is the personal income of the legal representative is to charge tax not in accordance with the provisions of the Act.

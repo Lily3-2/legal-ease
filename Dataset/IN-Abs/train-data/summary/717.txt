@@ -1,0 +1,32 @@
+The respondent was a banking company and the question was whether it was liable to pay excess profits tax on a sum of Rs. 86,000 received by it as rent in respect of the major part of a six storeyed building owned and constructed by it, which it had let out, the rest being occupied by its headquarters in Calcutta.
+The Department and the Income tax Appellate Tribunal found against the respondent but the High Court, on a reference under section 66(1) of the Income Tax Act, reversed their decision.
+The Memorandum of Association of the Company provided as one of its objects as follows, " (e) To purchase, take on lease or in exchange or otherwise acquire any moveable or immoveable property. . . . which the company may think necessary or convenient for the purpose of its business, and to construct, maintain and alter any buildings or works necessary or convenient for the purpose of the Company. " The question referred to the High Court for decision wag whether the said income was part of the business income taxable under section 2(5) read with r. 4(4) of the Sch.
+I to the Excess Profits Tax Act, 1940.
+The High Court held that although the income was derived from the holding of property, since the functions of the assessee company did not consist wholly or mainly in the holding of investments or other property as required by the first proviso to section 2(5) Of the Act, no question of the application of r. 4(4) could arise.
+Held, (Per Sinha and Hidayatullah, jj., Kapur, J., dis senting), that the question must be answered in the affirmative.
+Per SINHA, J. The High Court was fundamentally in error in overlooking the main provision Of section 2(5) of the Act, for even though the first proviso might not apply, that by itself would not render the main provision of the definition, which was wider than that under the Indian Income tax Act inapplicable.
+Commissioners of Inland Revenue vs Desoutter Bros. Ltd., , applied.
+661 The term 'business ' was of wide import and each case had to be determined with reference to the particular kind of acti vity or occupation of the person concerned.
+Though, ordinarily it implied a continuous activity in carrying on a particular trade or avocation, it might also include an activity which might be called ' quiescent '.
+The Commissioners of Inland Revenue vs The South Behar Railway Co., Ltd., and Commissioners of Inland Revenue vs The Korean Syndicate, Ltd., (1921) 12 T. C. 181, referred to.
+The Memorandum of Association of a company provided the key to its business objects and the relevant clause in the instant case clearly showed that the managing of property and realisation of rents therefrom were within the objects of the company, and, therefore, such rents must be included in calculating its profits under r. 4(4) of the Sch.
+I to the Act.
+It was not correct to suggest that the rule, in substituting, the word " partly " for " mainly " occurring in the first proviso to section 2(5) exceeded the provisions of the statute.
+Rule 4(4) did not derive its operative force from that proviso, limited to an incorporated body of a particular type, and was of wider application as evident from its own terms as also from the second proviso to section 2(5) of the Act.
+Punjab Co operative Bank Ltd. vs ' Commissioner of Income tax, Punjab, ; [1940] 8 I.T.R. 636 and Sardar lndra Singh and Sons, Ltd. vs Commissioner of Income tax, West Bengal; , , referred to.
+It was not correct to say that if rental income were to be covered by the main clause of section 2(5), the first proviso to that section would become redundant.
+Commissioners of Inland Revenue vs The Tyre Investment Trust, Ltd., , referred to.
+Nor was it correct to say that " business " could not be said to include rental income.
+The United Commercial Bank Ltd., Calcutta vs The Commis sioner of Income tax, West Bengal; , , held inapplicable.
+Per KAPUR, J. The word 'business ' could either mean what was contained in the main provision of section 2(5) or have the extended meaning given by the first proviso to that section.
+In either case it was inapplicable to the case of the respondent whose essential function was to deal in money and credit, letting out of property being neither wholly or even partly its business.
+The income received by the respondent, therefore, by way of rent, did not fall within the definition of the word 'profits ' contained in section 2(19) of the Act and was not chargeable to excess profits tax under section 4 Of the Act.
+Salisbury House Estate Ltd. vs Fry, ; , 662 Mellows vs Buxton Palace Hotel Ltd., and Commissioners of Inland Revenue vs Buxton Palace Hotel Ltd. , referred to.
+In construing the first proviso, effect must be given to every word used.
+If the mere owning of immoveable property and the letting out of what was not needed for its own use by a company was intended to be covered by the definition, the use of the words wholly " or " mainly " would be wholly redundant.
+Rule 4(4) Of the first Schedule to the Act did not modify the definition of business ' so far as it related to holding of property and before it could apply, the functions of the company, which meant the activities appropriate to its business, must fall within the definition of 'business ' as given in the Act.
+Per HIDAYATULLAH, J. The rents realised by the respondent must be regarded as profits from property held as investment and included in the computation of profits under r. 4(4) Of the first schedule.
+There was undeniably a difference between the wording of the schedule and the Act and the tendency of the schedule was to widen the definition of business so as to include letting of property for earning rents.
+It could not, therefore, be said that the definition contained in the Act, wholly controlled the Schedule and r. 4(4) must be given effect to.
+Inland Revenue Commissioners vs Gittus, (192O) 1 K. B. 563, applied.
+Gittus vs Commissioners of Inland Revenue, , referred to.

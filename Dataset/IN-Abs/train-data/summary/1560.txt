@@ -1,0 +1,14 @@
+The assessee submitted his estimate of income for advance payment of tax under section 18 A, in which he did not include his dividend income.
+The Income tax Officer held that under section 18 A(2) the assessee was bound to include in his estimate, and to pay advance super tax, on his dividend income.
+Since that was not done and the advance tax paid was less than 800% of the tax determined on regular assessment, he levied penal interest under section 18 A(6) in respect of the super tax payable on the dividend income.
+The assessee contended (i) that the dividend income was income in respect of which provision was made under section 18 for "deduction of income tax at the time of payment" and as such section 18 A was not applicable to it, and (ii) that since section 18(5) was applicable to dividend income the penal provisions of section 18 A(6) were not attracted.
+Held, (per Das, Kapur and Hidayatullah, jj., Sarkar and Dayal,JJ., dissenting) that section 18(5) read with sections 16(2) and 49 B provided for the deduction 'of income tax at the time of payment" in respect of dividend income and therefore section 18.A did not apply to such income.
+A shareholder 's right to the dividend arises upon its declaration.
+Under the leg, Al fiction 669 introduced by section 49 B, when dividend is paid to a shareholder 'by a company which is assessed to tax, the income tax (but not super tax) in respect of such dividend is deemed to have been paid by the shareholder himself and credit is given therefore to him under section 18(5).
+If the shareholder was deemed to have paid the tax himself at the time when the company paid the dividend, the payment was "deduction of income tax at the time of payment" within the meaning of section 18 A(1).
+Per Sarkar and Dayal, JJ The dividend income should have been included in the estimate of income and the penal interest was properly levied on the assessee.
+Dividend income is not one on which tax was deducted at the time of payment under section 18.
+Payment of tax by the assessee, fictional or otherwise, on income received by him was not a deduction of tax under section 18 by the person who paid the income to the assessee.
+for purposes of section 18 A there had to be a deduction under s.18; deduction under other provisions was not relevant.
+Under section 18(5) credit for the tax paid by the company was to be given to the shareholder not at the time of payment of the dividend but later at the time of assessment, Further, the provisions of section 18 A(6 ) were applicable in respect of dividend income.
+The words "Income to which provisions of section 18 do not apply" in section 18,A(6) refer to that type of income in respect of which section 18 provides for deduction of tax at the source and they do not include dividend income.

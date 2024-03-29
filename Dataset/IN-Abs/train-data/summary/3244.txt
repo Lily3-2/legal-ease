@@ -1,0 +1,36 @@
+By the Income tax and Excess Profit Tax (Amendment) Act, 1947 section 12B was inserted in the Indian Income tax Act, 1922, making capital gains which arise after March 31, 1946, taxable.
+The same Act inserted sub sections (2A) and (2B) in section 24 of the Income tax Act.
+As a result of the Indian Finance Act, 1949 which restricted the operation of section 12B to capital gains arising before April 1, 1948, and the Finance (No. 3) Act, of 1956 which restored tax on capital gains with effect from April 1, 1948 capital gains arising from 1 4 1949 to 31 3 1956 were not taxable.
+For the assessment year 1955 56 which relates to the period when capital gains were not taxable the assessee claimed a loss of Rs. 84,862/ arising from the sale of certain shares.
+The Income tax Officer disallowed the loss on the ground that it was a loss of capital nature.
+The Appellate Assistant Commissioner, in appeal, held that the assessee 's claim was exaggerated, that the actual loss was only Rs. 28,662/ and agreed with the Income tax Officer that the loss was not a revenue loss but a capital loss.
+Before the Tribunal the assessee contended that the amount of Rs. 28,662,/ which had been held to be a capital less by the authorities should be allowed to be carried forward and set off against profits and gains under the head "Capital gains" earned in future as laid down in section 24(2A) and (2B).
+The Tribunal held in favour of the assessee.
+The High Court.
+in reference, confirmed the order of the Tribunal holding that the effect of sub sections (2A) and (2B) of section 24 read with sections 6 and 12B was that if a capital loss was incurred in a year in which a capital gain did not attract tax under section 12B even then such loss would still be loss under the head 'capital gains ' and if in a subsequent year the assessee had any profit under that head it would still be carried forward and set off against the taxable capital gain.
+Allowing the appeal to this Court, HELD : (1) From the charging provision of the Indian Income tax Act it is discernible that the words 'income ' or 'profits and gains, should be understood as including losses, so that both must enter into computation, wherever it becomes material, of the taxable income of the assessee.
+Although section 6 classifies income under six heads the main charging provision is section 3 which levies income tax as only one tax on the 'total income ' of the assessee as defined in section 2(15).
+An income in order to come within the purview of that definition must satisfy two conditions.
+(a) it must comprise the 'total amount of income, profits and gains referred to in section 4(1), and (b) it must be computed in the manner laid down in the Act.
+If either of these conditions fails the income will not be a part of the total income that can be brought to charge.
+[702F 703B] (2)The concept of carry forward of loss does not stand in vacuo.
+Its sole purposeis to set off the loss against the profits of a subsequent year.
+Set off impliesthat the tax is exigible and the assessee wants to adjust the loss against profit to reduce the tax demand.
+It follows that if such set off is not Permissible or possible owing to the income or profits of the subsequent year being from a non taxable source, there would be no point in allowing the loss to be carried forward.
+Also, if the loss arising in the previous year was under a head not chargeable to tax it could not be allowed to be carried forward and absorbed against income in a subsequent year from a taxable source.
+[704C E] (3) Capital gains would be covered by the definition of income in section 2(6C) only if they were chargeable under s ' 12B.
+But section 12B was not operative in the years 1948 to 1956.
+Thus in the relevant previous year and the assessment year or even in he subsequent year capital gains ' or 'capital losses ' did not 697 form part of the total income of the assessee which could be brought to charge and were, therefore, not required to be computed under the Act.
+That is condition (b) which 'total income ' must satisfy is not satisfied in the present case.
+[703B D] (4) Under section 22(2A) it is a condition precedent to the carry forward and set off of the loss that the assessee must file a return either in response to a general notice, under section 22(1) or voluntarily, without any individual notice under subsection (2).
+If he does not file the return for the year in which the loss was incurred and get the loss computed by the Income tax Officer, the right to carry forward the loss will also be lost.
+But if the loss is from a source or head of income not liable to tax or exempt from tax neither the assessee is required to show the same in the. return nor is the Income tax Officer under any obligation to compute or assess it, much less for the purpose of carry farward.
+[703D F] (5) In the instant case.
+the, assessee in his return had not shown any ,capital loss ' but claimed the loss as a revenue loss.
+The Income tax Officer should have rejected the assessee 's claim to carry forward the loss merely on the ground that it was not a revenue loss and he need not have given a finding that it was a capital loss, because 'capital gains were not taxable during the year.
+[703F G] (6) Section 24(2) expressly refers to loss, 'in any business, profession or vocation '.
+It does not cover a capital loss under the head 'capital gains ' which at the relevant time were not chargeable and did not enter into computation of the total income of the assessee.
+Therefore, under a. 24(1) and (2) the assessee had no independent right to carry forward his capital loss even if it could not be set off owing to the non taxability of capital gains against future profits in the immediate subsequent years.
+[704B C] (7) Assuming, therefore, that the assessee in the subsequent years 1955 56 and 1956 57 when the capital gains were not taxable made huge capital gains he would not be obliged to show those capital gains in his return.
+Therefore, the loss suffered by him in the relevant assessment year in the instant case could not be absorbed or set off against such capital gains.
+[704F]

@@ -1,0 +1,66 @@
+One M carried on the business of printer and publisher.
+In 1953 his brother in law alongwith some other persons floated two companies a publishing firm and a printing press.
+Under an agreement dated May 29, 1953 M agreed to transfer his business to the newly floated companies, and on January 24, 1954 he wrote letters intimating that the shares in the companies be allotted to his wife, his 3 sons, his brother in law and an ex employee.
+The companies allotted the shares accordingly.
+502 shares were allotted to M in his own name in the publishing firm and 225 shares in the printing press.
+Of the remaining, 2002 shares in the publishing firm and 1602 shares in the printing press were allotted to M and his nominees.
+M died on February 11, 1957.
+On his death the respondent, the accountable person filed a return of estate duty in which he included the value of the 502 shares in the publishing firm and 225 shares in the printing press.
+The Assistant Controller of Estate Duty did not accept this part of the return and included the 2002 shares in the publishing firm and 1602 shares in the printing press standing in the name of the wife of the deceased, his 3 sons, brother in law and the ex employee, since they were holding these shares benami, and included the value of these shares in the principal value of the estate of the deceased.
+In appeal, the Central Board of Direct Taxes, the Appellate Tribunal affirmed this order.
+It observed that the mere fact that the subject matter was the shares in the two companies would not throw any more onus of proof on the Assistant Controller than would be thrown if the subject matter was some other property.
+When money was paid by the deceased, it was for the accountable person to prove the gift.
+The deceased had clearly mentioned in his letters dated January 24, 1954 to the two companies that the shares should be issued and allotted in the names of the persons nominated by him.
+If the deceased intended to make an outright gift of the shares, he would have very 944 well said so in the letters.
+There being no presumption of advancement, the mere fact that the shares were got issued in their names without making any indication of gift, would not make the nominees recipients of any gift.
+The High Court answered the reference against the appellant and in favour of the accountable person.
+Following the decisions of the Andhra Pradesh High Court in Shantabai Jadhav vs Controller of Estate Duty and Smt.
+Denabai Bomab Shah vs Controller of Estate Duty (1964) 51 ITR (ED) 1 it observed that since the shares stood in the name of the wife and sons etc., benami for the deceased, the deceased had no power to transfer since he had not obtained a release from the benamidars or a declaration from an appropriate court.
+As the deceased, remained incompetent to transfer the shares till his death, the property in them would not be deemed to pass upon his death by reason of section 6 and therefore, they would not be included in the estate of the deceased under section 5(1) of the Act.
+Allowing the appeal, to this Court ^ HELD: 1.
+The liability to pay estate duty under section 5(1) of the Act arises upon the death of the real owner and not of the benamidar, who is merely an ostensible owner.
+The test lies in whether upon the death of the benamidar, there would be incidence of liability to estate duty.
+[961B] 2.
+The finding being that the shares were purchased by the deceased benami in the name of his wife and sons, the real ownership of the property was vested in the deceased who was entitled to deal with the same as if it were his own and the benamidars held it in trust under section 82 of the Trust Act, 1882 for the benefit of the deceased.
+The estate, therefore, belonged to the deceased who died possessed of the same and under section 5(1) of the Act the entire value of the shares was includible in the principal value of the estate of the deceased on his death.
+[961C E] 3.
+(i) The imposes a tax upon the principal value of all properties, settled or not settled passing on death or deemed to pass on death.
+Estate duty is chargeable at percentage rates rising with the value of the estate on all property passing on death, including property of which the deceased was competent to dispose and gifts made within limited period before death.
+Primary liability falls on the deceased 's estate.
+[950H; 951A] (ii) The scheme of the Act is two fold.
+Firstly there are properties which pass on the death of a person.
+Section 5(1) imposes duty on their value.
+Secondly, there are properties in which the deceased had an interest or power of appointment and which really do not pass on his death.
+The scheme of the Act is to impose duty on the value of such properties also.
+In the second class will fall provisions like sections 6, 7, 8, 9 and 10.
+The Act creates a fiction of law to declare that the properties mentioned in those sections will be deemed to pass on the death of a person, though they do not 'pass ' in fact.
+[957D E] (iii) The object of section 6 is to catch properties in the net of section 5(1) which do not really pass on the death of a person.
+For instance, property comprised in a revocable gifts is property which the donor is competent to dispose of whether the gifts is revoked or not and will be covered by section 6.
+Similarly property in respect of which the deceased had the power of appointment will also fall within section 6.
+[957H; 958A] O.S. Chawla vs Controller of Estate Duty (1973) 90 ITR approved.
+945 4.
+In applying the Act to any particular transaction, regard must be had to its substance, that is, its true legal effect, rather to the form in which it is carried out.
+[958B] 5.
+By no rule of construction can the operation of sub section (1) of section 5 of the Act be curtailed by the operation of section 6.
+It is in addition to or supplemental of the provisions of sub section (1) of section 5, which is the charging section.
+[951E] In the instant case, it has been established that the deceased was the real owner of the shares.
+The ownership which the deceased had in the shares passed on his death and must be brought to charge under sub section (1) of section 5.
+[958C] Smt.
+Denabai Bomab Shah vs Controller of Estate Duty and Smt.
+Shantabai Jadhav vs Controller of Estate Duty (1964) 51 ITR (ED) 1 disapproved.
+(i) The provisions of sections 5 and 6 of the Act are somewhat similar to those of sections 1 and 2 of the Finance Act, 1894 in England.
+[955F] (ii) The precise relationship between sections 1 and 2, before the law was amended in 1969, was a question on which judicial opinion fluctuated widely.
+For over sixty years they were regarded as mutually exclusive and having in dependent fields of operation, the view was that property could not be liable to duty concurrently.
+In a situation where both sections 1 and 2 might apply, section 1 took priority and excluded liability.
+[952D E] Earl Cowley vs Inland Revenue Commissioners, L.R. , Attorney General vs Milne, L.R. [1914] A.C. 765, Nevill vs Inland Revenue Commissioners, LR [1924] A.C. 385 referred to.
+(iii) In Public Trustee vs Inland Revenue Commissioners (Re Ambody) LR the House of Lords struck the discordant note, holding that section 1 imposed the charge in general terms and section 2 by exclusion and inclusion, defined area of that charge.
+In Weir 's Settlement Trusts, Re Mc Pherson vs Inland Revenue Commissioners LR [1971] Ch.D. 145 the Court of Appeal resolved the doubts as to the relationship of these two sections.
+[954C; G, 955A] 7.
+When a property is purchased by a husband in the name of his wife or by a father in the name of his son, it must be presumed that they are benamidars, and if they claim it as their own by alleging that the husband or the father intended to make a gift of the property to them, the onus rests upon them to establish such a gift.
+When the benamidar is in possession of the property, standing in his name, he is in a sense the trustee for the real owner; he is only a name lender or an alias for the real owner.
+[1958F; 959A] Gopeekrist Gosain vs Gungapersaud Gosain (1854) 6 MIA 53, Sura Lakshmiah Chetty vs Kothandarama Pillai L.R. [1924 25] 52 IA 286, Shree Meenakshi Mills Ltd. C.I.T. referred to.
+946 8.
+A benamidar has no interest at all in the property standing in his name A benamidar is an ostensible owner and if a person purchases from a benamidar, the real owner cannot recover unless he shows that the purchaser had actual or constructive notice of the real title.
+But from this it does not follow that the benamidar has real title to the property, he is merely an ostensible owner thereof.
+[960E] Mayne Hindu Law 11th Edn.
+p. 953 referred to.

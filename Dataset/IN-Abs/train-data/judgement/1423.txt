@@ -1,0 +1,250 @@
+Appeal No. 131 of 1961.
+Appeal from the judgment and decree dated September 30, 1957, of the Kerala High Court in Appeal suit No. 19 of 1956 (T).
+T. N. Subramania lyer, R. Mahalingier and M.R. Krishna Pillai, for the appellant.
+V. A. Seyid Muhammed for the respondent.
+September 14.
+The judgment of the Court was delivered by KAPUR, J.
+It is not necessary for me to give the facts of this case as they are set out in detail in the 65 judgments of my learned brethern Sarkar & Hidayatullah, JJ.
+In my opinion this appeal should be dismissed and my reasons are these On the findings of the High Court it appears that the Bank had agreed to allow an overdraft to defendant No. 1 for Rs. 20,000/ , that the appellant gave a surety bond for the repayment of Rs. 25,000/ and when that was pointed out to defendant No. 1, the principal debtor, lie (the latter) made the alteration in the document by reducing the figure of Rs. 25,000/ to Rs. 20,000/ The case of the appellant was not that he never stood surety for defendant No. 1 but that he stood surety for Rs. 25,000/ which was subsequently altered to Rs. 20,000/ and that any change of figure was a material alteration resulting in the avoidance of the contract, even though the alteration might have been advantageous to him, the obliger.
+It was argued that howsoever innocent the obligee might be or howsoever innocent the alteration might have been made so far as it is material the non accepting obliger the appel lant in this case cannot be held liable on the obligation in the altered form because he never made be consented to such an obligation and he can not be held liable on the obligation in the original form because the obligation was never assented to by the creditor respondent Bank.
+Now an unauthorised material alteration avoids a contract so that if a promisee after a written contract has been executed materially alters it without the consent of the promisor whether by adding anything to the contract or striking out any part of it or otherwise the contract is avoided as against the person who was otherwise liable upon it (Halsbury 's laws of England, 3rd Edn., Vol. 8, para 301, p. 176).
+It may also be taken to be the law that even if the alteration is made by a stranger without the knowledge of the promisee the other party is discharged if the contract is in possession of the promisee or his agent.
+But if the contract is altered 66 by a stranger when the contract was not in the custody of the promisee the promisor is not discharged.
+(Halsbury 's Laws of England, 3rd Edn., Vol. 8, para 301, p. '176).
+There is also a further qualification and that is that if a guarantor entrusts a, letter of guarantee to the principal borrower and the principal borrower makes an alteration without the assent of the appellant then the Guarantor is liable because it is due to the act of the guarantor that the letter of guarantee remains with the principal debtor, in this case defendant No. 1, and what the principal debtor did will estop the guarantor from pleading want of authority (Williston on Contract, Vol.
+para 1914, P.5354).
+Thus the position in the present case comes to this.
+The appellant agreed to stand surety for an overdraft allowed by the respondent Bank to the principal debtor, Shankaran.
+The Bank required a guarantee in the form which was handed over to the principal debtor, Shankaran.
+Shankaran got it filled by the appellant for a sum of Rs. 25,000/ .
+The Bank did not accept the guarantee up to that limit but wanted the figure to be corrected i.e. by insertion of Rs. 20 000/ .
+The document was there upon handed back to the principal debtor who, it is stated, altered the document.
+At that stage the principal debtor was acting for and on behalf of the appellant because it was at his instance that the appellant was standing surety and the appellant handed over the deed of guarantee to the principal debtor for the pur poses of being given to the balik, the respondent.
+In these circumstances the avoidance of contract by material alteration is in applicable because the document was not altered while in possession of the promisee or its agent but was altered by the principal debtor who was at the time acting as the agent of the guarantor, the appellant.
+In these circumstances the plea of material alternation is of no avail to the appellant and the 67 appeal must therefore fail and is dismissed but no order as to costs.
+SARKAR, J.
+This appeal arises out of a suit filed by the respondent Bank against the appellant as the guarantor and one Sankaran as the principal debtor, to recover moneys advanced to the latter on an overdraft account.
+The suit was decreed against Sankaran by the trial Court and he never, appealed from that decree.
+We will, therefore, be concerned in this appeal only with the claim against the appellant.
+The suit against the appellant was based on a letter of guarantee dated May 24, 1947.
+It was stated in the plaint that by this letter of guarantee the appellant had undertaken to repay to the Bank the balance due on the overdraft account opened in favour of Sankaran, up to a maximum of Rs. 20,0001/ which was also the maximum amount for which the overdraft had been arranged.
+The appellant 's defence to the suit was that he had agreed to guarantee the liability of Sankaran on the overdraft up to Rs. 5,000/ and had signed the letter guaranteeing thereby repayment up to that sum but the letter had been altered .without his consent by substituting Rs. 20,000/ for Rs. 5,000/ .
+The appellant contended in the courts below that as this was a material alteration of the instrument of ' guarantee.
+he was absolved of ill liability on it.
+The trial court found, that the amount guaranteed had originally been mentioned in the letter as Rs. 25,000/ and this had been altered without the consent of the appellant to Rs. 20,000/ .
+It observed that as it was not disputed that the alteration was material, the suit against the appellant had to be dismissed and passed a decree accordingly, obviously in the view that the alteration had avoided the instrument.
+The respondent Bank then appealed to the High Court of Kerala, the High Court agreed with the trip 68 court that the letter of guarantee originally mentioned Rs. 25,000/ and this figure was later altered to Rs.20,000/ without the consent of the appellant.
+It .added that probably the alteration had been made by the principal debtor, Sankaran.
+It however held that the appellant had mentioned Rs. 25,000/ in the place of Rs. 20,000/ in the letter probably by a mistake and that the alteration had been made in order to carry out the common intention of Sankaran, the appellant and the Bank that for the overdraft accommodation of Rs. 20,000/ allowed to Sankaran the appellant would give a letter of guarantee to the Bank.
+In this view of the matter the High Court, relying on the principle contained in section 87 of the , passed a decree against the appellant.
+The appellant has come up to this Court in appeal against the judgment of the High Court.
+Unfortunately, the Bank, for reasons unknown to us, has not appeared in this appeal.
+Dr. Seiyid Muhammed argued the case for the Bank at our request and has rendered us great assistance.
+Now, the provision of the on which the High Court relied in terms applies to a negotiable instrument which a letter of guarantee is not.
+The principle of that provision may however be of wider application.
+That principle has been formulated in Halsbury 's Laws of England, 3rd edn., vol.
+11, p. 370, in the following words : "An alteration made in a deed, after its execution, in some particular which is not material does not in any way affect the validity of the deed;. . .
+It appears that an alteration is not material . . . 'Which carries out the intention of the parties already apparent on the face of the deed.
+It is now well settled that, this principle applies to instruments under hand also : see ibid 69 p. 380, f. n. (c) and Master vs Miller, (1791) 4.
+Term Rep. 320.
+The question then is, was the alteration in the letter of guarantee of the kind contemplated by this principle.
+The learned judges of the High Court thought it was and so held that the letter of guarantee as altered could be enforced.
+I am unable to accede to that view.
+It seems to me that the intention to carry out which an alteration is permissible under the rule on which the High Court has relied, is the intention with which the instrument was executed.
+That is why in formulating the rule it has been stated in Halsbury 's Laws of England that the intention has to be "already apparent on the face of the deed".
+I need only refer to the observation of Le Blanc, J., in Knill vs Williams(1) in support of this proposition, "If I had thought that there was any evidence on which the jury might have found that the words afterwards added had been originally intended to have have been inserted, and were omitted by mistake, I 'Should certainly have left it to them so to find; the case of Kershaw vs Cox(2) being then fresh in my mind; but.
+according to my recollection of the evidence, it was impossible for them to draw that conclusion from it.
+The opinion which I delivered in Karshaw vs Cox can only be supported on the ground that the alteration there made in the bill the day after it was negotiated was merely the correction of a mistake made by the drawer of it, in having omitted the words, 'or order ', which it was intended at the time should be inserted.
+" The two cases on which the learned judges of the High Court relied are also cases where the mistake was in writing the instrument.
+In Lachmi Rai vs Srideo Rai(3) it was found that "the omission regarding the payment of interest was accidental" and in Ananda Mohan Saha vs Ananda Chandra Naha(4) where (1) ; (1809) 10 East. 931; (2) 3 Esp.
+N. Cas. 246.
+(3) A. I. R. 1939 All.
+(4) (1916) 1.
+L. R. 70 the instrument originally provided for interest on 'a loan of Rs. 200/ at Rs. 1/ per mensem and had been altered by the addition of the words "per cent", ' it was said "that it was the intention of the parties, as ' it seems to me to be obvious upon reading the document, that interest was to be paid at the rate of 'one rupee per cent.
+per mensem".
+It seems to me that if it were not so and the intention contemplated in the rule could be gathered from a pre existing agreement alone without caring to find out the intention with which the instrument was executed, then there would be no justification for the rule.
+It would then warrant the alteration of an instrument intentionally written in variance with the pre existing agreement which a person was in law free to do, by the other party to it.
+That would amount to making a new contract out of a written instrument by unilateral action and in disregard of the intention of the writer.
+For such a position our laws make no provision.
+It may be that a person who writes a document in terms which deliberately depart from the agreement pursuant to which it is written, may be liable on that agreement but he cannot be made liable on the document as altered by the other party to the agreement alone even though such alteration makes the document consonant with the agreement.
+Now there is absolutely no evidence in this case that in writing the letter of guarantee the appellant had intended to mention the maximum amount of guarantee as Rs. 20,400/ and had by mistake written Rs. 25,000/ instead.
+In holding that there was such a mistake, the High Court proceeded purely on the basis of conjecture which is evident from the language used by it.
+It said, "probably defendent 2" (the appellant) "made a mistake in Ext.
+C" (the letter of guarantee).
+There was not the slightest warranty for; this conjecture.
+In fact the evidence indicates that Rs. 25,000/ had been mentioned intentionally in the letter of guarantee.
+That evidence was given by the 71 Banks agents too.
+, He said that the overdraft arrangement commenced on February 24, 1947, when Sankaran executed a promissory note for Rs. 20,O00/ in favour of the Bank.
+At that time the appellant was not available to sign the letter of guarantee.
+The letter was typed by the Bank with blank spaces left for entries to be made by the guarantor regarding the maximum limit of the account, the rate of interest, and the date.
+Sankaran brought this letter back to the Bank in May 1947.
+At that time the space for the amount of the limit was filled up with the figure Rs.25,000/ .
+Sankaran said that he required Rs.25,000/ and would renew the promissory note for that amount.
+The Bank was not prepared to advance to him more than Rs. 20,000/ and so the letter of guarantee was returned to Sankaran who then took it away and brought it back some time later with the amount of the maximum limit corrected to Rs. 20,000/ .
+This is all the evidence on the question.
+I think it right to point out here that the Bank 's agent did not speak to any oral agreement with the appellant, nor indeed to any interview with him concerning the overdraft arrangement or the guarantee.
+The appellant in his written statement no doubt admitted that he had agreed to guarantee the due repayment of the overdraft up to Rs. 5,000/ .
+He did not however say that the agreement was verbal but mentioned the letter of guarantee.
+The appellant 's admission can of course be taken against him but it must be taken as made and not a part of it only.
+Again, no verbal agreement concerning the guarantee had been pleaded anywhere by the Bank, not even in the application that it filed in answer to the.
+written statement of the appellant alleging that the letter of guarantee, having been materially altered no suit lay on it.
+, Lastly, I have to observe that the trial court did not find,that any such oral agreement had been made.
+If there ' had been any agreement, the letter of guarantee as typed.
+out would have contained no blanks.
+72 In these circumstances it is impossible to hold that there was any prior agreement about the guarantee or its limit, between the appellant and the Bank, and if there was not, the High Court 's view that in the letter of guarantee Rs. 25,000/ had been mentioned by mistake, would lose its foundation.
+But even assuming a preexisting verbal agreement and in this case the agreement, if any, could only be verbal the fact that Sankaran made a request that the amount of the overdraft should be increased to Rs. 25,000/ would rather indicate that the letter of guarantee had intentionally stated Rs. 25,000/ as the amount of guarantee and this figure had not been written by any mistake.
+It would be impossible to hold on this evidence that there had been any mistake in writing the letter of guarantee.
+The evidence does not prove any pre existing agreement and tends to prove that there ha been no mistake in writing the letter of guarantee even if there was an agreement.
+Therefore it seems to me that the High Court was in error in thinking that the alteration in this case had been made to carry out the intention of the parties.
+The principle underlying section 87 of the has no application to the facts of this case.
+Dr. Seiyid Muhammed, however, put the matter from another point of veiw.
+He said that in order that an alteration in an instrument made without a party 's knowledge might be avoided against him that alteration had to be material and in support of it he referred us to a passage in Halsbury 's Laws of England 3rd Ed., vol.
+11, p. 380.
+He then said that no alteration could be material unless it was to the prejudice of a party.
+He pointed out that the alteration in the present case had reduced the limit of the appellant 's liability from Rs. 25,000/ to Rs. 20,000/ and it was not therefore a material alteration.
+Hence he contended that the letter of guarantee had not been avoided by the alteration.
+I do not think that this contention assists the Bank at all.
+I will assume that an alteration in an 73 instrument which is not to the prejudice of a party to it is not a material alteration and does not release him from his liability under the instrument.
+This rule however does not make the instrument as altered binding on that party.
+If it did, that would amount to changing by unilateral action the terms of a contract made by common consent or to changing the terms of an offer made by one without his consent.
+As I have earlier said, none of these things can be done under our law.
+I may add that I have not been able to find any authority laying down that in such a case the altered instrument would be binding.
+All that we would get in this case if Dr. Seiyid Muhammed is right, is that the alteration might be ignored and, the instrument in its original form might be considered as existing unaffected by the alteration.
+In the present case, therefore, we would have a letter of guarantee written by the appellant undertaking to repay the balance due by Sankaran on the overdraft account up to a limit of Rs. 25,000/ .
+What then ? The suit is not on a contract to guarantee up to Rs. 25,000/ .
+Indeed according to the Bank 's pleading and evidence there never was any agreement for such a guarantee between it and the appellant.
+The letter, therefore cannot be considered as evidence of such a contract.
+Further the evidence to which I have already referred proves that as an offer, the letter was not accepted by the Bank.
+In fact the letter in its original form is of no assistance to the Bank at all in this case, it neither proves a guarantee for Rs. 25,000/ nor for Rs. 20,000/ .
+But it is said that the letter contained an enforceable contract as it was supported by consideration which had already moved from the Bank, namely, the advance made to Sankaran before the date of the letter and the promise to make further advances.
+Then it is said that inadequacy of consideration does not avoid a contract as stated in Explanation 2 of section 25 of the Contract Act, 1872, and therefore the Bank 's undertaking 74 to advance upto Rs. 20,000/ could support the appellant 's promise to guarantee up to Rs. 25,000/ .
+But it is not the Bank 's case that there was such a contract of guarantee.
+Its case was that the contract of guarantee was for Rs. 20,000/ .
+That contract is not supported by the letter on which alone the suit is based.
+If there was no contract as stated in the letter then.
+no question of consideration to support it can possibly arise.
+Therefore, it seems to me that the.
+contention that the alteration was immaterial and did not affect the instrument so far as the appellant is concerned is to no purpose in the present case.
+The position may then be thus stated.
+We have, a suit against the appellant based on a written contract to guarantee repayment of Sankaran 's dues to the Bank up to Rs. 20,060/ .
+There is no evidence of, any verbal contract of guarantee.
+The appellant ' wrote a letter guaranteeing repayment of those dues up to Rs. 251000/ .
+Sankaran also signed this letter but that signature is of no consequence to the question of guarantee which alone arises in this appeal for Sankaran could not guarantee his own debit and his signature would therefore only be evidence of his liability for the amount advanced to him by way of overdraft.
+Such liability, however, he had already undertaken by executing a promissory note for Rs. 20,000/ in favour of the Bank.
+His signature on the letter of guarantee therefore made no difference in the legal relations that have to be considered in this appeal.
+Returning now to the letter of guarantee Written by the appellant, the Bank refused to accept that letter and, therefore, on the Bank 's own case no contract on its terms was ever made.
+That letter was altered without the consent of the appellant probably by Sankaran by substituting Rs. 20,000/ for Rs. 25,600/ .
+If the alteration was without the appellant 's consent, it could not have been authorised by him; if it had been, consent would be implied.
+There is further neither evidence, nor pleading nor 75 finding of any such authority.
+The altered document is not binding on tile appellant, for the alteration had not been made to carry out the intention of the: parties in the alteration is ignored, then the document creates no liability in the appellant, for the Bank refused to accept a guarantee on the terms Contained in the document before it was altered.
+Further, the contract sued upon is different from the contract which might, have been made by the document as it stood before the alteration.
+The unaltered document cannot establish the contract sued upon.
+The conclusion to which I arrive then is that the suit against the appellant as framed must fail.
+I would, therefore, allow the appeal with costs here and below and dismiss the suit against the appellant.
+HIDAYATULLAH,J. I have had the advantage of ' reading the judgment prepared by my brother Sarkar.
+In my opinion, and I say it with great respect, this appeal must fail.
+I shall give my reasons briefly.
+The facts of the case are simple.
+The suit, out of which this appeal arises, was filed by the Thomco 's Bank Ltd, Trivandrum, (to be called in this judgment the 'Bank ') against V. Sankaran (the principal Debtor) and N. section Anirudhan (the surety and appellant before us).
+The suit was based against V. Sankaran on a promissory note executed by him in favour of the Bank on February 24, 1947, (Exhibit B) and against the present appellant on a letter of guarantee dated May 24, 1947.
+In so far as Sankaran has not appealed against the decree passed against him we need not mention the facts leading up to the promissory note which was prior in time.
+Anirudhan in defending himself stated that the letter of guarantee was for Rs. 5,000 and that it had been altered without his knowledge and consent in a sum of Rs. 20,000/ .
+The letter of guarantee is Exhibit C and the original does show two corrections in the figures as well as the written words mentioning the amount.
+Figure "5" in the amount of Rs. 25,000/ in figures appears to have been 76 altered to "O"; and in the words "Rupees twenty five thousand" the word "five" has been struck out.
+The appellant 's case that 5,000 in figures was altered to 20,000/ by the addition of the figure "2" and the alteration of the figure "5" into "O" and the corresponding change in the words by the addition of the words "twenty" and the scoring out of word "five" has not been believed.
+Thus the case made out by Anirudhan has not been accepted.
+The correction.
+however, is patent and the question that has arisen in this case is whether by the alteration of the letter of guarantee the surety is discharged.
+The finding of the High Court is that there was no prior oral agreement between the Bank and Anirudhan.
+This letter, as is obvious from the dates, was give after the loan had already been made.
+The contention of the Bank was that when Sankaran brought this letter and asked for additional loan of Rs. 5,000 the Bank refused to advance any further amount and declined to accept this letter of guarantee for Rs. 25,000 lest the Bank might be compelled to loan a further sum of Rs. 5,000.
+Sankaran then took back the letter and after some time brought it back with the figure "5" changed into "O" and the word "five" scored out.
+These corrections were not initialled either by Sankaran or by Anirudhan.
+The Bank, however, accepted this letter and kept it and sued Anirudhan upon it.
+The question is whether Anirudhan 's liability is discharged by the alteration in the document which alteration is not proved to have been made either by him or with his knowledge or consent.
+It is conceded and indeed it is the law that only a material alteration makes a document void.
+It is also the law that if the custodian of the document makes or allows an alteration to be made while the document is in his custody he cannot sue upon it because it is his duty to preserve the document in the state in which he got it.
+In the present case, the 77 document was not altered by, Bank nor with the Bank 's consent or connivance while the document was in.
+its custody.
+The document was apparently altered either by Anirudhan or by Sankaran or by both.
+If it was altered by Anirudhan, or by him and Sankaran together, the document still remains the document of Anirudhan and the suit of the Bank based upon it is competent against him.
+If it was altered by Sankaran the question is whether the alteration was a material alteration to make it void against Anirudhan.
+The High Court is of the opinion that it was not material.
+I am inclined to accept the conclusion of the High Court.
+Anirudhan by the letter to the Bank wished to guarantee an overdraft of Sankaran not exceeding Rs. 25,000/ .
+His case that it was Rs. 5,000/ and not Rs. 25,000 has been disbelieved.
+The document was originally written for an amount of Rs. 25,000/ which was reduced to Rs. 20,000/ 1 will assume, by Sankaran and the letter of guarantee was accepted by the Bank.
+The question is whether by the reduction of the amount of the guarantee Anirudhan can say that the document executed by him has been materially altered and his liability is at an end.
+In my judgment, in the present case it cannot be said.
+The document still continues to represent what was intended by Anirudhan.
+That intention was to guarantee a loan up to Rs. 25,000/ which includes the sum for Rs. 20,000/ for which the guarantee now stands.
+The question is whether Anirudhan can say that this guarantee is at an end.
+There are really two defences open to Anirudhan the surety.
+The first is that he had offered to stand surety on certain terms and as those conditions have been altered he is discharged from any liability.
+The second also depends on the alteration and it is that a document executed by him has been materially altered and is therefore void.
+This is a plea of non est factum.
+Both the arguments rest upon the alteration of the contract into which Anirudhan wished to enter.
+A surety is considered a "favoured debtor" and his 78 liability is strictissimi juris.
+Lord Westbury, L.C., in Blest vs Brown (1) stated this liability in the following words: "It must always be recollected in what manner a surety is bound.
+You bind him to the letter of his engagement.
+Beyond the proper inter pretation of that engagement you have no hold upon him.
+He receives no benefit and no consideration.
+He is bound, therefore, merely according to the proper meaning and effect of the written engagement that he has entered into.
+If that written engagement is altered in a single line, no matter whether the alteration be innocently made, he has a right to say, " 'The contract is no longer that for which I engaged to be surety; you have put an end to the contract that I guaranteed, and my obligation, therefore, is at ail end.
+" It is not necessary to go into the fact of that case where the surety guaranteed fulfilment of a contract for the supply of, flour to a banker who in his turn had undertaken to supply bread to Government.
+The case turned upon stipulations by the Government and their breach and the decision cannot be regarded a ,direct authority, apart from the general observation, in the present case.
+The statement of the law in Blest vs Brown (1) Was considered by the Court of Appeal in Holme vs Brunskill (2) in an appeal from a judgment of Denman, J. (later Lord Denman).
+Cotton, L.J., stated the law in these words: "The true rule in my opinion is, that if there is any agreement between the principals with reference to the contract guaranteed, the surety ought to be consulted, and that, if he has not consented to the alteration, although in cases where it is without inquiry evident that the alteration is unsubstantial, or that it cannot be otherwise than beneficial to the surety, the surety may not be discharged; ), Yet, that if it is not self evident that (1) ; (1862) 4 De G. F. & J. 365 ; (2) 79 the alteration is unsubstantial, or one which cannot be prejudicial to the surety, the Court will not, in an action against the suerty, go into an inquiry as to the effect of the alteration. . " To this statement of the law, must be added the 'dissent of Brett, L.J., who stated that the surety in that case was not raleased observing that the doctrine of release of sureties was carried far enough and that lie would not carry it any further.
+There is noticeable a difference between the strict rule stated by Lord Westbury and that stated by Cotton L. J., and the law now accepts that unsubstantial alteration which are to the benefit of the surety do not discharge the surety from the liability.
+Of course, if the alteration is to the disadvantage of the surety, or its unsubstantial character is not self evident the surety can claim to be discharged.
+The Court will not then inquire whether it in fact harmed the surety.
+That dictum of Cotton L. J., was quoted with approval by the Judicial Committee in ward vs The National Bank of Neu Zealand.
+Limited (1).
+Other cases in which a similar liberal view is taken are mentioned in these two decisions.
+Before I examine the position of Anirudhan with regard to the law applicable to sureties, I wish to refer to the law relating to the alteration of documents.
+These two matters really go together in this case.
+Here, again, the strict rule at one time was that the slightest alteration makes the document void.
+The leading case for a long time was Pigot 's case (2) where Lord Coke stated the doctrine as follows: "These points were resolved: 1.
+When a lawful deed is raised, whereby it becomes void, the obligor may plead non, est factum, and give the matter in evidence, because at the time of the plea pleaded, it is not his deed." "Secondly, it was resolved, that when any deed is altered in a point material, by the plaintiff himself, or by any stranger, without the privity (1) , (2) 11 Co.Rep.26 b;77E.R.177. 80 of the obligee, be it by interlineation, addition, raising, or by drawing of a pen through a line, or through the midst of any material word, that the deed thereby becomes void . so if the obligee himself alters the deed by any of the said ways, although it is in words not material, yet the deed ,is void: but if a stranger, without his privity, alters the deed by any of the said ways in any point material, it shall not avoid the deed.
+" The passage is also to be found in an article "Discharge of Contracts by Alteration" by Williston in 18 Harvard Law Review, p. 105.
+The strictness of this rule was tempered in subsequent cases and was departed from in Aldous vs Cornwell (1) where Lush, J. (speaking for Cockburn, C. J., Blackburn, J., and himself), after referring to numerous authorities,observed "This being the state of the authorities, we think we are not bound by the doctrine of Pigot 's case or the authority cited for it; and not being bound.
+We are certainly not disposed to lay it down as a rule of law that the addition of words which cannot possible prejudice any one, destroys the validity of the note.
+It seems to us repugnant to justice and common sense to hold that the maker of a promissory note is discharged from his obligation to pay it because the holder has put in writing on the note what the law would have supplied if the words had not been written.
+" What is said here about an addition or alteration of a promissory note was prior to the enactment of the rule in Bills of Exchange Act in England which has altered the law with regard to negotiable instruments but the observations apply forcefully to a document of the type we have where there were.
+two executants (one being the debtor and the other his surety and the debtor has not increased but reduced the amount of his own liability as well as that of his (1) 81 surety.
+That immaterial alterations do not matter is borne out by the observation of Swinfen Eady, J., in Bishop of Creditor vs Bishop of Exeter (1) where Pigot 's case(2) and the earlier statement of the law in Sheppard 's Touchstone, 7th ed.
+(Preston 's), p. 55.
+, were not accepted.
+During the course of the argument Swinfen Eady, J., referred to cases in which corrections in the testimonium of documents to accord them with existing facts were held not to be material alterations.
+The question before me is whether a document jointly executed by two persons creating a liability equal for both is to be regarded as materially altered if the liability is reduced equally for both but the alteration is made only by one of them.
+In my opinion, such an alteration must be regarded as unsubstantial and not otherwise than beneficial to the surety and it cannot attract the strict rule stated by Lord Coke or that stated by Lord Westbury in the cited cases.
+me give an example: If A places an order with a trader for supply on credit of ten bags of wheat and B endorsed the order by writing, "I guarantee payment up to ten bags", can it be said that 'the guarantee by B is dissolved when A takes the note and finding that the tradesman has only six bags of wheat in stock, corrects his order as well as the endorsement by altering "ten ' into 'six '? In my opinion, to such a correction neither the one rule nor the other can apply.
+The strict rule of law which was brought to our notice from the well known Suffell 's Case(3), where a Bank of England note was mutilated and its number destroyed, depended upon its special facts.
+The number of the Bank of England note was considered its vital part and the alteration a material alteration.
+Suffell 's Cage(3) was not followed by the Privy Council in a case where a bank note issued by bank which was only a contract and not currency, as in the other case, was destroyed because the owner had forgotten that the note was in the pocket of a garment and the garment had been washed.
+The (1) (2) ; ; (3) 82 note was reconstructed and showed the contract but not the number.
+The Privy Council held the bank liable even though the contract had been Altered by eraser (see Hong Kong and Shanghai Banking Corporation vs Lo Lee Khi(1).
+These cases establish that both the limbs of the argument which Anirudhan can raise are not vali in the circumstances of this case.
+In my judgment, the particular document in this, case cannot be said to have been materially altered, because.
+it has not been altered in such a manner as to change its nature.
+The alteration does not save the surety from liability arising under it.
+The alteration was made by a co executant who reduced not only his own liability but that of the surety also.
+indeed, the surety himself under stood the law to be this because he set up the case that the document originally guaranteed an overdraft of Rs. 5,000/ but was altered to guarantee an overdraft of Rs. 20,000/ .
+This case has been proved false and he never set up the case that the document was void because the amount was reduced from Rs. 25,000/ to Rs. 20,000/ .
+It does not lie in the mouth of Anirudhan.
+to say the he meant.
+to guarantee 25,000/ but.
+not Rs. 20,000/ because he never went to the Bank and made this a condition of the agreement.
+Now he cannot say that the document has; become void against him or that the contract which had emerged by the Bank 's acceptance of the document as altered does not bind him.
+There is no need, in my opinion, to consider whether there was a prior oral agreement or not.
+I agree there is no proof of such an agreement.
+The letter of Anirudhan to the Bank was based on a consideration which had already moved to Sankaran and which Anirudhan wished to guarantee.
+Even if treated as an offer by Anirudhan to the Bank, the Batik accepted the amended offer and Sankaran must be deemed to have had the authority to reduce the amount, (1) ; 83 though not to increase it.
+The document was altered while in the possession of the very person who, as the agent of Anirudhan, brought it to the Bank on both the occasions.
+Anirudhan must be deemed to have held out Sarikaran as his agent for this purpose and this creates an estoppel against Anirudhan, because the Bank believed that Sankaran had the authority.
+The offer thus remains in its amended form an offer of Anirudhan to the Bank and the Bank by accepting it turned it into a contract of guarantee which was backed by the past consideration on which the offer of Anirudhan was originally based.
+In my opinion, the appeal must fail.
+I would, therefore, dismiss it.
+By COURT : In accordance with the opinion of the majority, the appeal is dismissed.
+There would be no order as to costs.
+Appeal dismissed.

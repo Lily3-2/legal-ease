@@ -1,0 +1,84 @@
+Civil Appeals Nos. 2585 and 2586 of 1978.
+From the Judgment and Order dated 14.2.1978 of the Kerala High Court in T.R. C. No. 6 and 9 of 1977.
+V.J. Francis for the Appellant.
+S.T. Desai (A.C.) for the Respondent.
+The Judgment of the Court was delivered by 138 PATHAK, J.
+These appeals by special leave are directed against the judgment and order dated February 14, 1978 of the High Court of Kerala dismissing two tax revision petitions arising out of assessments made under the Kerala General Sales Tax Act, 1963.
+The respondent, Messrs. K. Kelukutty is a partnership firm dealing in timber.
+It consists of six partners.
+It filed returns of its taxable turnover for the assessment years 1968 69 and 1969 70 under the Kerala General Sales Tax Act, 1963, and the assessments were completed by the Sales Tax Officer.
+Subsequently, the Sales Tax Officer discovered that the partners of the respondent firm owned a Saw Mill, and the Saw Mill was run by a partnership firm Messrs. K.K.K. Sons Saw Mills which consisted of the same partners as the respondent firm.
+He found that during the assessment years 1968 69 and 1969 70 they had sold saw dust from the mill, but had not been assessed to sales tax on that turnover.
+The Sales Tax Officer took the view that as both Messrs. K. Kelukutty and Messrs. K.K.K. Sons Saw Mills consisted of identical partners, the two businesses carried on respectively by them had to be treated as the business of a single partnership firm and, therefore, the turnover of the sale of saw dust had to be included in the earlier assessments made on the respondent firm.
+The assessment orders were upheld by the Appellate Assistant Commissioner, Sales Tax.
+Thereafter, the appeals filed by the respondent firm before the Sales Tax Appellate Tribunal were allowed by its order dated March 30, 1976 and the cases were remanded for fresh consideration.
+The Revenue applied to the High Court in revision, Tax Revision Cases Nos. 6 and 9 of 1977, on the following two questions: (a) Was the Appellate Tribunal justified in law in holding that the reasoning in the decision reported in is applicable to the instant case and directing a further investigation and denovo disposal of the matter, in the light of the observations contained in paragraph 15 of the order ? (b) In the light of admitted or proved fact that the partners of the assessee 's firm and that of the firm K.K.K. Saw Mills are the same, was the Appellate Tribunal justified in its view that there is no bar in there being two firms with the same partners, carrying on business independently ? Is not the said 139 approach and view against the principles of Partnership Act, and the ratio of the decision reported in 21 STC 72 and ? On February 14, 1978, the High Court of Kerala dismissed the two revision petitions in the view that Messrs. K.K.K. Sons Saw Mills was a partnership firm distinct from the respondent firm for the purposes of sales tax assessment and the turnover of one could not be included in the turnover of the other.
+Reliance was placed by the High Court on the decision of this Court in State of Punjab vs M/s Jullunder Vegetables Syndicare.(1) The word "dealer" has been defined by cl.
+(viii) of section 2 of the Kerala General Sales Tax Act to mean "any person who carries on the business of buying, selling, supplying or distributing goods. " and the word "person" has been defined by cl.
+(vvi A) of section 2 of the Act as including a firm.
+Therefore, a partnership firm must be regarded under that Act as an assessable entity separate and distinct from its individual partners.
+That would be in line with the view taken by this Court respecting a partnership firm as an assessable entity under the Income Tax Act.
+See Commissioner of Income Tax, West Bengal vs A. W. Figgies and Company and Others(2).
+The question remains, however, whether when the partners constituting a partnership firm carrying on one business constitute thereafter another partnership firm carrying on a separate and distinct business are there two distinct partnership firms in whose hand the turnover of the two businesses falls to be respectively assessed or is there in law only a single partnership firm liable to assessment on the turnover of both businesses ? Before we proceed to examine this question, reference may be made to some relevant decisions of the Courts.
+In Vissonji Sons & Company vs Commissioner of Income Tax, Central,(3) a case under the Indian Income Tax Act, 1922, Beaumont C.J., speaking for the Bombay High Court, expressed the view that in law a firm had no existence independently of its partners, and that if there are two firms consisting of exactly the same partners and they carry on separate businesses, the real position in law is that there is only one firm.
+140 Subsequently, however, in Jesingbhai Ujmashi vs Commissioner of Income Tax, Bombay Mofussil, (1) the same High Court speaking through Chagla C.J., observed that the observations of Beaumont C.J. were obiter merely, and that it was perfectly permissible in law that the same partners should constitute two different firms for the purpose of the Income tax law leaving the question open as one of fact whether there are two separate firms or only one firm or whether one of the businesses carried on by one firm was in fact a business carried on by the other firm.
+That view was reaffirmed by the Bombay High Court in Jeshingbhai Ujamshi vs Commissioner of Income Tax, Bombay(2) where it was explained that there can be two separate firms in the eyes of the Income tax Act even if the partners are the same in both the firms provided the businesses carried on by the firms are different.
+It was further observed that the correct test to determine whether the businesses are the same or different businesses is whether there is any interlocking or interlacing between the two businesses.
+The point was considered by the High Court of Punjab and Haryana in R.N. Oswal Hosiery and Mahabir Woollen Mills vs Commissioner of Income Tax, Punjab, (8) which after considering the earlier authorities on the point concurred with the opinion of the Bombay High Court in Jeshingbhai Ujamshi (supra).
+A contrary view was taken by a Division Bench of the High Court of Andhra Pradesh in Addl.
+Commissioner of Income Tax, A.P. vs M. Venkata Narasimha Rao & Co.(4) but that decision was over ruled by a Full Bench of the same High Court in Commissioner of Income Tax, A.P. III vs G. Parthasarathy Naidu & Sons.(5) where the learned Judges agreed with the view expressed by the High Court of Bombay in Jeshingbhai Ujamshi (supra) and by the High Court of Punjab and Haryana in R.N. Oswal Hosiery and Mahabir Woollen Mills (supra).
+This Court in The State of Punjab vs Jullunder Vegetables Syndicate (supra) declared that although under the partnership law a firm is not a legal entity and only consists of the individual partners for the time being, it was a legal entity for the purposes of the Income tax law as well as the Sales tax law.
+That was a case where this Court was called upon to consider whether an assessment could be made on a firm under the Punjab Sales tax Act after its dissolution on the turnover of sales affected during its existence.
+In our opinion, that question cannot 141 be identified with the one before us.
+The Revenue has invited our attention to Mahendra Kumar Ishwarlal & Company vs The State of Madras,(1) but in that case the Madras High Court has assumed that the same partners cannot constitute two different partnership firms, and on that assumption has concluded that no sale transaction could take place between the two firms.
+Except for the observations of Beaumont C.J. in Vissonji Sons Company (supra) and the overruled decision of the High Court of Andhra Pradesh in M. Venkata Narasimha Rao & Co. (supra) the High Courts, in the cases mentioned earlier, have proceeded to hold that in the eyes of the tax law you can have two partnership firm composed of the same partners carrying on different businesses.
+The corner stone of that view is that for the purposes of the income tax law each partnership firm must be regarded as an assessable entity separate and distinct from its partners.
+The approach proceeds upon a conceptual perspective of the tax law and apparently assumes that otherwise, under the partnership law, the conclusion would have been that there is only one partnership firm carrying on two different businesses.
+It seems to us that the approach adopted by the High Courts is not sound, and that the true solution has to be found not in the tax law but in the partnership law.
+We are concerned here with the Kerala General Sales tax Act.
+There is no doubt that under that Act a partnership firm must be regarded as an assessable entity.
+What precisely is the significance of that concept ? Does the tax law clothe a partnership firm with juristic personality ? How far does the tax law depart from the fundamental concept embodied in the partnership law that a business carried on by a partnership firm is, in its material essence, a business carried on by individual members in partnership, and that a name given to a partnership firm is nothing more than a compendious description of the partners carrying on the business ? As long ago as Watson and Everitt vs Blundan,(2) Romer L.J. said that for taxing purposes "a partnership firm is treated as an entity distinct from the persons who constituted the firm".
+This 142 dictum was approved by the House of Lords in Income Tax Commissioners for City of London vs Gibbs,(1) and was accepted as good law in India in respect of a partnership firm under the Indian Income tax Act, 1922 in A. W. Figgies and Co. (supra).
+What that implies is that for the purposes of assessment to tax the income of the partnership firm has to be assessed in the hands of the firm as a single unit, the firm itself being treated as an assessable entity separate and distinct from the partners constituting it.
+The firm is an assessable unit separate and distinct from the individual partners, who as individuals constitute assessable units separate and distinct from the firm.
+It is on that basis that the provisions of the tax law are structured into a scheme providing for the assessment of partnership income.
+We do not think the principle goes beyond the purposes of that scheme.
+It does not confer a corporate personality on the firm.
+Beyond the area within which that principle operates, the general law, that is to say, the partnership law holds undisputed domain.
+Now in every case when the assessee professes that it is a partnership firm and claims to be taxed in that status, the first duty of the assessing officer is to determine whether it is, in law and in fact, a partnership firm.
+The definition in the tax law defines an "assessee" or a "dealer" as including a firm.
+But for determining whether there is a firm, the assessing officer will apply the partnership law, subject of course, to any specific provision in that regard in the tax law modifying the partnership law.
+If the tax law is silent it is the partnership law only to which he will refer.
+Having decided the legal identity of the assessee, that it is a partnership firm, he will then turn to the tax law and apply its relevant provisions for assessing the partnership income.
+The Kerala General Sales tax Act contains no provision which bears on the identity of a partnership firm.
+Therefore, recourse must be had for that purpose to the partnership law alone.
+Where it is claimed that they are not one but two partnership firms constituted by the same persons and carrying on different businesses, the assessing authority must test the claim in the light of the partnership law.
+It is only after that question has been first determined namely, whether in law there is only one partnership firm or two partnership firms, that the next question arises : whether the turnover is assessable in the hands of the partnership firm as a taxable entity separate 143 and distinct from the partners ? There is first a decision under the law of partnership; thereafter, the second question arises, the question as to assessment under the tax law.
+It is clear, therefore, that reference must be made first to the partnership law.
+The has, by s.4, defined a "partnership" as "the relation between persons who have agreed to share the profits a business carried on by all or any of them acting for all".
+The section declares further that the persons who have entered into partnership with one another are called individually "partners" and collectively "a firm".
+The components of the definition of "partnership", and therefore of "a firm" consist of (a) persons, (b) a business carried on by all of them or any of them acting for all and (c) an agreement between those persons to carry on such business and to share its profits.
+It is the relationship between those persons which constitutes the partnership.
+The relation is founded in the agreement between them.
+The foundation of a partnership and, therefore, of a firm is a partnership agreement.
+A partnership agreement is the source of a partnership; it also gives expression to the other ingredients defining the partnership, specifying the business agreed to be carried on, the persons who will actually carry on the business, the shares in which the profits will be divided, and the several other considerations which constitute such an organic relationship.
+It is permissible to say that a partnership agreement creates and defines the relation of partnership and therefore identifies the firm.
+If that conclusion be right, it is only a further step to hold that each partnership agreement may constitute a distinct and separate partnership and therefore distinct and separate firms.
+That is not to say that a firm is a corporate entity or enjoys a juristic personality in that sence.
+The firm name is only a collective name for the individual partners.
+But each partnership is a distinct relationship.
+The partners may be different and yet the nature of the business may be the same, the business may be different and yet the partners may be same.
+An agreement between the partners to carry on a business and share its profits may be followed by a separate agreement between the same partners to carry on another business and share the profits therein.
+The intention may be to constitute two separate partnerships and therefore two distinct firms.
+Or to extend merely a partnership, originally constituted to carry on one business, to the carrying on of another business.
+It will all depend on the intention of the partners.
+The intention of the partners will have to be decided with reference to the terms of the agreement and all the surrounding circumstances, including evidence as to the interlacing or 144 interlocking of management, finance and other incidents of the respective businesses.
+In the present case, there are two businesses, a business in timber and a business in saw dust.
+Both businesses are carried on by the same partners, one as a partnership firm called K. Kelukutty, and the other under the name Messrs. K.K.K. Sons Saw Mills, said to be a separate partnership firm.
+On the material before us it is not possible to say, in the light of the considerations to which we have adverted, whether there is one firm or two.
+That is a question which appropriately falls for examination by the authorities constituted under the Kerala General Sales Tax Act.
+While, therefore, we maintain the orders of the High Court dismissing the Tax Revision Cases 6 and 9 of 1977 and confirm the orders of the Sales Tax Appellate Tribunal remanding the cases, we do so for the considerations and upon the reasons set forth in this our judgment.
+In order to abridge the time which inevitably will be further taken in disposing of this already protracted litigation, we direct that instead of the cases going back to the assessing officer they shall stand remanded to the Appellate Assistant Commissioner, Sales Tax for taking up the appeals before him again, permitting the parties to lead evidence in the light of the considerations mentioned by us and disposing of those appeals in accordance with law.
+These appeals are disposed of accordingly.
+There is no order as to costs.
+N.V.K. Appeals dismissed.

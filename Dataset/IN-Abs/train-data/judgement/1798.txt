@@ -1,0 +1,79 @@
+Appeal No. 613/ 1963.
+Appeal by special leave from the judgment dated December 12, 1960, of the Punjab High Court in Income tax Reference No. 2 of 1958.
+section K. Kapur, K. K. Jain, Bishambar Lal Khanna and section Murthy, for the appellant.
+C.K. Daphtary, Attorney General, R. Ganapathy Iyer and R.N. Sachthey, for the respondent.
+627 April 2, 1964.
+The Judgment of the Court was delivered by SIKRI, J.
+The appellant is a Joint Stock Company, here inafter referred to as the assessee, having its registered office in Delhi.
+It held 11950 'B ' Preference shares in another company, called Rohtas Industries Ltd., in the previous year (calendar year ending December 31, 1953).
+The latter company paid a sum of Rs. 50,787/ as dividend on the said Preference Shares to the assessee, and for the assessment year 1954 55 this sum was taxed in the hands of the assessee as dividend, within section 2(6A) of the Indian Income Tax Act, 1922, by the Income Tax Officer.
+The Appellate Assistant Commissioner, on appeal by the assessee, held it not to be taxable.
+The Income Tax Appellate Tribunal, on an appeal by the Department, however, agreed with the Income Tax Officer and allowed the appeal.
+On the application of the assessee, the Appellate Tribunal stated a case for the opinion of the Punjab High Court.
+The High Court upheld the contention of the Department and answered the question referred to it against the assessee.
+The assessee, after failing to get a certificate under section 66A(2) of the Income Tax Act, obtained special leave from this Court and now the appeal is before us for disposal.
+The question referred to the High Court is as follows: "Whether on the facts and in the circumstances of the case, the receipt of Rs. 50,787/ was a receipt of dividend and is taxable under the Indian Income Tax Act.
+" The facts and circumstances referred to in the question are as follows.
+Rohtas Industries Ltd., hereinafter referred to, as the declaring company, had in the year 1946 issued shares at a premium and the share premiums so received by it were kept separate under the head 'Capital Reserve '.
+The declaring company declared a dividend in the previous year of the assessee out of the above capital reserve.
+The learned counsel for the assessee contends before us that the sum received by the assessee is not dividend within the definition of the word in section 2(6A) of the Income Tax Act.
+He says that the share premiums were not profits capable of being distributed as profits within Regulation 97 of Table A Of Companies Act of 1913 which lays down that "no dividend shall be paid otherwise than out of the profits of the year or any other undistributed profits.
+" He argues further that it was a capital gain in the hands of the declaring company and capital gains are expressly excluded from the definition of 'dividend ' by the explanation to section 2(6A) which provides that 'the 628 expression "accumulated profits" wherever it occurs in this clause shall not include capital gains arising before the 1st day of April, 1946, or after the 31st day of March, 1948 '.
+Lastly, he urges that in any event, section 78 of the , has placed this sum beyond the reach of the Revenue.
+Before adverting to the arguments addressed to us, it is necessary to reproduce the relevant statutory provisions.
+Section 2(6A) of the Income Tax Act defines 'dividend ' as follows: (6A) 'dividend ' includes (a) any distribution by a company of accumulated profits, whether capitalised or not, if such distribution entails the release by the company to its shareholders of all or any part of the assets of the company; (b). . . (c). . .
+Provided that (d). . .
+Provided that Provided further that the expression "accumulated profits", wherever it occurs in this clause, shall not include capital gains arising before the 1st day of April, 1946, or after the 31st day of March, 1948.
+" Section 78, of the , reads: "78.
+(1) Where a company issues shares at a premium, whether for cash or otherwise, a sum equal to the aggregate amount or value of the premiums on those shares shall be transferred to an account, to be called "the share premium account"; and the provisions of this Act relating to the reduction of the share capital of a company shall, except as provided in this section, apply as if the share premium account were paid up share capital of the company.
+(2) The share premium account may, notwithstanding anything in sub section (1), be applied by the company (a) in paying up unissued shares of the company to be issued to members of the company as fully paid bonus shares; (b) in writing off the preliminary expenses of the company; 629 (c) in writing off the expenses of, or the commission paid or discount allowed on, any issue of shares or debentures of the company; or (d) in providing for the premium payable on the redemption of any redeemable preference shares or of any debentures of the company (3) Where a company has, before the commencement of this Act, issued any shares at a premium, this section shall apply as if the shares had been issued after the commencement of this Act: Provided that any part of the premiums which has been so applied that it does not at the commencement of this Act from an identifiable part of the company 's reserves within the meaning of Schedule VI, shall be disregarded in determining the sum to be included in the share premium account.
+" It is evident from the definition of the word 'dividend ' that if a distribution of accumulated profits, whether capitalised or not, entails the release by the company to its shareholder of all or any part of its assets, it is dividend.
+It is not disputed that the distribution of Rs. 50,787/ entails the release of the assets of the declaring company.
+But it is contended that there was no distribution of accumulated profits, because by virtue of Regulation 97, Table A of the Companies Act, 1913, no dividend could be paid otherwise than out of the profits of the year or any other undistributed profits.
+It is said that the premiums received by the declaring company were not profits within Regulation 97.
+We are unable to accede to this contention.
+Previous to the enactment of section 78 of the Companies Act of 1956, and the corresponding section in the English Companies Act, it was recognised that a company ,could distribute premiums received on the issue of shares as dividends (vide Palmer 's Company Law, Twentieth Edition).
+At page 637, it is stated: legally permissible for the company to distribute dividend out of assets which do not represent profits made as the result of its trading or business.
+The connotation of divisible profits, or profits in the legal sense, is much wider than that of profits in the business sense: the former term includes, e.g., reserves accumulated from past profits, from realised capital profits indeed, before the requirement of a share premium account by the 1947 48 legislation, from premiums obtained on issue of 630 new shares, whereas none of these items is regarded and rightly so by the businessman or accountant as trading profits." Palmer relies on two cases: Re Hoare & Co. Ltd.,(1) and Drown vs Caumin British Picture Corporation(2).
+In Re Hoare 's (1) case the company had created a reserve fund con sisting partly of premiums received on the issue of preference: shares.
+It having incurred a loss arising from the depreciation in the value of the public houses below the amount stated in the company 's balance sheet, applied for sanction of the Court to a scheme for reduction of capital whereby the company, while retaining a small portion of the reserve, attributed to, the reserve more than its rateable proportion and to capital account less than that of its rateable proportion Buckley J. apparently held that these premiums were not 'profits ' in the strict sense; and, on appeal, the counsel for the company contended before the Court of Appeal that this was wrong.
+Romer, L.J., disposed of this contention in the following words"; "The surplus which was carried to the reserve fund represented that which might have been properly applied at the time, if the company had so thought fit, in paying further dividends to shareholders and no person could have complained if they had done so" Thus, Romer, L.J., thought that there was nothing objec tionable in utilising premiums received on the issue of shares for the purpose of declaring dividend.
+in Drown 's case(2), a company proposed to pay a dividend on its preference shares and utilise in part premiums received by the company on the issue of shares, which had in fact been invested in the assets of the company.
+The plaintiff asked for an injunction to restrain the company from paying the dividend.
+Clauson, J., held that part of a reserve fund consisting of moneys paid by way of premiums on shares, unless set aside in some particular fund which has been wholly spent, is available for dividend purposes.
+We are not concerned with other points that arose in the case and we have only set out the facts and findings relevant to the question before us.
+We may here set out Article 129 of the Gauniont British Picture Corporation Ltd. Article 129 reads thus: "The Directors may, with the sanction of a general meeting, from time to time declare dividends or bonuses, but no such dividend shall (except as by (2)[1937] Ch.
+631 the statutes expressly authorised) be payable otherwise than out of the profits of the company. . . " .
+Mr. Kapur, learned counsel for the appellant, had contended that the English Law was different inasmuch as what was prohibited in English Law was payment of dividends out of capital and that it did not enjoin directors to pay dividends out of profits.
+This case refutes Mr. Kapur 's contention.
+In re Duff 's Settlements, National Provincial Bank Ltd., vs Gregson,(1) which is strongly relied on behalf of the appellant, and which we will advert to in detail later, Jenkins, L.J., says at p. 926: "The share premiums would have been profits available for distribution (see Drown vs Gamnont British Picture Corporation) " (2).
+It was thus well established before the Act of 1956 and the corresponding English Act that premiums received on the issue of shares were profits available for distribution.
+We are of the opinion that the same connotation should be attached to the word 'Profits ' in Regulation 97 of Table A.
+In this view of the matter, it is not necessary to pronounce on the question whether even if these premiums were not profits within Regulation 97, would this necessarily exclude them from coming with the words 'accumulated profits ' within section 2(6A)(a).
+This takes up to the next point raised before us: Are the premiums received on the issue of shares capital gains within the explanation to section 2(6A)? This point was not urged before the High Court or the Appellate Tribunal and we did not allow it to be developed.
+The last point may now be dealt with.
+In this connection it is necessary to appreciate the scheme of section 78 of the Com panies Act, 1956.
+Sub section (1) enjoins a company, when it issues shares at a premium, to transfer the premiums to an account called 'the Share Premium Account ' and it then applies the provisions of the Act relating to the reduction of the share capital of a company as if the share premium account were paid up capital of the company.
+Sub section (2) then provides how the share premium account may be applied.
+It is said that it impliedly provides that it cannot be used for the purpose of paying dividends.
+Sub section (3) then deals with the issue of shares at a premium before the commencement of this Act.
+It deems them to have been issued after the commencement of the Act and applies the provisions of section 78.
+The effect of this would be that company which has issued shares at a premium before the commencement of the Act would by (1) (2) 632 virtue of section 78, have to open a share premium account and transfer to it the premium so received.
+What is to happen if before the commencement of the Act the company has already dealt with the premiums in such a way that they had ceased to remain as an identifiable part of the company 's reserves? The sub section says that in that event the premiums so dealt with shall be disregarded in determining the sum to be included in the share premium account.
+If such premiums are to be disregarded for the creation of the share premium account, it means that they fall outside the purview of section 78.
+It has no application to them.
+If this is so, it is difficult to appreciate bow the appellant can utilise this section for the purpose of showing that the premiums which have already been distributed became invested with the character of capital in the bands of the distributing company.
+We do not say that for the purpose of income tax any future application of the share premium ac count in one of the ways mentioned in sub section (2) will be treated as distribution of capital.
+No such question arises for our determination in this case.
+But we do hold that section 78 of the Companies Act does not in any way change the taxability of dividends declared out of premiums on shares received by a Company before the Act of 1956 came into force.
+If it was taxable, apart from section 78; it remains so taxable.
+The case of Duff 's Settlements(1) referred to above, on which the learned counsel strongly relied, might or might not help him if the declaration of dividend had taken place after the Act of 1956.
+We are of the opinion that what was decided in this case has no relevance to the facts of this appeal.
+Before concluding, we may refer to the decision of the House of Lords in Land Revenue Commissioners vs Reids Trustees(2), relied on by the learned counsel for the respondents.
+This case would be relevant if we were considering generally whether the receipt of Rs. 50,787/ was income or capital in the hands of the assessee.
+The question, however, referred to the High Court is limited, and that is whether the receipt of Rs. 50,787/ was a receipt of dividend and taxable.
+It is, therefore, unnecessary to say more about this case.
+In the result, we agree with the High Court that the answer to question referred to it is in the affirmative.
+The appeal fails and is dismissed with cost.
+Appeal dismissed.
+(1)[1951] 1 Ch.

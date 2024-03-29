@@ -1,0 +1,57 @@
+Civil Appeal No. 1897 of 1976 .
+Appeal by Special Leave from the Judgment and order dated 24 10 1975 of the Kerala High Court in T.R.C. No. 86/74.
+Dr. V. A. Seyid Muhammed and K. R. Nambiar for the Appellant.
+Dr. Y. section Chitale and Mrs. Sunanda Bhandare for the Respondent.
+The assessee is a private limited company carrying on business as sole selling agent for a certain brand of welding electrodes.
+For the goods supplied to retailers, it charged them the catalogue price less trade discount.
+The catalogue price is the price which the retailer is entitled to charge the consumer.
+For the assessment year 1971 72, the returns filed under the showed a taxable turnover of inter State sales amounting to Rs. 8,71,624.
+This figure was derived by deducting from the catalogue price the amount of Rs. 1,06,708 paid as trade discount by the assessee to retailers.
+The 933 Sales Tax Officer refused to allow the deduction and computed the taxable turnover at Rs. 9,78,332.
+The Sales Tax Officer was of the view that the amount paid by way of trade discount could not be excluded from the catalogue price.
+The assessee appealed, and the Appellate Assistant Commissioner upheld its claim that trade discount did not form part of the turnover, and it could not therefore attract sales tax.
+A second appeal filed by the Revenue was dismissed by the Appellate Tribunal.
+The Revenue applied in revision to the High Court of Kerala and the revision application has been dismissed.
+The Revenue appeals.
+It is contended before us by the Revenue that the High Court has erred in affirming that an amount paid by way of trade discount cannot be included in the taxable turnover for the purpose of assessment.
+It is pointed out that the definition of "sale price" in section 2(h) of the permits the deduction of sums allowed as cash discount only and makes no reference to sums allowed by way of trade discount.
+It is contended that in effect the assessee enters into two distinct contracts with the retailer, the first contract relates to the sale of goods at the catalogue price and the second contract stipulates that notwithstanding the liability of the retailer under the first contract to pay the entire sale price, he may actually pay the sale price less trade discount.
+On that submission, it is sought to be urged that since the sale is effected under the first contract, the entire amount treated as consideration for the sale under that contract has to be included in the taxable turnover.
+We have considered the matter carefully and in our judgment the appeal must fail.
+At the outset, it is appropriate that we set forth the two relevant definitions contained in the .
+Section 2(j) defines "turnover" to mean "the aggregate of the sale prices received and receivable by him (the dealer) in respect of sales of any goods in the course of inter State trade or commerce . . . ".
+And section 2(h) of the Act defines the expression "sale price" to mean "the amount payable to a dealer as consideration for the sale of any goods, less any sum allowed as cash discount according to the practice normally prevailing in the trade . . . ".
+It is true that a deduction on account of cash discount is alone specifically contemplated from the sale consideration in the definition of "sale price" by section 2(h), and there is no doubt that cash discount cannot be confused with trade discount.
+The two concepts are wholly distinct and separate.
+Cash discount is allowed when the purchaser makes payment 934 promptly or within the period of credit allowed.
+It is a discount granted in consideration of expeditious payment.
+A trade discount is a deduction from the catalogue price of goods allowed by wholesalers to retailers engaged in the trade.
+The allowance enables the retailer to sell the goods at the catalogue price and yet make a reasonable margin of profit after taking into account his business expense.
+The outward invoice sent by a wholesale dealer to a retailer shows the catalogue price and against that a deduction of the trade discount is shown.
+The net amount is the sale price, and it is that net amount which is entered in the books of the respective parties as the amount realisable.
+Orient Paper Mills Ltd. vs State of Orissa.
+Under the , the sale price which enters into the computation of the turnover is the consideration for which the goods are sold by the assessee.
+In a case where trade discount is allowed on the catalogue price, the sale price is the amount determined after deducting the trade discount.
+The trade discount does not enter into the composition of the sale price, but exists apart from and outside it and prior to it.
+It is immaterial that the definition of "sale price" in section 2(h) of the Act does not expressly provide for the deduction of trade discount from the sale price.
+Indeed, having regard to the circumstance that the sale price is arrived at after deducting the trade discount, no question arises of deducting from the sale price any sum by way of trade discount.
+Nor is there any question here of two successive agreements between the parties, one providing for sale of the goods at the catalogue price and the other providing for an allowance by way of trade discount.
+Having regard to the nature of a trade discount, there is only one sale price between the dealer and the retailer, and that is the price payable by the retailer calculated as the difference between the catalogue price and the trade discount.
+There is only one contract between the parties, the contract being that the goods will be sold by the dealer to the retailer at the aforesaid sale price.
+We have been referred to Ambica Mills Ltd. & Ors.
+vs The State of Gujarat & Anr.
+Where the Gujarat High Court rejected the claim of the manufacturer to a deduction of the remission allowed from the sale price to the purchaser on account of a general fall in prices when delivery of the goods was effected.
+In our opinion, the case supports the view we are taking.
+The sale price remained the stipulated price in the contract between the parties.
+The fail in prices 935 occurred after the contract of sale had been finalised, and with a view to relieving the purchaser to some extent of the loss which could have been occasioned thereby, the manufacturer sought to bear part of the loss by granting a rebate or remission to the purchaser.
+The Revenue relies on India Pistons Limited vs State of Tamil Nadu.
+In that case, the bonus of which deduction was sought by the assessee from the turnover was paid under a bonus discount scheme, not to all customers but only to distributors whose net purchases from the assessee exceeded the target figure agreed to between the parties.
+The amount of rebate allowed was credited to the customer 's account and treated as a reserve from which the distributors could make future purchases.
+The rebate of bonus discount was not allowed as a deduction by the Madras High Court and, in our opinion, rightly so.
+It was in the nature of an incentive bonus paid to distributors whose net purchases exceeded the target figure.
+It did not, and could not, affect the sale value of the goods sold by the assessee.
+The sale price remained undisturbed in the contract between the parties.
+In our judgment, the sale price which enters into the computation of the assessee 's turnover for the purpose of assessment under the is obtained after deducting the trade discount from the catalogue price.
+The trade discount allowed by the assessee cannot be included in the turnover.
+In the result, the appeal fails and is dismissed with costs.
+N.K.A Appeal dismissed.

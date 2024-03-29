@@ -1,0 +1,44 @@
+Under section 3(b), , a sale or purchase of goods is deemed to take place in the course of inter State trade or commerce if the sale or purchase is effected by a transfer of documents of rifle to the goods during their movement from one State to another.
+Section 7(3 ) provides that on the application of the dealer the prescribed authority shall register the applicant and grant him a registration certificate which shall specify the class or classes of goods for the purpose of section 8(1); and the Form prescribed by r. 3, Central Sales Tax (Registration and Turnover) Rules, 1957, for application for registration, requires the purposes for which the goods were purchased by the dealer to be specified, resale being one such purpose.
+Section 8(1)(b) provides that every dealer who, in the course of inter State trade or commerce sells to a regis tered dealer other than the Government, goods of the de scription referred to in sub section
+(3) shall be liable to pay 3.%_ of his turnover as.tax under the Act; whereas, under section 8(2), the tax payable with respect to goods which do not fall within sub section (1) shall be, in the case of declared goods, at the rate applicable to to the sale or purchase of such goods inside the appropriate State and in the case of other goods 10%, or the rate applicable in the State, which ever is higher.
+Prior to April 1, 1963, section 8(3) stated, that the goods referred to in section 8(1)(b), "(a) in the case of declared goods, are goods Of the class or classes speci fied in the certificate of the registered dealer purchasing the goods as being intended for resale by him; and (b) in the case of goods other than declared goods are goods of the class or classes specified in the certificate of registra tion of the registered dealer purchasing the goods, as being intended for resale by him.
+" By the Amendment Act (8 of 1963), cl.
+(a) was omitted and the opening words in cl.
+(b), "in the case of goods other than declared goods" were also omitted; so that, after April 1, 1963, the goods referred to in section 8(1)(b) are specified in sub section
+(3) as goods of the, class or classes specified in the certificate of registra tion of the registered dealer purchasing the goods as being intended for resale by him.
+Section 8(4)(a) says that the provisions of section 8(1) shall not apply to any sale in the course of inter State.
+trade or commerce unless the dealer selling the goods furnishes to the prescribed authority in the prescribed manner, a declaration in the prescribed.
+Form, duly filled and.signed by the registered dealer to whom the goods are sold containing the prescribed particu lars.
+Section 9(1) contains a general rule that the tax payable by any dealer on sales effected in the course of inter State trade or commerce would be levied by the Govern ment of India and collected in the State from which the movement of the goods commenced.
+The proviso to the sub section qualifies this rule in the case of a subsequent sale which is not exempted from tax under section 6(2).
+and states, .that the tax on such subsequent sale would be levied and collected in the State from which the registered dealer effecting the subsequent sale obtained, or could have Obtained, the Form prescribed for the purpose of section 8(4)(a).
+Coal is one of the declared goods having been declared under section 14 to be of special importance in inter State trade or commerce.
+The appellant was a Company carrying on business as coal agents and was registered in U.P. under the U.P. Sales Tax Act, 1948, and the .
+The appellant arranged for the supply of coal from collieries in W. Bengal and Bihar to consumers in U.P.
+The collieries sent the coal by 4 1003 SCI/76 26 rail, the railway receipts either in the name of the.appel lant or in the name of the consumer in U.P., and sent the bills and invoices to the appellant 's head office in Calcut ta.
+The appellant forwarded the railway receipts to the consumers in cases where the receipts were in the names of the consumers, and in cases where the receipts were in the appellant 's name also endorsed them in favour of the consum ers.
+There was thus, in the latter cases, a subsequent sale of goods in the course of inter State trade or commerce by the transfer of documents of title by the appellant to the consumers in U.P.
+For the assessment year 1966 67 the appellant claimed that the turnover in cases where the railway receipts had been subsequently endorsed in favour of the consumers in U.P. was not taxable in U.P.
+The Sales tax Officer by order dated March 27, 1971, accepted the conten tion, relying on a decision of the High Court.
+But, in subsequent decisions, the High Court held that in cases where a regisetred dealer effected a second sale in the course of inter State trade and commerce, sales tax on the turnover was to be realised in the State where the dealer effecting the sale was registered; and in one of the deci sions it was observed that the decision on which the Sales tax Officer relied had overlooked the proviso to section 9(1 ) of the Central Act.
+The Sales tax Officer accordingly proposed to rectify the error committed by him and after following the procedure prescribed for rectification of errors appar ent on the face of the record in section 22 of the U.P. Act, passed an order on March 26, 1974, rectifying the mistake and served it on the appellant on March 31, 1974.
+The appellant challenged the order unsuccessfully in the High Court.
+In appeal to this Court it was contended: (1) That the declaration prescribed under section 8(4)(a) is necessary when section 8(1) was applicable, but that, after the omission in section 8(3), reference to 'declared goods ' is omitted in that section, so that when section 8 (1)(b) refers to the sale of goods mentioned in section 8(3) the reference is only to goods other than declared goods and hence, when a dealer sells declared goods, he could not have obtained the prescribed declaration and so the proviso to section 9(1) did not apply; (2) Section 22 'of the U.P. Act was not ap plicable as there was no mistake apparent on the face of the record; and (3) The order under section 22 was barred by limi tation, because it was effective only when it was served on the appellant.
+Dismissing the appeal to this Court, HELD: (1) The 1971 assessment order was wrong.
+[46 G] The Act and the rules and the prescribed Forms make no distinction between declared goods and other goods, except for the purpose of the rate of tax.
+Under section 7(3) the regis tration certificate granted to a dealer has to specify the class or classes of goods for the purposes of section 8(1) and it makes no distinction between declared goods and other goods.
+Sub sections 8(1) and (3) also show that all sales to a registered dealer other than the Government, whether of declared goods or other goods, are covered by section 8(1).
+Clause (a) was omitted from section 8(3) presumably because it was considered unnecessary to retain it when cl.
+(b) apparently covered all goods both declared and other than declared.
+The declaration referred to in section 8(4)(a) is necessary for the dealer to avail himself of the benefit of the rate of tax mentioned in section 8(1).
+There is no valid reason why the appellant could not have obtained the decla ration in the prescribed Form as required by the proviso to section 9(1 ).
+Since no .claim for exemption under section 6(2) is made by the appellant, the first order of assessment was contrary to the proviso of section 9(1) and the sales in question were taxable within the respondent State, where the appel lant was registered as a dealer.
+[45 D H] (2) The 1971 order of assessment was patently errone ous in that it failed to take into consideration the proviso to section 9(1).
+Therefore, it could be rectified under section 22, U.P. Act.
+[46 G] 27 (3) The order rectifying the mistake was recorded with in 3 years of the date of the original order as required by section 22 of the U.P. Act.
+The fact that the order was communi cated, to the appellant on March 31, 1974 could not make any difference.
+The order of rectification is deemed to be made on the date of communication only for the purpose of count ing the period of limitation for filing the appeal, under section 9 of the U.P. Act.
+Therefore, in the instant case, the appellant was not affected by the order under section 22 being communicated to it after the expiry not of 3 years from the date of the original order.
+[47 B; 48 B] Raja Harish Chandra Raj Singh vs The Deputy Land Acquisition Officer [1962].
+3 S.C.R. 676 and Madan Lal vs State of U.P. explained & distinguished.

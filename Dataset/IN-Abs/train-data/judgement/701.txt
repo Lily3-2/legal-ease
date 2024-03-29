@@ -1,0 +1,101 @@
+Appeal No. 265 of 1956.
+Appeal from the judgment and order dated August 26, 1954, of the Calcutta High Court in Income tax Reference No. 107 of 1952.
+S.Mitra, Dipak Choudhry and B. N. Ghosh, for the appellants.
+C.K. Daphtary, Solicitor General of India, K. N. Rajagopala Sastri, R. H. Dhebar and D. Gupta, for the respondent.
+356 1959.
+March 16.
+The Judgment of the Court was delivered by HIDAYATULLAH, J.
+Messrs.
+Mcgregor & Balfour, Ltd., Calcutta (hereinafter called the Company) is a Company incorporated in the United Kingdom.
+Its head office is also there.
+It, however, does business in India also.
+In some of the previous years, the Company was required to pay excess profits tax both in England and in India.
+When it did so, it obtained deduction of the amounts from its profits and gains for purposes of the Indian lncome tax Act, under s.12(2) of the Indian Excess Profits Tax Act.
+In the assessment year 1947 1948 which corresponded to the accounting year of the Company ending on October 31, 1946, 'it obtained a repayment of Rs. 2,31,009 out of the excess profits tax paid in England.
+This was under section 28(1) of 4 & 5, Geo.
+VI, Ch. 30.
+For purposes of the levy of the Indian Income tax, this sum was included in the taxable profits of the Company by the Income tax Officer.
+He purported to act under section 11(14) of the Indian Finance Act, 1946 (hereinafter called the Act).
+The income of the Company in India was held to be Rs. 6,34,937 (including the sum of Rs. 2,31,009) while the in ' come outside the taxable territory was held to be Rs. 4,29,620.
+Applying section 4A(c)(b) of the Indian Income tax Act, the Income tax Officer assessed the Company on its total world income.
+The appeals of the Company made successively to the Appellate Assistant Commissioner and the Incometax Appellate Tribunal were dismissed.
+The Tribunal, however, referred the following questions of law to the High Court at Calcutta under section 66 of the Indian Income tax Act: "(1) Whether on the above facts and circumstances of this case the Tribunal was right in holding that the sum of Rs. 2,31,009 was income of the assessee during the assessment year under consideration and was liable to be assessed under the Indian Income tax Act ? and (2)If so, whether this amount could not be taken into consideration for determining the residence of the 357 assessee under section 4A(c)(b) of the Indian Income tax Act ? " This reference was heard by Chakravarti, C. J., and Lahiri, J., who by their judgment dated August 26, 1954, answered the first question in the affirmative and the second in the negative.
+They, however, granted a certificate under section 66A of the Indian Income tax Act, read with article 135 of the Constitution to appeal to this Court.
+No appeal has been filed on behalf of the Department, and the second of the two questions must be taken to be finally settled in this case.
+The contentions of the Company in this appeal, thus, concern only the first question, and they are two: It was said firstly that section 11(14) of the Finance Act could not be made applicable to the assessment year 1947 1948, because the provision was not incorporated in the Indian Income tax Act or repeated in the subsequent Finance Acts.
+This argument was not seriously pressed before us, and beyond mentioning it, Mr. Mitra for the Company did not choose to elaborate it.
+We think that Mr. Mitra has been quite correct in not pursuing the matter.
+The section framed as it is, does apply to subsequent assessment years just as it did to the assessment for 1946 1947, and prima facie, it was not necessary to follow one of the two courses detailed above.
+Since the point was not pressed before us, we need not give our reasons here.
+It was said nextly that the High Court was in error in construing section 11(14) of the Finance Act as a provision which created a liability proprio vigore, as if it was a charging section.
+It was contended that the repayment was not within the taxable territory, and in view of the answer to the second question as to the applicability of section 4A(c)(b), there could be no tax upon it.
+On behalf of the Department it was argued that the sub section created a charge by itself and the fiction therein created being sufficient and clear, it was not necessary to consider where the income arose.
+Section 11(14) of the Finance Act reads as follows: " Where under the provisions of sub section (2) of 358 section 12 of the Excess Profits Tax Act, 1940 (XV of 1940), excess profits tax payable under the law in force in the United Kingdom has been deducted in computing for the purposes of income tax and supertax the profits and gains of any business, the amount of any repayment under sub section (1) of Section 28 of the Finance Act, 1941, (4 & 5, Geo.
+6, c. 30), as amended by Section 37 of the Finance Act, 1942 (5 & 6, Geo 6, c. 21), in respect of those profits, shall be deemed to be income for the purposes of the Indian Income tax Act, 1922, and shall, for the purpose of assessment to income tax and super tax, be treated as income of the previous year during which the repayment is made.
+" This section may be compared with R. 4(1) of the Rules which are applicable to cases 1 and 11 of sch.
+D of the Income tax Act, 1918 (8 & 9, Geo.
+V, c. 40): " Where any person has paid excess profits duty, the amount so paid shall be allowed as a deduction in computing the profits or gains of the year which included the end of the accounting period in respect of which the excess profits duty has been paid; but where any person has received repayment of any amount previously paid by him by way of excess profits duty, the amount repaid shall be treated as profit for the _year in which the repayment is received.
+" The English rule above quoted deals first with the deduction of the amount paid as excess profits duty from the profits or gains of the year which includes the end of the accounting period in respect of which the excess profits duty has been paid a matter dealt with in section 12(2) of, the Indian Excess Profits Tax Act, and next with the assessability to tax of the amount repaid from the excess profits duty previously charged a matter dealt with in sub sections (11) and (14) of section 11 of the Finance Act.
+The object and purpose of the legislation in each case is the same, and though the two provisions are not ipsissima verbal they are substantially in the same words and also in pari materia.
+The concluding words of the English rule " the amount repaid shall be treated as profits of the year in which the repayment is received ", and which have been interpreted by 359 English Courts may specially be compared with the concluding words of sub section
+(14) of section 11 of the Finance Act, which run: " any repayment. shall, for the purposes of assessment to income tax and super tax, be treated as the income of the previous year during which the repayment is made.
+" There can be no doubt that the intention underlying the two provisions is the same, and the language is substantially similar.
+Now, the English rule was interpreted by the English Courts to create a liability irrespective of considerations arising from the general provisions of the income tax law.
+In Eglinton Silica Brick Co., Ltd. vs Marrian (1), the assessee company which had gone into voluntary liquidation in 1904 was carried on by the liquidator till 1921 when the business was sold to another company which took it over on October 5, 1921, and the business of the appellant company then ceased.
+The income tax assessment for the year 192122 was apportioned between the two companies and inasmuch as the assessee company had suffered a loss, it was reduced to nil in its case.
+The assessee company then received pound, 7,224 and pound, 1,150 in 1952 after it had ceased to carry on business as repayments of excess profits duty, and this income was assessed under R. 4(1) above mentioned.
+The question was whether this was right.
+The case was considered by the Lords of the First Division, and they are their opinion against the assessee firm.
+The Lord President (Clyde) with whom Lords Skerrington, Cullen and Sands agreed (Lord Sands dubitans) explained the two parts of the rule as follows: " The principle is obvious.
+It is that if a taxpayer has made profits assessable (directly, or indirectly through the operation of the three years ' average) to income tax, and the Revenue takes a share of those profits in the name of Excess Profits Duty, it is only fair that the profits actually assessed to Income Tax should suffer some corresponding deduction. . ." (1)(1924) , 98.
+360 The problem which arose in the case of repayment of Excess Profits Duty was different.
+Nobody knew or could know how soon, or how late, repayment might fall to be made; nor whether the business whose profits were assessed to Excess Profits Duty would be in the same hands when repayment (if any) came to be made.
+By that time the business might have ceased to be in existence.
+Repayment might therefore have to be made to a person who was not carrying on the original business.
+The original trader might have given up business, died, and an executor might have come in his place.
+The solution provided for all these cases is that contained in the second part of the paragraph, according to which the amount repaid to any person is to be I treated as profit for the year in which the repayment is received. ' It is obvious that the amount of the former trading profits so repaid could not actually be trading profits for such year.
+None the less, the amount repaid is to be treated as if it were that which in fact it is not, and cannot be.
+The amount repaid consists of trading profits which reach the taxpayer out of their proper time.
+However belated his fruition of them, they have not lost their original character as trading profits.
+In my opinion, this is what explains the position of paragraph (1) of Rule 4 as part of the Rules under Cases I and 11 of Schedule D, which are concerned with the profits of trades and vocations.
+That some artificial rule should be formulated was in the circumstances inevitable, and the highly artificial character of the rule adopted is shown by the words in which it is expressed , the amount repaid shall be treated as profit for the year in which the repayment is received.
+In short, the amount repaid is deemed to be something that it is not, and could not in the actual circumstances possibly be.
+Nor is this in any way unreasonable or contrary to what might be expected, if regard be had to the subject matter.
+For, as has been seen, the Excess Profits Duty was itself a part of the trading profits computed by methods familiar under the Income Tax Act.
+It was not merely a part of something which entered into the computation of profit; it was actual 361 computed profit.
+And, but for the disparity between the ' accounting period ' and the three years ' average, it would have been directly assessable to Income Tax.
+" A similar view was taken in the Court of Appeal by Lord Hanworth, M. R., Scrutton, L. J., and Romer, J. (Scrutton, L. J., dubitans) in A. & W. Nesbitt Ltd. vs Mitchell (1).
+There too, the assessee company after suffering losses in the accounting period May 1 to November 25, 1920, went into liquidation and ceased to trade.
+On April 22, 1924, the repayment of Excess Profits Duty took place, and this was assessed to income tax.
+The Master of the Rolls described the amount received as repayment in these words: " But in respect of what is that payment made ? It is not a legacy, it is not a sum which has fallen from the skies ; it, is a sum which is repaid because there was too large a sum paid by the Company to the Revenue Authorities over the whole period during which Excess Profits Duty was paid, and that sum means and is intended to represent a repayment of a sum which was paid by them in respect of the duty charged upon the excess profits of their trading.
+It comes back, therefore, not having lost its character but being still the repayment of a sum too much, it is true, but a sum taken out of the profits which were made by the Company in the course of its trading, profits which at the time they were made were subject to Income Tax and subject to Excess Profits Duty, and that is the character of the repayment that has been made.
+" Dealing with the rule, the Master of the Rolls observed : "I have pointed out, this is a case where the Company has received payment of an amount previously paid by way of Excess Profits Duty and having that characteristic attaching to it; and we are told by the Statute that when such a sum is repaid it is to be treated as a profit for the year in which the repayment is received.
+It is said it may be treated as a (1) 217, 218.
+46 362 profit; but it ought not to be treated as an assessable profit.
+The answer, to my mind, is that it is paid back not by way of a sum which has no origin or ancestry ; it is a sum which represents a repayment of the amount previously paid by that company in the form of Excess profits duty upon their trading.
+If it is to have that character and is to be treated as such a profit, although it be a repayment of sums paid in respect of profits, it is to be treated as a profit for the year in which the repayment is received.
+The word ' treated ' indicates that it is to be deemed to be something which in fact it is not, or whether it is so or not it is to be treated as a profit, and therefore it is, to my mind, impossible to discuss the question of whether or not difficulties may arise or whether it may be criticised as financially not quite sound that it should be treated in this method in that particular year; but we are told by the Statute that it is to be treated as a profit for the year in which the repayment is received.
+" In a case similar on facts as the ones cited above (Kirke 's Trustees vs The Commissioners of Inland Revenue (1)), the House of Lords Viscount Cave, L. C., Lord Atkinson, Lord Shaw of Dunfermline, Lord Sumner and Lord Carson) placed the same construction upon the latter part of R. 4(1).
+The following passage in the speech of Lord Sumner, explaining the extent of the fiction in the latter part of the Rule, is extremely instructive : " The express mandatory terms of the sentence show, in carefully chosen language, that he is to submit to something by reason of his having previously enjoyed this advantage in the shape of repayment of an amount previously paid by way of Excess Profits Duty.
+Something which is not a profit, but is only a money repayment, something which may not result in a profit, because although trading goes on there is so great a loss on the year that this repayment does not make up the deficit, something which may not be a trading profit, because trading has ceased altogether, nevertheless is to be treated as profit and as profit for the year.
+Treated ' is a, fresh word free from legal technicality.
+(1) , 332.
+363 It is the widest word that could be chosen.
+The Legislature avoided saying 'shall be assessed as ' or I shall be brought into the computation of profit and loss , and simply says that something which is not profit but mere payment shall be treated as profit, which it c may or may not be, and as profit for the year.
+I think, therefore, that the word treated is an apt word to impose a charge ".
+See also in this connection Olive and Partington Ltd. vs Rose (1).
+These cases were relied on by Chakravarti, C. J., and Lahiri, J., in the judgment under appeal, and the learned Judges pointed out that the addition of the words " for the purposes of assessment to income tax and super tax " rather strengthen the reasoning in its application to the words of the Indian Statute.
+We agree with this statement.
+It is to be noticed that the sub section creates two fictions.
+By the first fiction it makes the amount of any repayment ' income ' for the purposes of the Indian Income tax Act, and goes on to say that that ' income ' shall be ' treated ' for purposes of assessment to income tax and super tax, as the income of the previous year.
+Mr. Mitra, for the Company contends that no doubt the amount may be treated as 'income ' for the purposes of the Indian Income tax Act, but the Department is still under a duty to prove that the Company is liable to tax at all.
+According to him, this will have to be treated as income received outside the taxable territory, because if the fiction contemplated its being treated as 'within the taxable territory ', it would have said so specifically.
+In our opinion, this submission cannot be accepted.
+That this would have been taxable income but for the provisions of section 12(2) of the Excess Profits Tax Act, goes without saying.
+The income character of the receipt is restored by the fiction, and it is to be brought under assessment without any further proof than this that it has been received as repayment of the United Kingdom tax, in respect of which a deduction was made in the earlier years.
+The distinction between (1) 364 incomes within and without taxable territories is made unnecessary by demanding that this amount by way of repayment shall be brought to tax and ' treated ' as income within the previous year.
+The effect thus is that the sub section charges the said amount with a liability to tax by its own force or to borrow the words of Lord Sumner, is apt to ' impose a charge '.
+In our opinion, the amount received as repayment of excess profits tax must be deemed to be 'income ' for the purposes of the Indian Income tax Act and for assessment it must be treated as income of the previous year.
+The answer to question No. 1 given by the Calcutta High Court was thus correct.
+The appeal fails, and is dismissed with costs.
+Appeal dismissed.

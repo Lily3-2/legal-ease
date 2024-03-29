@@ -1,0 +1,51 @@
+A consignment of iron goods was booked by the respondent by rail on December 15, 1961.
+The due date of delivery under the contract or usage of the railways was December 25, 1961.
+As the goods were diverted, they were actually delivered on July 21, 1962.
+The respondent filed a suit for damages alleging negligence on the part of the railway in that, by reason of diverting the consignment, there was inordinate delay in its delivery which resulted in loss to it by way of interest on capital.
+The trial court decreed the suit but in the matter of damages by way of loss of interest it gave 6% per annum instead of 12% claimed by the respondent.
+The District Court dismissed the appellant 's appeal, and the High Court dismissed the second appeal in limine.
+On appeal to this Court it was contended for the appellant that (i) since the cause of action was based on delayed delivery, the case was covered by the Railway Act, as amended in 1961, that the applicable section is section 76 and that since the conditions mentioned therein had not been fulfilled, the respondent was not entitled to a decree; (ii) that the respondent could claim for loss of profit or loss of market as the same was expressly barred by section 78(d) of the new Act; and (iii) that the respondent 's claim for damages was not actionable in the absence of any agreement providing interest on capital as a measure of damages.
+It was contended for the respondent that even if section 76 barred the remedy, loss of profit or market resulting from delayed delivery would amount to "deterioration" contemplated by section 76.
+Dismissing the appeal to this Court, ^ HELD: In view of the finding of fact arrived at by the courts below, the respondent is entitled to damages.
+[515B] 1.
+(a) The case is covered by the new Act and not by the old Act as contended by the respondent.
+There could be no question of liability arising when the goods were booked and the contract was entered into between the respondent and the railways, because, there was no presumption that the contract would result in breach.
+[512B C] In the instant case, the cause of action arose when the consignment was delivered to the respondent on July 21, 1962, that is, after the new Act came into force.
+The reasonable transit period having expired on January 1.
+1962 the breach occurred after the new Act came into force.
+(b) Section 76 of the Act has a very limited scope: it contemplates clearly those cases which fall within the contingencies contemplated by it.
+These contingencies refer to certain physical factors, viz: actual and physical loss destruction, damage or deterioration of goods.
+Where due to delay on the part of the railway there is physical deterioration or diminishing of the value of the goods, the plaintiff cannot claim damages by way of loss of profits or loss of market plus damages sustained by the actual loss or deterioration of the goods.
+In such a case the plaintiff can claim only the actual loss in the value of the goods caused by destruction, damage or deterioration and not loss of profit.
+[512F H] (c) The word "deterioration" is used in its ordinary parlance, so as to include within its ambit the actual physical act of deterioration, namely, the change for the worse in the thing itself.
+[514E F] 505 B.I. Railway Co. Ltd. vs Piana Mal Gulab Singh A.I.R. , approved.
+G.I.P. Railway Co. & others vs Jugal Kishore Mukat Lal A.I.R. 1930 All. 132 and Union of India and others vs Messrs. Sheobux Satyanarayan, A.I.R. 1963 Orissa 68, not approved.
+(d)The words "loss, destruction, damage or deterioration" occurring in section 76 must be read ejuedem generis to indicate the actual and physical loss or change in the goods contemplated by that section.
+In the instant case, since there was no physical deterioration of the goods at all which were delivered in the same condition in which they were booked, the case of the respondent does not fall within the four corners of the section.
+Nor can the respondent take advantage of section 76 relying on the word "deterioration" because of the finding of negligence entered by the courts below.
+[514G] If section 76 does not apply then section 78 would have no application because that section starts with a non obstante clause.
+[513E F] (2) Section 78(d), which flows out of section 76, provides that the railway administration shall not be responsible for any indirect or consequential damages or for loss of particular market.
+It merely incorporates the measure of damages as contemplated by section 73.
+[513B] In the instant case as the respondent had not claimed loss of market or remote damages the question of application of section 78(d) did not arise.
+3(a) The case of the respondent is clearly taken out of the ambit of sections 76 and 78.
+Hence its suit for damages could not be defeated on the ground that it was barred by section 76 or section 78 of the Act.
+[515A B] (b) It is difficult to accept the contention of the appellant that, by virtue of sections 72 and 73, any contract entered into between the parties and the liability of the railway was governed purely by the provisions of the Railway Act and not by the terms of the contract between the parties.
+[510G] The Indian Contract Act provides certain elementary conditions for a binding contract but does not provide any particular form of contract.
+The fact that where the Government is a party to a contract, the particular form in which the contract is to be executed has been provided for by the Constitution, did not mean that the provisions of the Contract Act stand superseded by the Constitution or in this case by the Railway Act.
+Section 72 does nothing more than provide for a particular form in which the contract is to be executed and it enjoins that such a form will be prescribed by the railway administration and approved by the Central Government.
+[510H 511 A] (c) Section 73 lays down that the Railway administration shall be responsible for the loss, destruction, damage, deterioration or non delivery except in certain cases which amount to vis major in which case also the Act places responsibility on the railways if it did not prove that it had used reasonable foresight and care in the carriage of goods.
+The section, while converting the liability of the railway administration from that of a carrier to that of an insurer, has imposed heavier responsibility on the railway administration.
+[511F G] 4(a) There is no question of section 73 of the Contract Act over riding the provisions of the Interest Act because in the instant case the Interest Act has no application at all inasmuch as no interest is claimed by the plaintiff; but interest has been used as a measure to determine the compensation which the respondent could seek against the appellant for its negligence in causing inordinate delay in the delivery of the goods.
+The respondent had only claimed nominal damages for the loss because of the amount of money locked up for more than six months due to late delivery.
+[517B] (b) The courts below rightly found that the railway was guilty of gross negligence.
+As a common carrier the railway is responsible for breach of contract.
+There was absolutely no reason for the railway to divert the consignment to a place which did not fall on the route at all.
+[517D] 506 (c) The trial court was fully entitled to scale down the amount of interest from 12% to 6%.
+[517F] Union of India vs Watkins Mayore & Company A.I.R. 1966 S.C. 275 distinguished.
+Digbijai Nath vs Tirbeni Nath Tewari A.I.R. 1946 All. 12 and The Official Receiver, Calcutta High Court & Anr.
+vs Baneshwar Prasad Singh & Anr.
+A.I.R. 1962 Pat.
+155 approved.
+The present appeal was concluded by findings of fact.
+But on the proved facts some clear questions of law arose for decision and, therefore, this was not a case in which the High Court should have dismissed the appeal in limine.
+[507F]

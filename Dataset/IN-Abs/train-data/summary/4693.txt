@@ -1,0 +1,118 @@
+Sub sec.
+(1) of sec.
+3 of the provided that duties of excise shall be levied and collected on all excisable goods, other than salt which were produced or manufactured in India at the rates set forth in the First Schedule.
+Sub sec.
+(2) of sec.
+3 empowered the Central Government to fix, for the purpose of levying the duties, tariff values of the articles enumerated in the First Schedule as chargeable with duty ad valorem.
+Section 4 of the Act provided that the value of an article for the purposes of duty shall be (a) the wholesale cash price for which an article of the like kind and quality was sold or was capable of being sold at the time removal of the article chargeable with duty from the factory or any other premises of manufacture or production for delivery at the place of manufacture or production or (b) where such price was not ascertainable, the price at which an article of the like kind and quality was sold or was capable of being sold at the time of the removal of the article chargeable with duty from such factory or other premises for delivery at the place of manufacture or production.
+With the increase in the ad valorem levies in the Central Excise Tariff the operation of sec.
+4 presented certain practical difficulties; some of which were prominently brought out in the judgment of this court in A.K. Roy and Anr.
+vs Voltas Ltd, [1973] 2 S.C.R. 1089.
+In that case, the Court inter alia said that 348 the real value of an article for the purposes of the excise levy would include only the manufacturing cost plus manufacturing profits.
+In order to overcome various difficulties, the original sec.
+4 of the Act was substituted by a new sec.
+4 by Act 22 of 1973.
+The new sec.
+4 provided that the value of an article for the purposes of duty shall, subject to the other provisions of this section, be deemed to be the normal price thereof that is to say, the price at which such goods were ordinarily sold by the assessee to a buyer in the course of wholesale trade for delivery at the time and place of removal, where the buyer was not a related person and the price was the sole consideration for the sale and where the normal price of such goods was not ascertainable for the reason that such goods were not sold or for any other reason, the nearest ascertainable equivalent thereof determined in such manner as may be prescribed.
+Clauses (c) and (d) of sub sec.
+(4) of sec.
+4 defined "related person" and "value" respectively.
+The Central issue which arose between the Revenue and the assessees in these appeals was whether the value of an article for the purposes of the excise levy must be determined by reference exclusively to the manufacturing cost and the manufacturing profit of the manufacturer as contended by the assessees or should be represented by the entire wholesale price charged by the manufacturer which consisted of not merely his manufacturing cost and his manufacturing profit but included "post manufacturing expenses" and "post manufacturing profit" arising between the completion of the manufacturing process and the point of sale by the manufacturer.
+The other points of dispute were principally in respect of the connotation of the expression 'related person ' in the new s.4 as well as the nature of the deductions which could be claimed by the assessee as post manufacturing expenses and post manufacturing profit from the price for the purpose of determining the "value".
+HELD: The question whether the value of an article for the purpose of the excise levy must be confined to the manufacturing cost and the manufacturing profit in respect of the article has to be answered in the negative.
+While the levy of excise duty is on the manufacture or production of goods, the stage of collection need not in point of time synchronize with the completion of the manufacturing process.
+While the levy in this country has the status of a constitutional concept, the point of collection is located where the statute declares it will be.
+[384 H, 364 F G] The Central Provinces and Berar Sales of Motor Spirit and Lubricants Taxation Act, 1938, ; The Province of Madras vs Messers Boddu Paidanna and Sons, , 101; Governor General in Council vs Province of Madras, ; R.C. Jall vs Union of India, [1962] Suppl.
+3 S.C.R. 436; In Re.
+The Bill To Amend section 20 of the , and section 3 of the ; , ; Union of India vs Delhi Cloth & General Mills, [1963] Suppl.
+1 S.C.R. 586; M/S Guruswamy & Co. Etc.
+vs State of Mysore & Ors.
+,[1967] 1 S.C.R. 548; and South Bihar Sugar Mills Ltd. etc.
+vs Union of India & Ors.
+,[1968] 3 S.C.R. referred to.
+The levy of a tax is defined by its nature, while the measure of the tax may be assessed by its own standard.
+It is true that the standard adopted as the 349 measure of the levy may indicate the nature of the tax but it does not necessarily determine it.
+When enacting a measure to serve as a standard for assessing the levy the legislature need not contour it along lines which spell out the character of the levy itself.
+A broader based standard of reference may be adopted for the purpose of determining the measure of the levy.
+Any standard which maintains a nexus with the essential character of the levy can be regarded as a valid basis for assessing the measure of the levy.
+The original section 4 and the new section 4 of the satisfy this test.
+[366 C; 367 D F] Ralla Ram vs The Province of East Punjab, [1948] F.C.R. 207; Atma Ram Budhia vs State of Bihar, A.I.R. 1952 Patna 359; M/s Sainik Motors, Jodhpur and Ors.
+vs The State of Rajasthan, ; ; D.C. Gouse and Co. etc.
+vs The State of Kerala & Anr.
+; , ; Searvai 's Constitutional Law of India, Second Edition.
+2 at page 1258; Re.
+A Reference under the Government of Ireland Act, 1920 and Sec.
+3 of the Finance Act (Northern Ireland), ; R.R. Engineering Co. vs aila Parished, Bareilly & Anr., ; ; and The Hingir Rampur Coal Co., Ltd. and Ors.
+vs The State of Orissa and Ors., ; referred to.
+It was open to the legislature to specify the measure for assessing the levy.
+The legislature has done so.
+In both the old section 4 and the new section 4 the price charged by the manufacturer on a sale by him represents the measure.
+Price and sale are related concepts, and price has a definite connotation.
+The "value" of the excisable article has to be computed with reference to the price charged by the manufacturer, the computation being made in accordance with the terms of section 4.
+[368 D E] On a true construction of its provisions in the context of the statutory scheme the old section (4) (a) should be considered as applicable to the circumstances of the particular assessee himself and not of manufacturers generally.[381 C D] Pursuant to the old section 4 (a) the value of an excisable article for the purpose of the excise levy should be taken to be the price at which the excisable article is sold by the assessee to a buyer at arm 's length in the course of wholesale trade at the time and place of removal.
+Where, however, the excisable article is not sold by the assessee in wholesale trade but, for example, is consumed by the assessee in his own industry the case is one where under the old section 4 (a) the value must be determined as the price at which the excisable article or an article of the like kind and quality is capable of being sold in wholesale trade at the time and place of removal.
+[376 F H] Where the excisable article or an article of the like kind and quality is not sold in wholesale trade at the place of removal, that is, at the factory gate, but is sold in the wholesale trade at a place out side the factory gate, the value should be determined as the price at which the excisable article is sold in the wholesale trade at such place, after deducting therefrom the cost of transportation of the excisable article from the factory gate to such place.
+[376 H; 77 A B] 350 Where the wholesale price of the excisable article or an article of the like kind and quality is not ascertainable, then pursuant to the old section 4 (b) the value of the excisable article shall be the price at which the excisable article or an article of the like kind and quality is sold or is capable of being sold by the assessee at the time and place of removal or if the excisable article is not sold or is not capable of being sold at such place, then the price at which it is sold or is capable of being sold by the assessee at any other place nearest thereto.
+[377 B C] In every case the fundamental criterion for computing the value of an excisable article is the price at which the excisable article or an article of the like kind and quality is sold or is capable of being sold by the manufacturer and it is not the bare manufacturing cost and manufacturing profit which constitutes the basis for determining such value.
+[377 D] Vacuum Oil Company vs Secretary of State for India in Council L.R. 59 I.A. 258; Ford Motor Company of India Ltd. vs Secretary of State for India in Council, L.R. 65 I.A. 32; and Atic Industries Ltd. vs H.H. Dave, Asst Collector of Central Excise and Ors.
+,[1975] 3 S.C.R. 563, referred to.
+The basic scheme for determination of the price in the new section 4 is characterised by the same dichotomy as that observable in the old section 4.
+It was not the intention of Parliament, when enacting the new section 4 to create a scheme materially different from that embodied in the superseded section 4.
+The object and purpose remained the same, and so did the central principle at the heart of the scheme.
+The new scheme was merely more comprehensive and the language employed more precise and definite.
+As in the old section 4, the terms in which the value was defined remained the price charged by the assessee in the course of wholesale trade for delivery at the time and place of removal.
+[377 H; 378 A B] It is not possible to conceive of the price under the new section 4 (1) (a) being confined to the manufacturing cost and the manufacturing profit.
+Moreover, it is reasonable to suppose that the central principle for the determination of the value of the excisable article should be the same, whether the case falls under cl.
+(a) or cl.
+(b) of the old section 4 or under the new section 4 (1).
+When regard is had to the provision of cl.
+(b) in each case, it is not possible to limit the price to its components representing the manufacturing cost and manufacturing profit.
+[379 E G] The contention that the provisions regarding related persons are wholly unnecessary because to counter act evasion of tax any artificially arranged price between the manufacturer and his wholesale buyer can be rejected in any case under section 4 is not acceptable.
+The new section 4 (1) contains inherently within it the power to determine the true value of the excisable article, after taking into account any concession shown to a special or favoured buyer because of extra commercial consideration, in order that the price be ascertained only on the basis that it is a transaction at arm 's length.
+That requirement is emphasised by the provision in the news.
+4 (1) (a) that the price should be the sole consideration for the sale.
+In every such case, it will 351 be for the Revenue to determine on the evidence before it whether the transaction is one where extra commercial considerations have entered and, if so, what should be the price to be taken as the value of the excisable article for the purpose of excise duty.
+Nonetheless it was open to Parliament to incorporate provisions in the section declaring that certain specified categories of transactions fall within the tainted class, in which case an irrebuttable presumption will arise that transactions belonging to those categories are transactions which cannot be dealt with under the usual meaning of the expression "normal price" set forth in the new section 4 (1) (a).
+They are cases where it will not be necessary for the Revenue to examine the entire gamut of evidence in order to determine whether the transaction is one prompted by extra commercial considerations.
+It will be open to the Revenue, on being satisfied that the third provision to the new section 4 (1) (a) read with the definition of "related person" in section 4 (4) (c) is attracted, to proceed to determine the "value" in accordance with the terms of the third proviso.
+[385 F H; 386 A D] The argument that the assessment on the manufacturer by reference to the sale price charged by his distributor is "wholly incompatible with the nature of excise" has no force.
+It is a well known legislative practice to enact provisions in certain limited cases where an assessee may be taxed in respect of the income or property truly belonging to another.
+They are cases where the Legislature intervenes to prevent the circumvention of the tax obligation by tax payers seeking to avoid or reduce their tax liability through modes resulting in the income or property arising to another.
+The provisions of the law may be so enacted that the actual existence of such motive may be wholly immaterial, even if what has been done by the assessee may proceed from wholly bona fide intention.
+With the aid of a legal fiction, the Legislature fastens the liability on the assessee.
+When the Legislature employs such a device, and the liability is attached without qualification, it is reasonable to infer that an irrebuttable presumption has been created by law.
+Such provisions have been held to be within the legislative competence of the Legislature and as falling within its power of taxation.
+[386 D H] Balaji vs Income Tax Officer, Special Investigation Circle, ; Navnitlal C. Javeri vs K.K.Sen, Appellate Assistant Commissioner of Income tax. 'D ' Range; , ; Bombay and Punjab Distilling Industries Ltd. vs Commissioner of Income Tax, Punjab, [1965] 3 S.C.R. 1, referred to.
+The argument that the definition of the expression "related person" is so arbitrary that it includes within it a distributor of the assessee is also without much force.
+The provision in the definition of "related person" relating to a distributor can be legitimately read down and its validity upheld.
+The definition of related person should be so read that the words "a relative and a distributor of the assessee" should be understood to mean a distributor who is a relative of the assessee.
+The Explanation to section 4 (4) (c) provides that the expression "relative" has the same meaning as in the .
+The definition of "related person ', as being "a person who is so associated with the assessee that they have interest, directly or indirectly, in the business of each other and includes a holding company, a subsidiary company . ," shows a sufficiently restricted basis for employing the legal fiction.
+Here again, 352 regard must be had to the Explanation which provides that the expression "holding company and subsidiary" have the same meanings as in the .
+It is well settled that in a suitable case the court can lift the corporate veil where the companies share the relationship of a holding company and a subsidiary company and also to pay regard to the economic realities behind the legal facade, [387 B H; 388 A] Tata Engineering and Locomotive Co. Ltd. vs State of Bihar and Others.
+; ; Juggi Lal Kamlapat vs Commissioner of Income Tax, U.P. , referred to.
+The true position under the as amended by Act XXII of 1973 is as follows: (i) The price at which the excisable goods are ordinarily sold by the assessee to a buyer in the course of wholesale trade for delivery at the time and place of removal as defined in subsection (4) (b) of section 4 is the basis for determination of excisable value provided, of course, the buyer is not a related person within the meaning of sub section (4) (c) of section 4 and the price is the sole consideration for the sale.
+The proposition is subject to the terms of the three provisos to sub section (1) (a) of section 4.
+[388 D F] (ii) Where the price of excisable goods in the course of wholesale trade for delivery at the time and place of removal cannot be ascertained for the reason that such goods are not sold or for any other reason, the nearest ascertainable equivalent thereof determined in the manner prescribed by the Central Excise (Valuation) Rules, 1975 should be taken as representing the excisable value of the goods; [388 G H] (iii)Where wholesale price of any excisable goods for delivery at the place of removal is not known and the value thereof is determined with reference to the wholesale price for delivery at a place other than the place of removal, the cost of transportation from the place of removal to the place of delivery should be excluded from such price; [389 A B] (iv) Of course, these principles cannot apply where the tariff value has been fixed in respect of any excisable goods under sub section (2) of section 3; [389 C] (v) On a proper interpretation of the definition of 'related person ' in sub section (4) (c) of section 4 the words "a relative and a distributor of the assessee" do not refer to any distributor but they are limited only to a distributor who is a relative of the 353 assessee within the meaning of the .
+So read, the definition of 'related person ' is not unduly wide and does not suffer from any constitutional infirmity.
+It is within the legislative competence of Parliament.
+It is only when an assessee so arranges that the goods are generally not sold by him in the course of wholesale trade except to or through such a related person that the price at which the goods are ordinarily sold by the related person in the course of wholesale trade at the time of removal to dealers (not being related persons) or where such goods are not sold to such dealers, to dealers (being related persons) who sell such goods in retail is liable to be taken as the excisable value of the goods under proviso (iii) to sub section (1) (a) of section 4.
+[389 D F] For the purpose of determining the "value", broadly speaking both old section 4 (a) and the new section 4 (1) (a) speak of the price for sale in the course of wholesale trade of an article for delivery at the time and place of removal, namely, the factory gate.
+Where the price contemplated under the old section 4 (a) or under new section 4 (1) (a) is not ascertainable, the price is determined under the old section 4 (b) or the new section 4 (1) (b).
+Now, the price of an article is related to its value (using this term in a general sense), and into that value have poured several components, including those which have enriched its value and given to the article its marketability in the trade.
+Therefore, the expenses incurred on account of the several factors which have contributed to its value upto the date of sale, which apparently would be the date of delivery, are liable to be included.
+Consequently, where the sale is effected at the factory gate, expenses incurred by the assessee upto the date of delivery on account of storage charges, outward handling charges, interest on inventories (stocks carried by the manufacturer after clearance), charges for other services after delivery to the buyer, namely after sales service and marketing and selling organisation expenses including advertisement expenses marketing and selling organisation expenses and after sales service promote the marketability of the article and enter into its value in the trade.
+Where the sale in the course of wholesale trade is effected by the assessee through its sales organisation at a place or places outside the factory gate, the expenses incurred by the assessee upto the date of delivery under the aforesaid heads cannot, on the same grounds, be deducted.
+[391 C H] The assessee will be entitled to a deduction on account of the cost of transportation of the exciseable article from the factory gate to the place or places where it is sold.
+The cost of transportation will include the cost of insurance on the freight for transportation of the goods from the factory gate to the place or places of delivery.
+[391 H; 392 A] Where freight is averaged and the averaged freight is included in the wholesale cash price so that the wholesale cash price at any place or places outside the factory gate is the same as the wholesale cash price at the factory gate, the averaged freight included in such wholesale cash price has to be deducted in order to arrive at the real wholesale cash price at the factory gate and no excise duty can be charged on it.
+[392 A B] 354 The new section 4 (4) (d) (i) has made express provision for including the cost of packing in the determination of "value" for the purpose of excise duty.
+The packing, of which the cost is included, is the packing in which the goods are wrapped, contained or wound when the goods are delivered at the time of removal.
+The cost of primary packing, that is to say, the packing in which the article is contained and in which it is made marketable for the ordinary consumer, must be regarded as falling within section 4 (4) (d) (i).
+There is secondary packing which consists of larger cartons in which a standard number of primary cartons (in the sense mentioned earlier) are packed.
+The large cartons may be packed into even larger cartons for facilitating the easier transport of the goods by the wholesale dealer.
+Is all the packing, no matter to what degree, in which the wholesale dealer takes delivery of the goods to be considered for including the cost thereof in the "value" ? Or does the law require a line to be drawn somewhere ? One must remember that while packing is necessary to make the excisable article, marketable, the statutory provision calls for strict construction because the levy is sought to be extended beyond the manufactured article itself.
+If seems to us that the degree of secondary packing which is necessary for putting the excisable article in the condition in which it is generally sold in the wholesale market at the factory gate is the degree of packing whose cost can be included in the "value" of the article for the purpose of the excise levy.
+To that extent, the cost of secondary packing cannot be deducted from the wholesale cash price of the excisable article at the factory gate.
+[392 C; 392 G H; 393 A E] If any special secondary packing is provided by the assessee at the instance of a whole sale buyer which is not generally provided as a normal feature of the wholesale trade, the cost of such packing shall be deducted from the wholesale cash price.
+[393 F]

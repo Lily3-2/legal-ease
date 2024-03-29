@@ -1,0 +1,14 @@
+In the computation of the net wealth of the appellant company under section 2(m) of the Wealth Tax Act 1957, two deductions were claimed the company : (i) the amount of estimated income tax for the assessment year and (ii) the amount of gratuity payable by the company to its employees under certain industrial awards.
+HELD : The first claim was allowable but not the second.
+[776 D] Under section 2(m) of the Act, the Wealth Tax Officer must first determine the aggregate value of all the assets belonging to the assessee on the valuation date, and then determine the aggregate value of all the debts owed by the assessee on the valuation date.
+Excess of the aggregate value of the assets over the debts is the net wealth.
+But on the terms of the awards the liability to pay gratuity did not exist in present : it was contingent upon the determination of employment by death, incapacity, retirement or resignation of the employee, and not before.
+Therefore, it was not a debt owned by the assessee on the valuation date.
+[772 C D; 775 H] Nor could the appellant company claim the deduction under section 7(2)(a) of the Act.
+The aggregate, value of the assets must be computed in accordance with the provisions of section 7.
+But in the aggregation of the value of all the debts owned by the assessee on the valuation date, section 7 has not operation.
+Section 7 does not deal with the computation of net wealth but only with the determination of the not value of the assets as a whole.
+[776 A C] Kesoram Industries and Cotton Mills Lid.
+vs Commissioner of Wealth Tax (Central) (Calcutta), ; , followed.
+Observations Contra in Commissioner of Wealth Tax, Gujarat vs Ajit Mills Ltd. and Commissioner of Wealth Tax Gujarat vs New Rajpur Mills , disapproved.
+Southern Railway of Peru vs Owen (Inspector of Taxes) ; , explained.

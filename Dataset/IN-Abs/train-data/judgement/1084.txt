@@ -1,0 +1,67 @@
+Appeal No. 516 of 1959.
+Appeal from the judgment and order dated September 3, 1957, of the Bombay High Court in Income tax Reference No. 49 of 1957.
+J.M. Thakar, section N. Andley, J. B. Dadachanji, Rameshwar Nath and P. L. Vohra, for the appellants.
+A. N. Kripal and D. Gupta, for the respondent.
+December 12.
+The Judgment of the Court was delivered by HIDAYATULLAH, J.
+The three appellants appeal against the judgment and order of the High Court of Bombay answering, in the affirmative, the following question: "Whether the share income of the assessees from the unregistered firm (which is separately taxed), namely, Rs. 26,110 can be set off against their share loss from registered firms, namely, Rs. 13,167?" The facts are as follows: Two of the appellants are 176 brothers, and the third appellant is the widow of a third brother, who died during the pendency of the appeal after certificate had been granted by the High Court.
+The three brothers were partners in two registered firms and one other firm, which was unregistered.
+The assessment years for the purposes of the appeal are 1948 49 and 1949 50.
+For the assessment year 1948 49, the income of the three brothers was the same, and it was as follows: From registered firms .
+Rs. 11,902 loss 1,265 loss Total loss Rs. 13,167 Income from the unregistered firm Rs. 26,110 profit Other income Rs. 262 The income of the unregistered firm was taxed on the firm and not in the hands of the partners, as was possible under the provisions of cl.
+(b) of sub section
+(5) of section 23.
+In assessing the amount of Rs. 262, the Income tax Officer first determined the total income of each of the appellants by setting off their share of the profits of the unregistered firm against their share of the loss of the registered firms.
+The appellants contended that, inasmuch as tax had already been assessed on the unregistered firm, this could not be done, and that as there was loss in the business of the registered firms, no tax was demandable on Rs. 262.
+They also contended that they were entitled to carry forward the, loss amounting to Rs. 12,905 to the succeeding year under section 24(2) of the Income tax Act.
+These contentions were not accepted by the Income tax Officer, to whose order it is not necessary to refer in detail.
+The assessment for the assessment year 1949 50 was also done on similar lines.
+The appeal to the Appellate Assistant Commissioner was unsuccessful, and six appeals were taken to the Tribunal by the three appellants three for each assessment year.
+These appeals were disposed of by a common order.
+The Tribunal held, relying upon the second proviso to section 24(1), that just as loss in an unregistered firm could not be set off against profits 177 from a registered firm under that proviso, the profits in an unregistered firm could not be set off against the loss from a registered firm.
+It relied upon a decision of the Madras High Court in Commissioner of Income tax vs Ratanshi Bhavanji (1), which it purported to follow in preference to a decision of the Punjab High Court in Banka Mal Niranjandas vs Commissioner of Income tax (2).
+The same reasoning was applied to the assessment year 1949 50, and in the result, all the six appeals were allowed.
+The order of the Tribunal involved, in addition to the point set out above, certain other questions, which were asked by the assessees to be referred to the High Court for decision under section 66(1).
+The Commissioner also asked for a reference in respect of the decision, substance whereof has been set out above.
+The Tribunal referred two questions at the instance of the assessees and one question, which we have already quoted, at the instance of the Commissioner.
+In the High Court, the assessees abandoned the two questions, and the High Court accordingly expressed its opinion in the judgment and order under appeal, on the remaining question.
+The High Court differed from the decision of the Tribunal, and held that the profit from the unregistered firm could be set off against the losses from the registered firms to find out the rate applicable to Rs. 262, which was other income of the assessees.
+The High Court also held that the assessees could not carry forward the loss of the registered firms to the following year, because such loss must be deemed to have been absorbed in the profits of the unregistered firm.
+It, however, certified the case as fit for appeal to this Court, and the present appeal has been filed.
+In our opinion, the High Court correctly answered the question referred to it, but was in error in holding that the losses of the registered firms could not be carried forward, because they must be deemed to have been absorbed in the profits of the unregistered firm.
+Inasmuch as we substantially agree with the High (1) (2) 23 178 Court on the first part of the case, it is not necessary to examine closely or in detail the reasons on which the decision of the High Court proceeds.
+In our opinion, the matter is simple, and can be stated within a narrow compass.
+Under section 3 of the Income tax Act, income tax is chargeable for an assessment year at rate or rates prescribed by an annual Act in respect of the total income of the previous year.
+Section 14 (2)(a), before its amendment in 1956, provided that the tax shall not be payable by an assessee, if a partner of an unregistered firm in respect of any portion of his share in the profits and gains of the firm, computed in the manner laid down in cl.
+(b) of sub section
+(1) of section 16 on which the tax had already been paid by the firm.
+The section thus gave immunity from tax to the share of the assessee as a partner in an unregistered firm in respect of the share of profits received by him from the unregistered firm and on which the unregistered firm had already been taxed.
+Section 16(1)(a), however, provided that in computing the total income of an assessee, any sum exempted under sub section
+(2) of section 14 shall be included.
+The combined effect of those two sections was stated by the High Court to be, "that although the share of a partner in the profits of an unregistered firm is exempt from tax, it is included in his total income for the purpose of rate only.
+" We agree that this is a correct analysis.
+The Tribunal relied upon the second proviso to section 24(1), which read as follows: "Provided further that where the assessee is an unregistered firm which has not been assessed under the provisions of clause (b) of sub section (5) of section 23 . any such loss shall be set off only against the income, profits and gains of the firm and not against the income, profits and gains of any of the partners of the said firm; and where the assessee is a registered firm, any loss which cannot be set off against other income, profits and gains of the firm shall be apportioned between the partners of the firm and they alone shall be entitled to have the amount of the loss set off under this section.
+" 179 The Tribunal came to the conclusion that, ". just as a partner in an unregistered firm which has suffered loss will not be allowed to set off his share loss in the unregistered firm against his income from any other source, so it stands to reason that his loss from other sources cannot also be set off against his share income from an unregistered firm.
+" The decision of the Tribunal was not based upon any specific provision of the Income tax Act but upon a parity of reasoning, by which a specific provision about loss was held to apply the other way round also.
+The High Court correctly pointed out that all that section 14, subs.
+(2), did was to save the profits of an unregistered firm from liability to tax in the hands of the partners.
+It did not affect the computation of the total income to determine the rate applicable under section 3, in the light of section 16(1)(a).
+Indeed, section 16(1)(a) clearly provided that any sum exempt under section 14(2) was to be included in computing the total income of an assessee, and in view of this specific provision, the converse of the second proviso to section 24(1) which we have quoted above, hardly applied.
+To this extent, the order of the Tribunal was incorrect.
+The error was pointed out by the High Court, and the question thus raised was properly decided.
+We see no reason to differ from the High Court on this part of the case.
+The question, however, arose before the High Court as to whether in view of this decision, the assessees could carry forward loss from the registered firms in the subsequent year or years.
+The High Court came to the conclusion that they could not carry forward the loss.
+Indeed, the Tribunal had earlier stated that if the profits from the unregistered firm were to be set off against the losses of the registered firms, such losses would not be carried forward to the following year, and that would be contrary to section 24.
+The High Court rejected this ground in dealing with the question as to the rate applicable to the other income, and pointed out and in our view, rightly, that under sections 14(2) and 16(1)(a) the profits and losses had to be set off against each other, to find out the total income.
+180 The High Court, however, held that once losses were set off against profits, they were to that extent absorbed, and that there was nothing to carry forward.
+This conclusion does not follow.
+Section 24 provides for a different situation altogether; it provides for the carrying forward of a loss in business to the subsequent year or years till the loss is absorbed in profits, or till it cannot be carried forward any further.
+That has little to do with the manner in which the total income of an assessee has to be determined for the purpose of finding out the rate applicable to his income, taxable in the year of assessment.
+To read the provisions of sections 14(2) and 16(1)(a) in this extended manner would be to nullify in certain cases section 24 altogether.
+Neither is such an intention expressed; nor can it be implied.
+In our opinion, though the decision of the High Court on the main issue and on one aspect of the question posed for its opinion was correct, it was in error in deciding that the losses of ,the registered firms could not be carried forward because they had been absorbed by the profits of the unregistered firm.
+To this extent, the judgment and order of the High Court will stand modified.
+Subject to that modification, the appeal will be dismissed.
+In the circumstances of the case, there will be no order as to costs.
+Appeal dismissed with modification.

@@ -1,0 +1,51 @@
+In 1952, the assessee company installed a new plant by raising a loan from the Industrial Finance Corporation, and appointed a sole selling agent of its product.
+ln 1953, the assessee changed the selling agent, and entered into an agreement with another selling agent.
+Under the agreement, the agent was to make advances and finance the assessee.
+Under cl.
+7(1 ) of the agreement, the agent was to get a commission at the rate of 11% on the net proceeds of the sales of all its goods and 50% commission on the net profits of the new plant (the net profits being ascertained after deducting all the manufacturing costs, interest, insurance, etc.).
+The selling agent advanced 2 sums of money in the assessment years 1956 57 and 1957 58 respectively, and received, during those 2 years, two sums as their 50% commission on the net profits of the new plant.
+The assessee claimed, in its returns for those 2 years, that the amounts paid as commission to the selling agent were expenses incurred to earn profit and could, therefore, be deducted under section lO(2)(xv) lncome Tax Act, 1922; but the Income Tax officer disallowed the claim.
+On appeal, the Appellate Assistant Commissioner held in favour of the assessee, but the Tribunal, on further appeal held that the agreement between the assessee and the selling agent amounted to a joint venture for the distribution of profits between the two, after the profits were ascertained, and upheld the contention of the Revenue that the two sums were not legal deductions within section 1O(2)(xv).
+On reference, the High Court held in favour of the assessee.
+Allowing the appeal to this Court, ^ HELD: (I)(a) In order to fall within section 10(2)(xv) the deduction claimed must amount to an expenditure which was laid out or expended wholly and exclusively for the purpose of the business profession or vocation; and this depends upon the facts of each case; and [191 G H] (b) In order to determine the reasonableness of the expenditure, the test of commercial expediency would have to be adjudged from the point of view of the businessman and not of the Income Tax Department.
+[191H 192A] (2) It is well settled that the Court, in order to construe an agreement has to look to the substance or the essence of it rather than to its form.
+A party cannot escape the consequences of law merely by describing an agreement in a particular form, though, in essence and substance, it may be a different transaction.
+[l94 G H] (a) Clause 3 of the agreement requires not only consultation by the assessee with the selling agent, but also the consent, for me programme of manufacture of the product.
+that is, if the agent withholds its consent, it could veto the programme of manufacture.
+Such a limitation placed on the power of the assessee is not in consonance with a pure and simple contract of agency.
+[192 F G] (b) Under cl.
+6(1) the selling agent would have to make a full and complete investment for the working of the new plant to the fullest possible capacity 187 including wages, power, stores, repairs etc.
+This is more in consonance with a partnership than an agency.
+[193 C D] (c) Clause 6(ii) provides that the plant should be overhauled before tho commencement and the termination of the agreement.
+This is also beyond the role of a simple selling agent.
+[193 D E] (d) Sub clauses (Viii) and (ix) of cl. 6 show that any damage to the goods in transit would have to be debited to the account of the new plant and that such accounts would have to be maintained separately.
+The object of these sub clauses is that the selling agent should be in a position to ascertain the net profits and control the working of the new plant.[193E] (e) An analysis of the terms of cl. 7(i) shows that the selling agent was agent to secure most liberal and profitable terms.
+While it is difficult to lay down any rule of universal application as to what percentage of profit would be consistent with the payment in lieu of services, the conduct of the selling agent, in the present case.
+in sharing half of the net profits is not consistent with payments made to agents for services rendered.
+Taking the totality of the provisions of c the agreement, the percentage of profits and the manner in which it is to be deter mined is more consistent with the position of the selling agent as a partner than as an agent.
+1194 A Cl (f) In cl. 7 there is also provision for the selling agent sharing the loss incurred by the assessee, by deducting 50% of the loss from its remuneration, and for a lump sum deduction of Rs. 50,000/ towards depreciation etc., for deter mining the net profit or loss position.
+Clause 7(iv) provides for a separate commission account to be maintained by the selling agent and for payment of commission every 6 months.
+Having regard to the terms and conditions of the agreement, the view taken by the Tribunal that the two sums were not legally deductible under section 10(2)(xv) was correct.
+By contributing to the investments by controlling the manufacturing programme, by sharing to the extent of 50 per cent in the net profits ascertained in the manner stipulated in the agreement, and above all, by agreeing to share SO per cent of the losses which are to be deducted from the commission of the agent, the selling agent has actually contributed to a joint venture and became completely equated with the assessee, and therefore, the agreement between the two is really a sort of a partnership and has been given the cloak and colour of an agency to conceal the real intent and purpose of the commercial venture; and it must be construed as an agreement for division of profits in specified proportions.
+[194 C D, F; 195 E G; 201 E F] British Sugar Manufacturers Ltd. vs Harris (Inspector of Taxes), , applied.
+(3) The decision in Dharamvir 's case is distinguishable.
+[195, G H] (a) In that case it was not agreed between the assessee and the trust, which agreed to advance a loan to him, that the profits would be ascertained after deducting the net expenses as in the agreement in the present case.
+[196 B C] (b) While the contract was to be carried on in accordance with the policy settled between the assessee and the trust, in that case, it did not give any veto power to the trust to torpedo the contract.
+In the present case, the agreement gave to the selling agents controlling power at every stage in the programme of manufacture and even at the stage of the sale of the products, by requiring the consent of the selling agent.
+[196 C D] (c) Not only was there no provision in Dharamvir 's case under which the trust was to share the loss, but there was an express provision to the contrary.
+Therefore, the payment of interest at the rate of 6 per cent on the loan advanced to the assessee by the trust and a percentage in the profits, in that case, is quite consistent with a remuneration in lieu of services lent and would amount to an expenditure incurred by the assessee, wholly and exclusively for the purpose of the business which was conducted by the assessee.
+[196 D E] (4) In the present case, it is difficult to hold that commercial expediency dictated the assessee to allow itself to be completely overshadowed by its selling 188 agent, so as to pay them not only for the services rendered but allow them to share profits, control the manufacture of goods and to share the losses.
+The test of commercial expediency cannot be reduced to the shape of a ritualistic formula.
+The test merely means that the Court will place itself in the position of a businessman and find out whether the expenses incurred could be said to have been laid out for the purpose of the business, or whether the transaction was merely a subterfuge for the purpose of sharing or dividing the profits ascertained in a particular manner.
+In the ultimate analysis, the matter would depend on the intention of the parties as spelt out from the terms for the agreement or the surrounding circumstances, the nature or character of the trade or venture, the purpose for which the expenses are incurred and the object which is sought to be achieved for incurring those expenses.
+If the expenses incurred amount o a profit of an enduring nature, they may be treated as capital expenditure; whereas, if the expenses merely serve to promote or increase the commercial activity, they may amount to an expenditure which is incurred for the purpose of the business.
+[196H 197D] J. K. Woollen Manufacturers vs Commissioner of Income Tax, V.P. [1969]1 S.C.R. 525, distinguished.
+Commissioner of Income Tax, Kerala vs Travancore Sugar and Chemicals Ltd., , 10; Commissioner of income Tax, Bombay vs Poona Electric Supply Co. Ltd., 49 I.T.R. 913, 924 and Jamshedpur Motor Accessories Stores vs Commissioner of Income Tax, Bihar & Orissa, , 672 referred to.
+(5) The High Court is not entitled to go behind the Statement of the case submitted by the Tribunal.
+But, in the present case, in interpreting the agreement, the High Court relied upon what it called surrounding circumstances, namely, that the assessee was a losing concern from its inception, that it was in such a bad shape that it had to get rid of its first selling agent.
+BECAUSE, it caused considerable embarrassment to the assessee while the second selling agent was prepared to give the assessee advantageous terms.
+that the selling agent had no other connection than a business connection with the assessee; and that because of the death of one of the promoters of the assessee, who commanded credit in the money market, the assessee was not able to raise money from the banks.
+But, these facts were not found by the Tribunal nor was there any warrant for any of the assumptions.
+[198G 199C] Commissioner of Income Tax, Poona vs Manna Ramji and Company, , 37, followed.
+(6) The facts found by the Tribunal and those mentioned in its Statement of the case to the High Court, lead to the inescapable conclusion that the agreement is nothing but a joint venture to divide the profits after they are ascertained, and hence, the payments to the selling agent cannot, in any sense be deemed to be expenses incurred by the assessee for the purpose of its business or for earning profits.
+Pondicherry Railway Co. Ltd. vs Commissioner of Income Tax madras, A.I.R. 1931 P.C. 165, 170, referred to.
