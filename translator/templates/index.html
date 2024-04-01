@@ -1,0 +1,68 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Translate To Your Language</title>
+  </head>
+  <body>
+    <h1>Translate To Your Language</h1>
+    <form action="/translate" method="post">
+      <label for="source_text">Enter text to translate:</label><br />
+      <textarea
+        id="source_text"
+        name="source_text"
+        rows="4"
+        cols="50"
+      ></textarea
+      ><br /><br />
+      <label for="target_language">Select target language:</label><br />
+      <select id="target_language" name="target_language">
+        {% for lang in languages %}
+        <option value="{{ lang }}">{{ lang }}</option>
+        {% endfor %}</select
+      ><br /><br />
+      <input type="submit" value="Translate" />
+    </form>
+    {% if translated_text %}
+    <label for="translated_text">Translation:</label><br />
+    <textarea id="translated_text" name="translated_text" rows="4" cols="50">
+{{ translated_text }}</textarea
+    >
+    {% endif %}
+  </body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Translate To Your Language</title>
+  </head>
+  <body>
+    <h1>Translate To Your Language</h1>
+    <form action="/translate" method="post">
+      <label for="source_text">Enter text to translate:</label><br />
+      <textarea id="source_text" name="source_text" rows="4" cols="50">
+{{ source_text }}</textarea
+      ><br />
+      <label for="target_language">Select target language:</label><br />
+      <select id="target_language" name="target_language">
+        {% for lang in languages %} {% if lang == target_language %}
+        <option value="{{ lang }}" selected>{{ lang }}</option>
+        {% else %}
+        <option value="{{ lang }}">{{ lang }}</option>
+        {% endif %} {% endfor %}</select
+      ><br /><br />
+      <input type="submit" value="Translate" /><br />
+    </form>
+    {% if translated_text %}
+
+    <label for="translated_text">Translation:</label><br />
+    <textarea id="translated_text" name="translated_text" rows="4" cols="50">
+{{ translated_text }}</textarea
+    >
+    {% endif %}
+  </body>
+</html>
